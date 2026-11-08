@@ -45,7 +45,7 @@
     },
     {
       "title": "news, economics; police, people, clothes",
-      "body": "- окончание -s, но глагол в **ед. ч.**: **news, economics, physics, mathematics, politics, athletics**: The news is good.\n- только **мн. ч.**: **police, people, cattle, clothes, belongings, goods, premises** → глагол во мн. ч.: The police are investigating.\n\nНЕ the polices, НЕ a police (нужно a police officer).",
+      "body": "- окончание -s, но глагол в **ед. ч.**: **news, economics, physics, mathematics, politics, athletics**: The news is good.\n- только **мн. ч.**: **police, people** (= люди), **cattle, clothes, belongings, goods, premises** → глагол во мн. ч.: The police are investigating.\n\nНЕ the polices, НЕ a police (нужно a police officer).",
       "examples": [
         {
           "en": "Physics was my favourite subject at school.",
@@ -63,7 +63,7 @@
     },
     {
       "title": "a number of, each, every, one of the",
-      "body": "- **a number of + мн. ч.** + глагол во **мн. ч.** (= несколько): A number of students have complained.\n- **the number of + мн. ч.** + глагол в **ед. ч.** (само количество): The number of students has risen.\n- **each / every + ед. ч.**: Every employee has a pass. **Each of the + мн. ч.** + глагол в ед. ч.: Each of the rooms has a balcony.\n- **one of the + мн. ч.** + глагол в **ед. ч.**: One of the problems is the cost.",
+      "body": "- **a number of + мн. ч.** + глагол во **мн. ч.** (= несколько): A number of students have complained.\n- **the number of + мн. ч.** + глагол в **ед. ч.** (само количество): The number of students has risen.\n- **each / every + ед. ч.**: Every employee has a pass. **Each of the + мн. ч.** + глагол в ед. ч.: Each of the rooms has a balcony. (В разговорной речи встречается и мн. ч., но в письменной норме — ед. ч.)\n- **one of the + мн. ч.** + глагол в **ед. ч.**: One of the problems is the cost.",
       "examples": [
         {
           "en": "A number of customers have asked for refunds.",
@@ -162,7 +162,7 @@
       ],
       "hint": "Речь о виде животных в целом, а глагол стоит во множественном числе.",
       "explain": "Обобщение с глаголом во мн. ч. → мн. ч. без артикля: Tigers are. The tigers означало бы конкретных тигров, а Tiger без артикля в ед. ч. невозможно.",
-      "tr": "Тигры сейчас считаются вымирающим видом почти во всей Азии."
+      "tr": "Тигры сейчас считаются вымирающим видом в большей части Азии."
     },
     {
       "id": "c1-nouns-agreement-p02",
@@ -275,11 +275,11 @@
       "correct": "The number",
       "wrong": [
         "A number",
-        "The amount",
+        "Number",
         "A lot"
       ],
       "hint": "Глагол has стоит в ед. ч., а речь идёт о количестве людей, которое выросло.",
-      "explain": "The number of + мн. ч. + глагол в ед. ч. — само количество выросло. A number of и a lot of требуют глагола во мн. ч., а amount используют с неисчисляемыми.",
+      "explain": "The number of + мн. ч. + глагол в ед. ч. — само количество выросло. A number of и a lot of требуют глагола во мн. ч., а исчисляемое number в ед. ч. без артикля не употребляется.",
       "tr": "Число людей, работающих из дома, с 2019 года выросло более чем вдвое."
     },
     {
@@ -395,14 +395,14 @@
     {
       "id": "c1-nouns-agreement-e04",
       "type": "gap",
-      "q": "Each of the candidates ___ given fifteen minutes to present their proposal to the panel.",
+      "q": "According to the official report, each of the candidates ___ given fifteen minutes to present their proposal to the panel.",
       "correct": "was",
       "wrong": [
         "were"
       ],
       "hint": "Подлежащее — each, а не candidates.",
-      "explain": "Each of the + мн. ч.: подлежащее — each, поэтому глагол в ед. ч.: Each of the candidates was. candidates лишь уточняет, о ком речь.",
-      "tr": "Каждому из кандидатов дали пятнадцать минут, чтобы представить своё предложение комиссии."
+      "explain": "Each of the + мн. ч.: подлежащее — each, поэтому глагол в ед. ч.: each of the candidates was. В разговорной речи встречается и were, но в официальном письменном тексте, как здесь, норма — ед. ч.",
+      "tr": "Согласно официальному отчёту, каждому из кандидатов дали пятнадцать минут, чтобы представить своё предложение комиссии."
     },
     {
       "id": "c1-nouns-agreement-e05",
@@ -415,10 +415,11 @@
       ],
       "hint": "Срок здесь — набор отдельных лет или один период?",
       "explain": "Срок как одно целое → глагол в ед. ч.: Ten years is a long time. Формы мн. ч. are и were здесь неверны.",
-      "tr": "Десять лет — слишком долгий срок ожидания решения по такому простому делу."
+      "tr": "Десять лет — это долгий срок ожидания решения по такому простому делу."
     }
   ],
   "glossary": {
+    "according": "согласно (according to)",
     "alone": "одни, в одиночестве",
     "Asia": "Азия",
     "British": "британский",
@@ -456,6 +457,7 @@
     "migration": "миграция",
     "news": "новость, новости (неисчисл.)",
     "number": "число, количество; a number of — ряд, несколько",
+    "official": "официальный",
     "panel": "комиссия, жюри",
     "popular": "популярный",
     "post": "должность",
@@ -466,6 +468,7 @@
     "promised": "пообещало (3-я форма от promise)",
     "proposal": "предложение (проект)",
     "qualified": "квалифицированный",
+    "report": "отчёт, доклад",
     "requires": "требует (3-е л. от require)",
     "sharp": "резкий",
     "shift": "смена (рабочая)",

@@ -55,7 +55,7 @@
     },
     {
       "title": "be to + V — официальные планы и распоряжения",
-      "body": "Форма: **am / is / are to + V**. Формальный стиль, новости, инструкции.\n\n- официальные договорённости: The Prime Minister is to visit Japan. В заголовках be опускают: PM to visit Japan.\n- распоряжения и запреты: You are to report to reception. You are not to leave.\n- в if-части = «если мы хотим, если нужно»: If we are to win, we need more players.\n\n**be to** — только для того, что зависит от людей. Для погоды и природных событий — **will / be going to**.",
+      "body": "Форма: **am / is / are to + V**. Формальный стиль, новости, инструкции.\n\n- официальные договорённости: The Prime Minister is to visit Japan. В заголовках be опускают: PM to visit Japan.\n- распоряжения и запреты: You are to report to reception. You are not to leave.\n- в if-части = «если мы хотим, если нужно»: If we are to win, we need more players.\n\n**am / is / are to** — только о том, что решают люди. Для прогнозов погоды и природных событий — **will / be going to**: The storm will hit the coast tonight (НЕ is to hit). На повествовательное **was to** («суждено») это ограничение не распространяется.",
       "examples": [
         {
           "en": "The minister is to announce the new budget on Tuesday.",
@@ -143,7 +143,7 @@
     },
     {
       "front": "Почему неверно «The storm is to hit the coast tonight»?",
-      "back": "**be to** — только для того, что планируют люди. Для природы — will / be going to.\nThe storm will hit the coast tonight."
+      "back": "**is / are to** — о том, что решают люди: договорённости, распоряжения. Для прогнозов о природе — will / be going to.\nThe storm will hit the coast tonight."
     }
   ],
   "questions": [
@@ -250,32 +250,32 @@
         "will"
       ],
       "hint": "В if-части нужна конструкция со значением «если мы хотим добиться этого».",
-      "explain": "If + be to + V = «если мы хотим, если нужно»: If we are to meet the deadline. will в if-части условия не ставится.",
+      "explain": "If + be to + V = «если мы хотим, если нужно»: If we are to meet the deadline. will в if-части в значении будущего не ставится.",
       "tr": "Если мы хотим уложиться в срок, нам понадобятся ещё как минимум два инженера на проекте."
     },
     {
       "id": "c1-future-in-the-past-p09",
       "type": "gap",
-      "q": "Looking at the long queue at passport control, we realised we ___ miss our connecting flight.",
+      "q": "Last summer, looking at the long queue at passport control, we realised we ___ miss our connecting flight.",
       "correct": "were going to",
       "wrong": [
         "are going to"
       ],
-      "hint": "Вывод сделан в прошлом (realised) по тому, что было видно.",
-      "explain": "Прогноз в прошлом по очевидным признакам → were going to. are going to не согласуется с realised.",
-      "tr": "Глядя на длинную очередь на паспортном контроле, мы поняли, что опоздаем на стыковочный рейс."
+      "hint": "Вывод сделан в прошлом (last summer, realised) по тому, что было видно.",
+      "explain": "Прогноз в прошлом по очевидным признакам → were going to. are going to не согласуется с realised: вся ситуация относится к прошлому лету.",
+      "tr": "Прошлым летом, глядя на длинную очередь на паспортном контроле, мы поняли, что опоздаем на стыковочный рейс."
     },
     {
       "id": "c1-future-in-the-past-p10",
       "type": "gap",
-      "q": "Forecasters say the storm ___ reach the south coast by Friday morning.",
+      "q": "Forecasters think the storm ___ reach the south coast by Friday morning, although its exact path is still uncertain.",
       "correct": "will",
       "wrong": [
         "is to"
       ],
-      "hint": "Подумайте, может ли кто-то «запланировать» шторм.",
-      "explain": "be to + V — для официальных планов и распоряжений, то есть для того, что зависит от людей. Для природных явлений — will или be going to.",
-      "tr": "Синоптики говорят, что шторм достигнет южного побережья к утру пятницы."
+      "hint": "Это неуверенный прогноз о природном явлении. Может ли кто-то «запланировать» шторм?",
+      "explain": "Прогноз о природном явлении → will. is to + V выражает договорённость или распоряжение, то есть то, что решают люди, поэтому для шторма и тем более для неуверенного прогноза (think, uncertain) не подходит.",
+      "tr": "Синоптики считают, что шторм достигнет южного побережья к утру пятницы, хотя его точная траектория пока неясна."
     },
     {
       "id": "c1-future-in-the-past-p11",
@@ -389,15 +389,15 @@
       "id": "c1-future-in-the-past-e04",
       "type": "same",
       "task": "Выберите вариант с тем же смыслом",
-      "q": "She joined the firm as a junior clerk in 1990; ten years later, she was to become its first female director.",
-      "correct": "Ten years after joining the firm, she did in fact become its first female director.",
+      "q": "She joined the firm as a junior clerk in 1990 and was later to become its first female director.",
+      "correct": "She joined the firm as a junior clerk in 1990 and went on to become its first female director.",
       "wrong": [
-        "Ten years after joining the firm, she was expected to become its director, but it never happened.",
-        "Ten years after joining the firm, she decided that she wanted to become its director."
+        "She joined the firm as a junior clerk in 1990 and was supposed to become its first female director, but never did.",
+        "She joined the firm as a junior clerk in 1990 and was determined to become its first female director."
       ],
-      "hint": "was to + V в рассказе о прошлом — это план, желание или то, что действительно произошло позже?",
-      "explain": "was to + V в повествовании — то, чему было суждено случиться, и это произошло. Сорвавшийся план выражался бы через was to have + V3.",
-      "tr": "Через десять лет после прихода в фирму она действительно стала её первой женщиной-директором."
+      "hint": "was later to + V в рассказе о прошлом — это план, намерение или то, что действительно произошло позже?",
+      "explain": "was (later) to + V в повествовании — то, чему было суждено случиться и что действительно произошло: = went on to become. Сорвавшийся план выражался бы через was to have + V3, а намерение — через was determined to.",
+      "tr": "Она пришла в фирму младшим клерком в 1990 году и впоследствии стала её первой женщиной-директором."
     },
     {
       "id": "c1-future-in-the-past-e05",
@@ -474,6 +474,7 @@
     "offered": "предложил (прош. от offer)",
     "opening": "открытие",
     "passport": "паспорт; passport control — паспортный контроль",
+    "path": "траектория, путь",
     "point": "момент; (on the point of) вот-вот",
     "policy": "политика, курс",
     "press": "пресса; press conference — пресс-конференция",
@@ -496,6 +497,7 @@
     "storm": "шторм, буря",
     "team": "команда",
     "terminal": "терминал",
+    "uncertain": "неясный, неопределённый",
     "visitors": "посетители"
   }
 }

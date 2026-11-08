@@ -45,7 +45,7 @@
     },
     {
       "title": "Следствие: hence, thus, therefore",
-      "body": "- **therefore / thus + придаточное**: Costs rose; therefore, prices went up.\n- **hence + существительное** (без глагола): The road was closed; hence the delay.\n\n**hence** = «отсюда, этим и объясняется». therefore и thus с одним существительным без глагола не употребляются.",
+      "body": "- **therefore / thus + придаточное**: Costs rose; therefore, prices went up.\n- **hence + существительное** (без глагола): The road was closed; hence the delay.\n\n**hence** = «отсюда, этим и объясняется»; в формальном тексте оно может вводить и придаточное. А вот therefore и thus с одним существительным без глагола не употребляются.",
       "examples": [
         {
           "en": "The data was incomplete; therefore, the results cannot be trusted.",
@@ -405,7 +405,7 @@
         "He kept the documents in a safe for fear to be stolen.",
         "He kept the documents in a safe for fearing that they might be stolen."
       ],
-      "hint": "После пропуска-связки здесь идёт полное придаточное they might be stolen.",
+      "hint": "После связки идёт полное придаточное с подлежащим и глаголом (they might be stolen). Какая форма с fear его вводит?",
       "explain": "for fear that + придаточное (часто с might) = «из опасения, что». for fear of требует V-ing или существительного, а for fear to и for fearing that неграмматичны.",
       "tr": "Он хранил документы в сейфе, опасаясь, что их могут украсть."
     }
