@@ -141,6 +141,10 @@ export function checkTopic(
       if (new RegExp(`(^|[^a-z])${c.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}([^a-z]|$)`).test(h))
         warn(where, `hint seems to contain the answer "${q.correct}"`);
     }
+    // Options are shuffled at runtime, so hints/explanations must never point at a position.
+    const POSITIONAL = /(перв|втор|трет|четв[её]рт|последн)\S*\s+(вариант|опци)|вариант\S*\s+(№|номер|[1-4АБВГ]\b)/i;
+    for (const k of ['hint', 'explain'] as const)
+      if (isStr(q[k]) && POSITIONAL.test(q[k])) warn(where, `${k} refers to an option by position — options are shuffled; name it by content`);
     for (const w of wordsOf(q.q)) {
       const r = resolveStrict(w.text, w.start, dicts);
       if (!r) {

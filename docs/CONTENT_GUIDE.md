@@ -103,7 +103,8 @@ Front: a question or situation in Russian. Back: short answer, formula + one Eng
 - Dialogues: lines separated by `\n`, each starting with `A: ` or `B: `.
 - `hint` (Russian): points to the signal or the rule **without naming the answer**.
 - `explain` (Russian, 1–3 sentences): why the correct option fits and why the most tempting
-  distractor doesn't.
+  distractor doesn't. Options are shuffled in the app — name an option by its content
+  («вариант с would»), never by position («второй вариант»).
 - `tr`: natural Russian translation of the complete correct sentence (for pick/same — of the
   correct option).
 - Exam questions test the same rule with fresh sentences (no paraphrases of practice ones), slightly
