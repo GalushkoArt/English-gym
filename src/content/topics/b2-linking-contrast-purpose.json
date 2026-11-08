@@ -1,0 +1,473 @@
+{
+  "id": "b2-linking-contrast-purpose",
+  "level": "B2",
+  "order": 15,
+  "title": "Linking: contrast and purpose",
+  "titleRu": "Связки: уступка, контраст и цель",
+  "summary": "although, despite, however, whereas, so that, in case, even if",
+  "source": "Murphy EGIU units 64, 113–114; British Council: Linking words – contrast and purpose",
+  "rules": [
+    {
+      "title": "although / though / even though + придаточное",
+      "body": "**although, though, even though** + подлежащее + сказуемое (придаточное).\n\n- **though** — разговорнее; может стоять в конце фразы: We went out, though.\n- **even though** — сильнее: «хотя и, несмотря на то что»\n- во второй части **but** не ставят: не Although it was late, but we…",
+      "examples": [
+        {
+          "en": "Although it was late, we decided to walk home.",
+          "ru": "Хотя было поздно, мы решили пойти домой пешком."
+        },
+        {
+          "en": "Even though he earns a lot, he lives very simply.",
+          "ru": "Хотя он много зарабатывает, он живёт очень скромно."
+        }
+      ]
+    },
+    {
+      "title": "despite / in spite of + существительное или -ing",
+      "body": "**despite / in spite of** + существительное, местоимение или **-ing**.\n\n- **despite of** и **in spite** без of — ошибки\n- перед придаточным: **despite the fact that / in spite of the fact that** + подлежащее + сказуемое",
+      "examples": [
+        {
+          "en": "Despite the rain, the match went ahead.",
+          "ru": "Несмотря на дождь, матч состоялся."
+        },
+        {
+          "en": "In spite of feeling tired, she finished the report.",
+          "ru": "Несмотря на усталость, она закончила отчёт."
+        },
+        {
+          "en": "We enjoyed the trip despite the fact that it rained every day.",
+          "ru": "Поездка нам понравилась, несмотря на то что каждый день шёл дождь."
+        }
+      ]
+    },
+    {
+      "title": "however, nevertheless; whereas, while",
+      "body": "**however, nevertheless** — наречия: связывают **два отдельных предложения**. Ставятся после точки или точки с запятой, дальше — запятая.\n\n- The plan was risky. However, it worked.\n- соединять два предложения только запятой нельзя: не …, however it worked\n\n**whereas / while** — союзы: сопоставляют два факта **в одном предложении**.",
+      "examples": [
+        {
+          "en": "The plan was risky. However, it worked.",
+          "ru": "План был рискованным. Однако он сработал."
+        },
+        {
+          "en": "The car is old; nevertheless, it runs well.",
+          "ru": "Машина старая; тем не менее она хорошо ездит."
+        },
+        {
+          "en": "Tom is very talkative, whereas his brother hardly speaks.",
+          "ru": "Том очень разговорчивый, а его брат почти не говорит."
+        }
+      ]
+    },
+    {
+      "title": "Цель: to, in order to, so that",
+      "body": "**to / in order to / so as to + V** — цель, когда подлежащее то же самое.\n**so that + can / could / will / would** — цель с другим подлежащим или с модальным глаголом.\n\n- отрицательная цель: **in order not to / so as not to + V**\n- **for + -ing** не выражает цель поступка: не I came for studying, а **I came to study**\n- **for + существительное** возможно: I went out for a walk.",
+      "examples": [
+        {
+          "en": "I got up early in order to catch the first train.",
+          "ru": "Я встал рано, чтобы успеть на первый поезд."
+        },
+        {
+          "en": "She spoke slowly so that everyone could understand.",
+          "ru": "Она говорила медленно, чтобы все могли понять."
+        },
+        {
+          "en": "He left quietly so as not to wake the baby.",
+          "ru": "Он ушёл тихо, чтобы не разбудить ребёнка."
+        }
+      ]
+    },
+    {
+      "title": "in case и if; even if и even though",
+      "body": "**in case** — заранее, на случай если (мера предосторожности); о будущем после него Present Simple, не will.\n**if** — условие: только если.\n\n- Take an umbrella in case it rains. (возьми сейчас)\n- I'll stay at home if it rains. (только если пойдёт дождь)\n\n**even though** — реальный факт: «хотя».\n**even if** — предположение: «даже если (бы)».",
+      "examples": [
+        {
+          "en": "Take my number in case you get lost.",
+          "ru": "Возьми мой номер на случай, если заблудишься."
+        },
+        {
+          "en": "Even though it was raining, we went out.",
+          "ru": "Хотя шёл дождь, мы пошли гулять."
+        },
+        {
+          "en": "Even if it rains, we'll go out.",
+          "ru": "Даже если пойдёт дождь, мы пойдём гулять."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "although / even though + подлежащее + глагол",
+    "despite / in spite of + сущ. / -ing; despite the fact that + предложение",
+    "Предложение. However, … · Предложение; nevertheless, …",
+    "A, whereas / while B → контраст в одном предложении",
+    "тот же субъект → (in order) to + V; другой → so that + can / could / would",
+    "in case → заранее, на всякий случай; even if → даже если бы; even though → хотя (факт)"
+  ],
+  "mistakes": [
+    {
+      "wrong": "Despite it was raining, we went for a walk.",
+      "right": "Despite the rain, we went for a walk.",
+      "note": "после despite — существительное или -ing, а не придаточное"
+    },
+    {
+      "wrong": "Although it was late, but we kept working.",
+      "right": "Although it was late, we kept working.",
+      "note": "калька «хотя…, но…»: but после although лишнее"
+    },
+    {
+      "wrong": "I came here for learning English.",
+      "right": "I came here to learn English.",
+      "note": "цель поступка → to + V, не for + -ing"
+    },
+    {
+      "wrong": "Take an umbrella in case it will rain.",
+      "right": "Take an umbrella in case it rains.",
+      "note": "после in case о будущем — Present Simple"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Что ставить после although, а что после despite?",
+      "back": "**although** + предложение: although it was cold.\n**despite** + сущ. / -ing: despite the cold."
+    },
+    {
+      "front": "Как сказать «несмотря на то что» с despite?",
+      "back": "**despite the fact that** + предложение:\nDespite the fact that it was late, we stayed."
+    },
+    {
+      "front": "Как правильно оформить however?",
+      "back": "Новое предложение + запятая:\nIt was expensive. **However,** it was worth it."
+    },
+    {
+      "front": "Когда in order to, а когда so that?",
+      "back": "Тот же субъект → **in order to + V**.\nДругой субъект → **so that + can / could**: I left early so that she could sleep."
+    },
+    {
+      "front": "Чем «in case it rains» отличается от «if it rains»?",
+      "back": "**in case** — заранее, на всякий случай.\n**if** — только при условии."
+    },
+    {
+      "front": "Чем even if отличается от even though?",
+      "back": "**even though** — реальный факт: Even though it's late, I'm not tired.\n**even if** — предположение: Even if it rains, we'll go."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-linking-contrast-purpose-p01",
+      "type": "gap",
+      "q": "___ the heavy traffic, we got to the airport on time.",
+      "correct": "Despite",
+      "wrong": [
+        "Although"
+      ],
+      "hint": "Что идёт после пропуска: целое предложение с глаголом или существительное?",
+      "explain": "После пропуска — существительное (the heavy traffic) → Despite. Although требует придаточного с подлежащим и глаголом.",
+      "tr": "Несмотря на плотное движение, мы добрались до аэропорта вовремя."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p02",
+      "type": "gap",
+      "q": "___ the flat was quite small, it had a wonderful view of the river.",
+      "correct": "Although",
+      "wrong": [
+        "Despite",
+        "In spite of"
+      ],
+      "hint": "После пропуска стоят подлежащее и сказуемое.",
+      "explain": "После пропуска — придаточное (the flat was small) → Although. Despite и in spite of ставятся перед существительным или -ing.",
+      "tr": "Хотя квартира была довольно маленькой, из неё открывался чудесный вид на реку."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p03",
+      "type": "gap",
+      "q": "Anna went to the office ___ feeling ill, because she had an important presentation.",
+      "correct": "despite",
+      "wrong": [
+        "although",
+        "despite of",
+        "in spite"
+      ],
+      "hint": "После пропуска — форма -ing. И проверьте, нужен ли предлог.",
+      "explain": "Перед -ing → despite (или in spite of). despite of и in spite без of не существуют, а although требует придаточного.",
+      "tr": "Анна пошла в офис, несмотря на плохое самочувствие, потому что у неё была важная презентация."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p04",
+      "type": "gap",
+      "q": "The project was approved ___ it was well over budget.",
+      "correct": "despite the fact that",
+      "wrong": [
+        "despite",
+        "in spite of"
+      ],
+      "hint": "Посмотрите, что идёт после пропуска: есть ли там подлежащее и глагол?",
+      "explain": "Перед придаточным (it was over budget) despite возможен только в виде despite the fact that. Просто despite или in spite of требуют существительного.",
+      "tr": "Проект одобрили, несмотря на то что он значительно превышал бюджет."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p05",
+      "type": "gap",
+      "q": "The hotel was rather expensive. ___, the staff were extremely helpful.",
+      "correct": "However",
+      "wrong": [
+        "Although"
+      ],
+      "hint": "Пропуск стоит в начале нового предложения, и после него запятая.",
+      "explain": "However — наречие: связывает два отдельных предложения и отделяется запятой. Although — союз, он вводит придаточное внутри одного предложения.",
+      "tr": "Отель был довольно дорогим. Однако персонал был чрезвычайно услужлив."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p06",
+      "type": "pick",
+      "task": "Выберите верно построенное предложение",
+      "q": "",
+      "correct": "The train was delayed. Nevertheless, we arrived in time for the meeting.",
+      "wrong": [
+        "Nevertheless the train was delayed, we arrived in time for the meeting.",
+        "Despite the train was delayed, we arrived in time for the meeting."
+      ],
+      "hint": "Nevertheless — союз или наречие? И что может стоять после despite?",
+      "explain": "Nevertheless — наречие: оно начинает второе предложение и отделяется запятой. Despite не вводит придаточное с глаголом.",
+      "tr": "Поезд задержался. Тем не менее мы успели на совещание."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p07",
+      "type": "gap",
+      "q": "My brother loves big, noisy cities, ___ I prefer the peace of the countryside.",
+      "correct": "whereas",
+      "wrong": [
+        "however"
+      ],
+      "hint": "Нужен союз, который соединяет два контрастных факта в одном предложении.",
+      "explain": "whereas — союз: сопоставляет два факта в одном предложении. however — наречие, оно не может соединять два предложения через запятую.",
+      "tr": "Мой брат любит большие шумные города, а я предпочитаю спокойствие сельской местности."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p08",
+      "type": "gap",
+      "q": "I'm saving as much as I can ___ buy a flat of my own next year.",
+      "correct": "in order to",
+      "wrong": [
+        "so that"
+      ],
+      "hint": "После пропуска сразу идёт инфинитив, без подлежащего.",
+      "explain": "Цель + инфинитив (подлежащее то же) → in order to buy. so that требует придаточного с подлежащим: so that I can buy.",
+      "tr": "Я коплю сколько могу, чтобы в следующем году купить собственную квартиру."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p09",
+      "type": "gap",
+      "q": "The lecturer spoke slowly and clearly ___ the international students could follow her.",
+      "correct": "so that",
+      "wrong": [
+        "in order to",
+        "to",
+        "for"
+      ],
+      "hint": "После пропуска — новое подлежащее и модальный глагол could.",
+      "explain": "Цель с другим подлежащим и can / could → so that. in order to и to ставятся перед инфинитивом, а for не вводит придаточное цели.",
+      "tr": "Преподавательница говорила медленно и чётко, чтобы иностранные студенты могли её понимать."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p10",
+      "type": "gap",
+      "q": "We left home at six ___ miss the start of the concert.",
+      "correct": "so as not to",
+      "wrong": [
+        "for not to",
+        "so that not to"
+      ],
+      "hint": "Отрицательная цель: чтобы чего-то не случилось. Какая конструкция стоит перед инфинитивом?",
+      "explain": "Отрицательная цель + инфинитив → so as not to (или in order not to). for и so that перед инфинитивом в значении цели не употребляются.",
+      "tr": "Мы вышли из дома в шесть, чтобы не пропустить начало концерта."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p11",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Lucy moved to Berlin to work for a small tech company.",
+      "wrong": [
+        "Lucy moved to Berlin for working for a small tech company.",
+        "Lucy moved to Berlin so that work for a small tech company."
+      ],
+      "hint": "Как выражается цель поступка, если подлежащее то же самое?",
+      "explain": "Цель действия → to + V: to work. for + -ing не выражает цель поступка (калька «для работы»), а после so that нужно подлежащее.",
+      "tr": "Люси переехала в Берлин, чтобы работать в небольшой технологической компании."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p12",
+      "type": "gap",
+      "q": "Write down my phone number ___ you get lost in the old town.",
+      "correct": "in case",
+      "wrong": [
+        "if",
+        "in case of",
+        "unless"
+      ],
+      "hint": "Номер нужно записать сейчас, до того как что-то случится. Это условие или мера предосторожности?",
+      "explain": "Мера предосторожности → in case + Present Simple: записать номер заранее. if означало бы «записать, только если потеряешься», in case of ставится перед существительным, а unless = «если не».",
+      "tr": "Запиши мой номер телефона на случай, если заблудишься в старом городе."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p13",
+      "type": "gap",
+      "q": "We'll only order more pizza ___ more guests arrive, so let's wait and see.",
+      "correct": "if",
+      "wrong": [
+        "in case"
+      ],
+      "hint": "Заказ будет сделан только при определённом условии.",
+      "explain": "Условие (only … wait and see) → if: закажем, только если придут гости. in case означало бы заказ заранее, на всякий случай.",
+      "tr": "Мы закажем ещё пиццу, только если придут ещё гости, так что давай подождём и посмотрим."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p14",
+      "type": "gap",
+      "q": "___ she had a high temperature, Maria insisted on going to the office.",
+      "correct": "Even though",
+      "wrong": [
+        "Even if"
+      ],
+      "hint": "Высокая температура — реальный факт или воображаемая ситуация?",
+      "explain": "Реальный факт + контраст → even though (усиленное although). even if вводит предположение: «даже если бы».",
+      "tr": "Хотя у Марии была высокая температура, она настояла на том, чтобы пойти в офис."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-p15",
+      "type": "gap",
+      "q": "___ you offered me twice the salary, I wouldn't move to that city.",
+      "correct": "Even if",
+      "wrong": [
+        "Even though",
+        "Although",
+        "Despite"
+      ],
+      "hint": "Это реальный факт или воображаемое условие? Обратите внимание на wouldn't.",
+      "explain": "Гипотетическое условие (offered … wouldn't) → even if: «даже если бы». even though и although вводят реальные факты, а despite не ставится перед придаточным.",
+      "tr": "Даже если бы вы предложили мне вдвое большую зарплату, я бы не переехал в этот город."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-linking-contrast-purpose-e01",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Although the tickets were expensive, the concert was sold out.",
+      "correct": "In spite of the high ticket prices, the concert was sold out.",
+      "wrong": [
+        "Because the tickets were expensive, the concert was sold out.",
+        "In spite of the tickets were expensive, the concert was sold out."
+      ],
+      "hint": "Нужен вариант с тем же контрастом и правильной конструкцией после предлога.",
+      "explain": "In spite of + существительное (the high ticket prices) сохраняет смысл уступки. Because меняет смысл на причину, а in spite of не может стоять перед придаточным.",
+      "tr": "Несмотря на высокие цены на билеты, все билеты на концерт были распроданы."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-e02",
+      "type": "gap",
+      "q": "Some of my colleagues love working from home, ___ others find it hard to concentrate there.",
+      "correct": "while",
+      "wrong": [
+        "however",
+        "despite",
+        "in spite of"
+      ],
+      "hint": "Нужен союз, который сопоставляет две группы людей в одном предложении.",
+      "explain": "while (= whereas) — союз: сопоставляет два факта в одном предложении. however — наречие и не соединяет предложения через запятую, а despite и in spite of требуют существительного.",
+      "tr": "Некоторые мои коллеги обожают работать из дома, а другим там трудно сосредоточиться."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-e03",
+      "type": "gap",
+      "q": "She saved every penny she earned ___ her children would have a good education.",
+      "correct": "so that",
+      "wrong": [
+        "in order to",
+        "so as to",
+        "for"
+      ],
+      "hint": "После пропуска — другое подлежащее и would.",
+      "explain": "Цель с другим подлежащим → so that + would / could. in order to и so as to требуют инфинитива, а for не вводит придаточное.",
+      "tr": "Она откладывала каждый заработанный пенни, чтобы её дети получили хорошее образование."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-e04",
+      "type": "gap",
+      "q": "I took my laptop on holiday ___ I needed to deal with something urgent at work.",
+      "correct": "in case",
+      "wrong": [
+        "if"
+      ],
+      "hint": "Ноутбук взят заранее, а понадобился ли он на самом деле, неизвестно.",
+      "explain": "Мера предосторожности → in case (о прошлом — с Past Simple): взял на всякий случай. if описывало бы условие, а не предосторожность.",
+      "tr": "Я взял ноутбук в отпуск на случай, если придётся срочно решать рабочие вопросы."
+    },
+    {
+      "id": "b2-linking-contrast-purpose-e05",
+      "type": "pick",
+      "task": "Выберите верно построенное предложение",
+      "q": "",
+      "correct": "Sales fell in the spring. However, the company still made a profit.",
+      "wrong": [
+        "Sales fell in the spring, however the company still made a profit.",
+        "Sales fell in the spring. Although, the company still made a profit."
+      ],
+      "hint": "However — наречие. Как оно оформляется на письме?",
+      "explain": "However начинает новое предложение (или идёт после точки с запятой) и отделяется запятой. Через запятую however не соединяет два предложения, а although не стоит отдельно с запятой.",
+      "tr": "Весной продажи упали. Тем не менее компания всё равно получила прибыль."
+    }
+  ],
+  "glossary": {
+    "airport": "аэропорт",
+    "approved": "одобрен (3-я форма от approve)",
+    "budget": "бюджет",
+    "cities": "города",
+    "clearly": "чётко, ясно",
+    "concentrate": "сосредоточиться",
+    "concert": "концерт",
+    "countryside": "сельская местность",
+    "deal": "(deal with) заниматься, решать",
+    "earned": "заработала (прош. от earn)",
+    "education": "образование",
+    "extremely": "чрезвычайно",
+    "feeling": "(feeling ill) плохое самочувствие (-ing от feel)",
+    "flat": "квартира",
+    "follow": "понимать, следить за (речью)",
+    "guests": "гости",
+    "heavy": "плотный (о движении)",
+    "helpful": "услужливый, готовый помочь",
+    "holiday": "(on holiday) в отпуск",
+    "hotel": "отель",
+    "ill": "больной, плохо",
+    "insisted": "настояла (прош. от insist)",
+    "international": "иностранный, международный",
+    "laptop": "ноутбук",
+    "lecturer": "преподаватель (вуза)",
+    "love": "обожать, очень любить",
+    "loves": "обожает, очень любит",
+    "miss": "пропустить",
+    "noisy": "шумный",
+    "number": "номер",
+    "offered": "предложили (прош. от offer)",
+    "order": "заказать",
+    "peace": "покой, спокойствие",
+    "penny": "пенни (монета)",
+    "pizza": "пицца",
+    "prefer": "предпочитаю",
+    "presentation": "презентация",
+    "project": "проект",
+    "river": "река",
+    "salary": "зарплата",
+    "saved": "откладывала (прош. от save)",
+    "saving": "коплю (-ing от save)",
+    "slowly": "медленно",
+    "staff": "персонал",
+    "students": "студенты",
+    "temperature": "температура",
+    "tickets": "билеты",
+    "traffic": "дорожное движение",
+    "urgent": "срочный",
+    "view": "вид",
+    "wonderful": "чудесный"
+  }
+}

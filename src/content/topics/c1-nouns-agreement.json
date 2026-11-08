@@ -1,0 +1,488 @@
+{
+  "id": "c1-nouns-agreement",
+  "level": "C1",
+  "order": 13,
+  "title": "Nouns, articles and agreement",
+  "titleRu": "Существительные, артикли и согласование",
+  "summary": "Обобщение, исчисляемость и согласование подлежащего со сказуемым",
+  "source": "Murphy AGIU units 70–80; Murphy EGIU units 69–80; British Council: Countable and uncountable nouns",
+  "rules": [
+    {
+      "title": "Обобщение: tigers, the tiger, the elderly",
+      "body": "Когда говорим о классе в целом:\n\n- **мн. ч. без артикля** — самый частый вариант: Tigers are endangered.\n- **the + ед. ч.** — формально, о видах животных и изобретениях: The tiger is endangered. The smartphone has changed our lives.\n- неисчисляемые — без артикля: Water is essential.\n\n**НЕ The tigers are endangered** — так говорят о конкретных тиграх.\n\n**the + прилагательное** = группа людей, глагол во мн. ч.: the rich, the poor, the elderly, the unemployed, the homeless, the young. Без -s: НЕ the elderlies.",
+      "examples": [
+        {
+          "en": "Bees play a key role in food production.",
+          "ru": "Пчёлы играют ключевую роль в производстве продуктов питания."
+        },
+        {
+          "en": "The printing press changed the way knowledge spread.",
+          "ru": "Печатный станок изменил то, как распространялись знания."
+        },
+        {
+          "en": "The unemployed are entitled to free training.",
+          "ru": "Безработные имеют право на бесплатное обучение."
+        }
+      ]
+    },
+    {
+      "title": "Исчисляемое или неисчисляемое: experience и an experience",
+      "body": "Некоторые существительные меняют значение:\n\n- **experience** — опыт (неисчисл.) / **an experience** — случай, впечатление\n- **paper** — бумага / **a paper** — газета, научная статья, доклад\n- **coffee** — кофе как напиток / **a coffee** — чашка кофе\n- **knowledge** — неисчисл., но **a good knowledge of** French\n\nВсегда неисчисляемые: advice, information, research, equipment, furniture, luggage, news — НЕ a research, НЕ researches.",
+      "examples": [
+        {
+          "en": "Do you have any experience of working abroad?",
+          "ru": "У вас есть опыт работы за границей?"
+        },
+        {
+          "en": "The trip was an experience I'll never forget.",
+          "ru": "Эта поездка стала событием, которое я никогда не забуду."
+        },
+        {
+          "en": "She is giving a paper at a conference in Rome.",
+          "ru": "Она выступает с докладом на конференции в Риме."
+        }
+      ]
+    },
+    {
+      "title": "news, economics; police, people, clothes",
+      "body": "- окончание -s, но глагол в **ед. ч.**: **news, economics, physics, mathematics, politics, athletics**: The news is good.\n- только **мн. ч.**: **police, people, cattle, clothes, belongings, goods, premises** → глагол во мн. ч.: The police are investigating.\n\nНЕ the polices, НЕ a police (нужно a police officer).",
+      "examples": [
+        {
+          "en": "Physics was my favourite subject at school.",
+          "ru": "Физика была моим любимым предметом в школе."
+        },
+        {
+          "en": "The police are questioning two witnesses.",
+          "ru": "Полиция допрашивает двух свидетелей."
+        },
+        {
+          "en": "His clothes were soaking wet.",
+          "ru": "Его одежда промокла насквозь."
+        }
+      ]
+    },
+    {
+      "title": "a number of, each, every, one of the",
+      "body": "- **a number of + мн. ч.** + глагол во **мн. ч.** (= несколько): A number of students have complained.\n- **the number of + мн. ч.** + глагол в **ед. ч.** (само количество): The number of students has risen.\n- **each / every + ед. ч.**: Every employee has a pass. **Each of the + мн. ч.** + глагол в ед. ч.: Each of the rooms has a balcony.\n- **one of the + мн. ч.** + глагол в **ед. ч.**: One of the problems is the cost.",
+      "examples": [
+        {
+          "en": "A number of customers have asked for refunds.",
+          "ru": "Ряд покупателей попросили вернуть деньги."
+        },
+        {
+          "en": "The number of complaints has fallen this year.",
+          "ru": "Количество жалоб в этом году снизилось."
+        },
+        {
+          "en": "One of our biggest clients is moving to a competitor.",
+          "ru": "Один из наших крупнейших клиентов уходит к конкуренту."
+        }
+      ]
+    },
+    {
+      "title": "Собирательные существительные и количества",
+      "body": "- **team, staff, government, committee, family, audience** в британском английском сочетаются с глаголом и в ед. ч., и во мн. ч.: The team is / are playing well. Главное — последовательность: is … its или are … their.\n- **сумма, расстояние, срок** как одно целое → глагол в **ед. ч.**: Ten kilometres is a long way. Two years is a long time. Five hundred pounds is too much.",
+      "examples": [
+        {
+          "en": "The committee has published its report.",
+          "ru": "Комитет опубликовал свой доклад."
+        },
+        {
+          "en": "Three hours is too long for a meeting.",
+          "ru": "Три часа — это слишком долго для совещания."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "Tigers are… / The tiger is… (НЕ The tigers are… в общем смысле)",
+    "the rich / the elderly / the unemployed + are",
+    "experience = опыт; an experience = случай; a paper = статья; research — неисчисл.",
+    "news, economics, physics + is; police, people, clothes + are",
+    "a number of … + are; the number of … + is; each / every / one of the … + is",
+    "Two years is a long time; Ten kilometres is a long way"
+  ],
+  "mistakes": [
+    {
+      "wrong": "The news are very bad.",
+      "right": "The news is very bad.",
+      "note": "news — неисчисляемое, глагол в ед. ч."
+    },
+    {
+      "wrong": "She did a research on climate change.",
+      "right": "She did some research on climate change.",
+      "note": "research неисчисляемое: some research или a study"
+    },
+    {
+      "wrong": "The police is looking for the driver.",
+      "right": "The police are looking for the driver.",
+      "note": "police всегда с глаголом во мн. ч."
+    },
+    {
+      "wrong": "One of my colleague are from Spain.",
+      "right": "One of my colleagues is from Spain.",
+      "note": "one of + существительное во мн. ч., но глагол в ед. ч."
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать в общем: «Тигры — вымирающий вид»?",
+      "back": "**Tigers are** an endangered species. / **The tiger is** …\nНЕ The tigers are … — это о конкретных тиграх."
+    },
+    {
+      "front": "the elderly — глагол в ед. или мн. ч.?",
+      "back": "**Мн. ч.**: The elderly are …\nНЕ the elderlies, НЕ the elderly is."
+    },
+    {
+      "front": "Чем отличается experience от an experience?",
+      "back": "**experience** — опыт (неисчисл.).\n**an experience** — случай, впечатление: It was an amazing experience."
+    },
+    {
+      "front": "«A number of» и «the number of» — is или are?",
+      "back": "**A number of** people **are** … (несколько).\n**The number of** people **is** … (количество)."
+    },
+    {
+      "front": "Почему «The police is…» — ошибка?",
+      "back": "**police** — только мн. ч.\nThe police are investigating."
+    },
+    {
+      "front": "«Two years is» или «Two years are a long time»?",
+      "back": "**is** — срок воспринимается как одно целое.\nTwo years is a long time."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-nouns-agreement-p01",
+      "type": "gap",
+      "q": "___ are now an endangered species in most of Asia.",
+      "correct": "Tigers",
+      "wrong": [
+        "The tigers",
+        "Tiger"
+      ],
+      "hint": "Речь о виде животных в целом, а глагол стоит во множественном числе.",
+      "explain": "Обобщение с глаголом во мн. ч. → мн. ч. без артикля: Tigers are. The tigers означало бы конкретных тигров, а Tiger без артикля в ед. ч. невозможно.",
+      "tr": "Тигры сейчас считаются вымирающим видом почти во всей Азии."
+    },
+    {
+      "id": "c1-nouns-agreement-p02",
+      "type": "gap",
+      "q": "The government has promised more support for ___, many of whom live alone.",
+      "correct": "the elderly",
+      "wrong": [
+        "the elderlies",
+        "elderly"
+      ],
+      "hint": "Нужно обозначить группу людей с помощью прилагательного.",
+      "explain": "the + прилагательное = группа людей: the elderly (пожилые люди). Окончание -s к прилагательному не добавляется, а без the прилагательное не становится существительным.",
+      "tr": "Правительство пообещало больше поддержки пожилым людям, многие из которых живут одни."
+    },
+    {
+      "id": "c1-nouns-agreement-p03",
+      "type": "gap",
+      "q": "In many cities, the homeless ___ the first to suffer when temperatures drop below zero.",
+      "correct": "are",
+      "wrong": [
+        "is"
+      ],
+      "hint": "the homeless — это один человек или группа людей?",
+      "explain": "the + прилагательное обозначает группу людей и согласуется с глаголом во мн. ч.: the homeless are.",
+      "tr": "Во многих городах бездомные первыми страдают, когда температура опускается ниже нуля."
+    },
+    {
+      "id": "c1-nouns-agreement-p04",
+      "type": "gap",
+      "q": "Working on a cruise ship one summer was ___ I'll never forget.",
+      "correct": "an experience",
+      "wrong": [
+        "experience"
+      ],
+      "hint": "Здесь речь об опыте как навыке или об одном конкретном событии?",
+      "explain": "an experience — исчисляемое: отдельный случай, впечатление. Неисчисляемое experience значит «опыт, навыки» и здесь не подходит.",
+      "tr": "Работа на круизном лайнере одним летом стала событием, которое я никогда не забуду."
+    },
+    {
+      "id": "c1-nouns-agreement-p05",
+      "type": "gap",
+      "q": "Kate has ___ in project management, so she should be able to lead the new team.",
+      "correct": "a lot of experience",
+      "wrong": [
+        "a lot of experiences",
+        "an experience"
+      ],
+      "hint": "Речь о профессиональном опыте. Он исчисляемый или нет?",
+      "explain": "experience в значении «опыт работы» неисчисляемое: a lot of experience. experiences и an experience — отдельные случаи, впечатления.",
+      "tr": "У Кейт большой опыт в управлении проектами, так что она должна справиться с руководством новой командой."
+    },
+    {
+      "id": "c1-nouns-agreement-p06",
+      "type": "gap",
+      "q": "Olga is presenting ___ on climate migration at the conference next week.",
+      "correct": "a paper",
+      "wrong": [
+        "paper",
+        "a research"
+      ],
+      "hint": "Речь о научном докладе. Какое существительное в этом значении исчисляемое?",
+      "explain": "a paper — научная статья или доклад (исчисляемое). paper без артикля — бумага, а research неисчисляемое и не употребляется с a.",
+      "tr": "На следующей неделе Ольга выступает на конференции с докладом о климатической миграции."
+    },
+    {
+      "id": "c1-nouns-agreement-p07",
+      "type": "gap",
+      "q": "The news about the merger ___ a complete surprise to most of the staff.",
+      "correct": "was",
+      "wrong": [
+        "were"
+      ],
+      "hint": "news заканчивается на -s, но исчисляемое ли это существительное?",
+      "explain": "news — неисчисляемое существительное, глагол в ед. ч.: the news was. Окончание -s не делает его множественным.",
+      "tr": "Новость о слиянии стала полной неожиданностью для большинства сотрудников."
+    },
+    {
+      "id": "c1-nouns-agreement-p08",
+      "type": "gap",
+      "q": "Economics ___ one of the most popular degree subjects at British universities.",
+      "correct": "is",
+      "wrong": [
+        "are",
+        "were",
+        "have been"
+      ],
+      "hint": "Название науки на -ics — это один предмет или много предметов?",
+      "explain": "Названия наук на -ics (economics, physics) — ед. ч.: Economics is. are, were и have been — формы мн. ч.",
+      "tr": "Экономика — один из самых популярных предметов для получения степени в британских университетах."
+    },
+    {
+      "id": "c1-nouns-agreement-p09",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The police have closed the road while they investigate the accident.",
+      "wrong": [
+        "The police has closed the road while it investigates the accident.",
+        "The polices have closed the road while they investigate the accident.",
+        "A police has closed the road while it investigates the accident."
+      ],
+      "hint": "police — существительное особого типа. Есть ли у него форма с -s и форма ед. ч.?",
+      "explain": "police употребляется только во мн. ч. без -s: The police have … they. Формы polices и a police не существуют (нужно a police officer).",
+      "tr": "Полиция перекрыла дорогу, пока расследует аварию."
+    },
+    {
+      "id": "c1-nouns-agreement-p10",
+      "type": "gap",
+      "q": "___ of people working from home has more than doubled since 2019.",
+      "correct": "The number",
+      "wrong": [
+        "A number",
+        "The amount",
+        "A lot"
+      ],
+      "hint": "Глагол has стоит в ед. ч., а речь идёт о количестве людей, которое выросло.",
+      "explain": "The number of + мн. ч. + глагол в ед. ч. — само количество выросло. A number of и a lot of требуют глагола во мн. ч., а amount используют с неисчисляемыми.",
+      "tr": "Число людей, работающих из дома, с 2019 года выросло более чем вдвое."
+    },
+    {
+      "id": "c1-nouns-agreement-p11",
+      "type": "gap",
+      "q": "A number of employees ___ complained about the new shift system.",
+      "correct": "have",
+      "wrong": [
+        "has"
+      ],
+      "hint": "a number of = several. Кто жаловался — один человек или несколько?",
+      "explain": "a number of = несколько → глагол во мн. ч.: have complained. Ед. ч. нужен после the number of.",
+      "tr": "Ряд сотрудников пожаловались на новую систему смен."
+    },
+    {
+      "id": "c1-nouns-agreement-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Every member of staff has to complete the online training by Friday.",
+      "wrong": [
+        "Every members of staff have to complete the online training by Friday.",
+        "Every member of staff have to complete the online training by Friday."
+      ],
+      "hint": "every сочетается с ед. или мн. ч.? Проверьте и существительное, и глагол.",
+      "explain": "every + существительное в ед. ч. + глагол в ед. ч.: every member has. После every не бывает мн. ч.",
+      "tr": "Каждый сотрудник должен пройти онлайн-обучение до пятницы."
+    },
+    {
+      "id": "c1-nouns-agreement-p13",
+      "type": "gap",
+      "q": "One of the main ___ for the delay ___ the shortage of qualified engineers.",
+      "correct": "reasons / is",
+      "wrong": [
+        "reason / is",
+        "reasons / are",
+        "reason / are"
+      ],
+      "hint": "one of the + существительное: какое число у существительного? И к чему относится глагол — к one или к reasons?",
+      "explain": "one of the + существительное во мн. ч. (reasons), но подлежащее — one, поэтому глагол в ед. ч.: One of the main reasons is.",
+      "tr": "Одна из главных причин задержки — нехватка квалифицированных инженеров."
+    },
+    {
+      "id": "c1-nouns-agreement-p14",
+      "type": "gap",
+      "q": "Thirty kilometres ___ too far to cycle to work every day, so I usually take the train.",
+      "correct": "is",
+      "wrong": [
+        "are"
+      ],
+      "hint": "Расстояние здесь — набор отдельных километров или одна величина?",
+      "explain": "Расстояние, срок или сумма как одно целое → глагол в ед. ч.: Thirty kilometres is too far.",
+      "tr": "Тридцать километров — слишком далеко, чтобы каждый день ездить на работу на велосипеде, поэтому я обычно езжу на поезде."
+    },
+    {
+      "id": "c1-nouns-agreement-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The smartphone has completely changed the way we communicate.",
+      "correct": "Smartphones in general have completely changed the way we communicate.",
+      "wrong": [
+        "One particular smartphone has completely changed the way we communicate.",
+        "The smartphone I bought has completely changed the way I communicate."
+      ],
+      "hint": "the + ед. ч. может обозначать не конкретный предмет, а целый класс.",
+      "explain": "the + ед. ч. в обобщении обозначает изобретение или вид в целом: the smartphone = smartphones in general, а не конкретная модель.",
+      "tr": "Смартфоны в целом полностью изменили то, как мы общаемся."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-nouns-agreement-e01",
+      "type": "gap",
+      "q": "___ have been hit hardest by the sharp rise in energy prices.",
+      "correct": "The poor",
+      "wrong": [
+        "The poors",
+        "Poor",
+        "The poor's"
+      ],
+      "hint": "Нужно обозначить группу людей с помощью прилагательного.",
+      "explain": "the + прилагательное = группа людей: the poor (бедные) + глагол во мн. ч. Окончание -s и притяжательная форма здесь невозможны, а без the прилагательное не может быть подлежащим.",
+      "tr": "Сильнее всего от резкого роста цен на энергию пострадали бедные."
+    },
+    {
+      "id": "c1-nouns-agreement-e02",
+      "type": "gap",
+      "q": "The post requires ___ of at least two European languages.",
+      "correct": "a good knowledge",
+      "wrong": [
+        "good knowledges",
+        "a good knowledges"
+      ],
+      "hint": "knowledge неисчисляемое, но в сочетании с of и прилагательным допускает один артикль.",
+      "explain": "knowledge неисчисляемое и не имеет мн. ч., но в устойчивом сочетании a good knowledge of возможен артикль a. Формы knowledges не существует.",
+      "tr": "На этой должности требуется хорошее знание как минимум двух европейских языков."
+    },
+    {
+      "id": "c1-nouns-agreement-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The latest news from the region is encouraging, but the police are still investigating.",
+      "wrong": [
+        "The latest news from the region are encouraging, but the police are still investigating.",
+        "The latest news from the region is encouraging, but the police is still investigating.",
+        "The latest news from the region are encouraging, but the police is still investigating."
+      ],
+      "hint": "Два существительных с «обманчивым» числом: одно с -s, другое без.",
+      "explain": "news — неисчисляемое, глагол в ед. ч. (is); police — только мн. ч. (are). Форма слова здесь не совпадает с грамматическим числом.",
+      "tr": "Последние новости из региона обнадёживают, но полиция всё ещё ведёт расследование."
+    },
+    {
+      "id": "c1-nouns-agreement-e04",
+      "type": "gap",
+      "q": "Each of the candidates ___ given fifteen minutes to present their proposal to the panel.",
+      "correct": "was",
+      "wrong": [
+        "were"
+      ],
+      "hint": "Подлежащее — each, а не candidates.",
+      "explain": "Each of the + мн. ч.: подлежащее — each, поэтому глагол в ед. ч.: Each of the candidates was. candidates лишь уточняет, о ком речь.",
+      "tr": "Каждому из кандидатов дали пятнадцать минут, чтобы представить своё предложение комиссии."
+    },
+    {
+      "id": "c1-nouns-agreement-e05",
+      "type": "gap",
+      "q": "Ten years ___ a long time to wait for a decision on such a simple case.",
+      "correct": "is",
+      "wrong": [
+        "are",
+        "were"
+      ],
+      "hint": "Срок здесь — набор отдельных лет или один период?",
+      "explain": "Срок как одно целое → глагол в ед. ч.: Ten years is a long time. Формы мн. ч. are и were здесь неверны.",
+      "tr": "Десять лет — слишком долгий срок ожидания решения по такому простому делу."
+    }
+  ],
+  "glossary": {
+    "alone": "одни, в одиночестве",
+    "Asia": "Азия",
+    "British": "британский",
+    "candidates": "кандидаты",
+    "case": "дело (судебное)",
+    "cities": "города",
+    "climate": "климатический; климат",
+    "communicate": "общаться",
+    "complained": "пожаловались (3-я форма от complain)",
+    "complete": "полный; пройти, завершить",
+    "completely": "полностью",
+    "conference": "конференция",
+    "cruise": "круиз; cruise ship — круизный лайнер",
+    "cycle": "ездить на велосипеде",
+    "decision": "решение",
+    "degree": "учёная степень; degree subject — предмет для получения степени",
+    "delay": "задержка",
+    "doubled": "удвоилось (3-я форма от double)",
+    "drop": "опускаться, падать",
+    "economics": "экономика (наука)",
+    "employees": "сотрудники",
+    "endangered": "вымирающий, находящийся под угрозой",
+    "energy": "энергия",
+    "engineers": "инженеры",
+    "European": "европейский",
+    "far": "далеко",
+    "government": "правительство",
+    "hardest": "сильнее всего",
+    "homeless": "(the homeless) бездомные",
+    "kilometres": "километры",
+    "languages": "языки",
+    "main": "главный",
+    "management": "управление, менеджмент",
+    "merger": "слияние (компаний)",
+    "migration": "миграция",
+    "news": "новость, новости (неисчисл.)",
+    "number": "число, количество; a number of — ряд, несколько",
+    "panel": "комиссия, жюри",
+    "popular": "популярный",
+    "post": "должность",
+    "present": "представить",
+    "presenting": "представляет, выступает с (-ing от present)",
+    "prices": "цены",
+    "project": "проект",
+    "promised": "пообещало (3-я форма от promise)",
+    "proposal": "предложение (проект)",
+    "qualified": "квалифицированный",
+    "requires": "требует (3-е л. от require)",
+    "sharp": "резкий",
+    "shift": "смена (рабочая)",
+    "ship": "корабль, лайнер",
+    "shortage": "нехватка",
+    "simple": "простой",
+    "smartphone": "смартфон",
+    "species": "вид (биологический)",
+    "staff": "сотрудники, персонал",
+    "subjects": "предметы (учебные)",
+    "suffer": "страдать",
+    "support": "поддержка",
+    "surprise": "неожиданность, сюрприз",
+    "system": "система",
+    "team": "команда",
+    "temperatures": "температура (мн. ч.)",
+    "universities": "университеты",
+    "zero": "ноль; below zero — ниже нуля"
+  }
+}
