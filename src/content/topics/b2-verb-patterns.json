@@ -217,14 +217,14 @@
     {
       "id": "b2-verb-patterns-p06",
       "type": "gap",
-      "q": "The director first presented the sales figures and then went on ___ about plans for next year.",
-      "correct": "to talk",
+      "q": "Helen started her career as an assistant in a small studio and later went on ___ one of the country's leading designers.",
+      "correct": "to become",
       "wrong": [
-        "talking"
+        "becoming"
       ],
-      "hint": "Директор продолжил то же самое или перешёл к новой теме?",
-      "explain": "go on + to do — перейти к следующему действию или теме. go on + -ing — продолжать то же самое действие.",
-      "tr": "Сначала директор представил показатели продаж, а затем перешёл к планам на следующий год."
+      "hint": "Хелен продолжала прежнее занятие или перешла к следующему этапу?",
+      "explain": "go on + to do — перейти к следующему действию или этапу: later went on to become. go on + -ing — продолжать то же самое, а стать ведущим дизайнером — новый этап, а не продолжение прежнего занятия.",
+      "tr": "Хелен начинала карьеру ассистентом в небольшой студии, а позже стала одним из ведущих дизайнеров страны."
     },
     {
       "id": "b2-verb-patterns-p07",
@@ -241,15 +241,15 @@
     {
       "id": "b2-verb-patterns-p08",
       "type": "gap",
-      "q": "I tried ___ the window with all my strength, but it was stuck.",
-      "correct": "to open",
+      "q": "I tried hard ___ what the speaker was saying, but his accent was too strong for me.",
+      "correct": "to understand",
       "wrong": [
-        "opening",
-        "open"
+        "understanding",
+        "understand"
       ],
       "hint": "Человек прикладывал усилие, но ничего не вышло.",
-      "explain": "try + to do — пытаться, прилагать усилия (with all my strength). try + -ing — пробовать как эксперимент; здесь же окно так и не открылось.",
-      "tr": "Я изо всех сил пытался открыть окно, но его заклинило."
+      "explain": "try + to do — пытаться, прилагать усилия (tried hard), часто безуспешно. try + -ing — попробовать что-то как способ решить проблему, а понимание — не способ, который можно испробовать. После try без to инфинитив не ставят.",
+      "tr": "Я очень старался понять, что говорит докладчик, но у него был слишком сильный для меня акцент."
     },
     {
       "id": "b2-verb-patterns-p09",
@@ -418,15 +418,19 @@
     }
   ],
   "glossary": {
+    "accent": "акцент",
+    "assistant": "ассистент, помощник",
     "attention": "внимание",
     "black": "чёрный",
     "building": "здание",
     "café": "кафе",
     "cancelled": "отменён (3-я форма от cancel)",
+    "career": "карьера",
     "clearly": "отчётливо, ясно",
     "coffee": "кофе",
     "conference": "конференция",
     "crossing": "переходя (-ing от cross)",
+    "designers": "дизайнеры",
     "director": "директор",
     "doctor": "врач",
     "driving": "ехали (за рулём) (-ing от drive)",
@@ -438,6 +442,7 @@
     "health": "здоровье",
     "journalism": "журналистика",
     "kilos": "килограммы",
+    "leading": "ведущий",
     "lights": "свет, лампы",
     "name": "имя",
     "painkiller": "обезболивающее",
@@ -451,13 +456,17 @@
     "round": "(turn round) обернуться",
     "salary": "зарплата",
     "sales": "продажи",
+    "saying": "говорил (-ing от say)",
     "single": "один-единственный",
     "sorry": "извини",
+    "speaker": "докладчик, выступающий",
     "station": "вокзал, станция",
     "stopped": "перестал; остановились (прош. от stop)",
     "street": "улица",
     "strength": "сила",
+    "strong": "сильный (об акценте)",
     "stuck": "застрявший, заклинивший",
+    "studio": "студия",
     "terrible": "ужасный",
     "trying": "пытаясь (-ing от try)",
     "turned": "(turned round) обернулась (прош. от turn)",

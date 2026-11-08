@@ -234,14 +234,14 @@
     {
       "id": "c1-unreal-past-p07",
       "type": "gap",
-      "q": "The streets are all wet, so it looks as if it ___ during the night.",
+      "q": "The streets are all wet, so it looks as if it ___ quite heavily.",
       "correct": "has rained",
       "wrong": [
         "would have rained"
       ],
       "hint": "Мокрые улицы — реальное доказательство. Ситуация вероятная или воображаемая?",
       "explain": "Если сказанное после as if, скорее всего, правда, используется обычное время: it has rained. would have rained не сообщает о прошедшем событии — это калька с русского «как будто бы прошёл дождь».",
-      "tr": "Улицы совсем мокрые — похоже, ночью шёл дождь."
+      "tr": "Улицы совсем мокрые — похоже, прошёл сильный дождь."
     },
     {
       "id": "c1-unreal-past-p08",
@@ -443,6 +443,7 @@
     "further": "ещё, дополнительный",
     "government": "правительство",
     "gradually": "постепенно",
+    "heavily": "сильно (о дожде)",
     "imagine": "представь",
     "increases": "рост, повышение (мн. ч.)",
     "insisted": "настоял (прош. от insist)",

@@ -41,7 +41,7 @@
     },
     {
       "title": "however, nevertheless; whereas, while",
-      "body": "**however, nevertheless** — наречия: связывают **два отдельных предложения**. Ставятся после точки или точки с запятой, дальше — запятая.\n\n- The plan was risky. However, it worked.\n- соединять два предложения только запятой нельзя: не …, however it worked\n\n**whereas / while** — союзы: сопоставляют два факта **в одном предложении**.",
+      "body": "**however, nevertheless** — наречия: связывают **два отдельных предложения**. Ставятся после точки или точки с запятой, дальше — запятая.\n\n- The plan was risky. However, it worked.\n- в письменной речи два предложения не соединяют только запятой: не …, however it worked\n\n**whereas / while** — союзы: сопоставляют два факта **в одном предложении**.",
       "examples": [
         {
           "en": "The plan was risky. However, it worked.",
@@ -235,10 +235,10 @@
       "q": "My brother loves big, noisy cities, ___ I prefer the peace of the countryside.",
       "correct": "whereas",
       "wrong": [
-        "however"
+        "despite"
       ],
       "hint": "Нужен союз, который соединяет два контрастных факта в одном предложении.",
-      "explain": "whereas — союз: сопоставляет два факта в одном предложении. however — наречие, оно не может соединять два предложения через запятую.",
+      "explain": "whereas — союз: сопоставляет два факта в одном предложении. despite — предлог: после него идёт существительное или -ing, а не придаточное с подлежащим и глаголом (I prefer).",
       "tr": "Мой брат любит большие шумные города, а я предпочитаю спокойствие сельской местности."
     },
     {
@@ -368,12 +368,12 @@
       "q": "Some of my colleagues love working from home, ___ others find it hard to concentrate there.",
       "correct": "while",
       "wrong": [
-        "however",
+        "unlike",
         "despite",
         "in spite of"
       ],
       "hint": "Нужен союз, который сопоставляет две группы людей в одном предложении.",
-      "explain": "while (= whereas) — союз: сопоставляет два факта в одном предложении. however — наречие и не соединяет предложения через запятую, а despite и in spite of требуют существительного.",
+      "explain": "while (= whereas) — союз: сопоставляет два факта в одном предложении. unlike, despite и in spite of — предлоги: после них идёт существительное (unlike others, despite the noise), а не придаточное с подлежащим и глаголом.",
       "tr": "Некоторые мои коллеги обожают работать из дома, а другим там трудно сосредоточиться."
     },
     {
@@ -409,11 +409,11 @@
       "q": "",
       "correct": "Sales fell in the spring. However, the company still made a profit.",
       "wrong": [
-        "Sales fell in the spring, however the company still made a profit.",
+        "Despite sales fell in the spring, the company still made a profit.",
         "Sales fell in the spring. Although, the company still made a profit."
       ],
-      "hint": "However — наречие. Как оно оформляется на письме?",
-      "explain": "However начинает новое предложение (или идёт после точки с запятой) и отделяется запятой. Через запятую however не соединяет два предложения, а although не стоит отдельно с запятой.",
+      "hint": "Сравните, что может стоять после despite, although и however.",
+      "explain": "However — наречие: начинает новое предложение и отделяется запятой. Although — союз, он вводит придаточное и не стоит отдельно с запятой, а после despite нужно существительное или -ing, а не придаточное (sales fell).",
       "tr": "Весной продажи упали. Тем не менее компания всё равно получила прибыль."
     }
   ],

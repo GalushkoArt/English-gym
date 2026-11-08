@@ -81,7 +81,7 @@
     },
     {
       "title": "Вопросы к подлежащему и предлог в конце",
-      "body": "Если **who / what** — подлежащее, вспомогательный do / does / did **не нужен**:\n\n- Who **called** you? — кто-то позвонил тебе\n- Who **did you call**? — ты позвонил кому-то\n- What **happened**? (не: What did happen? / What was happened?)\n\nПредлог в вопросе обычно ставится **в конце**: Who are you waiting **for**? What is this **about**?",
+      "body": "Если **who / what** — подлежащее, вспомогательный do / does / did **не нужен**:\n\n- Who **called** you? — кто-то позвонил тебе\n- Who **did you call**? — ты позвонил кому-то\n- What **happened**? (не: What was happened?)\n- в обычном вопросе к подлежащему did нет; Who did tell you? возможно только как эмфаза в особом контексте\n\nПредлог в вопросе обычно ставится **в конце**: Who are you waiting **for**? What is this **about**?",
       "examples": [
         {
           "en": "Who told you about it?",
@@ -302,14 +302,14 @@
     {
       "id": "b2-questions-indirect-p12",
       "type": "gap",
-      "q": "Who ___ you about the new office rules?",
+      "q": "A: Apparently the office will be closed all next week.\nB: Really? Who ___ you that?",
       "correct": "told",
       "wrong": [
         "did tell"
       ],
       "hint": "Who здесь — тот, кто совершил действие, то есть подлежащее.",
-      "explain": "Вопрос к подлежащему → без did: Who told you? did нужен только в вопросе к дополнению: Who did you tell?",
-      "tr": "Кто рассказал тебе о новых правилах в офисе?"
+      "explain": "Вопрос к подлежащему → без did: Who told you that? did нужен в вопросе к дополнению: Who did you tell? (Who did tell you? возможно лишь как эмфаза после спора, например «Если не Марк, то кто же?», — здесь обычный вопрос.)",
+      "tr": "— Говорят, офис будет закрыт всю следующую неделю. — Правда? Кто тебе это сказал?"
     },
     {
       "id": "b2-questions-indirect-p13",
@@ -413,20 +413,21 @@
       "q": "What ___ to the old factory after it closed down?",
       "correct": "happened",
       "wrong": [
-        "did happen",
+        "did happened",
         "was happened"
       ],
       "hint": "What здесь — подлежащее. И может ли этот глагол стоять в пассиве?",
-      "explain": "What — подлежащее → без did: What happened? happen — непереходный глагол и в пассиве не употребляется.",
+      "explain": "What — подлежащее → без did: What happened? Кроме того, после did глагол стоит в начальной форме, поэтому did happened невозможно ни в каком случае. happen — непереходный глагол и в пассиве не употребляется.",
       "tr": "Что стало со старой фабрикой после того, как она закрылась?"
     }
   ],
   "glossary": {
+    "apparently": "говорят, судя по всему",
     "bank": "банк",
     "breakfast": "завтрак",
     "card": "карта (банковская)",
     "client": "клиент",
-    "closed": "(closed down) закрылась (прош. от close down)",
+    "closed": "закрыт; (closed down) закрылась (прош. от close down)",
     "complains": "жалуется",
     "factory": "фабрика, завод",
     "finish": "закончить",

@@ -23,7 +23,7 @@
     },
     {
       "title": "May well, might as well, be bound to",
-      "body": "- **may / might / could well + V** — «вполне вероятно»: It may well rain later.\n- **might / may as well + V** — «можно и…, раз нет ничего лучше»: The bus has gone, so we might as well walk.\n- **be bound to + V** — «наверняка, обязательно» (уверенность говорящего): Prices are bound to rise.\n\nНе путайте may well (вероятность) и might as well (выбор за неимением лучшего).",
+      "body": "- **may / might / could well + V** — «вполне вероятно»: It may well rain later.\n- **might / may as well + V** — «можно и…, раз нет ничего лучше»: The bus has gone, so we might as well walk.\n- **might as well have + V3** — «с тем же успехом можно было…»: другой вариант дал бы тот же результат: We might as well have stayed at home — the match was cancelled.\n- **be bound to + V** — «наверняка, обязательно» (уверенность говорящего): Prices are bound to rise.\n\nНе путайте may well (вероятность) и might as well (выбор за неимением лучшего).",
       "examples": [
         {
           "en": "The decision may well be challenged in court.",
@@ -73,7 +73,7 @@
     },
     {
       "title": "Can't help -ing; could have V3 и was able to",
-      "body": "**can't / couldn't help + V-ing** — «не могу не…», «не удержался»: I couldn't help laughing.\n\n**could have + V3** — возможность в прошлом, которой **не воспользовались**: We could have won. (но проиграли)\n\n**was / were able to + V** (= managed to) — **удалось** в конкретной ситуации. Утвердительное could здесь не используют: Everyone was able to escape. В отрицании возможны оба варианта: couldn't / wasn't able to.",
+      "body": "**can't / couldn't help + V-ing** — «не могу не…», «не удержался»: I couldn't help laughing.\n\n**could have + V3** — возможность в прошлом, которой **не воспользовались**: We could have won. (но проиграли)\n\n**was / were able to + V** (= managed to) — **удалось** в конкретной ситуации. Утвердительное could здесь не используют: Everyone was able to escape. Исключение — глаголы восприятия и понимания: I could see the coast. В отрицании возможны оба варианта: couldn't / wasn't able to.",
       "examples": [
         {
           "en": "I couldn't help noticing that you looked worried.",
@@ -93,7 +93,7 @@
   "cheat": [
     "needn't have + V3 → сделал, а зря; didn't need to + V → не нужно было (и не делал)",
     "may / might well + V → вполне вероятно",
-    "might as well + V → можно и…, раз нет лучшего варианта",
+    "might as well + V → можно и…, раз нет лучшего варианта; might as well have V3 → с тем же успехом можно было…",
     "be bound to + V → наверняка; be supposed to → по плану (а на деле…)",
     "wouldn't + V → отказ в прошлом; It's odd that + S + should + V",
     "can't help + V-ing; could have V3 → мог, но не сделал; was able to → удалось"
@@ -188,15 +188,15 @@
     {
       "id": "c1-advanced-modals-p04",
       "type": "gap",
-      "q": "A: The last bus has gone. What shall we do?\nB: It's only twenty minutes on foot, so we ___ walk.",
-      "correct": "might as well",
+      "q": "A: How was the taxi ride?\nB: Terrible. It took forty minutes in the traffic, and it's only a twenty-minute walk — we ___ walked.",
+      "correct": "might as well have",
       "wrong": [
-        "may well",
-        "are bound to"
+        "may well have",
+        "needn't have"
       ],
-      "hint": "B предлагает решение, потому что лучшего варианта нет.",
-      "explain": "might as well + V — «можно и…, раз нет ничего лучше»: we might as well walk. may well и are bound to выражают вероятность и уверенность, а не предложение.",
-      "tr": "— Последний автобус ушёл. Что будем делать? — Пешком всего двадцать минут, так что можно и прогуляться."
+      "hint": "Они ехали на такси, и это ничего не дало. Говорящий оценивает вариант, который был бы ничем не хуже.",
+      "explain": "might as well have + V3 — «с тем же успехом можно было…»: пешком вышло бы не дольше. may well have walked значило бы «вполне возможно, что мы шли пешком», а needn't have walked — «шли пешком, а зря»; оба противоречат тому, что они ехали на такси.",
+      "tr": "— Как доехали на такси? — Ужасно. Сорок минут в пробках, а пешком всего двадцать — с тем же успехом могли бы дойти пешком."
     },
     {
       "id": "c1-advanced-modals-p05",
@@ -240,14 +240,14 @@
     {
       "id": "c1-advanced-modals-p08",
       "type": "gap",
-      "q": "It's strange that she ___ leave without saying goodbye to anyone.",
+      "q": "It's odd that you ___ mention her name — I was thinking about her only this morning.",
       "correct": "should",
       "wrong": [
         "must"
       ],
-      "hint": "После It's strange that говорящий выражает удивление. Какой модальный глагол здесь используется?",
-      "explain": "It's strange / odd / surprising that + S + should + V — should подчёркивает удивление. must выражает обязанность или уверенный вывод и здесь не подходит.",
-      "tr": "Странно, что она ушла, ни с кем не попрощавшись."
+      "hint": "Говорящего удивляет совпадение. Какой модальный глагол после It's odd that выражает удивление?",
+      "explain": "It's odd / strange / surprising that + S + should + V — should подчёркивает удивление: you should mention. must выражает обязанность или уверенный вывод, а собеседника никто не обязывал упоминать это имя.",
+      "tr": "Странно, что ты упомянул её имя — я как раз сегодня утром о ней думал."
     },
     {
       "id": "c1-advanced-modals-p09",
@@ -264,27 +264,27 @@
     {
       "id": "c1-advanced-modals-p10",
       "type": "gap",
-      "q": "The ferry sank within minutes, but all the passengers ___ reach the lifeboats.",
-      "correct": "were able to",
+      "q": "The lock was jammed, but after several attempts Ben ___ open the door with a screwdriver.",
+      "correct": "was able to",
       "wrong": [
         "could"
       ],
-      "hint": "Речь о конкретном случае, когда что-то удалось сделать.",
-      "explain": "Удалось в конкретной ситуации → were able to (= managed to). Утвердительное could описывает общую способность, а не однократный успех.",
-      "tr": "Паром затонул за несколько минут, но всем пассажирам удалось добраться до спасательных шлюпок."
+      "hint": "Речь о конкретном случае, когда что-то удалось сделать после нескольких попыток.",
+      "explain": "Удалось в конкретной ситуации → was able to (= managed to). Утвердительное could описывает общую способность, а не однократный успех после усилий.",
+      "tr": "Замок заело, но после нескольких попыток Бену удалось открыть дверь отвёрткой."
     },
     {
       "id": "c1-advanced-modals-p11",
       "type": "gap",
-      "q": "We ___ the final if our best player hadn't been injured in the first half.",
+      "q": "We ___ the final last Sunday if our best player hadn't been injured in the first half.",
       "correct": "could have won",
       "wrong": [
         "were able to win",
         "could win"
       ],
       "hint": "Победа была возможна, но не случилась.",
-      "explain": "could have + V3 — возможность в прошлом, которая не реализовалась: could have won. were able to win значит «удалось победить», а could win относится к настоящему или будущему.",
-      "tr": "Мы могли бы выиграть финал, если бы наш лучший игрок не получил травму в первом тайме."
+      "explain": "could have + V3 — возможность в прошлом, которая не реализовалась: could have won. were able to win значит «удалось победить», а could win относится к настоящему или будущему, тогда как финал уже прошёл (last Sunday).",
+      "tr": "Мы могли бы выиграть финал в прошлое воскресенье, если бы наш лучший игрок не получил травму в первом тайме."
     },
     {
       "id": "c1-advanced-modals-p12",
@@ -322,11 +322,11 @@
       "q": "It's surprising that nobody ___ the mistake before the report was published.",
       "correct": "should have noticed",
       "wrong": [
-        "should notice",
+        "should noticed",
         "must have noticed"
       ],
       "hint": "Удивление по поводу прошлого события. Какая форма нужна после It's surprising that?",
-      "explain": "It's surprising that + S + should have + V3 — удивление по поводу прошлого. should notice относится к настоящему, а must have noticed — уверенный вывод, который здесь не к месту.",
+      "explain": "It's surprising that + S + should have + V3 — удивление по поводу прошлого. После should нужен инфинитив, поэтому should noticed — неверная форма, а must have noticed — уверенный вывод, который здесь не к месту.",
       "tr": "Удивительно, что никто не заметил ошибку до публикации отчёта."
     },
     {
@@ -419,9 +419,11 @@
     "according": "согласно (according to — по данным)",
     "advance": "заранее (in advance)",
     "airport": "аэропорт",
+    "attempts": "попытки",
     "bank": "банковский (bank holiday — официальный выходной)",
     "bound": "обязательно, наверняка (be bound to)",
     "director": "директор",
+    "door": "дверь",
     "empty": "пустой (half empty — полупустой)",
     "ferry": "паром",
     "final": "финал",
@@ -434,13 +436,18 @@
     "injured": "травмирован (3-я форма от injure)",
     "irrational": "иррациональный, нерациональный",
     "jacket": "куртка",
+    "jammed": "заело (о замке)",
     "lifeboats": "спасательные шлюпки",
     "lift": "поездка (gave me a lift — подвезла)",
+    "lock": "замок",
+    "mention": "упоминать",
     "microphone": "микрофон",
     "mistake": "ошибка",
     "music": "музыка",
+    "name": "имя",
     "neighbour": "сосед",
     "nervous": "нервный (feel nervous — нервничать)",
+    "odd": "странный",
     "passengers": "пассажиры",
     "petrol": "бензин",
     "player": "игрок",
@@ -452,19 +459,25 @@
     "reach": "добраться до",
     "receipt": "чек",
     "report": "отчёт",
+    "ride": "поездка",
     "roads": "дороги",
     "sank": "затонул (прош. от sink)",
     "saying": "говоря (saying goodbye — прощаясь)",
+    "screwdriver": "отвёртка",
     "strange": "странный",
     "surprising": "удивительный",
     "tax": "налог",
     "taxi": "такси",
+    "terrible": "ужасно, ужасный",
     "theatre": "театр",
     "tickets": "билеты",
+    "traffic": "пробки, движение (in the traffic — в пробках)",
     "turn": "повернуть (turn down — сделать тише)",
     "turned": "пришли, появились (turned up)",
+    "twenty-minute": "двадцатиминутный (a twenty-minute walk — двадцать минут пешком)",
     "umbrella": "зонт",
     "walk": "идти пешком",
+    "walked": "шли пешком (3-я форма от walk)",
     "waste": "отходы (went to waste — пропала зря)"
   }
 }
