@@ -188,11 +188,11 @@
       "q": "In June Olga ___ at the same hospital for twenty years, so her colleagues are planning a party.",
       "correct": "will have been working",
       "wrong": [
-        "will be working",
+        "will work",
         "has been working"
       ],
       "hint": "Указан срок (for twenty years) и момент в будущем, к которому он наберётся.",
-      "explain": "for + срок до момента в будущем (In June) → Future Perfect Continuous: will have been working. has been working считает срок до настоящего момента, а не до июня.",
+      "explain": "for + срок до момента в будущем (In June) → Future Perfect Continuous: will have been working. will work значило бы «с июня проработает двадцать лет», а has been working считает срок до настоящего момента, а не до июня.",
       "tr": "В июне исполнится двадцать лет, как Ольга работает в одной и той же больнице, поэтому коллеги готовят праздник."
     },
     {
@@ -365,7 +365,7 @@
         "will have flown / will be landing"
       ],
       "hint": "Сравните: что будет происходить в девять и что уже произойдёт к часу дня?",
-      "explain": "at nine — процесс в момент в будущем → will be flying; by one o'clock — посадка уже состоится → will have landed. will land не подходит: самолёт садится в полдень, а не к часу.",
+      "explain": "at nine — процесс в момент в будущем → will be flying; by one o'clock — посадка (в полдень) к этому моменту уже состоится → will have landed. will fly и will land называют сами действия, а не процесс в момент и не результат к сроку.",
       "tr": "Наш рейс вылетает в шесть и приземляется в полдень, так что в девять мы будем лететь над Альпами, а к часу дня уже приземлимся в Риме."
     },
     {

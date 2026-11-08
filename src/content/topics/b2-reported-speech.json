@@ -9,7 +9,7 @@
   "rules": [
     {
       "title": "Сдвиг времён и слов времени",
-      "body": "После глагола сообщения в прошедшем (**said, told, asked**) время обычно сдвигается назад:\n- am/is → **was**; do/does → **did**; am doing → **was doing**\n- will → **would**; can → **could**; must → **had to**\n- did / have done → **had done**\n\nМеняются слова времени и места: today → **that day**, tomorrow → **the next day**, yesterday → **the day before**, ago → **before**, here → **there**.\n\nЕсли сказанное по-прежнему верно, сдвиг не обязателен.",
+      "body": "После глагола сообщения в прошедшем (**said, told, asked**) время обычно сдвигается назад:\n- am/is → **was**; do/does → **did**; am doing → **was doing**\n- will → **would**; can → **could**; must → **had to** (или must без изменений)\n- did / have done → **had done**\n\nМеняются слова времени и места: today → **that day**, tomorrow → **the next day**, yesterday → **the day before**, ago → **before**, here → **there**.\n\nЕсли сказанное по-прежнему верно, сдвиг не обязателен.",
       "examples": [
         {
           "en": "'I'm tired.' → She said she was tired.",

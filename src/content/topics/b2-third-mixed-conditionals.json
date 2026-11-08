@@ -234,15 +234,15 @@
     {
       "id": "b2-third-mixed-conditionals-p08",
       "type": "gap",
-      "q": "I'm not sure, but if you had applied earlier, they ___ you a place on the course.",
+      "q": "The course started in September. I'm not sure, but if you had applied in time, they ___ you a place.",
       "correct": "might have offered",
       "wrong": [
         "might offer",
         "will have offered"
       ],
       "hint": "Говорящий не уверен, и речь о прошлом.",
-      "explain": "might have + V3 — «возможно, бы» в прошлом: might have offered. might offer относится к будущему, will have offered — Future Perfect.",
-      "tr": "Не уверен, но если бы ты подал заявку раньше, тебе, возможно, предложили бы место на курсе."
+      "explain": "Курс уже начался, так что и условие, и результат в прошлом → might have + V3 («возможно, бы»): might have offered. might offer относилось бы к настоящему или будущему, will have offered — Future Perfect.",
+      "tr": "Курс начался в сентябре. Не уверен, но если бы ты подал заявку вовремя, тебе, возможно, предложили бы место."
     },
     {
       "id": "b2-third-mixed-conditionals-p09",
@@ -321,7 +321,7 @@
       ],
       "hint": "Что означает 'd в if-части? И какая форма нужна в главной?",
       "explain": "I'd known = I had known (if-часть). В главной части — would have + V3: wouldn't have driven. hadn't driven — форма if-части.",
-      "tr": "Если бы я знал, что магазин закрыт, я бы не ехал в такую даль."
+      "tr": "Если бы я знал, что магазин закрыт, я бы не поехал в такую даль."
     },
     {
       "id": "b2-third-mixed-conditionals-p15",
@@ -395,14 +395,14 @@
     {
       "id": "b2-third-mixed-conditionals-e05",
       "type": "gap",
-      "q": "The fire spread very quickly. If the alarm ___ working, more people might have been hurt.",
+      "q": "The fire spread very quickly, but luckily the alarm went off at once. If it ___ working, more people might have been hurt.",
       "correct": "hadn't been",
       "wrong": [
         "wasn't"
       ],
       "hint": "Пожар уже произошёл. Какая форма нужна в if-части?",
-      "explain": "Нереальное прошлое → if + had + V3: hadn't been working. wasn't working — форма второго типа, она описывает настоящее.",
-      "tr": "Пожар распространился очень быстро. Если бы сигнализация не работала, пострадало бы, возможно, больше людей."
+      "explain": "Сигнализация сработала, условие противоречит прошлому факту → if + had + V3: hadn't been working. wasn't working — форма второго типа, она описывает настоящее.",
+      "tr": "Пожар распространился очень быстро, но, к счастью, сигнализация сразу сработала. Если бы она не работала, пострадало бы, возможно, больше людей."
     }
   ],
   "glossary": {
@@ -435,6 +435,7 @@
     "heavily": "сильно (о дожде)",
     "holiday": "отпуск",
     "loan": "кредит, заём",
+    "luckily": "к счастью",
     "manager": "руководитель, менеджер",
     "map": "карта",
     "missed": "опоздали на; пропустил (прош. от miss)",
@@ -455,6 +456,9 @@
     "shop": "магазин",
     "shy": "застенчивый",
     "sorry": "(I'm sorry) извини, мне жаль",
-    "spread": "распространился (прош. от spread)"
+    "spread": "распространился (прош. от spread)",
+    "started": "начался (прош. от start)",
+    "time": "(in time) вовремя",
+    "went": "(went off) сработала (прош. от go off)"
   }
 }

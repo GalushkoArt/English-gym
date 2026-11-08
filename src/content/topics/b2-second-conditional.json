@@ -27,7 +27,7 @@
     },
     {
       "title": "were для всех лиц",
-      "body": "В if-части второго типа можно ставить **were** с любым подлежащим: if I were, if she were, if it were. В разговорной речи встречается и was.\n\nВ формуле совета — только **If I were you, I'd…**",
+      "body": "В if-части второго типа можно ставить **were** с любым подлежащим: if I were, if she were, if it were. В разговорной речи встречается и was.\n\nВ формуле совета стандартный вариант — **If I were you, I'd…**",
       "examples": [
         {
           "en": "If I were you, I'd accept the offer.",
@@ -187,12 +187,12 @@
       "q": "If the company ___ its prices, it would lose most of its customers.",
       "correct": "raised",
       "wrong": [
-        "raises",
+        "would have raised",
         "would raise",
         "will raise"
       ],
       "hint": "Посмотрите на главную часть — она подсказывает тип условного.",
-      "explain": "В главной части would lose → второй тип: if + Past Simple (raised). Present (raises) нужен для первого типа с will, а would и will в if-части не ставятся.",
+      "explain": "В главной части would lose → второй тип: if + Past Simple (raised). would и will в if-части не ставятся, а would have raised к тому же относится к прошлому.",
       "tr": "Если бы компания подняла цены, она потеряла бы большинство своих клиентов."
     },
     {
@@ -264,14 +264,14 @@
     {
       "id": "b2-second-conditional-p10",
       "type": "gap",
-      "q": "If they ___ in the city centre, they wouldn't need to spend two hours a day commuting.",
+      "q": "They can't afford to move, but if they ___ in the city centre, they wouldn't need to spend two hours a day commuting.",
       "correct": "lived",
       "wrong": [
         "would live"
       ],
       "hint": "would уже есть в главной части. Что ставится после if?",
-      "explain": "В if-части второго типа — Past Simple: lived. would после if не ставится, это калька с «если бы».",
-      "tr": "Если бы они жили в центре города, им не пришлось бы тратить два часа в день на дорогу."
+      "explain": "В if-части второго типа — Past Simple: lived. would после if — калька с «если бы»; if they would… могло бы значить только «если бы они согласились», а дело здесь не в желании, а в деньгах.",
+      "tr": "Они не могут позволить себе переезд, но если бы они жили в центре города, им не пришлось бы тратить два часа в день на дорогу."
     },
     {
       "id": "b2-second-conditional-p11",
@@ -394,7 +394,7 @@
         "make / would drive"
       ],
       "hint": "Ситуация маловероятная. Какие формы нужны в обеих частях?",
-      "explain": "Маловероятное будущее → if + Past Simple (made), would + V (would drive). would не ставится после if, а will и make относятся к первому типу.",
+      "explain": "Маловероятное будущее → if + Past Simple (made), would + V (would drive). would не ставится после if, will не сочетается с made, а make — Present (к тому же без -s), он не сочетается с would.",
       "tr": "Вряд ли так будет, но если бы город сделал общественный транспорт бесплатным, гораздо меньше людей ездили бы на работу на машине."
     },
     {
@@ -412,6 +412,7 @@
     }
   ],
   "glossary": {
+    "afford": "(can't afford) не по карману, не могут позволить себе",
     "apply": "подавать заявку",
     "centre": "центр",
     "closer": "ближе",
