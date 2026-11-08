@@ -9,7 +9,7 @@
   "rules": [
     {
       "title": "Форма: -er / -est или more / most",
-      "body": "- **1 слог**: cheap → cheap**er** → the cheap**est**; big → bi**gg**er (удвоение после краткой гласной); nice → nice**r**\n- **2 слога на -y**: easy → eas**ier** → the eas**iest**; busy → bus**ier**\n- **2 слога и больше**: **more / the most** + прилагательное: more modern, the most expensive\n\nСпособы не смешиваем: не *more cheaper*. После сравнительной степени — **than**.",
+      "body": "- **1 слог**: cheap → cheap**er** → the cheap**est**; big → bi**gg**er (удвоение после краткой гласной); nice → nice**r**\n- **2 слога на -y**: easy → eas**ier** → the eas**iest**; busy → bus**ier**\n- **2 слога и больше**: **more / the most** + прилагательное: more modern, the most expensive. Несколько двусложных (**quiet, simple, narrow, clever**) допускают оба способа: quieter / more quiet\n\nСпособы не смешиваем: не *more cheaper*. После сравнительной степени — **than**.",
       "examples": [
         {
           "en": "This phone is cheaper and lighter than mine.",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Неправильные формы и less / least",
-      "body": "- **good** → better → the best\n- **bad** → worse → the worst\n- **far** → further → the furthest\n- **much / many** → more → the most; **little** → less → the least\n\n**less / the least** + прилагательное — «менее / наименее»: less expensive, the least popular.",
+      "body": "- **good** → better → the best\n- **bad** → worse → the worst\n- **far** → further → the furthest (также farther → the farthest)\n- **much / many** → more → the most; **little** → less → the least\n\n**less / the least** + прилагательное — «менее / наименее»: less expensive, the least popular.",
       "examples": [
         {
           "en": "Her English is better than mine.",
@@ -104,7 +104,7 @@
     {
       "wrong": "It's the biggest city of Russia.",
       "right": "It's the biggest city in Russia.",
-      "note": "место → in; of — для периода или группы: of the year, of the three"
+      "note": "место → in; of — для периода или числа: of the year, of the three"
     },
     {
       "wrong": "He is the same tall as his brother.",
@@ -201,7 +201,7 @@
         "of"
       ],
       "hint": "После пропуска — место.",
-      "explain": "Превосходная степень + место → in: the tallest building in the city. of используется с периодом или группой: of the year, of the three.",
+      "explain": "Превосходная степень + место → in: the tallest building in the city. of используется с периодом или числом: of the year, of the three.",
       "tr": "Это самое высокое здание в городе — в нём больше семидесяти этажей."
     },
     {

@@ -172,7 +172,7 @@
         "Having been read"
       ],
       "hint": "Сначала директор сделал одно, потом другое. Кто выполнял первое действие?",
-      "explain": "Having + V3 — действие завершилось до forwarded, и выполнял его сам директор: Having read. Being read и having been read — пассив («его прочитали»), а Read в начале звучит как повелительное наклонение.",
+      "explain": "Having + V3 — действие завершилось до forwarded, и выполнял его сам директор: Having read. Being read и having been read — пассив («его прочитали»), а Read в начале читается либо как повелительное наклонение, либо тоже как пассивное V3.",
       "tr": "Внимательно прочитав отчёт, директор переслал его совету директоров на утверждение."
     },
     {
@@ -246,10 +246,10 @@
       "correct": "Walking home from the station, I got caught in a heavy storm.",
       "wrong": [
         "Walking home from the station, a heavy storm caught me.",
-        "Walking home from the station, it started to rain heavily."
+        "Walked home from the station, I got caught in a heavy storm."
       ],
       "hint": "Кто шёл домой со станции? Именно это слово должно быть подлежащим главной части.",
-      "explain": "Подлежащее главной части должно выполнять действие причастия: I walked → I got caught. В остальных вариантах получается, что домой шли гроза или it — это висячее причастие.",
+      "explain": "Подлежащее главной части должно выполнять действие причастия: I walked → I got caught. В варианте с a heavy storm получается, что домой шла гроза (висячее причастие), а Walked — пассивная форма, хотя шёл сам говорящий.",
       "tr": "Когда я шёл домой со станции, меня застала сильная гроза."
     },
     {
@@ -330,7 +330,7 @@
         "Having been checked the figures again, the accountant found two serious mistakes."
       ],
       "hint": "Кто проверял цифры? Это должно быть подлежащее главной части, а форма — активная.",
-      "explain": "Бухгалтер сам проверил цифры, а потом нашёл ошибки: Having checked …, the accountant found. Во втором варианте висячее причастие (ошибки не проверяли цифры), в остальных — пассивные формы вместо активной.",
+      "explain": "Бухгалтер сам проверил цифры, а потом нашёл ошибки: Having checked …, the accountant found. В варианте с were found висячее причастие (ошибки не проверяли цифры), в остальных — пассивные формы вместо активной.",
       "tr": "Ещё раз проверив цифры, бухгалтер нашёл две серьёзные ошибки."
     },
     {
@@ -381,10 +381,10 @@
       "correct": "Having been told about the changes only the day before, the staff were understandably annoyed.",
       "wrong": [
         "Having told about the changes only the day before, the staff were understandably annoyed.",
-        "Having been told about the changes only the day before, it was understandable that the staff were annoyed."
+        "Having been told about the changes only the day before, the announcement annoyed the staff."
       ],
       "hint": "Сотрудникам сообщили или они сообщили? И кто должен быть подлежащим главной части?",
-      "explain": "Сотрудникам сообщили раньше → having been + V3, а подлежащее главной части — the staff. Having told — активная форма, а с it получается висячее причастие.",
+      "explain": "Сотрудникам сообщили раньше → having been + V3, а подлежащее главной части — the staff. Having told — активная форма, а с подлежащим the announcement получается висячее причастие: будто сообщили объявлению.",
       "tr": "Поскольку об изменениях сотрудникам сообщили только накануне, они, что вполне понятно, были недовольны."
     },
     {

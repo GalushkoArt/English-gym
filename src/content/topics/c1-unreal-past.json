@@ -45,7 +45,7 @@
     },
     {
       "title": "As if / as though",
-      "body": "Время после as if зависит от того, насколько ситуация реальна:\n\n- **нереально сейчас** → Past Simple / were: He talks as if he **knew** everything. (он не знает)\n- **нереально в прошлом** → Past Perfect: She looked as if she **had seen** a ghost.\n- **вероятно, правда** → обычное время: It looks as if it**'s going to** rain. (небо в тучах)\n\nПеред as if не ставится like: looks as if, а не looks like as if.",
+      "body": "Время после as if зависит от того, насколько ситуация реальна:\n\n- **нереально сейчас** → Past Simple / were: He talks as if he **knew** everything. (он не знает)\n- **нереально в прошлом** → Past Perfect: She looked as if she **had seen** a ghost.\n- **вероятно, правда** → обычное время: It looks as if it**'s going to** rain. (небо в тучах)\n\nПрошедшее время подчёркивает нереальность; в разговоре и о нереальном часто говорят обычным временем: He talks as if he knows everything. Русское «как будто бы» не переводится через would: as if he had done, а не as if he would have done. Перед as if не ставится like: looks as if, а не looks like as if.",
       "examples": [
         {
           "en": "He behaves as if he owned the place.",
@@ -143,7 +143,7 @@
     },
     {
       "front": "He talks as if he knows everything / as if he knew everything — в чём разница?",
-      "back": "**knew** — говорящий считает это неправдой.\n**knows** — возможно, так и есть."
+      "back": "**knew** — подчёркивает, что это неправда.\n**knows** — нейтрально: возможно, так и есть."
     },
     {
       "front": "«Врач настоял, чтобы она не ехала» — формально.",
@@ -161,11 +161,11 @@
       "q": "It's nearly midnight. It's time we ___ home — the last train leaves in twenty minutes.",
       "correct": "went",
       "wrong": [
-        "go",
+        "would go",
         "will go"
       ],
       "hint": "После It's time + подлежащее нужна особая форма, хотя речь о настоящем.",
-      "explain": "It's time + S + Past Simple: It's time we went. Настоящее (go) и будущее (will go) в этой конструкции не используются.",
+      "explain": "It's time + S + Past Simple: It's time we went. Форма прошедшая, хотя речь о настоящем; will и would после It's time + подлежащее не ставятся.",
       "tr": "Уже почти полночь. Нам пора домой — последний поезд уходит через двадцать минут."
     },
     {
@@ -174,10 +174,10 @@
       "q": "It's high time the council ___ something about the potholes on this road.",
       "correct": "did",
       "wrong": [
-        "does"
+        "has done"
       ],
       "hint": "It's high time — «давно пора». Какое время идёт после подлежащего?",
-      "explain": "It's high time + S + Past Simple: the council did. Форма прошедшая, но значение настоящее: это давно должно было случиться.",
+      "explain": "It's high time + S + Past Simple: the council did. Форма прошедшая, но значение настоящее: это давно должно было случиться. Present Perfect (has done) в этой конструкции не используется, хотя по-русски и звучит «давно».",
       "tr": "Городскому совету давно пора что-то сделать с выбоинами на этой дороге."
     },
     {
@@ -186,10 +186,10 @@
       "q": "Everyone is here now, so I think it's time ___ the meeting.",
       "correct": "to start",
       "wrong": [
-        "we start"
+        "we will start"
       ],
       "hint": "Есть две модели: It's time + подлежащее + прошедшее время и It's time + инфинитив. Какая из них построена правильно?",
-      "explain": "It's time to + V — нейтральное «пора»: it's time to start. С подлежащим нужен Past Simple (it's time we started), поэтому we start — ошибка.",
+      "explain": "It's time to + V — нейтральное «пора»: it's time to start. С подлежащим нужен Past Simple (it's time we started), а will после It's time не ставится.",
       "tr": "Все уже пришли, так что, думаю, пора начинать совещание."
     },
     {
@@ -223,12 +223,12 @@
       "q": "He talks about the project as if he ___ it all by himself, but it was really a team effort.",
       "correct": "had done",
       "wrong": [
-        "has done",
+        "would do",
         "does",
         "would have done"
       ],
       "hint": "Это неправда, и речь о прошлом. Какое время передаёт нереальное прошлое?",
-      "explain": "as if + Past Perfect — нереальная ситуация в прошлом: he had done (на самом деле работала команда). Present Perfect показывал бы, что это может быть правдой.",
+      "explain": "as if + Past Perfect — нереальная ситуация в прошлом: he had done (на самом деле работала команда). does относится к настоящему, а would do и would have done не сообщают о том, что он якобы сделал: это калька с русского «как будто бы».",
       "tr": "Он говорит о проекте так, будто сделал всё сам, хотя на самом деле это была работа всей команды."
     },
     {
@@ -237,10 +237,10 @@
       "q": "The streets are all wet, so it looks as if it ___ during the night.",
       "correct": "has rained",
       "wrong": [
-        "had rained"
+        "would have rained"
       ],
       "hint": "Мокрые улицы — реальное доказательство. Ситуация вероятная или воображаемая?",
-      "explain": "Если сказанное после as if, скорее всего, правда, используется обычное время: it has rained. Past Perfect означал бы, что дождя на самом деле не было.",
+      "explain": "Если сказанное после as if, скорее всего, правда, используется обычное время: it has rained. would have rained не сообщает о прошедшем событии — это калька с русского «как будто бы прошёл дождь».",
       "tr": "Улицы совсем мокрые — похоже, ночью шёл дождь."
     },
     {
@@ -361,12 +361,12 @@
       "q": "It's about time the government ___ the real reasons for the price increases.",
       "correct": "explained",
       "wrong": [
-        "explains",
+        "would explain",
         "will explain",
         "to explain"
       ],
       "hint": "It's about time + подлежащее — какая форма передаёт «давно пора»?",
-      "explain": "It's about time + S + Past Simple: the government explained. Настоящее и будущее время здесь невозможны, а to-инфинитив ставится только без подлежащего (It's about time to…).",
+      "explain": "It's about time + S + Past Simple: the government explained. will и would после подлежащего здесь не ставятся, а to-инфинитив возможен только без подлежащего (It's about time to…).",
       "tr": "Правительству давно пора объяснить настоящие причины роста цен."
     },
     {

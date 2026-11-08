@@ -324,11 +324,11 @@
       "q": "I'm going to call Laura tonight.",
       "correct": "I've already decided to call Laura tonight.",
       "wrong": [
-        "I've just decided, at this moment, to call Laura tonight.",
+        "I may call Laura tonight, but I haven't decided yet.",
         "Laura has asked me to call her tonight."
       ],
-      "hint": "Что выражает be going to: решение в момент речи или заранее?",
-      "explain": "be going to выражает намерение, принятое заранее. Решение в момент речи передала бы форма I'll call her.",
+      "hint": "be going to — это уже принятое решение или пока только возможность?",
+      "explain": "be going to выражает намерение: решение уже принято заранее. may … haven't decided — только возможность, а Laura has asked me… — чужая просьба, а не моё намерение.",
       "tr": "Я уже решил позвонить Лоре сегодня вечером."
     }
   ],

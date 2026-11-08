@@ -9,7 +9,7 @@
   "rules": [
     {
       "title": "It is / It was … that / who …",
-      "body": "Выделяем один элемент предложения: **It + is / was + выделяемое + that / who + остальное**.\n\n- выделить можно подлежащее, дополнение, время, место, причину\n- о людях — **who** или that; о предметах, времени, месте — **that** (which здесь обычно не используется)\n- время be: о настоящем — **It is**, о прошлом — **It was**\n\nПо-русски то же самое передают интонацией или словами «именно», «как раз».",
+      "body": "Выделяем один элемент предложения: **It + is / was + выделяемое + that / who + остальное**.\n\n- выделить можно подлежащее, дополнение, время, место, причину\n- о людях — **who** или that; о предметах — обычно **that** (which реже); о времени и месте — только **that**\n- время be: о настоящем — **It is**, о прошлом — **It was**\n\nПо-русски то же самое передают интонацией или словами «именно», «как раз».",
       "examples": [
         {
           "en": "It was Anna who found the error, not Mark.",
@@ -77,7 +77,7 @@
     },
     {
       "title": "It wasn't until … that …",
-      "body": "**It wasn't until + время / событие + that + Past Simple** — «только когда…», «лишь после…».\n\n- It wasn't until I got home **that** I noticed… (= I didn't notice … until I got home.)\n- во второй части — **that** и прямой порядок слов; не when и не инверсия\n\nСравните с инверсией: Not until I got home did I notice… — та же мысль, но другая модель.",
+      "body": "**It wasn't until + время / событие + that + Past Simple** — «только когда…», «лишь после…».\n\n- It wasn't until I got home **that** I noticed… (= I didn't notice … until I got home.)\n- во второй части — **that** и прямой порядок слов, без инверсии\n- when вместо that встречается в разговорной речи, но нормативный вариант — that\n\nСравните с инверсией: Not until I got home did I notice… — та же мысль, но другая модель.",
       "examples": [
         {
           "en": "It wasn't until the next day that we heard the news.",
@@ -115,9 +115,9 @@
       "note": "после all не ставится what: all (that) I want"
     },
     {
-      "wrong": "It wasn't until midnight when he called.",
+      "wrong": "It wasn't until midnight did he call.",
       "right": "It wasn't until midnight that he called.",
-      "note": "в конструкции It wasn't until … части связывает that"
+      "note": "после It wasn't until … — that и прямой порядок; инверсия нужна только в модели Not until …"
     }
   ],
   "cards": [
@@ -205,10 +205,10 @@
       "correct": "that I learned",
       "wrong": [
         "did I learn",
-        "when I learned"
+        "that did I learn"
       ],
       "hint": "Это конструкция It wasn't until … . Какое слово и какой порядок слов нужны во второй части?",
-      "explain": "It wasn't until … that + прямой порядок: that I learned. Инверсия (did I learn) нужна только в модели Not until … , а when вместо that — ошибка.",
+      "explain": "It wasn't until … that + прямой порядок: that I learned. Инверсия (did I learn) нужна только в модели Not until … ; после that она тоже невозможна.",
       "tr": "Только на втором собеседовании я узнал, что зарплата ниже, чем было указано в объявлении."
     },
     {
@@ -328,7 +328,7 @@
         "What Tom broke this morning was Kate's printer."
       ],
       "hint": "Кто сломал принтер? Какой элемент нужно выделить?",
-      "explain": "It was Tom who … выделяет Тома как того, кто сломал принтер. Во втором варианте люди поменялись ролями, в третьем принтер стал принадлежать Кейт.",
+      "explain": "It was Tom who … выделяет Тома как того, кто сломал принтер. В варианте «It was Kate who…» люди поменялись ролями, а в варианте с what принтер стал принадлежать Кейт.",
       "tr": "Офисный принтер сегодня утром сломал именно Том, а не Кейт."
     },
     {
@@ -352,12 +352,12 @@
       "q": "It was only when the auditors arrived ___ the true scale of the losses became clear.",
       "correct": "that",
       "wrong": [
-        "when",
+        "what",
         "then",
         "which"
       ],
       "hint": "Это It-конструкция с выделенным временем. Какое слово связывает её части?",
-      "explain": "It was only when … that … — выделено время, части связывает that. Повторять when нельзя, а then и which части не связывают.",
+      "explain": "It was only when … that … — выделено время, части связывает that. what значит «то, что» и здесь невозможно, а then и which части не связывают.",
       "tr": "Истинный масштаб убытков стал ясен только тогда, когда приехали аудиторы."
     },
     {
@@ -411,7 +411,7 @@
         "What she wanted it was an apology."
       ],
       "hint": "Какая конструкция значит «единственное, что»?",
-      "explain": "All she wanted was … = The only thing she wanted was … . Второй вариант меняет смысл на противоположный, в третьем лишнее it.",
+      "explain": "All she wanted was … = The only thing she wanted was … . Вариант с everything but меняет смысл на противоположный, а в варианте с what лишнее it.",
       "tr": "Она хотела только извинений."
     }
   ],
