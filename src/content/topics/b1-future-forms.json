@@ -37,7 +37,7 @@
     },
     {
       "title": "Present Continuous — договорённости",
-      "body": "**am / is / are + V-ing** — то, о чём уже договорились: есть время, место, другие люди, билеты или запись в ежедневнике.\n\n- вопрос о планах: **What are you doing this weekend?**\n- will для договорённостей не используем: не *I will meet Anna at six*",
+      "body": "**am / is / are + V-ing** — то, о чём уже договорились: есть время, место, другие люди, билеты или запись в ежедневнике.\n\n- вопрос о планах: **What are you doing this weekend?**\n- will для договорённостей обычно не используем: **I'm meeting Anna at six**, а не *I'll meet Anna at six* — will звучит как решение, принятое прямо сейчас",
       "examples": [
         {
           "en": "I'm meeting Anna for lunch at one tomorrow.",
@@ -164,14 +164,14 @@
     {
       "id": "b1-future-forms-p03",
       "type": "gap",
-      "q": "I can't come to the gym on Thursday. I ___ my sister at the airport at six.",
+      "q": "I can't come to the gym on Thursday. I ___ my sister at the airport at six — we arranged it last week.",
       "correct": "am meeting",
       "wrong": [
         "will meet"
       ],
       "hint": "Встреча уже оговорена: есть время, место и другой человек.",
-      "explain": "Договорённость с другим человеком на конкретное время → Present Continuous: am meeting. will для уже согласованных планов не используется.",
-      "tr": "Я не смогу прийти в спортзал в четверг. В шесть я встречаю сестру в аэропорту."
+      "explain": "Договорённость с другим человеком на конкретное время (we arranged it last week) → Present Continuous: am meeting. will для уже согласованных планов не используется: I'll meet звучало бы как решение, принятое прямо сейчас.",
+      "tr": "Я не смогу прийти в спортзал в четверг. В шесть я встречаю сестру в аэропорту — мы договорились об этом на прошлой неделе."
     },
     {
       "id": "b1-future-forms-p04",
@@ -205,10 +205,10 @@
       "correct": "will get",
       "wrong": [
         "get",
-        "are getting"
+        "will to get"
       ],
       "hint": "«I'm sure» — это мнение говорящего о будущем.",
-      "explain": "Прогноз-мнение (I'm sure) → will + V: will get. Present Continuous — для договорённостей, Present Simple — для расписаний.",
+      "explain": "Прогноз-мнение (I'm sure) → will + V без to: will get. Present Simple get будущее здесь не выражает (он — для расписаний), а частица to после will не ставится.",
       "tr": "Не волнуйся насчёт собеседования. Я уверен, ты получишь эту работу. Ты идеально подходишь."
     },
     {
@@ -283,27 +283,27 @@
       "type": "pick",
       "task": "Выберите грамматически верный диалог",
       "q": "",
-      "correct": "Are you doing anything this weekend? — Yes, we're having lunch with my parents on Sunday.",
+      "correct": "Are you doing anything this weekend? — Yes, we're having lunch with my parents on Sunday. It's my dad's birthday.",
       "wrong": [
-        "Do you do anything this weekend? — Yes, we're having lunch with my parents on Sunday.",
-        "Are you doing anything this weekend? — Yes, we have lunch with my parents on Sunday."
+        "Do you do anything this weekend? — Yes, we're having lunch with my parents on Sunday. It's my dad's birthday.",
+        "Are you doing anything this weekend? — Yes, we have lunch with my parents on Sunday. It's my dad's birthday."
       ],
       "hint": "Речь о планах, о которых уже договорились.",
-      "explain": "Вопрос о планах и ответ о договорённости → Present Continuous в обеих репликах. Do you do… — вопрос о привычках, а we have lunch… описывало бы регулярное действие.",
-      "tr": "— У тебя есть планы на выходные? — Да, в воскресенье мы обедаем с моими родителями."
+      "explain": "Вопрос о планах и ответ о разовой договорённости (обед в честь дня рождения) → Present Continuous в обеих репликах. Do you do… — вопрос о привычках, а we have lunch… описывало бы регулярное действие, а не договорённость.",
+      "tr": "— У тебя есть планы на выходные? — Да, в воскресенье мы обедаем с моими родителями. У папы день рождения."
     },
     {
       "id": "b1-future-forms-p13",
       "type": "gap",
-      "q": "A: Have you decided what to do with your bonus?\nB: Yes, I ___ a new laptop. Mine is really slow.",
+      "q": "A: Have you decided what to do with your bonus?\nB: Yes, I ___ a new laptop. I've already chosen the model.",
       "correct": "am going to buy",
       "wrong": [
         "will buy",
         "buy"
       ],
       "hint": "«Have you decided? — Yes»: решение принято только что или раньше?",
-      "explain": "Решение уже принято (Have you decided? — Yes) → be going to: am going to buy. will выражает решение, которое принимается в момент речи.",
-      "tr": "— Ты решил, что сделаешь с премией? — Да, куплю новый ноутбук. Мой очень медленный."
+      "explain": "Решение уже принято (Have you decided? — Yes; модель уже выбрана) → be going to: am going to buy. will выражает решение, которое принимается в момент речи, а здесь оно принято заранее.",
+      "tr": "— Ты решил, что сделаешь с премией? — Да, собираюсь купить новый ноутбук. Модель я уже выбрал."
     },
     {
       "id": "b1-future-forms-p14",
@@ -350,27 +350,27 @@
     {
       "id": "b1-future-forms-e02",
       "type": "gap",
-      "q": "I ___ a client in Manchester on Friday morning, so I'll be back in the office after lunch.",
+      "q": "A: Could we discuss the budget on Friday morning?\nB: Sorry, I ___ a client in Manchester then. It's been in my diary for weeks.",
       "correct": "am seeing",
       "wrong": [
         "will see",
         "see"
       ],
-      "hint": "Встреча с клиентом уже назначена на конкретное время.",
-      "explain": "Договорённость о встрече на конкретное время → Present Continuous: am seeing (see a client = встречаться с клиентом). will и Present Simple для личных договорённостей не используются.",
-      "tr": "В пятницу утром у меня встреча с клиентом в Манчестере, так что в офис я вернусь после обеда."
+      "hint": "Встреча с клиентом давно согласована и записана в ежедневник.",
+      "explain": "Личная договорённость, которая давно стоит в ежедневнике, → Present Continuous: am seeing (see a client = встречаться с клиентом). will see звучало бы как решение, принятое прямо сейчас, а Present Simple для личных договорённостей не используется.",
+      "tr": "— Мы могли бы обсудить бюджет в пятницу утром? — Извините, в это время я встречаюсь с клиентом в Манчестере. Эта встреча уже несколько недель стоит у меня в ежедневнике."
     },
     {
       "id": "b1-future-forms-e03",
       "type": "gap",
-      "q": "We've got an hour before the film starts. What ___ do?",
+      "q": "We've got an hour before the film starts. What ___ do — have a coffee or go for a walk?",
       "correct": "shall we",
       "wrong": [
         "will we"
       ],
-      "hint": "Говорящий спрашивает совета, чем заняться вместе.",
-      "explain": "Спрашиваем, что предлагает собеседник → What shall we do? will we спрашивало бы о будущем факте, а не о предложении.",
-      "tr": "До начала фильма у нас час. Чем займёмся?"
+      "hint": "Говорящий спрашивает, чем заняться вместе, и сам предлагает варианты.",
+      "explain": "Просим собеседника выбрать, чем заняться вместе, → What shall we do? В британском английском will we в таком значении не используется: What will we do? спрашивало бы о будущем факте, а не о предложении.",
+      "tr": "До начала фильма у нас час. Чем займёмся — выпьем кофе или прогуляемся?"
     },
     {
       "id": "b1-future-forms-e04",
@@ -405,10 +405,12 @@
   "glossary": {
     "airport": "аэропорт",
     "announce": "объявить",
+    "arranged": "договорились (прош. от arrange)",
     "birthday": "день рождения",
     "bonus": "премия",
     "booked": "забронирован (3-я форма от book)",
     "boxes": "коробки",
+    "budget": "бюджет",
     "buying": "покупаешь (-ing от buy)",
     "cake": "торт",
     "client": "клиент",
@@ -417,7 +419,9 @@
     "cold": "холодно, холодный",
     "conference": "конференция",
     "dark": "тёмный",
+    "diary": "ежедневник",
     "dinner": "ужин",
+    "discuss": "обсудить",
     "film": "фильм",
     "finishes": "заканчивается",
     "flour": "мука",
@@ -432,14 +436,17 @@
     "lunch": "обед",
     "Manchester": "Манчестер",
     "milk": "молоко",
+    "model": "модель",
     "oh": "ой, о",
     "perfect": "идеальный, идеально подходящий",
     "promise": "обещаю (promise — обещать)",
+    "sorry": "извините",
     "starts": "начинается",
     "sugar": "сахар",
     "tea": "чай",
     "terrace": "терраса",
     "venue": "место проведения",
+    "walk": "прогулка (go for a walk — прогуляться)",
     "wallet": "кошелёк",
     "window": "окно",
     "worry": "волноваться (don't worry — не волнуйся)"

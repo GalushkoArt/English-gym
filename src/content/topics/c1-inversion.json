@@ -412,11 +412,11 @@
       "correct": "Little did I know at the time that this job would change my life.",
       "wrong": [
         "Little I knew at the time that this job would change my life.",
-        "Hardly did I know at the time that this job would change my life.",
+        "Little knew I at the time that this job would change my life.",
         "Never did I want this job to change my life."
       ],
       "hint": "Какое выражение значит «я и не подозревал»?",
-      "explain": "Little did I know — «я и не подозревал», с инверсией. Little I knew без инверсии — ошибка; hardly did I know значит «едва знал», а never did I want меняет смысл.",
+      "explain": "Little did I know — «я и не подозревал», с инверсией через did. Little I knew — без инверсии, little knew I — перед подлежащим встал смысловой глагол вместо did; never did I want меняет смысл.",
       "tr": "Тогда я и не подозревал, что эта работа изменит мою жизнь."
     }
   ],
