@@ -186,11 +186,11 @@
       "q": "I'll never forget the day ___ I started my first job.",
       "correct": "when",
       "wrong": [
-        "where",
-        "which"
+        "which",
+        "what"
       ],
       "hint": "day — это место или время?",
-      "explain": "О времени — when: the day when I started. where — о месте, а which без предлога здесь невозможно (the day on which…).",
+      "explain": "О времени — when: the day when I started. which без предлога здесь невозможно (the day on which…), а what не вводит определительное придаточное.",
       "tr": "Я никогда не забуду день, когда вышел на свою первую работу."
     },
     {
@@ -375,10 +375,10 @@
       "q": "Friday is the only day ___ I don't have any meetings, so I can finally get some work done.",
       "correct": "when",
       "wrong": [
-        "where"
+        "which"
       ],
-      "hint": "День — это место или время?",
-      "explain": "О времени — when: the only day when… where употребляется только с местами.",
+      "hint": "day обозначает время, а предлога в придаточном нет.",
+      "explain": "О времени — when: the only day when… С which понадобился бы предлог: the only day on which…",
       "tr": "Пятница — единственный день, когда у меня нет совещаний, поэтому я наконец могу спокойно поработать."
     },
     {

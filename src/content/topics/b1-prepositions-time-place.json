@@ -356,11 +356,10 @@
       "q": "The museum is ___ the end of this street, just past the bank.",
       "correct": "at",
       "wrong": [
-        "in",
-        "on"
+        "in"
       ],
       "hint": "Конец улицы — точка на линии.",
-      "explain": "at the end of the street — точка в конце улицы. in the end значит «в конце концов», а on the end здесь не употребляется.",
+      "explain": "at the end of the street — точка в конце улицы. in the end значит «в конце концов» и о месте не употребляется.",
       "tr": "Музей в конце этой улицы, сразу за банком."
     },
     {

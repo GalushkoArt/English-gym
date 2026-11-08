@@ -31,7 +31,7 @@
         },
         {
           "en": "I had just fallen asleep when the phone rang.",
-          "ru": "Я только что уснул, когда зазвонил телефон."
+          "ru": "Я только успел уснуть, как зазвонил телефон."
         }
       ]
     },
@@ -45,7 +45,7 @@
         },
         {
           "en": "They had been living in Rome for ten years when their son was born.",
-          "ru": "Они прожили в Риме десять лет, когда у них родился сын."
+          "ru": "Они жили в Риме уже десять лет, когда у них родился сын."
         }
       ]
     },
@@ -181,11 +181,11 @@
       "q": "I ___ along the river when I suddenly heard someone calling my name.",
       "correct": "was walking",
       "wrong": [
-        "had walked",
+        "have walked",
         "walked"
       ],
       "hint": "Что было фоном, а что — внезапным событием?",
-      "explain": "Фон, процесс в момент другого действия → Past Continuous: was walking. Короткое событие, которое его прервало, — heard (Past Simple).",
+      "explain": "Фон, процесс в момент другого действия → Past Continuous: was walking; короткое событие, которое его прервало, — heard. walked сделало бы прогулку отдельным событием, а не фоном, а Present Perfect в рассказе о прошлом не используется.",
       "tr": "Я шёл вдоль реки, как вдруг услышал, что кто-то зовёт меня по имени."
     },
     {
@@ -244,15 +244,15 @@
     {
       "id": "b2-narrative-tenses-p09",
       "type": "gap",
-      "q": "I recognised the woman at once, because we ___ before at a conference in Berlin.",
+      "q": "I recognised the woman at once, because we ___ at a conference in Berlin two years earlier.",
       "correct": "had met",
       "wrong": [
         "have met",
         "were meeting"
       ],
       "hint": "Встреча на конференции была раньше, чем я её узнал.",
-      "explain": "Действие раньше другого прошлого действия (recognised) → had met. Present Perfect не сочетается с точкой отсчёта в прошлом, а Past Continuous описывает процесс, а не предшествование.",
-      "tr": "Я сразу узнал эту женщину, потому что мы встречались раньше на конференции в Берлине."
+      "explain": "Действие раньше другого прошлого действия (recognised); two years earlier отсчитывается от прошлого момента → had met. Present Perfect не сочетается с точкой отсчёта в прошлом, а Past Continuous описывает процесс, а не предшествование.",
+      "tr": "Я сразу узнал эту женщину, потому что за два года до этого мы встречались на конференции в Берлине."
     },
     {
       "id": "b2-narrative-tenses-p10",
@@ -271,15 +271,15 @@
     {
       "id": "b2-narrative-tenses-p11",
       "type": "gap",
-      "q": "I didn't go to the cinema with my friends because I ___ the film.",
-      "correct": "had already seen",
+      "q": "I didn't go to the cinema with my friends last night because I ___ the film the week before.",
+      "correct": "had seen",
       "wrong": [
-        "have already seen",
-        "was already seeing"
+        "have seen",
+        "was seeing"
       ],
-      "hint": "Фильм был просмотрен ещё до того, как друзья позвали в кино.",
-      "explain": "Действие раньше другого прошлого (didn't go) → had already seen. Present Perfect не сочетается с прошлым контекстом, а Past Continuous описывал бы процесс, а не результат.",
-      "tr": "Я не пошёл в кино с друзьями, потому что уже видел этот фильм."
+      "hint": "Фильм был просмотрен ещё до того вечера, о котором идёт речь.",
+      "explain": "Действие раньше другого прошлого (didn't go); the week before — «неделей раньше того вечера» → had seen. Present Perfect не сочетается с прошлым контекстом и точным временем, а Past Continuous описывал бы процесс, а не результат.",
+      "tr": "Вчера вечером я не пошёл с друзьями в кино, потому что посмотрел этот фильм ещё неделей раньше."
     },
     {
       "id": "b2-narrative-tenses-p12",
@@ -348,7 +348,7 @@
       ],
       "hint": "Одно действие длилось до момента в прошлом, другое — сам этот момент.",
       "explain": "Работа длилась десять лет до момента решения → had been working; само решение — событие в прошлом → decided (Past Simple).",
-      "tr": "Люси проработала в компании десять лет, когда решила открыть собственное дело."
+      "tr": "Люси работала в компании уже десять лет, когда решила открыть собственное дело."
     },
     {
       "id": "b2-narrative-tenses-e02",
@@ -414,6 +414,7 @@
     "conference": "конференция",
     "covered": "покрытый (covered in — весь в)",
     "dinner": "ужин",
+    "earlier": "раньше (two years earlier — двумя годами раньше)",
     "film": "фильм",
     "flat": "квартира",
     "flight": "перелёт, рейс",

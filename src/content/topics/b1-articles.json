@@ -202,8 +202,7 @@
       "q": "___ is too short to waste on a job you hate.",
       "correct": "Life",
       "wrong": [
-        "The life",
-        "A life"
+        "The life"
       ],
       "hint": "Речь о жизни вообще, а не о чьей-то конкретной.",
       "explain": "Неисчисляемое существительное в общем смысле → без артикля: Life is short. The life — калька; the нужен только для конкретной жизни: the life of a nurse.",
