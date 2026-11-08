@@ -1,0 +1,480 @@
+{
+  "id": "b2-modals-past",
+  "level": "B2",
+  "order": 10,
+  "title": "Past modals: should have, could have",
+  "titleRu": "Модальные в прошлом: should have, could have, would have",
+  "summary": "Сожаление, упрёк и несостоявшиеся возможности в прошлом",
+  "source": "Murphy EGIU units 26, 32–33, 36; British Council: Modals – past",
+  "rules": [
+    {
+      "title": "should have / ought to have + V3 — упрёк и сожаление",
+      "body": "**should have + V3** — «следовало сделать», но этого не сделали.\n**shouldn't have + V3** — «не следовало», но сделали.\n\n- **ought to have + V3** — то же значение, чуть формальнее\n- о себе — сожаление (I should have…), о других — упрёк (You should have…)\n- после have всегда V3: should have gone, не should have went",
+      "examples": [
+        {
+          "en": "I should have saved the file before I closed it.",
+          "ru": "Мне следовало сохранить файл, прежде чем закрывать его."
+        },
+        {
+          "en": "You shouldn't have shouted at him in front of everyone.",
+          "ru": "Тебе не стоило кричать на него при всех."
+        },
+        {
+          "en": "The company ought to have warned its customers.",
+          "ru": "Компании следовало предупредить своих клиентов."
+        }
+      ]
+    },
+    {
+      "title": "could have + V3 — несостоявшаяся возможность",
+      "body": "**could have + V3** — «мог бы», но этого не произошло.\n\n- упущенная возможность или опасность, которой удалось избежать: It could have been worse.\n- упрёк: You could have told me. = Почему ты не сказал?\n- **could + V** без have о таком прошлом не употребляется: не You could tell me yesterday",
+      "examples": [
+        {
+          "en": "We could have taken a taxi, but we decided to walk.",
+          "ru": "Мы могли бы взять такси, но решили пройтись пешком."
+        },
+        {
+          "en": "You could have told me you were going to be late.",
+          "ru": "Мог бы и сказать, что опоздаешь."
+        }
+      ]
+    },
+    {
+      "title": "would have + V3 — несостоявшееся намерение",
+      "body": "**would have + V3** — человек был готов что-то сделать, но не сделал, потому что помешали обстоятельства.\n\n- часто с **but** или **if**: I would have called, but my phone was dead.\n- **would + V** без have относится к настоящему или будущему",
+      "examples": [
+        {
+          "en": "I would have helped you, but I didn't know you were moving.",
+          "ru": "Я бы тебе помог, но не знал, что ты переезжаешь."
+        },
+        {
+          "en": "She would have come to the party if she hadn't been ill.",
+          "ru": "Она пришла бы на вечеринку, если бы не болела."
+        }
+      ]
+    },
+    {
+      "title": "couldn't have + V3 или couldn't / wasn't able to",
+      "body": "**couldn't have + V3** — «не смог бы», даже если бы попытался (гипотетически).\n**couldn't / wasn't able to + V** — реально не смог в конкретной ситуации.\n\n- Thanks for your help — I couldn't have done it alone. (помощь была, без неё не получилось бы)\n- I tried, but I wasn't able to open the file. (пытался и не смог)\n- It couldn't have been better. = Лучше и быть не могло.",
+      "examples": [
+        {
+          "en": "I couldn't have finished the project without your help.",
+          "ru": "Без твоей помощи я бы не смог закончить проект."
+        },
+        {
+          "en": "I tried to call you, but I wasn't able to get through.",
+          "ru": "Я пытался тебе позвонить, но не смог дозвониться."
+        }
+      ]
+    },
+    {
+      "title": "could или was able to / managed to",
+      "body": "**could** — общая способность в прошлом: I could swim when I was six.\n**was able to / managed to** — удалось сделать в **конкретной ситуации**.\n\n- в отрицании подходят оба варианта: I couldn't / wasn't able to find it\n- с see, hear, smell, understand, remember **could** возможен и о конкретной ситуации: I could see the sea from my window.",
+      "examples": [
+        {
+          "en": "My grandfather could repair almost anything.",
+          "ru": "Мой дедушка умел чинить почти всё."
+        },
+        {
+          "en": "The fire spread quickly, but everyone was able to escape.",
+          "ru": "Огонь быстро распространялся, но всем удалось спастись."
+        },
+        {
+          "en": "After a long search, I managed to find my passport.",
+          "ru": "После долгих поисков мне удалось найти паспорт."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "следовало, но не сделал → should have / ought to have + V3",
+    "не следовало, но сделал → shouldn't have + V3",
+    "мог бы, но не произошло; упрёк → could have + V3",
+    "был готов, но не вышло → would have + V3 (… but / if …)",
+    "не смог бы даже при желании → couldn't have + V3; реально не смог → couldn't / wasn't able to",
+    "общее умение → could; удалось в конкретной ситуации → was able to / managed to"
+  ],
+  "mistakes": [
+    {
+      "wrong": "You should tell me about it yesterday.",
+      "right": "You should have told me about it yesterday.",
+      "note": "упрёк о прошлом — should have + V3; should + V относится к настоящему и будущему"
+    },
+    {
+      "wrong": "You could tell me that the meeting was cancelled.",
+      "right": "You could have told me that the meeting was cancelled.",
+      "note": "калька «мог бы сказать» о прошлом: could have + V3"
+    },
+    {
+      "wrong": "After a long search, I could find my passport.",
+      "right": "After a long search, I managed to find my passport.",
+      "note": "удалось в конкретной ситуации — managed to / was able to, не could"
+    },
+    {
+      "wrong": "I would help you, but nobody told me.",
+      "right": "I would have helped you, but nobody told me.",
+      "note": "несостоявшееся намерение в прошлом — would have + V3"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Мне следовало проверить адрес» (но я не проверил)?",
+      "back": "**should have + V3**: I should have checked the address."
+    },
+    {
+      "front": "«Тебе не стоило ему это говорить» — как по-английски?",
+      "back": "**shouldn't have + V3**: You shouldn't have told him that."
+    },
+    {
+      "front": "Как упрекнуть: «Мог бы и предупредить»?",
+      "back": "**could have + V3**: You could have warned me."
+    },
+    {
+      "front": "Как сказать «Я бы помог, но не знал, что нужна помощь»?",
+      "back": "**would have + V3**: I would have helped, but I didn't know you needed help."
+    },
+    {
+      "front": "Чем «I couldn't have done it without you» отличается от «I couldn't do it»?",
+      "back": "**couldn't have done** — не смог бы (а с помощью получилось).\n**couldn't do** — реально не смог."
+    },
+    {
+      "front": "Почему не говорят «Finally I could find the keys»?",
+      "back": "Удалось в конкретной ситуации → **managed to / was able to**.\nFinally I managed to find the keys."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-modals-past-p01",
+      "type": "gap",
+      "q": "I failed my driving test because I was too nervous and hadn't practised enough. I ___ more lessons before it.",
+      "correct": "should have taken",
+      "wrong": [
+        "should take"
+      ],
+      "hint": "Речь о том, что было бы правильно сделать до экзамена, который уже прошёл.",
+      "explain": "Сожаление о прошлом → should have + V3: следовало взять больше уроков, но я этого не сделал. should take относится к настоящему или будущему.",
+      "tr": "Я провалил экзамен по вождению, потому что слишком нервничал и мало практиковался. Мне следовало взять больше уроков перед ним."
+    },
+    {
+      "id": "b2-modals-past-p02",
+      "type": "gap",
+      "q": "I ___ my manager in front of the whole team that his plan wouldn't work. He was really embarrassed.",
+      "correct": "shouldn't have told",
+      "wrong": [
+        "mustn't have told",
+        "shouldn't tell",
+        "shouldn't told"
+      ],
+      "hint": "Говорящий сожалеет о том, что уже сделал.",
+      "explain": "Сожаление о том, что уже сделано → shouldn't have + V3. mustn't have сожаления не выражает, shouldn't tell относится к настоящему, а без have форма неполная.",
+      "tr": "Мне не следовало говорить начальнику при всей команде, что его план не сработает. Ему было очень неловко."
+    },
+    {
+      "id": "b2-modals-past-p03",
+      "type": "gap",
+      "q": "The road was closed for repairs, but nobody warned drivers in advance. The council ___ up signs a week earlier.",
+      "correct": "ought to have put",
+      "wrong": [
+        "ought have put",
+        "ought to put"
+      ],
+      "hint": "Критика того, что не было сделано в прошлом. Проверьте и частицу после ought.",
+      "explain": "Критика прошлого → ought to have + V3 (= should have). После ought всегда нужна частица to, а ought to put относится к настоящему или будущему.",
+      "tr": "Дорогу закрыли на ремонт, но водителей никто заранее не предупредил. Городскому совету следовало поставить знаки на неделю раньше."
+    },
+    {
+      "id": "b2-modals-past-p04",
+      "type": "gap",
+      "q": "We were lucky. The driver braked just in time, otherwise the accident ___ much worse.",
+      "correct": "could have been",
+      "wrong": [
+        "could be",
+        "must have been"
+      ],
+      "hint": "Речь о том, что могло случиться, но не случилось.",
+      "explain": "Возможность в прошлом, которая не осуществилась → could have + V3. could be относится к настоящему, а must have been — уверенный вывод, который противоречит смыслу.",
+      "tr": "Нам повезло. Водитель затормозил как раз вовремя, иначе авария могла бы быть гораздо серьёзнее."
+    },
+    {
+      "id": "b2-modals-past-p05",
+      "type": "gap",
+      "q": "A: Sorry, I forgot to tell you the meeting was cancelled.\nB: You ___ me a message yesterday. I waited in the conference room for half an hour.",
+      "correct": "could have sent",
+      "wrong": [
+        "could send"
+      ],
+      "hint": "B упрекает A за то, чего тот не сделал вчера.",
+      "explain": "Упрёк за то, что не сделано в прошлом → could have + V3 («мог бы прислать»). could send без have к прошлому событию не относится.",
+      "tr": "— Извини, я забыл сказать, что совещание отменили. — Мог бы вчера прислать мне сообщение. Я полчаса прождал в переговорной."
+    },
+    {
+      "id": "b2-modals-past-p06",
+      "type": "gap",
+      "q": "I ___ you move house last weekend, but nobody told me you needed help.",
+      "correct": "would have helped",
+      "wrong": [
+        "would help",
+        "had helped",
+        "would have help"
+      ],
+      "hint": "Говорящий был готов помочь, но этого не произошло.",
+      "explain": "Готовность, которая не реализовалась в прошлом → would have + V3. would help относится к настоящему или будущему, а после have нужна третья форма.",
+      "tr": "Я бы помог тебе с переездом в прошлые выходные, но никто не сказал мне, что тебе нужна помощь."
+    },
+    {
+      "id": "b2-modals-past-p07",
+      "type": "gap",
+      "q": "My parents ___ to our wedding, but they were both ill with flu that week.",
+      "correct": "would have come",
+      "wrong": [
+        "would come"
+      ],
+      "hint": "Родители хотели приехать, но обстоятельства помешали.",
+      "explain": "Несостоявшееся намерение в прошлом → would have + V3 (come — третья форма). would come говорит о настоящем или будущем.",
+      "tr": "Мои родители приехали бы на нашу свадьбу, но на той неделе они оба болели гриппом."
+    },
+    {
+      "id": "b2-modals-past-p08",
+      "type": "gap",
+      "q": "Thanks for stopping to help. I ___ the car out of the snow on my own, even if I had tried.",
+      "correct": "couldn't have pushed",
+      "wrong": [
+        "couldn't push",
+        "wasn't able to push",
+        "can't have pushed"
+      ],
+      "hint": "Речь о гипотетической ситуации: «даже если бы попытался».",
+      "explain": "Гипотетическая невозможность в прошлом → couldn't have + V3 («не смог бы»). couldn't push и wasn't able to push описывают реальную неудачу, а can't have — вывод о том, что было.",
+      "tr": "Спасибо, что остановились помочь. Я бы не смог вытолкнуть машину из снега в одиночку, даже если бы попытался."
+    },
+    {
+      "id": "b2-modals-past-p09",
+      "type": "gap",
+      "q": "I tried to fix the printer for an hour this morning, but I ___ it work, so I called a technician.",
+      "correct": "wasn't able to make",
+      "wrong": [
+        "couldn't have made"
+      ],
+      "hint": "Человек действительно пытался. Это реальная неудача или гипотетическая?",
+      "explain": "Реальная неудача в конкретной ситуации → wasn't able to (или couldn't) + V. couldn't have made значило бы «не смог бы», а человек на самом деле пробовал.",
+      "tr": "Сегодня утром я час пытался починить принтер, но не смог заставить его работать, поэтому вызвал мастера."
+    },
+    {
+      "id": "b2-modals-past-p10",
+      "type": "gap",
+      "q": "The fire spread very quickly, but all the guests ___ escape from the hotel unhurt.",
+      "correct": "were able to",
+      "wrong": [
+        "could"
+      ],
+      "hint": "Речь об успехе в одной конкретной ситуации, а не об умении вообще.",
+      "explain": "Удалось сделать в конкретной ситуации → were able to (или managed to). could в утвердительном предложении — только общая способность.",
+      "tr": "Огонь распространялся очень быстро, но всем гостям удалось выбраться из отеля невредимыми."
+    },
+    {
+      "id": "b2-modals-past-p11",
+      "type": "gap",
+      "q": "The traffic was terrible, but we ___ the last train with two minutes to spare.",
+      "correct": "managed to catch",
+      "wrong": [
+        "could catch",
+        "could have caught",
+        "managed catching"
+      ],
+      "hint": "С трудом, но получилось — и это произошло один раз, в конкретный вечер.",
+      "explain": "Удалось в конкретной ситуации → managed to + V. could catch так не употребляется, could have caught означало бы, что мы не успели, а после manage нужен инфинитив с to.",
+      "tr": "Пробки были ужасные, но мы успели на последний поезд за две минуты до отправления."
+    },
+    {
+      "id": "b2-modals-past-p12",
+      "type": "gap",
+      "q": "My grandmother ___ speak four languages when she was young, but she has forgotten most of them now.",
+      "correct": "could",
+      "wrong": [
+        "managed to"
+      ],
+      "hint": "Речь об умении в целом, а не об одном случае.",
+      "explain": "Общая способность в прошлом → could. managed to используется для успеха в конкретной ситуации, а не для постоянного умения.",
+      "tr": "В молодости моя бабушка говорила на четырёх языках, но теперь почти всё забыла."
+    },
+    {
+      "id": "b2-modals-past-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "You should have asked me before you borrowed my laptop.",
+      "wrong": [
+        "You should asked me before you borrowed my laptop.",
+        "You should have ask me before you borrowed my laptop."
+      ],
+      "hint": "Упрёк о прошлом. Проверьте, из каких частей состоит конструкция.",
+      "explain": "Упрёк о прошлом → should + have + V3: should have asked. Ни have, ни третью форму пропускать нельзя.",
+      "tr": "Тебе следовало спросить меня, прежде чем брать мой ноутбук."
+    },
+    {
+      "id": "b2-modals-past-p14",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Selling our flat so cheaply was a mistake.",
+      "correct": "We shouldn't have sold our flat so cheaply.",
+      "wrong": [
+        "We couldn't have sold our flat so cheaply.",
+        "We wouldn't have sold our flat so cheaply."
+      ],
+      "hint": "Говорящий оценивает своё решение в прошлом.",
+      "explain": "Ошибка в прошлом → shouldn't have + V3. couldn't have = было бы невозможно, wouldn't have = не стали бы (при других условиях).",
+      "tr": "Нам не следовало продавать квартиру так дёшево."
+    },
+    {
+      "id": "b2-modals-past-p15",
+      "type": "pick",
+      "task": "Выберите верное предложение",
+      "q": "",
+      "correct": "The exam was very hard, but in the end I managed to pass it.",
+      "wrong": [
+        "The exam was very hard, but in the end I could pass it.",
+        "The exam was very hard, but in the end I could have passed it.",
+        "The exam was very hard, but in the end I managed passing it."
+      ],
+      "hint": "Речь об успехе в одной конкретной ситуации. Какая конструкция для этого подходит?",
+      "explain": "Удалось в конкретной ситуации → managed to + V. could так не употребляют, could have passed значило бы, что я не сдал, а после manage нужен инфинитив с to.",
+      "tr": "Экзамен был очень трудным, но в итоге мне удалось его сдать."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-modals-past-e01",
+      "type": "gap",
+      "q": "A: I'm exhausted. I only slept for three hours.\nB: Well, you ___ up so late last night watching that series.",
+      "correct": "shouldn't have stayed",
+      "wrong": [
+        "shouldn't stay",
+        "mustn't have stayed",
+        "couldn't have stayed"
+      ],
+      "hint": "B критикует то, что A уже сделал прошлой ночью.",
+      "explain": "Критика сделанного в прошлом → shouldn't have + V3. shouldn't stay не сочетается с last night, mustn't have критику не выражает, а couldn't have stayed значило бы, что это было невозможно.",
+      "tr": "— Я без сил. Спал всего три часа. — Ну, не надо было вчера так поздно сидеть за этим сериалом."
+    },
+    {
+      "id": "b2-modals-past-e02",
+      "type": "gap",
+      "q": "Why did you pay for a taxi last night? Alex was at the same party, and he ___ you a lift home.",
+      "correct": "could have given",
+      "wrong": [
+        "could give",
+        "must have given"
+      ],
+      "hint": "Возможность существовала, но ею не воспользовались.",
+      "explain": "Возможность в прошлом, которой не воспользовались → could have + V3. could give не относится к вчерашнему событию, а must have given — вывод, который противоречит фактам: человек ехал на такси.",
+      "tr": "Зачем ты вчера платил за такси? Алекс был на той же вечеринке, он мог бы подвезти тебя домой."
+    },
+    {
+      "id": "b2-modals-past-e03",
+      "type": "gap",
+      "q": "A: Why didn't you come to Rachel's birthday dinner?\nB: I ___ come, but I had to finish an urgent report for my boss.",
+      "correct": "would have",
+      "wrong": [
+        "would",
+        "will have"
+      ],
+      "hint": "B хотел прийти, но не смог из-за обстоятельств.",
+      "explain": "Намерение, которое не осуществилось → would have + V3 (come — третья форма). would come относится к настоящему или будущему, а will have come — к будущему.",
+      "tr": "— Почему ты не пришёл на ужин в честь дня рождения Рэйчел? — Я бы пришёл, но мне нужно было закончить срочный отчёт для начальника."
+    },
+    {
+      "id": "b2-modals-past-e04",
+      "type": "pick",
+      "task": "Выберите верное предложение",
+      "q": "",
+      "correct": "After three hours of talks, the two sides were finally able to reach an agreement.",
+      "wrong": [
+        "After three hours of talks, the two sides could finally reach an agreement."
+      ],
+      "hint": "Речь об одном конкретном успехе после долгих усилий.",
+      "explain": "Удалось в конкретной ситуации → were able to (или managed to). could в утвердительном предложении описывает общую способность, а не один успех.",
+      "tr": "После трёх часов переговоров стороны наконец смогли договориться."
+    },
+    {
+      "id": "b2-modals-past-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Nobody asked me to help, but I was willing to.",
+      "correct": "I would have helped if someone had asked me.",
+      "wrong": [
+        "I should have helped, but nobody asked me.",
+        "I couldn't have helped, even if someone had asked me."
+      ],
+      "hint": "Человек был готов помочь. Что помешало?",
+      "explain": "Готовность, которая не реализовалась → would have + V3. should have helped — сожаление о невыполненном долге, couldn't have helped — невозможность.",
+      "tr": "Я бы помог, если бы кто-нибудь меня попросил."
+    }
+  ],
+  "glossary": {
+    "accident": "авария",
+    "advance": "(in advance) заранее",
+    "birthday": "день рождения",
+    "braked": "затормозил (прош. от brake)",
+    "cancelled": "отменён (3-я форма от cancel)",
+    "cheaply": "дёшево",
+    "closed": "закрыт (3-я форма от close)",
+    "conference": "конференция; (conference room) переговорная",
+    "council": "городской совет",
+    "dinner": "ужин",
+    "driver": "водитель",
+    "drivers": "водители",
+    "driving": "вождение; (driving test) экзамен по вождению",
+    "earlier": "раньше",
+    "embarrassed": "смущённый, в неловком положении",
+    "escape": "спастись, выбраться",
+    "exhausted": "измотанный, без сил",
+    "failed": "провалил (прош. от fail)",
+    "finish": "закончить",
+    "fire": "огонь, пожар",
+    "fix": "починить",
+    "flat": "квартира",
+    "flu": "грипп",
+    "front": "(in front of) перед, при",
+    "grandmother": "бабушка",
+    "guests": "гости",
+    "hotel": "отель, гостиница",
+    "ill": "больной",
+    "languages": "языки",
+    "lessons": "уроки",
+    "lift": "(give a lift) подвезти",
+    "lucky": "везучий; (we were lucky) нам повезло",
+    "manager": "начальник, менеджер",
+    "message": "сообщение",
+    "mistake": "ошибка",
+    "nervous": "нервный, взволнованный",
+    "party": "вечеринка",
+    "plan": "план",
+    "practised": "практиковался (3-я форма от practise)",
+    "printer": "принтер",
+    "quickly": "быстро",
+    "repairs": "ремонт (мн. ч.)",
+    "report": "отчёт",
+    "road": "дорога",
+    "selling": "продажа (-ing от sell)",
+    "series": "сериал",
+    "signs": "знаки, указатели",
+    "snow": "снег",
+    "sorry": "извини",
+    "spare": "(to spare) в запасе",
+    "spread": "распространялся (прош. от spread)",
+    "stopping": "остановка (-ing от stop)",
+    "taxi": "такси",
+    "team": "команда",
+    "technician": "мастер, техник",
+    "terrible": "ужасный",
+    "test": "экзамен, тест",
+    "traffic": "дорожное движение, пробки",
+    "unhurt": "невредимый",
+    "urgent": "срочный",
+    "waited": "ждал (прош. от wait)",
+    "warned": "предупредил (прош. от warn)",
+    "watching": "смотря (-ing от watch)",
+    "wedding": "свадьба",
+    "willing": "готовый (что-то сделать)"
+  }
+}

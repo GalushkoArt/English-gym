@@ -1,0 +1,462 @@
+{
+  "id": "b2-wish-if-only",
+  "level": "B2",
+  "order": 5,
+  "title": "Wish and if only",
+  "titleRu": "Wish и if only: сожаления и желания",
+  "summary": "Сожаления и желания о настоящем, прошлом и чужом поведении",
+  "source": "Murphy EGIU units 39, 41; British Council: Wishes and regrets",
+  "rules": [
+    {
+      "title": "wish / if only + Past Simple — о настоящем",
+      "body": "**I wish / If only + Past Simple** — жаль, что сейчас всё не так.\n\nPast Simple здесь не означает прошлое: I wish I **knew** = жаль, что я не знаю.\n\n- **if only** — то же самое, но эмоциональнее\n- **were** для всех лиц: I wish I were… (в разговоре возможно was)",
+      "examples": [
+        {
+          "en": "I wish I had a bigger flat.",
+          "ru": "Жаль, что у меня нет квартиры побольше."
+        },
+        {
+          "en": "If only I knew what to say.",
+          "ru": "Если бы я только знал, что сказать."
+        },
+        {
+          "en": "I wish I were better at maths.",
+          "ru": "Жаль, что я не силён в математике."
+        }
+      ]
+    },
+    {
+      "title": "wish + could — умение и возможность",
+      "body": "**wish + could + V** — жаль, что я не могу или не умею.\n\nПосле wish не ставят **can** и **will**.",
+      "examples": [
+        {
+          "en": "I wish I could speak Italian.",
+          "ru": "Жаль, что я не говорю по-итальянски."
+        },
+        {
+          "en": "I wish I could stay longer, but my flight is at six.",
+          "ru": "Жаль, что я не могу остаться подольше, но у меня рейс в шесть."
+        }
+      ]
+    },
+    {
+      "title": "wish + had + V3 — сожаление о прошлом",
+      "body": "**I wish / If only + Past Perfect** — жаль, что тогда сделал (или не сделал).\n\nО прошлом нельзя сказать I wish I **didn't say** — нужно I wish I **hadn't said**.",
+      "examples": [
+        {
+          "en": "I wish I hadn't said that.",
+          "ru": "Зря я это сказал."
+        },
+        {
+          "en": "If only we had left earlier.",
+          "ru": "Если бы только мы вышли раньше."
+        }
+      ]
+    },
+    {
+      "title": "wish + would — чужое поведение и перемены",
+      "body": "**wish + someone/something + would + V** — хочу, чтобы кто-то или что-то изменилось; часто это раздражение.\n\n- о других людях и ситуациях: I wish you would stop…, I wish it would stop raining\n- **не о себе**: I wish I would… — ошибка; нужно I wish I could… или I wish I + Past Simple\n- не с глаголами состояния: I wish he were taller (не would be)",
+      "examples": [
+        {
+          "en": "I wish you would stop interrupting me.",
+          "ru": "Хоть бы ты перестал меня перебивать."
+        },
+        {
+          "en": "I wish it would stop raining.",
+          "ru": "Хоть бы дождь прекратился."
+        },
+        {
+          "en": "I wish the neighbours wouldn't park in front of our gate.",
+          "ru": "Хоть бы соседи не ставили машину перед нашими воротами."
+        }
+      ]
+    },
+    {
+      "title": "wish или hope",
+      "body": "- **hope + Present Simple / will** — реальная, вполне возможная ситуация\n- **wish + Past** — нереальная или маловероятная\n\nI hope you **pass** — ты можешь сдать. I wish you **weren't** leaving — но ты уезжаешь.",
+      "examples": [
+        {
+          "en": "I hope you pass your exam.",
+          "ru": "Надеюсь, ты сдашь экзамен."
+        },
+        {
+          "en": "I hope it doesn't rain tomorrow.",
+          "ru": "Надеюсь, завтра не будет дождя."
+        },
+        {
+          "en": "I wish you weren't leaving so soon.",
+          "ru": "Жаль, что ты так скоро уезжаешь."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "wish / if only + Past Simple → жаль, что сейчас не так",
+    "I wish I were… / I wish I could… → состояние, умение сейчас",
+    "wish + had + V3 → сожаление о прошлом",
+    "wish + someone + would → хочу, чтобы другой изменил поведение",
+    "I wish I would… ✗ → I wish I could… / I wish I + Past",
+    "реальная надежда → hope + Present / will"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I wish I have a car.",
+      "right": "I wish I had a car.",
+      "note": "желание о настоящем → wish + Past Simple"
+    },
+    {
+      "wrong": "I wish I didn't say that yesterday.",
+      "right": "I wish I hadn't said that yesterday.",
+      "note": "сожаление о прошлом → wish + had + V3"
+    },
+    {
+      "wrong": "I wish I would speak French.",
+      "right": "I wish I could speak French.",
+      "note": "о собственном умении — could; would после wish — о других"
+    },
+    {
+      "wrong": "I wish you will pass your exam.",
+      "right": "I hope you pass your exam.",
+      "note": "реальное пожелание — hope, а не wish"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Жаль, что у меня нет машины»?",
+      "back": "**wish + Past Simple**.\nI wish I had a car."
+    },
+    {
+      "front": "Как выразить сожаление о прошлом: «Зря я это сказал»?",
+      "back": "**wish + had + V3**.\nI wish I hadn't said that."
+    },
+    {
+      "front": "Как пожаловаться на чужое поведение: «Хоть бы ты перестал перебивать»?",
+      "back": "**wish + someone + would + V**.\nI wish you would stop interrupting."
+    },
+    {
+      "front": "Почему нельзя сказать «I wish I would…»?",
+      "back": "**would** после wish — о других людях и ситуациях. О себе: **could** или Past Simple.\nI wish I could swim."
+    },
+    {
+      "front": "wish или hope: «Надеюсь, ты сдашь экзамен»?",
+      "back": "**hope + Present Simple / will** — реальная возможность.\nI hope you pass your exam."
+    },
+    {
+      "front": "Чем if only отличается от I wish?",
+      "back": "Грамматика та же, но **if only** звучит эмоциональнее.\nIf only I had listened to you."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-wish-if-only-p01",
+      "type": "gap",
+      "q": "I wish I ___ more time to spend with my children, but I work six days a week.",
+      "correct": "had",
+      "wrong": [
+        "have",
+        "would have"
+      ],
+      "hint": "Желание о настоящем, которое не совпадает с реальностью. Какая форма после wish?",
+      "explain": "wish + Past Simple — сожаление о настоящем: I wish I had. Present (have) после wish не ставится, а would о себе не употребляется.",
+      "tr": "Жаль, что у меня нет больше времени на детей, но я работаю шесть дней в неделю."
+    },
+    {
+      "id": "b2-wish-if-only-p02",
+      "type": "gap",
+      "q": "I wish I ___ taller — I can never reach the top shelf in the kitchen.",
+      "correct": "were",
+      "wrong": [
+        "am"
+      ],
+      "hint": "Рост не изменить — это нереальное желание о настоящем.",
+      "explain": "wish + were — нереальное желание о настоящем (were — для всех лиц, в разговоре возможно was). am описывает реальность и после wish не ставится.",
+      "tr": "Жаль, что я не выше ростом — я никогда не могу дотянуться до верхней полки на кухне."
+    },
+    {
+      "id": "b2-wish-if-only-p03",
+      "type": "gap",
+      "q": "I wish I ___ so much money on clothes last month — now I can't pay the rent.",
+      "correct": "hadn't spent",
+      "wrong": [
+        "didn't spend",
+        "wouldn't spend",
+        "haven't spent"
+      ],
+      "hint": "«last month» — сожаление о прошлом.",
+      "explain": "Сожаление о прошлом → wish + Past Perfect: hadn't spent. didn't spend выражало бы желание о настоящем, а last month указывает на прошлое.",
+      "tr": "Зря я потратил столько денег на одежду в прошлом месяце — теперь мне нечем заплатить за квартиру."
+    },
+    {
+      "id": "b2-wish-if-only-p04",
+      "type": "gap",
+      "q": "I wish my neighbours ___ their music so loud every night — I can't sleep.",
+      "correct": "wouldn't play",
+      "wrong": [
+        "won't play"
+      ],
+      "hint": "Говорящего раздражает чужое поведение, которое он хотел бы изменить.",
+      "explain": "wish + would — раздражение и желание, чтобы другие изменили поведение: wouldn't play. will после wish не ставится.",
+      "tr": "Хоть бы соседи не включали музыку так громко каждую ночь — я не могу уснуть."
+    },
+    {
+      "id": "b2-wish-if-only-p05",
+      "type": "gap",
+      "q": "I ___ you feel better soon — let me know if you need anything.",
+      "correct": "hope",
+      "wrong": [
+        "wish"
+      ],
+      "hint": "Это реальное, вполне возможное пожелание. После глагола стоит Present Simple.",
+      "explain": "Реальная возможность → hope + Present Simple: I hope you feel better. wish не сочетается с Present Simple: он выражает нереальное.",
+      "tr": "Надеюсь, тебе скоро станет лучше — дай знать, если что-нибудь понадобится."
+    },
+    {
+      "id": "b2-wish-if-only-p06",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I wish I could play a musical instrument.",
+      "wrong": [
+        "I wish I would play a musical instrument.",
+        "I wish I can play a musical instrument.",
+        "I wish I could to play a musical instrument."
+      ],
+      "hint": "Речь об умении самого говорящего. Какой модальный глагол уместен после wish, когда говорят о себе?",
+      "explain": "Умение сейчас → wish + could + V (без to). would о себе после wish не употребляется, а can после wish не ставится.",
+      "tr": "Жаль, что я не умею играть ни на одном музыкальном инструменте."
+    },
+    {
+      "id": "b2-wish-if-only-p07",
+      "type": "gap",
+      "q": "If only I ___ to your advice before I signed the contract.",
+      "correct": "had listened",
+      "wrong": [
+        "listened",
+        "would listen",
+        "have listened"
+      ],
+      "hint": "Договор уже подписан. О каком времени сожаление?",
+      "explain": "If only + Past Perfect — сожаление о прошлом: had listened. listened выражало бы желание о настоящем.",
+      "tr": "Если бы только я послушал твоего совета, прежде чем подписать договор."
+    },
+    {
+      "id": "b2-wish-if-only-p08",
+      "type": "gap",
+      "q": "I wish I ___ come to your wedding, but I'll be abroad on a business trip that week.",
+      "correct": "could",
+      "wrong": [
+        "can"
+      ],
+      "hint": "Говорящий хотел бы прийти, но это невозможно.",
+      "explain": "wish + could — сожаление о невозможности: I wish I could come. can после wish не ставится.",
+      "tr": "Жаль, что я не смогу прийти на твою свадьбу, но на той неделе я буду в командировке за границей."
+    },
+    {
+      "id": "b2-wish-if-only-p09",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "If only I hadn't sold my flat.",
+      "correct": "I regret selling my flat.",
+      "wrong": [
+        "I'm glad I sold my flat.",
+        "I'd like to sell my flat."
+      ],
+      "hint": "If only + Past Perfect — что это выражает?",
+      "explain": "If only + Past Perfect — сожаление о прошлом: квартира продана, и говорящий жалеет об этом.",
+      "tr": "Я жалею, что продал свою квартиру."
+    },
+    {
+      "id": "b2-wish-if-only-p10",
+      "type": "gap",
+      "q": "I wish it ___ raining — we've been stuck indoors all weekend.",
+      "correct": "would stop",
+      "wrong": [
+        "will stop",
+        "stops"
+      ],
+      "hint": "Говорящий хочет перемены, но от него она не зависит.",
+      "explain": "wish + would — желание перемены, которую говорящий не контролирует: would stop. will и Present Simple после wish не ставятся.",
+      "tr": "Хоть бы этот дождь прекратился — мы все выходные сидим дома."
+    },
+    {
+      "id": "b2-wish-if-only-p11",
+      "type": "gap",
+      "q": "Anna wishes she ___ closer to her parents — they live four hours away by train.",
+      "correct": "lived",
+      "wrong": [
+        "would live"
+      ],
+      "hint": "Желание о нынешнем положении дел самой Анны, а не о чужом поведении.",
+      "explain": "Нереальное желание о настоящем → wish + Past Simple: lived. would не употребляется, когда человек говорит о себе (she = Anna).",
+      "tr": "Анна жалеет, что не живёт ближе к родителям — до них четыре часа на поезде."
+    },
+    {
+      "id": "b2-wish-if-only-p12",
+      "type": "gap",
+      "q": "I hope your interview ___ well tomorrow.",
+      "correct": "goes",
+      "wrong": [
+        "went",
+        "would go"
+      ],
+      "hint": "После hope — реальная возможность. Какое время передаёт будущее?",
+      "explain": "hope + Present Simple (или will) — реальная надежда на будущее: goes. Past Simple и would употребляются после wish, а не после hope.",
+      "tr": "Надеюсь, завтрашнее собеседование пройдёт хорошо."
+    },
+    {
+      "id": "b2-wish-if-only-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I wish you wouldn't keep interrupting me when I'm speaking.",
+      "wrong": [
+        "I wish you won't keep interrupting me when I'm speaking.",
+        "I hope you wouldn't keep interrupting me when I'm speaking.",
+        "I wish you don't keep interrupting me when I'm speaking."
+      ],
+      "hint": "Говорящего раздражает поведение собеседника. Какой глагол и какая форма после него?",
+      "explain": "Раздражение чужим поведением → I wish you would(n't) + V. will и don't после wish не ставятся, а hope не сочетается с would.",
+      "tr": "Хоть бы ты перестал меня перебивать, когда я говорю."
+    },
+    {
+      "id": "b2-wish-if-only-p14",
+      "type": "gap",
+      "q": "We were late because of the traffic. I wish we ___ the train instead of driving.",
+      "correct": "had taken",
+      "wrong": [
+        "took"
+      ],
+      "hint": "Поездка уже в прошлом.",
+      "explain": "Сожаление о прошлом → wish + Past Perfect: had taken. took (Past Simple) выражало бы желание о настоящем.",
+      "tr": "Мы опоздали из-за пробок. Жаль, что мы не поехали на поезде вместо машины."
+    },
+    {
+      "id": "b2-wish-if-only-p15",
+      "type": "gap",
+      "q": "I wish Tom ___ to the doctor about his back pain — he's been suffering for weeks.",
+      "correct": "would go",
+      "wrong": [
+        "will go",
+        "goes"
+      ],
+      "hint": "Говорящий хочет, чтобы Том поступил иначе.",
+      "explain": "wish + would — желание, чтобы другой человек изменил поведение: would go. will и Present Simple после wish не употребляются.",
+      "tr": "Хоть бы Том сходил к врачу со своей болью в спине — он мучается уже несколько недель."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-wish-if-only-e01",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I wish my manager would listen to my ideas.",
+      "correct": "My manager doesn't listen to my ideas, and this annoys me.",
+      "wrong": [
+        "My manager listened to my ideas, and I'm grateful.",
+        "I hope my manager will listen to my ideas at tomorrow's meeting."
+      ],
+      "hint": "wish + would о другом человеке — что это говорит о его поведении и об отношении говорящего?",
+      "explain": "wish + would — недовольство чужим поведением и желание, чтобы оно изменилось: руководитель не слушает. hope + will выражало бы надежду на конкретное событие.",
+      "tr": "Мой руководитель не прислушивается к моим идеям, и это меня раздражает."
+    },
+    {
+      "id": "b2-wish-if-only-e02",
+      "type": "gap",
+      "q": "If only I ___ my phone at home — I need to call the hotel and I can't remember the number.",
+      "correct": "hadn't left",
+      "wrong": [
+        "didn't leave",
+        "wouldn't leave",
+        "haven't left"
+      ],
+      "hint": "Телефон забыт раньше, сейчас — последствия.",
+      "explain": "Сожаление о прошлом действии → If only + Past Perfect: hadn't left. didn't leave выражало бы желание о настоящем, а haven't left после if only не ставится.",
+      "tr": "Зачем я только оставил телефон дома — мне нужно позвонить в отель, а я не помню номер."
+    },
+    {
+      "id": "b2-wish-if-only-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I hope she gets the job; she really deserves it.",
+      "wrong": [
+        "I wish she gets the job; she really deserves it.",
+        "I hope she would get the job; she really deserves it."
+      ],
+      "hint": "Это реальная возможность. Какой глагол и какое время?",
+      "explain": "Реальная надежда → hope + Present Simple: I hope she gets. wish не сочетается с Present Simple, а hope — с would.",
+      "tr": "Надеюсь, она получит эту работу: она действительно её заслуживает."
+    },
+    {
+      "id": "b2-wish-if-only-e04",
+      "type": "gap",
+      "q": "I'm terrible at saying no. I wish I ___ refuse people more easily.",
+      "correct": "could",
+      "wrong": [
+        "would"
+      ],
+      "hint": "Речь о собственном умении говорящего.",
+      "explain": "О собственной способности → wish + could: I wish I could refuse. I wish I would… о себе не говорят: would после wish — о других людях и ситуациях.",
+      "tr": "Я совершенно не умею говорить «нет». Хотел бы я легче отказывать людям."
+    },
+    {
+      "id": "b2-wish-if-only-e05",
+      "type": "gap",
+      "q": "Sophie wishes she ___ medicine at university instead of law — she finds her job as a lawyer really boring.",
+      "correct": "had studied",
+      "wrong": [
+        "studied",
+        "would study",
+        "has studied"
+      ],
+      "hint": "Университет для Софи уже позади: она работает юристом.",
+      "explain": "Сожаление о прошлом выборе → wish + Past Perfect: had studied. studied выражало бы желание о настоящем, а would о себе не употребляется.",
+      "tr": "Софи жалеет, что не изучала в университете медицину вместо права — работа юриста кажется ей очень скучной."
+    }
+  ],
+  "glossary": {
+    "advice": "совет",
+    "boring": "скучный",
+    "business": "(business trip) командировка",
+    "closer": "ближе",
+    "clothes": "одежда",
+    "contract": "договор, контракт",
+    "doctor": "врач",
+    "driving": "езда на машине (-ing от drive)",
+    "easily": "легко",
+    "finds": "считает, находит (от find)",
+    "flat": "квартира",
+    "hotel": "отель, гостиница",
+    "ideas": "идеи",
+    "indoors": "в помещении, дома",
+    "interview": "собеседование",
+    "kitchen": "кухня",
+    "law": "право, юриспруденция",
+    "lawyer": "юрист",
+    "listen": "слушать, прислушиваться",
+    "loud": "громко",
+    "manager": "руководитель, менеджер",
+    "medicine": "медицина",
+    "music": "музыка",
+    "neighbours": "соседи",
+    "number": "номер",
+    "pain": "боль",
+    "raining": "(идёт) дождь (-ing от rain)",
+    "reach": "дотянуться до",
+    "refuse": "отказывать",
+    "rent": "арендная плата",
+    "saying": "говорить (-ing от say)",
+    "shelf": "полка",
+    "signed": "подписал (прош. от sign)",
+    "stuck": "застряли, сидим взаперти (3-я форма от stick)",
+    "suffering": "мучается, страдает (-ing от suffer)",
+    "taller": "выше (ростом)",
+    "terrible": "ужасный; (terrible at) совсем не умею",
+    "top": "верхний",
+    "traffic": "пробки, движение транспорта",
+    "trip": "поездка",
+    "wedding": "свадьба",
+    "wish": "жалеть, что не…; хотеть, чтобы…",
+    "wishes": "жалеет, что не… (от wish)"
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "id": "c1-cleft-sentences",
+  "level": "C1",
+  "order": 2,
+  "title": "Cleft sentences",
+  "titleRu": "Расщеплённые предложения для выделения",
+  "summary": "Выделение главного: It was … that, What I need is …, All I want is …",
+  "source": "Murphy AGIU units 97–98; Cambridge Dictionary Grammar: Cleft sentences",
+  "rules": [
+    {
+      "title": "It is / It was … that / who …",
+      "body": "Выделяем один элемент предложения: **It + is / was + выделяемое + that / who + остальное**.\n\n- выделить можно подлежащее, дополнение, время, место, причину\n- о людях — **who** или that; о предметах, времени, месте — **that** (which здесь обычно не используется)\n- время be: о настоящем — **It is**, о прошлом — **It was**\n\nПо-русски то же самое передают интонацией или словами «именно», «как раз».",
+      "examples": [
+        {
+          "en": "It was Anna who found the error, not Mark.",
+          "ru": "Ошибку нашла именно Анна, а не Марк."
+        },
+        {
+          "en": "It's the price that worries me, not the quality.",
+          "ru": "Меня беспокоит именно цена, а не качество."
+        },
+        {
+          "en": "It was in 2015 that the company moved to London.",
+          "ru": "Именно в 2015 году компания переехала в Лондон."
+        }
+      ]
+    },
+    {
+      "title": "Согласование в It-конструкции",
+      "body": "Начало всегда в единственном числе: **It is / It was**, даже если выделено существительное во множественном числе.\n\nГлагол после who / that согласуется с **выделенным словом**:\n- It's my parents who **are** worried.\n- It's Tom who **has** the keys.",
+      "examples": [
+        {
+          "en": "It's the managers who are responsible for the delays.",
+          "ru": "За задержки отвечают именно менеджеры."
+        },
+        {
+          "en": "It was the side effects that worried the doctors.",
+          "ru": "Врачей беспокоили именно побочные эффекты."
+        }
+      ]
+    },
+    {
+      "title": "What-конструкция: What I need is …",
+      "body": "**What + подлежащее + глагол + be + выделяемое** — выделяем то, что стоит в конце.\n\n- What I need **is** a holiday.\n- What happened **was (that)** the server crashed.\n- What she did **was (to) call** the police — после What … do / did was ставится инфинитив с to или без\n\nbe обычно в единственном числе. Лишнее **it** перед is — калька с русского «то, что мне нужно, — это…»: What I need is…, а не What I need it is…",
+      "examples": [
+        {
+          "en": "What I need right now is a good night's sleep.",
+          "ru": "Сейчас мне больше всего нужно хорошо выспаться."
+        },
+        {
+          "en": "What happened was that the bank refused the loan.",
+          "ru": "Случилось вот что: банк отказал в кредите."
+        },
+        {
+          "en": "What we did was call a lawyer.",
+          "ru": "Мы сделали вот что — позвонили юристу."
+        }
+      ]
+    },
+    {
+      "title": "All …, The thing / reason / place …",
+      "body": "Похожие модели с all или существительным:\n\n- **All (that) + clause + is / was** — «всё, что…», «единственное, что…»: All I want is a quiet life.\n- **The thing / reason / place / person / time + clause + is**: The reason (why) I called is… The place where we met was…\n\nПосле all не ставим what: All I want, All that I want — но не All what I want. После the thing — that / which, не what.",
+      "examples": [
+        {
+          "en": "All I did was ask a simple question.",
+          "ru": "Я всего лишь задал простой вопрос."
+        },
+        {
+          "en": "The thing that annoys me is the noise.",
+          "ru": "Меня раздражает именно шум."
+        },
+        {
+          "en": "The reason why she left was the low salary.",
+          "ru": "Она ушла из-за низкой зарплаты."
+        }
+      ]
+    },
+    {
+      "title": "It wasn't until … that …",
+      "body": "**It wasn't until + время / событие + that + Past Simple** — «только когда…», «лишь после…».\n\n- It wasn't until I got home **that** I noticed… (= I didn't notice … until I got home.)\n- во второй части — **that** и прямой порядок слов; не when и не инверсия\n\nСравните с инверсией: Not until I got home did I notice… — та же мысль, но другая модель.",
+      "examples": [
+        {
+          "en": "It wasn't until the next day that we heard the news.",
+          "ru": "Мы узнали новость только на следующий день."
+        },
+        {
+          "en": "It wasn't until she moved abroad that she understood her parents.",
+          "ru": "Только переехав за границу, она поняла своих родителей."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "It is / was + выделяемое + who (люди) / that (всё остальное) + …",
+    "прошлое → It was; глагол после who — по выделенному слову: It's my parents who are…",
+    "What + clause + is / was … (без it): What I need is a break",
+    "What she did was (to) call … → после do / did was — инфинитив",
+    "All (that) I want is …; The reason why / The place where … is …",
+    "It wasn't until … that + прямой порядок слов"
+  ],
+  "mistakes": [
+    {
+      "wrong": "What I need it is a long holiday.",
+      "right": "What I need is a long holiday.",
+      "note": "лишнее it — калька с «это»; подлежащее — сама what-часть"
+    },
+    {
+      "wrong": "It was Anna which found the error.",
+      "right": "It was Anna who found the error.",
+      "note": "о людях — who или that, не which"
+    },
+    {
+      "wrong": "All what I want is some peace and quiet.",
+      "right": "All I want is some peace and quiet.",
+      "note": "после all не ставится what: all (that) I want"
+    },
+    {
+      "wrong": "It wasn't until midnight when he called.",
+      "right": "It wasn't until midnight that he called.",
+      "note": "в конструкции It wasn't until … части связывает that"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как выделить подлежащее: «Ошибку нашла именно Анна»?",
+      "back": "**It was + Anna + who + …**\nIt was Anna who found the error."
+    },
+    {
+      "front": "Как сказать «Мне нужен именно отпуск» с what?",
+      "back": "**What + clause + is …**, без it.\nWhat I need is a holiday."
+    },
+    {
+      "front": "«Она сделала вот что: позвонила в полицию». Какая форма после was?",
+      "back": "**Инфинитив** (с to или без).\nWhat she did was (to) call the police."
+    },
+    {
+      "front": "It's my parents who … worried: is или are?",
+      "back": "Глагол после who согласуется с **выделенным словом**: parents → **are**.\nIt's my parents who are worried."
+    },
+    {
+      "front": "«Всё, что я хочу, — это…» — как по-английски?",
+      "back": "**All (that) I want is …** (не all what).\nAll I want is a quiet weekend."
+    },
+    {
+      "front": "«Только дома я заметил…» — как построить с It wasn't until?",
+      "back": "**It wasn't until + … + that + Past Simple**.\nIt wasn't until I got home that I noticed the mistake."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-cleft-sentences-p01",
+      "type": "gap",
+      "q": "It was Anna ___ spotted the error in the financial report, not her manager.",
+      "correct": "who",
+      "wrong": [
+        "which",
+        "what"
+      ],
+      "hint": "Выделено имя человека. Какое слово связывает две части конструкции?",
+      "explain": "It was + человек + who (или that) + глагол. which относится к предметам, а what в этой конструкции не используется.",
+      "tr": "Ошибку в финансовом отчёте заметила именно Анна, а не её руководитель."
+    },
+    {
+      "id": "c1-cleft-sentences-p02",
+      "type": "gap",
+      "q": "The thing ___ annoys me most about open-plan offices is the constant noise.",
+      "correct": "that",
+      "wrong": [
+        "what"
+      ],
+      "hint": "После существительного the thing нужен относительный союз. Может ли здесь стоять слово со значением «то, что»?",
+      "explain": "После существительного the thing ставится that (или which). what уже означает «то, что», поэтому the thing what — калька с русского.",
+      "tr": "Больше всего в офисах открытого типа меня раздражает постоянный шум."
+    },
+    {
+      "id": "c1-cleft-sentences-p03",
+      "type": "gap",
+      "q": "It ___ in 2015 that the city finally opened its new metro line.",
+      "correct": "was",
+      "wrong": [
+        "is"
+      ],
+      "hint": "Когда произошло событие? Начало конструкции должно этому соответствовать.",
+      "explain": "Выделено время в прошлом (in 2015), поэтому It was … that. It is используют, когда речь о настоящем.",
+      "tr": "Именно в 2015 году город наконец открыл новую линию метро."
+    },
+    {
+      "id": "c1-cleft-sentences-p04",
+      "type": "gap",
+      "q": "___ worries investors most is the lack of a clear long-term strategy.",
+      "correct": "What",
+      "wrong": [
+        "That",
+        "Which",
+        "It"
+      ],
+      "hint": "Нужно слово со значением «то, что».",
+      "explain": "What worries investors most — «то, что больше всего беспокоит инвесторов», это подлежащее всего предложения. That, which и it такую роль не выполняют.",
+      "tr": "Больше всего инвесторов беспокоит отсутствие чёткой долгосрочной стратегии."
+    },
+    {
+      "id": "c1-cleft-sentences-p05",
+      "type": "gap",
+      "q": "It wasn't until the second interview ___ the salary was lower than advertised.",
+      "correct": "that I learned",
+      "wrong": [
+        "did I learn",
+        "when I learned"
+      ],
+      "hint": "Это конструкция It wasn't until … . Какое слово и какой порядок слов нужны во второй части?",
+      "explain": "It wasn't until … that + прямой порядок: that I learned. Инверсия (did I learn) нужна только в модели Not until … , а when вместо that — ошибка.",
+      "tr": "Только на втором собеседовании я узнал, что зарплата ниже, чем было указано в объявлении."
+    },
+    {
+      "id": "c1-cleft-sentences-p06",
+      "type": "gap",
+      "q": "All I wanted ___ a quiet weekend at home, but my boss had other plans.",
+      "correct": "was",
+      "wrong": [
+        "is",
+        "it was"
+      ],
+      "hint": "All I wanted — подлежащее. Какое время нужно и требуется ли ещё одно слово?",
+      "explain": "All I wanted was … — прошедшее время, как и в остальном предложении. it лишнее — это калька с русского «это».",
+      "tr": "Я хотел всего лишь спокойных выходных дома, но у начальника были другие планы."
+    },
+    {
+      "id": "c1-cleft-sentences-p07",
+      "type": "gap",
+      "q": "What she did was ___ the police and then wait outside the building.",
+      "correct": "call",
+      "wrong": [
+        "called"
+      ],
+      "hint": "Посмотрите на вторую часть: then wait. Какая форма идёт после What … did was?",
+      "explain": "После What + S + did was ставится инфинитив (с to или без): call. Прошедшее время уже выражено в did, поэтому called — ошибка.",
+      "tr": "Она сделала вот что: позвонила в полицию и стала ждать у здания."
+    },
+    {
+      "id": "c1-cleft-sentences-p08",
+      "type": "gap",
+      "q": "It's my parents who ___ most worried about the move, not me.",
+      "correct": "are",
+      "wrong": [
+        "is"
+      ],
+      "hint": "С каким словом согласуется глагол после who?",
+      "explain": "Глагол после who согласуется с выделенным словом: my parents → are. It's в начале конструкции при этом не меняется.",
+      "tr": "Из-за переезда больше всего волнуются мои родители, а не я."
+    },
+    {
+      "id": "c1-cleft-sentences-p09",
+      "type": "gap",
+      "q": "The reason ___ I'm calling is to check the details of tomorrow's delivery.",
+      "correct": "why",
+      "wrong": [
+        "because",
+        "what",
+        "for"
+      ],
+      "hint": "После the reason нужно слово, которое вводит определительную часть.",
+      "explain": "The reason why (или that) I'm calling — «причина, по которой я звоню». because — калька с «потому что», а what и for не связывают части предложения.",
+      "tr": "Я звоню, чтобы уточнить детали завтрашней доставки."
+    },
+    {
+      "id": "c1-cleft-sentences-p10",
+      "type": "gap",
+      "q": "What happened ___ the server crashed and we lost a whole day's work.",
+      "correct": "was that",
+      "wrong": [
+        "it was that"
+      ],
+      "hint": "What happened уже является подлежащим. Нужно ли ещё одно?",
+      "explain": "What happened was (that) … — «случилось вот что». it лишнее: подлежащим уже служит what-часть.",
+      "tr": "Случилось вот что: сервер упал, и мы потеряли результаты целого дня работы."
+    },
+    {
+      "id": "c1-cleft-sentences-p11",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "What I like most about this job is the freedom to work from home.",
+      "wrong": [
+        "What I like most about this job it is the freedom to work from home.",
+        "That I like most about this job is the freedom to work from home."
+      ],
+      "hint": "Проверьте первое слово и место перед is.",
+      "explain": "What + clause + is … без лишнего it. That не может означать «то, что» в начале такой конструкции.",
+      "tr": "Больше всего в этой работе мне нравится возможность работать из дома."
+    },
+    {
+      "id": "c1-cleft-sentences-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "All we need now is the director's signature.",
+      "wrong": [
+        "All what we need now is the director's signature.",
+        "All we need now it is the director's signature.",
+        "All that we need now are the director's signature."
+      ],
+      "hint": "После all не нужно лишних слов. Проверьте и согласование глагола.",
+      "explain": "All (that) we need is … : после all не ставится what, перед is не нужен it, а signature — ед. ч., поэтому is.",
+      "tr": "Теперь нам нужна только подпись директора."
+    },
+    {
+      "id": "c1-cleft-sentences-p13",
+      "type": "gap",
+      "q": "The place ___ I feel most relaxed is my grandmother's garden in the countryside.",
+      "correct": "where",
+      "wrong": [
+        "which",
+        "what",
+        "when"
+      ],
+      "hint": "После the place нужно слово, которое вводит определение места.",
+      "explain": "The place where … — «место, где». which потребовал бы предлога (in which), what не ставится после существительного, when относится ко времени.",
+      "tr": "Место, где я чувствую себя спокойнее всего, — бабушкин сад за городом."
+    },
+    {
+      "id": "c1-cleft-sentences-p14",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Tom broke the printer, not Kate.",
+      "correct": "It was Tom who broke the printer, not Kate.",
+      "wrong": [
+        "It was Kate who broke the printer, not Tom.",
+        "What Tom broke was Kate's printer."
+      ],
+      "hint": "Кто сломал принтер? Какой элемент нужно выделить?",
+      "explain": "It was Tom who … выделяет Тома как того, кто сломал принтер. Во втором варианте люди поменялись ролями, в третьем принтер стал принадлежать Кейт.",
+      "tr": "Принтер сломал именно Том, а не Кейт."
+    },
+    {
+      "id": "c1-cleft-sentences-p15",
+      "type": "gap",
+      "q": "What surprised me most ___ how calm everyone stayed during the crisis.",
+      "correct": "was",
+      "wrong": [
+        "were",
+        "it was"
+      ],
+      "hint": "What surprised me most — подлежащее. Какое у него число и какое время у события?",
+      "explain": "What-часть — подлежащее в единственном числе, событие в прошлом: was. were не согласуется с what-частью, а it лишнее.",
+      "tr": "Больше всего меня удивило, как спокойно все держались во время кризиса."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-cleft-sentences-e01",
+      "type": "gap",
+      "q": "It was only when the auditors arrived ___ the true scale of the losses became clear.",
+      "correct": "that",
+      "wrong": [
+        "when",
+        "then",
+        "which"
+      ],
+      "hint": "Это It-конструкция с выделенным временем. Какое слово связывает её части?",
+      "explain": "It was only when … that … — выделено время, части связывает that. Повторять when нельзя, а then и which части не связывают.",
+      "tr": "Истинный масштаб убытков стал ясен только тогда, когда приехали аудиторы."
+    },
+    {
+      "id": "c1-cleft-sentences-e02",
+      "type": "gap",
+      "q": "What the report fails to explain ___ why costs rose so sharply last year.",
+      "correct": "is",
+      "wrong": [
+        "it is",
+        "was"
+      ],
+      "hint": "Ориентируйтесь на время глагола в what-части, а не на last year.",
+      "explain": "В what-части настоящее время (fails), поэтому is. Last year относится к росту расходов, а не к отчёту; it перед is лишнее.",
+      "tr": "Отчёт не объясняет, почему в прошлом году расходы так резко выросли."
+    },
+    {
+      "id": "c1-cleft-sentences-e03",
+      "type": "gap",
+      "q": "All ___ the committee asked for was a clear timetable for the project.",
+      "correct": "that",
+      "wrong": [
+        "what"
+      ],
+      "hint": "После all делаем тот же выбор, что и после существительного.",
+      "explain": "All (that) … — «всё, что»: после all ставится that или ничего. All what — калька с «всё, что».",
+      "tr": "Комиссия просила только о чётком графике проекта."
+    },
+    {
+      "id": "c1-cleft-sentences-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "It was the junior doctors who noticed the problem first.",
+      "wrong": [
+        "It were the junior doctors who noticed the problem first.",
+        "It was the junior doctors which noticed the problem first.",
+        "It was the junior doctors who they noticed the problem first."
+      ],
+      "hint": "Проверьте начало конструкции, относительное слово и то, что идёт после него.",
+      "explain": "It was остаётся в ед. ч. при любом выделенном слове; о людях — who; после who подлежащее they не повторяется.",
+      "tr": "Проблему первыми заметили именно младшие врачи."
+    },
+    {
+      "id": "c1-cleft-sentences-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The only thing she wanted was an apology.",
+      "correct": "All she wanted was an apology.",
+      "wrong": [
+        "She wanted everything but an apology.",
+        "What she wanted it was an apology."
+      ],
+      "hint": "Какая конструкция значит «единственное, что»?",
+      "explain": "All she wanted was … = The only thing she wanted was … . Второй вариант меняет смысл на противоположный, в третьем лишнее it.",
+      "tr": "Она хотела только извинений."
+    }
+  ],
+  "glossary": {
+    "advertised": "указано в объявлении (3-я форма от advertise)",
+    "annoys": "раздражает",
+    "apology": "извинение",
+    "auditors": "аудиторы",
+    "building": "здание",
+    "calling": "звоню (-ing от call)",
+    "calm": "спокойный",
+    "check": "проверить, уточнить",
+    "clear": "ясный, чёткий",
+    "committee": "комиссия, комитет",
+    "constant": "постоянный",
+    "costs": "расходы, затраты",
+    "countryside": "сельская местность",
+    "crashed": "упал, вышел из строя (о сервере)",
+    "crisis": "кризис",
+    "delivery": "доставка",
+    "details": "детали, подробности",
+    "error": "ошибка",
+    "explain": "объяснить",
+    "fails": "не удаётся (fails to explain — не объясняет)",
+    "financial": "финансовый",
+    "garden": "сад",
+    "grandmother": "бабушка",
+    "interview": "собеседование",
+    "investors": "инвесторы",
+    "lack": "отсутствие, нехватка",
+    "line": "линия",
+    "long-term": "долгосрочный",
+    "losses": "убытки",
+    "lower": "ниже",
+    "manager": "руководитель, менеджер",
+    "metro": "метро",
+    "noise": "шум",
+    "offices": "офисы",
+    "open-plan": "открытой планировки",
+    "opened": "открыл (прош. от open)",
+    "place": "место",
+    "plans": "планы",
+    "police": "полиция",
+    "printer": "принтер",
+    "project": "проект",
+    "quiet": "тихий, спокойный",
+    "reason": "причина",
+    "relaxed": "расслабленный, спокойный",
+    "report": "отчёт",
+    "salary": "зарплата",
+    "scale": "масштаб",
+    "server": "сервер",
+    "sharply": "резко",
+    "spotted": "заметил (прош. от spot)",
+    "strategy": "стратегия",
+    "timetable": "график, расписание",
+    "true": "истинный, настоящий",
+    "worries": "беспокоит"
+  }
+}

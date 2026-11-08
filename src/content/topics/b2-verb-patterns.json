@@ -1,0 +1,469 @@
+{
+  "id": "b2-verb-patterns",
+  "level": "B2",
+  "order": 13,
+  "title": "Verb patterns: -ing or infinitive with a change in meaning",
+  "titleRu": "Глагольные модели: смена значения",
+  "summary": "-ing или инфинитив со сменой смысла; want sb to, make, let",
+  "source": "Murphy EGIU units 53–57, 66; British Council: Verbs followed by -ing or infinitive",
+  "rules": [
+    {
+      "title": "remember, forget, regret",
+      "body": "**remember / forget + to do** — помнить / забыть **сделать** то, что нужно (действие после).\n**remember / forget + -ing** — помнить / не забыть **то, что уже было** (действие раньше).\n\n- forget + -ing обычно в **I'll never forget…**\n- **regret to inform / to tell** — с сожалением сообщаем (официально)\n- **regret + -ing** — жалеть о том, что сделал; отрицание: regret **not** doing",
+      "examples": [
+        {
+          "en": "Remember to lock the door when you leave.",
+          "ru": "Не забудь запереть дверь, когда будешь уходить."
+        },
+        {
+          "en": "I remember locking the door, so it must be closed.",
+          "ru": "Я помню, что запирал дверь, так что она наверняка закрыта."
+        },
+        {
+          "en": "I regret saying that to her.",
+          "ru": "Я жалею, что сказал ей это."
+        }
+      ]
+    },
+    {
+      "title": "stop, go on",
+      "body": "**stop + -ing** — перестать делать.\n**stop + to do** — остановиться, **чтобы** сделать что-то (цель).\n\n**go on + -ing** — продолжать то же самое.\n**go on + to do** — перейти к следующему действию или теме.",
+      "examples": [
+        {
+          "en": "She stopped smoking last year.",
+          "ru": "В прошлом году она бросила курить."
+        },
+        {
+          "en": "We stopped to buy some water.",
+          "ru": "Мы остановились, чтобы купить воды."
+        },
+        {
+          "en": "After school she went on to study law.",
+          "ru": "После школы она пошла учиться на юриста."
+        }
+      ]
+    },
+    {
+      "title": "try, mean",
+      "body": "**try + to do** — пытаться, прилагать усилия (часто безуспешно).\n**try + -ing** — попробовать как эксперимент: поможет ли?\n\n**mean + to do** — намереваться: I didn't mean to hurt you.\n**mean + -ing** — означать, повлечь за собой: The new job means travelling a lot.",
+      "examples": [
+        {
+          "en": "I tried to lift the box, but it was too heavy.",
+          "ru": "Я пытался поднять коробку, но она была слишком тяжёлой."
+        },
+        {
+          "en": "If you can't sleep, try drinking warm milk.",
+          "ru": "Если не можешь уснуть, попробуй выпить тёплого молока."
+        },
+        {
+          "en": "Saving money means spending less.",
+          "ru": "Копить деньги — значит меньше тратить."
+        }
+      ]
+    },
+    {
+      "title": "Глагол + объект + to do; make и let",
+      "body": "**want / would like / expect / ask / tell / advise / persuade / allow + объект + to do**.\n\n- I want you to come. (не: I want that you come)\n- **make / let + объект + V** без to: They made me wait. She let me go.\n- в пассиве с make появляется to: I was made to wait.\n- allow требует to: They allowed us to leave.",
+      "examples": [
+        {
+          "en": "My boss expects me to work late.",
+          "ru": "Начальник ожидает, что я буду работать допоздна."
+        },
+        {
+          "en": "She advised me to see a doctor.",
+          "ru": "Она посоветовала мне обратиться к врачу."
+        },
+        {
+          "en": "My parents let me stay up late.",
+          "ru": "Родители разрешали мне ложиться поздно."
+        }
+      ]
+    },
+    {
+      "title": "see, hear + объект + V или -ing",
+      "body": "**see / hear / watch / notice + объект + V** — восприняли действие **целиком**, от начала до конца.\n**see / hear + объект + -ing** — застали действие **в процессе**.\n\n- частица **to** здесь не нужна\n- короткое завершённое действие обычно → V: I heard the door close.",
+      "examples": [
+        {
+          "en": "I saw him get into a taxi and drive away.",
+          "ru": "Я видел, как он сел в такси и уехал."
+        },
+        {
+          "en": "I saw him waiting at the bus stop.",
+          "ru": "Я видел, как он ждал на остановке."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "remember / forget + to do → не забыть сделать; + -ing → помнить, что было",
+    "stop + -ing → перестать; stop + to do → остановиться, чтобы…",
+    "try + to do → пытаться; try + -ing → попробовать как эксперимент",
+    "mean + to do → намереваться; mean + -ing → означать, повлечь",
+    "want / expect / advise / persuade + объект + to do; make / let + объект + V",
+    "see / hear + объект + V → целиком; + -ing → в процессе"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I want that you help me.",
+      "right": "I want you to help me.",
+      "note": "калька «хочу, чтобы»: want + объект + to do"
+    },
+    {
+      "wrong": "My boss made me to stay late.",
+      "right": "My boss made me stay late.",
+      "note": "после make / let + объект — инфинитив без to"
+    },
+    {
+      "wrong": "Don't forget closing the window.",
+      "right": "Don't forget to close the window.",
+      "note": "не забыть сделать → forget + to do"
+    },
+    {
+      "wrong": "I heard her to sing in the next room.",
+      "right": "I heard her sing in the next room.",
+      "note": "после see / hear + объект частица to не нужна"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Чем «I remember locking the door» отличается от «Remember to lock the door»?",
+      "back": "**remember + -ing** — помню, что запер.\n**remember to + V** — не забудь запереть."
+    },
+    {
+      "front": "«Он бросил курить» и «Он остановился, чтобы покурить» — как сказать?",
+      "back": "**stopped smoking** — бросил.\n**stopped to smoke** — остановился, чтобы покурить."
+    },
+    {
+      "front": "Когда try + -ing, а когда try + to?",
+      "back": "**try to do** — пытаться с усилием: I tried to open it.\n**try doing** — попробовать как способ: Try restarting it."
+    },
+    {
+      "front": "Как сказать «Я хочу, чтобы ты пришёл»?",
+      "back": "**want + объект + to do**: I want you to come.\nНе: I want that you come."
+    },
+    {
+      "front": "Что после make и let: «Они заставили меня ждать»?",
+      "back": "**make / let + объект + V** без to: They made me wait.\nВ пассиве: I was made to wait."
+    },
+    {
+      "front": "Чем «I saw her cross the street» отличается от «I saw her crossing the street»?",
+      "back": "**cross** — видел всё действие целиком.\n**crossing** — застал её в процессе."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-verb-patterns-p01",
+      "type": "gap",
+      "q": "Please remember ___ the lights off when you leave the office tonight.",
+      "correct": "to switch",
+      "wrong": [
+        "switching"
+      ],
+      "hint": "Речь о том, что нужно сделать в будущем, а не о воспоминании.",
+      "explain": "remember + to do — не забыть сделать (обязанность впереди). remember + -ing — помнить то, что уже произошло.",
+      "tr": "Пожалуйста, не забудь выключить свет, когда будешь уходить из офиса вечером."
+    },
+    {
+      "id": "b2-verb-patterns-p02",
+      "type": "gap",
+      "q": "I clearly remember ___ this man at a conference, but I can't recall his name.",
+      "correct": "meeting",
+      "wrong": [
+        "to meet",
+        "meet"
+      ],
+      "hint": "Это воспоминание о событии, которое уже было.",
+      "explain": "remember + -ing — помнить то, что произошло в прошлом. remember + to do значит «не забыть сделать» в будущем.",
+      "tr": "Я отчётливо помню, что встречал этого человека на конференции, но не могу вспомнить, как его зовут."
+    },
+    {
+      "id": "b2-verb-patterns-p03",
+      "type": "gap",
+      "q": "We regret ___ you that your flight to Berlin has been cancelled due to bad weather.",
+      "correct": "to inform",
+      "wrong": [
+        "informing",
+        "inform"
+      ],
+      "hint": "Это официальное сообщение о плохой новости, которую сообщают прямо сейчас.",
+      "explain": "regret + to inform / to tell — с сожалением сообщаем (сейчас). regret + -ing — сожалеть о том, что уже сделано.",
+      "tr": "С сожалением сообщаем вам, что ваш рейс в Берлин отменён из-за плохой погоды."
+    },
+    {
+      "id": "b2-verb-patterns-p04",
+      "type": "gap",
+      "q": "Since he stopped ___ fast food, Jack has lost eight kilos.",
+      "correct": "eating",
+      "wrong": [
+        "to eat"
+      ],
+      "hint": "Джек отказался от привычки или прервался, чтобы что-то сделать?",
+      "explain": "stop + -ing — прекратить делать что-то. stop + to do — остановиться, чтобы сделать что-то другое.",
+      "tr": "С тех пор как Джек перестал есть фастфуд, он похудел на восемь килограммов."
+    },
+    {
+      "id": "b2-verb-patterns-p05",
+      "type": "gap",
+      "q": "We had been driving for five hours, so we stopped ___ a coffee at a small roadside café.",
+      "correct": "to have",
+      "wrong": [
+        "having",
+        "have"
+      ],
+      "hint": "Они прервали поездку. С какой целью?",
+      "explain": "stop + to do — остановиться, чтобы сделать что-то (цель). stopped having значило бы «перестали пить кофе».",
+      "tr": "Мы ехали уже пять часов, поэтому остановились выпить кофе в маленьком придорожном кафе."
+    },
+    {
+      "id": "b2-verb-patterns-p06",
+      "type": "gap",
+      "q": "The director first presented the sales figures and then went on ___ about plans for next year.",
+      "correct": "to talk",
+      "wrong": [
+        "talking"
+      ],
+      "hint": "Директор продолжил то же самое или перешёл к новой теме?",
+      "explain": "go on + to do — перейти к следующему действию или теме. go on + -ing — продолжать то же самое действие.",
+      "tr": "Сначала директор представил показатели продаж, а затем перешёл к планам на следующий год."
+    },
+    {
+      "id": "b2-verb-patterns-p07",
+      "type": "gap",
+      "q": "If the page still won't load, try ___ your browser and see if that helps.",
+      "correct": "restarting",
+      "wrong": [
+        "to restart"
+      ],
+      "hint": "Перезапуск браузера — несложная попытка: поможет или нет?",
+      "explain": "try + -ing — попробовать что-то как эксперимент, чтобы посмотреть, поможет ли. try + to do — пытаться, прилагая усилия, когда сделать трудно.",
+      "tr": "Если страница всё ещё не загружается, попробуй перезапустить браузер и посмотри, поможет ли это."
+    },
+    {
+      "id": "b2-verb-patterns-p08",
+      "type": "gap",
+      "q": "I tried ___ the window with all my strength, but it was stuck.",
+      "correct": "to open",
+      "wrong": [
+        "opening",
+        "open"
+      ],
+      "hint": "Человек прикладывал усилие, но ничего не вышло.",
+      "explain": "try + to do — пытаться, прилагать усилия (with all my strength). try + -ing — пробовать как эксперимент; здесь же окно так и не открылось.",
+      "tr": "Я изо всех сил пытался открыть окно, но его заклинило."
+    },
+    {
+      "id": "b2-verb-patterns-p09",
+      "type": "gap",
+      "q": "Taking the new job would mean ___ to another city, so I need some time to think.",
+      "correct": "moving",
+      "wrong": [
+        "to move"
+      ],
+      "hint": "Здесь mean значит «намереваться» или «повлечь за собой»?",
+      "explain": "mean + -ing — «означать, повлечь за собой»: новая работа означает переезд. mean + to do — «намереваться».",
+      "tr": "Новая работа означала бы переезд в другой город, поэтому мне нужно время подумать."
+    },
+    {
+      "id": "b2-verb-patterns-p10",
+      "type": "gap",
+      "q": "Sorry, I didn't mean ___ you. I was only trying to help.",
+      "correct": "to upset",
+      "wrong": [
+        "upsetting"
+      ],
+      "hint": "Здесь mean значит «означать» или «намереваться»?",
+      "explain": "mean + to do — «намереваться»: я не хотел тебя расстроить. mean + -ing — «означать, повлечь за собой».",
+      "tr": "Извини, я не хотел тебя расстроить. Я просто пытался помочь."
+    },
+    {
+      "id": "b2-verb-patterns-p11",
+      "type": "gap",
+      "q": "My parents always wanted ___ a doctor, but I chose journalism instead.",
+      "correct": "me to become",
+      "wrong": [
+        "that I become",
+        "me become",
+        "that I became"
+      ],
+      "hint": "want + кто-то + действие. Какая конструкция идёт после want?",
+      "explain": "want + объект + to do: wanted me to become. Придаточное с that после want не используется — это калька с «хотели, чтобы я…».",
+      "tr": "Мои родители всегда хотели, чтобы я стал врачом, но я выбрал журналистику."
+    },
+    {
+      "id": "b2-verb-patterns-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The security guard made us open our bags before we entered the building.",
+      "wrong": [
+        "The security guard made us to open our bags before we entered the building.",
+        "The security guard made us opening our bags before we entered the building.",
+        "The security guard made that we open our bags before we entered the building."
+      ],
+      "hint": "Какая форма глагола идёт после make + объект?",
+      "explain": "make + объект + инфинитив без to: made us open. С to эта конструкция бывает только в пассиве: we were made to open.",
+      "tr": "Охранник заставил нас открыть сумки, прежде чем мы вошли в здание."
+    },
+    {
+      "id": "b2-verb-patterns-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I saw Tom crossing the road.",
+      "correct": "Tom was in the middle of crossing the road when I saw him.",
+      "wrong": [
+        "I watched Tom cross the whole road from start to finish.",
+        "Tom crossed the road after I had seen him."
+      ],
+      "hint": "Что подчёркивает форма -ing после see: процесс или действие целиком?",
+      "explain": "see + объект + -ing — человек застал действие в процессе, не обязательно целиком. see + объект + V (cross) — действие от начала до конца.",
+      "tr": "Том как раз переходил дорогу, когда я его увидел."
+    },
+    {
+      "id": "b2-verb-patterns-p14",
+      "type": "gap",
+      "q": "The witness saw the man ___ the building at about six and drive away in a black car.",
+      "correct": "leave",
+      "wrong": [
+        "to leave",
+        "left",
+        "leaves"
+      ],
+      "hint": "Свидетель видел действие целиком. Какая форма глагола идёт после see + объект?",
+      "explain": "see + объект + инфинитив без to — действие увидели целиком: saw the man leave … and drive away. to leave и личные формы здесь невозможны.",
+      "tr": "Свидетель видел, как мужчина около шести вышел из здания и уехал на чёрной машине."
+    },
+    {
+      "id": "b2-verb-patterns-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "My friends persuaded me to apply for the job.",
+      "wrong": [
+        "My friends persuaded me apply for the job.",
+        "My friends persuaded that I apply for the job.",
+        "My friends persuaded me applying for the job."
+      ],
+      "hint": "persuade + кто-то + действие. Какая форма глагола нужна?",
+      "explain": "persuade + объект + to do: persuaded me to apply. Так же строятся advise, allow, expect, ask, tell, want.",
+      "tr": "Друзья уговорили меня подать заявку на эту работу."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-verb-patterns-e01",
+      "type": "gap",
+      "q": "I'll never forget ___ my first salary. I spent almost all of it in a single weekend in Paris.",
+      "correct": "getting",
+      "wrong": [
+        "to get",
+        "get"
+      ],
+      "hint": "Речь о памятном событии из прошлого.",
+      "explain": "never forget + -ing — навсегда запомнить то, что произошло. forget + to do — забыть сделать что-то нужное.",
+      "tr": "Я никогда не забуду, как получил свою первую зарплату. Я потратил почти всю её за одни выходные в Париже."
+    },
+    {
+      "id": "b2-verb-patterns-e02",
+      "type": "gap",
+      "q": "Even though we were all waiting for him, Mike went on ___ on the phone for another twenty minutes.",
+      "correct": "chatting",
+      "wrong": [
+        "to chat"
+      ],
+      "hint": "Майк перешёл к новому действию или продолжал прежнее?",
+      "explain": "go on + -ing — продолжать то же действие (for another twenty minutes). go on + to do — перейти к следующему действию.",
+      "tr": "Хотя мы все его ждали, Майк продолжал болтать по телефону ещё двадцать минут."
+    },
+    {
+      "id": "b2-verb-patterns-e03",
+      "type": "gap",
+      "q": "Sarah regrets ___ more attention to her health when she was younger.",
+      "correct": "not paying",
+      "wrong": [
+        "not to pay",
+        "to not pay",
+        "not pay"
+      ],
+      "hint": "Сара сожалеет о том, что было в прошлом.",
+      "explain": "regret + -ing — сожалеть о прошлом; отрицание — not перед -ing: regrets not paying. regret + to do используется в значении «с сожалением сообщаю».",
+      "tr": "Сара жалеет, что в молодости не уделяла больше внимания своему здоровью."
+    },
+    {
+      "id": "b2-verb-patterns-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Our teacher let us use dictionaries during the test.",
+      "wrong": [
+        "Our teacher let us to use dictionaries during the test.",
+        "Our teacher allowed us use dictionaries during the test.",
+        "Our teacher let that we use dictionaries during the test."
+      ],
+      "hint": "Сравните конструкции после let и после allow.",
+      "explain": "let + объект + инфинитив без to: let us use. allow требует to: allowed us to use.",
+      "tr": "Преподаватель разрешил нам пользоваться словарями во время контрольной."
+    },
+    {
+      "id": "b2-verb-patterns-e05",
+      "type": "gap",
+      "q": "She heard someone ___ her name, so she turned round, but the street was empty.",
+      "correct": "call",
+      "wrong": [
+        "to call",
+        "called"
+      ],
+      "hint": "Какая форма идёт после hear + объект?",
+      "explain": "hear + объект + инфинитив без to — услышать действие целиком. to call и called после hear someone невозможны.",
+      "tr": "Она услышала, как кто-то позвал её по имени, и обернулась, но улица была пуста."
+    }
+  ],
+  "glossary": {
+    "attention": "внимание",
+    "black": "чёрный",
+    "browser": "браузер",
+    "building": "здание",
+    "café": "кафе",
+    "cancelled": "отменён (3-я форма от cancel)",
+    "clearly": "отчётливо, ясно",
+    "coffee": "кофе",
+    "conference": "конференция",
+    "crossing": "переходя (-ing от cross)",
+    "director": "директор",
+    "doctor": "врач",
+    "driving": "ехали (за рулём) (-ing от drive)",
+    "due": "(due to) из-за",
+    "empty": "пустой",
+    "figures": "цифры, показатели",
+    "flight": "рейс",
+    "health": "здоровье",
+    "helps": "помогает",
+    "journalism": "журналистика",
+    "kilos": "килограммы",
+    "lights": "свет, лампы",
+    "load": "загружаться",
+    "name": "имя",
+    "page": "страница",
+    "plans": "планы",
+    "presented": "представил (прош. от present)",
+    "recall": "вспомнить",
+    "regret": "сожалеть",
+    "regrets": "сожалеет",
+    "road": "дорога",
+    "roadside": "придорожный",
+    "round": "(turn round) обернуться",
+    "salary": "зарплата",
+    "sales": "продажи",
+    "single": "один-единственный",
+    "sorry": "извини",
+    "stopped": "перестал; остановились (прош. от stop)",
+    "street": "улица",
+    "strength": "сила",
+    "stuck": "застрявший, заклинивший",
+    "trying": "пытаясь (-ing от try)",
+    "turned": "(turned round) обернулась (прош. от turn)",
+    "weather": "погода",
+    "window": "окно",
+    "witness": "свидетель",
+    "younger": "моложе"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "id": "b1-future-forms",
+  "level": "B1",
+  "order": 5,
+  "title": "Future: will, going to, Present Continuous",
+  "titleRu": "Будущее: will, going to, Present Continuous",
+  "summary": "Решения, планы, договорённости, расписания и прогнозы",
+  "source": "Murphy EGIU units 19–23; British Council: Talking about the future",
+  "rules": [
+    {
+      "title": "will — решение в момент речи, помощь, обещание, мнение",
+      "body": "Форма: **will / won't + V** (без to).\n\n- решение, принятое прямо сейчас: The phone's ringing. — **I'll get** it.\n- предложение помощи, обещание: I'll carry that for you. I **won't tell** anyone.\n- прогноз-мнение: **I think, I'm sure, probably, I don't think** + will",
+      "examples": [
+        {
+          "en": "A: I don't understand this form. B: Don't worry, I'll help you fill it in.",
+          "ru": "— Я не понимаю эту анкету. — Не волнуйся, я помогу её заполнить."
+        },
+        {
+          "en": "I'm sure you'll like the new office.",
+          "ru": "Уверен, новый офис тебе понравится."
+        }
+      ]
+    },
+    {
+      "title": "be going to — намерение и прогноз по признакам",
+      "body": "Форма: **am / is / are going to + V**.\n\n- решение уже принято до момента речи: I've decided — I'm **going to** look for a new job.\n- прогноз по тому, что видно сейчас: Look at those clouds! It's **going to** rain.\n\nСравните: решил сейчас → **will**; решил заранее → **going to**.",
+      "examples": [
+        {
+          "en": "We're going to paint the kitchen this weekend.",
+          "ru": "В эти выходные мы собираемся покрасить кухню."
+        },
+        {
+          "en": "Be careful! That ladder is going to fall.",
+          "ru": "Осторожно! Эта лестница сейчас упадёт."
+        }
+      ]
+    },
+    {
+      "title": "Present Continuous — договорённости",
+      "body": "**am / is / are + V-ing** — то, о чём уже договорились: есть время, место, другие люди, билеты или запись в ежедневнике.\n\n- вопрос о планах: **What are you doing this weekend?**\n- will для договорённостей не используем: не *I will meet Anna at six*",
+      "examples": [
+        {
+          "en": "I'm meeting Anna for lunch at one tomorrow.",
+          "ru": "Завтра в час я обедаю с Анной."
+        },
+        {
+          "en": "What are you doing on Saturday evening?",
+          "ru": "Что ты делаешь в субботу вечером?"
+        }
+      ]
+    },
+    {
+      "title": "Present Simple — расписания",
+      "body": "Расписания транспорта, программы мероприятий, время начала и окончания: **leaves, arrives, starts, finishes, opens, closes**.",
+      "examples": [
+        {
+          "en": "The train leaves at 7.15, so we need to be at the station by seven.",
+          "ru": "Поезд отправляется в 7:15, так что нам надо быть на вокзале к семи."
+        },
+        {
+          "en": "What time does the film start?",
+          "ru": "Во сколько начинается фильм?"
+        }
+      ]
+    },
+    {
+      "title": "Shall I…? / Shall we…?",
+      "body": "**Shall I + V?** — предлагаем свою помощь. **Shall we + V?** — предлагаем сделать что-то вместе. **What shall we do?** — спрашиваем совета, что делать.\n\nWill I…? в этом значении не используется.",
+      "examples": [
+        {
+          "en": "Shall I book a table for four?",
+          "ru": "Забронировать столик на четверых?"
+        },
+        {
+          "en": "Shall we take a taxi? It's getting late.",
+          "ru": "Может, возьмём такси? Уже поздно."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "решение сейчас, помощь, обещание → will + V",
+    "I think / I'm sure / probably → will + V",
+    "решено заранее; Look! (признаки) → am/is/are going to + V",
+    "договорились (время, люди) → am/is/are + V-ing",
+    "расписание: The train leaves at 7 → Present Simple",
+    "Shall I…? — помочь; Shall we…? — сделать вместе"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I will to call you tomorrow.",
+      "right": "I'll call you tomorrow.",
+      "note": "после will — глагол без to"
+    },
+    {
+      "wrong": "What do you do this evening?",
+      "right": "What are you doing this evening?",
+      "note": "вопрос о планах и договорённостях → Present Continuous"
+    },
+    {
+      "wrong": "The phone's ringing. — I'm going to answer it.",
+      "right": "The phone's ringing. — I'll answer it.",
+      "note": "решение в момент речи → will"
+    },
+    {
+      "wrong": "Will I help you with your bags?",
+      "right": "Shall I help you with your bags?",
+      "note": "предложение помощи → Shall I…?"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Звонит телефон. Как сказать «Я возьму»?",
+      "back": "**I'll get it.**\nРешение в момент речи → will."
+    },
+    {
+      "front": "Чем отличается «I'll buy a new laptop» от «I'm going to buy a new laptop»?",
+      "back": "**I'll buy** — решил только что.\n**I'm going to buy** — решение принято заранее."
+    },
+    {
+      "front": "Как сказать о встрече, о которой уже договорились: «Завтра в шесть я встречаюсь с Томом»?",
+      "back": "**Present Continuous**: I'm meeting Tom at six tomorrow."
+    },
+    {
+      "front": "Какое время для расписания поезда или начала фильма?",
+      "back": "**Present Simple**.\nThe train leaves at 7.15. The film starts at eight."
+    },
+    {
+      "front": "Как предложить: «Позвонить им?»",
+      "back": "**Shall I call them?**\nНе Will I…?"
+    },
+    {
+      "front": "Небо в тучах. «Будет дождь» — will или going to?",
+      "back": "**going to** — прогноз по признакам, которые видны сейчас.\nLook at those clouds! It's going to rain."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-future-forms-p01",
+      "type": "gap",
+      "q": "A: These boxes are really heavy.\nB: Give me one. I ___ it to the car for you.",
+      "correct": "will carry",
+      "wrong": [
+        "am going to carry",
+        "carry",
+        "am carrying"
+      ],
+      "hint": "Человек предлагает помощь и решает это прямо сейчас.",
+      "explain": "Предложение помощи, решение в момент речи → will: I'll carry. going to и Present Continuous — для того, что решено заранее; Present Simple будущее здесь не выражает.",
+      "tr": "— Эти коробки очень тяжёлые. — Дай мне одну, я отнесу её к машине."
+    },
+    {
+      "id": "b1-future-forms-p02",
+      "type": "gap",
+      "q": "Look at those dark clouds! It ___.",
+      "correct": "is going to rain",
+      "wrong": [
+        "will rain"
+      ],
+      "hint": "Прогноз строится на том, что видно прямо сейчас.",
+      "explain": "Прогноз по признакам, которые видны сейчас (dark clouds), → be going to: is going to rain. will — для прогнозов-мнений: I think it will rain tomorrow.",
+      "tr": "Посмотри на эти тёмные тучи! Сейчас пойдёт дождь."
+    },
+    {
+      "id": "b1-future-forms-p03",
+      "type": "gap",
+      "q": "I can't come to the gym on Thursday. I ___ my sister at the airport at six.",
+      "correct": "am meeting",
+      "wrong": [
+        "will meet"
+      ],
+      "hint": "Встреча уже оговорена: есть время, место и другой человек.",
+      "explain": "Договорённость с другим человеком на конкретное время → Present Continuous: am meeting. will для уже согласованных планов не используется.",
+      "tr": "Я не смогу прийти в спортзал в четверг. В шесть я встречаю сестру в аэропорту."
+    },
+    {
+      "id": "b1-future-forms-p04",
+      "type": "gap",
+      "q": "The conference ___ on 3 March and finishes two days later.",
+      "correct": "starts",
+      "wrong": [
+        "will start",
+        "start"
+      ],
+      "hint": "Это программа мероприятия. Посмотрите на второй глагол в предложении.",
+      "explain": "Программа мероприятия → Present Simple, как и finishes во второй части: starts. will start нарушил бы параллель, а start без -s не согласуется с conference.",
+      "tr": "Конференция начинается 3 марта и заканчивается через два дня."
+    },
+    {
+      "id": "b1-future-forms-p05",
+      "type": "gap",
+      "q": "It's quite cold in here. ___ close the window?",
+      "correct": "Shall I",
+      "wrong": [
+        "Will I"
+      ],
+      "hint": "Говорящий предлагает свою помощь.",
+      "explain": "Предлагаем помощь → Shall I…? Will I…? спрашивает о будущем факте («я буду…?») и предложения не выражает.",
+      "tr": "Здесь довольно холодно. Закрыть окно?"
+    },
+    {
+      "id": "b1-future-forms-p06",
+      "type": "gap",
+      "q": "Don't worry about the interview. I'm sure you ___ the job. You're perfect for it.",
+      "correct": "will get",
+      "wrong": [
+        "get",
+        "are getting"
+      ],
+      "hint": "«I'm sure» — это мнение говорящего о будущем.",
+      "explain": "Прогноз-мнение (I'm sure) → will + V: will get. Present Continuous — для договорённостей, Present Simple — для расписаний.",
+      "tr": "Не волнуйся насчёт собеседования. Я уверен, ты получишь эту работу. Ты идеально подходишь."
+    },
+    {
+      "id": "b1-future-forms-p07",
+      "type": "gap",
+      "q": "A: Why are you buying so much flour?\nB: I ___ a cake for Daniel's birthday tomorrow.",
+      "correct": "am going to bake",
+      "wrong": [
+        "will bake",
+        "bake",
+        "baked"
+      ],
+      "hint": "Мука уже в корзине. Решение принято сейчас или раньше?",
+      "explain": "Намерение принято заранее (поэтому и мука куплена) → be going to: am going to bake. will — для решений, которые принимаются в момент речи.",
+      "tr": "— Зачем ты покупаешь столько муки? — Я собираюсь испечь торт на завтрашний день рождения Дэниела."
+    },
+    {
+      "id": "b1-future-forms-p08",
+      "type": "gap",
+      "q": "A: Would you like tea or coffee?\nB: I ___ coffee, please. No sugar.",
+      "correct": "will have",
+      "wrong": [
+        "am going to have",
+        "am having",
+        "have"
+      ],
+      "hint": "Выбор делается прямо сейчас, в ответ на вопрос.",
+      "explain": "Выбор в момент речи → will: I'll have coffee. going to и Present Continuous описывают то, что решено заранее; Present Simple здесь — калька с русского «я буду кофе».",
+      "tr": "— Вам чай или кофе? — Кофе, пожалуйста. Без сахара."
+    },
+    {
+      "id": "b1-future-forms-p09",
+      "type": "gap",
+      "q": "I promise I ___ anyone about your new job until you announce it yourself.",
+      "correct": "won't tell",
+      "wrong": [
+        "don't tell"
+      ],
+      "hint": "«I promise» — какую форму используют для обещаний?",
+      "explain": "Обещание → will / won't + V: won't tell. Present Simple don't tell обещания о будущем не выражает.",
+      "tr": "Обещаю, я никому не скажу о твоей новой работе, пока ты сам не объявишь."
+    },
+    {
+      "id": "b1-future-forms-p10",
+      "type": "pick",
+      "task": "Выберите подходящий ответ",
+      "q": "We've run out of milk.",
+      "correct": "Oh, I'll get some on my way home from work.",
+      "wrong": [
+        "Oh, I get some on my way home from work.",
+        "Oh, I'm getting some on my way home from work.",
+        "Oh, I'll to get some on my way home from work."
+      ],
+      "hint": "Oh показывает, что человек узнал об этом только что.",
+      "explain": "Решение принято в момент речи → will + V без to: I'll get some. Present Continuous — для того, о чём договорились заранее.",
+      "tr": "Ой, я куплю по дороге с работы."
+    },
+    {
+      "id": "b1-future-forms-p11",
+      "type": "gap",
+      "q": "It's a lovely evening. ___ have dinner outside on the terrace?",
+      "correct": "Shall we",
+      "wrong": [
+        "Will we"
+      ],
+      "hint": "Говорящий предлагает сделать что-то вместе.",
+      "explain": "Предложение сделать что-то вместе → Shall we…? Will we…? спрашивает о будущем факте, а не предлагает.",
+      "tr": "Чудесный вечер. Может, поужинаем на террасе?"
+    },
+    {
+      "id": "b1-future-forms-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верный диалог",
+      "q": "",
+      "correct": "Are you doing anything this weekend? — Yes, we're having lunch with my parents on Sunday.",
+      "wrong": [
+        "Do you do anything this weekend? — Yes, we're having lunch with my parents on Sunday.",
+        "Are you doing anything this weekend? — Yes, we have lunch with my parents on Sunday."
+      ],
+      "hint": "Речь о планах, о которых уже договорились.",
+      "explain": "Вопрос о планах и ответ о договорённости → Present Continuous в обеих репликах. Do you do… — вопрос о привычках, а we have lunch… описывало бы регулярное действие.",
+      "tr": "— У тебя есть планы на выходные? — Да, в воскресенье мы обедаем с моими родителями."
+    },
+    {
+      "id": "b1-future-forms-p13",
+      "type": "gap",
+      "q": "A: Have you decided what to do with your bonus?\nB: Yes, I ___ a new laptop. Mine is really slow.",
+      "correct": "am going to buy",
+      "wrong": [
+        "will buy",
+        "buy"
+      ],
+      "hint": "«Have you decided? — Yes»: решение принято только что или раньше?",
+      "explain": "Решение уже принято (Have you decided? — Yes) → be going to: am going to buy. will выражает решение, которое принимается в момент речи.",
+      "tr": "— Ты решил, что сделаешь с премией? — Да, куплю новый ноутбук. Мой очень медленный."
+    },
+    {
+      "id": "b1-future-forms-p14",
+      "type": "gap",
+      "q": "We ___ married in June. The venue is already booked and the invitations have gone out.",
+      "correct": "are getting",
+      "wrong": [
+        "will get"
+      ],
+      "hint": "Всё уже организовано: место забронировано, приглашения разосланы.",
+      "explain": "Событие уже организовано → Present Continuous: are getting married. will для договорённостей не используется.",
+      "tr": "Мы женимся в июне. Место уже забронировано, приглашения разосланы."
+    },
+    {
+      "id": "b1-future-forms-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I'm going to call Laura tonight.",
+      "correct": "I've already decided to call Laura tonight.",
+      "wrong": [
+        "I've just decided, at this moment, to call Laura tonight.",
+        "Laura has asked me to call her tonight."
+      ],
+      "hint": "Что выражает be going to: решение в момент речи или заранее?",
+      "explain": "be going to выражает намерение, принятое заранее. Решение в момент речи передала бы форма I'll call her.",
+      "tr": "Я уже решил позвонить Лоре сегодня вечером."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-future-forms-e01",
+      "type": "gap",
+      "q": "A: Oh no, I've left my wallet at home!\nB: Don't worry, I ___ you some money until tomorrow.",
+      "correct": "will lend",
+      "wrong": [
+        "am lending",
+        "lend",
+        "am going to lend"
+      ],
+      "hint": "Собеседник узнал о проблеме только что и сразу предлагает помощь.",
+      "explain": "Предложение помощи, решение в момент речи → will: I'll lend. going to и Present Continuous означали бы, что это было решено заранее.",
+      "tr": "— Ой, я оставил кошелёк дома! — Не переживай, я одолжу тебе денег до завтра."
+    },
+    {
+      "id": "b1-future-forms-e02",
+      "type": "gap",
+      "q": "I ___ a client in Manchester on Friday morning, so I'll be back in the office after lunch.",
+      "correct": "am seeing",
+      "wrong": [
+        "will see",
+        "see"
+      ],
+      "hint": "Встреча с клиентом уже назначена на конкретное время.",
+      "explain": "Договорённость о встрече на конкретное время → Present Continuous: am seeing (see a client = встречаться с клиентом). will и Present Simple для личных договорённостей не используются.",
+      "tr": "В пятницу утром у меня встреча с клиентом в Манчестере, так что в офис я вернусь после обеда."
+    },
+    {
+      "id": "b1-future-forms-e03",
+      "type": "gap",
+      "q": "We've got an hour before the film starts. What ___ do?",
+      "correct": "shall we",
+      "wrong": [
+        "will we"
+      ],
+      "hint": "Говорящий спрашивает совета, чем заняться вместе.",
+      "explain": "Спрашиваем, что предлагает собеседник → What shall we do? will we спрашивало бы о будущем факте, а не о предложении.",
+      "tr": "До начала фильма у нас час. Чем займёмся?"
+    },
+    {
+      "id": "b1-future-forms-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Look at the traffic! We're going to miss the start of the concert.",
+      "wrong": [
+        "Look at the traffic! We miss the start of the concert.",
+        "Look at the traffic! We will to miss the start of the concert.",
+        "Look at the traffic! We going to miss the start of the concert."
+      ],
+      "hint": "Прогноз по тому, что видно прямо сейчас. Проверьте и полноту формы.",
+      "explain": "Прогноз по признакам (пробки) → be going to: We're going to miss. Без are форма неполная, после will to не ставится.",
+      "tr": "Посмотри, какие пробки! Мы опоздаем к началу концерта."
+    },
+    {
+      "id": "b1-future-forms-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Ben is flying to Rome on Monday.",
+      "correct": "Ben's trip to Rome on Monday is already arranged.",
+      "wrong": [
+        "Ben flies to Rome every Monday.",
+        "Ben might decide to go to Rome on Monday."
+      ],
+      "hint": "Present Continuous о будущем: что он сообщает о поездке?",
+      "explain": "Present Continuous о будущем = договорённость: билеты, время и место уже определены. Привычку передал бы Present Simple, а неуверенность — might.",
+      "tr": "Поездка Бена в Рим в понедельник уже организована."
+    }
+  ],
+  "glossary": {
+    "airport": "аэропорт",
+    "announce": "объявить",
+    "birthday": "день рождения",
+    "bonus": "премия",
+    "booked": "забронирован (3-я форма от book)",
+    "boxes": "коробки",
+    "buying": "покупаешь (-ing от buy)",
+    "cake": "торт",
+    "client": "клиент",
+    "clouds": "тучи, облака",
+    "coffee": "кофе",
+    "cold": "холодно, холодный",
+    "conference": "конференция",
+    "dark": "тёмный",
+    "dinner": "ужин",
+    "film": "фильм",
+    "finishes": "заканчивается",
+    "flour": "мука",
+    "flying": "летит (-ing от fly)",
+    "gym": "спортзал",
+    "heavy": "тяжёлый",
+    "interview": "собеседование",
+    "invitations": "приглашения",
+    "laptop": "ноутбук",
+    "lovely": "чудесный",
+    "lunch": "обед",
+    "Manchester": "Манчестер",
+    "milk": "молоко",
+    "oh": "ой, о",
+    "perfect": "идеальный, идеально подходящий",
+    "promise": "обещаю (promise — обещать)",
+    "starts": "начинается",
+    "sugar": "сахар",
+    "tea": "чай",
+    "terrace": "терраса",
+    "venue": "место проведения",
+    "wallet": "кошелёк",
+    "window": "окно",
+    "worry": "волноваться (don't worry — не волнуйся)"
+  }
+}

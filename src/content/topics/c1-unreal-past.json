@@ -1,0 +1,482 @@
+{
+  "id": "c1-unreal-past",
+  "level": "C1",
+  "order": 4,
+  "title": "Unreal past and the subjunctive",
+  "titleRu": "Нереальное прошедшее и сослагательное наклонение",
+  "summary": "It's time we left, I'd rather you…, as if и сослагательное наклонение",
+  "source": "Murphy AGIU units 37, 84, 89; Cambridge Dictionary Grammar: Subjunctive",
+  "rules": [
+    {
+      "title": "It's time + Past Simple",
+      "body": "**It's time / It's high time / It's about time + S + Past Simple** — «пора бы уже»; часто с упрёком: это уже должно было произойти.\n\n- It's time we **left**. It's high time the council **did** something.\n- форма прошедшая, но значение — настоящее или будущее\n\nНейтрально, без упрёка: **It's time to + V** или **It's time for + S + to V**: It's time to go.",
+      "examples": [
+        {
+          "en": "It's getting late — it's time we went home.",
+          "ru": "Уже поздно — нам пора домой."
+        },
+        {
+          "en": "It's high time you found a proper job.",
+          "ru": "Тебе давно пора найти нормальную работу."
+        },
+        {
+          "en": "It's time for us to make a decision.",
+          "ru": "Нам пора принять решение."
+        }
+      ]
+    },
+    {
+      "title": "Would rather / would sooner",
+      "body": "**Тот же субъект** → инфинитив без to: I'd rather **stay** at home. I'd rather not **say**.\n\n**Другой субъект** → прошедшее время:\n- о настоящем или будущем — **Past Simple**: I'd rather you **didn't smoke** here.\n- о прошлом — **Past Perfect**: I'd rather you **hadn't told** him.\n\nwould sooner значит то же самое и звучит чуть разговорнее. После would rather не ставится to.",
+      "examples": [
+        {
+          "en": "I'd rather walk than take a taxi.",
+          "ru": "Я лучше пройдусь пешком, чем возьму такси."
+        },
+        {
+          "en": "I'd rather you didn't mention this to anyone.",
+          "ru": "Я бы предпочёл, чтобы ты никому об этом не говорил."
+        },
+        {
+          "en": "I'd rather you had asked me first.",
+          "ru": "Лучше бы ты сначала спросил меня."
+        }
+      ]
+    },
+    {
+      "title": "As if / as though",
+      "body": "Время после as if зависит от того, насколько ситуация реальна:\n\n- **нереально сейчас** → Past Simple / were: He talks as if he **knew** everything. (он не знает)\n- **нереально в прошлом** → Past Perfect: She looked as if she **had seen** a ghost.\n- **вероятно, правда** → обычное время: It looks as if it**'s going to** rain. (небо в тучах)\n\nПеред as if не ставится like: looks as if, а не looks like as if.",
+      "examples": [
+        {
+          "en": "He behaves as if he owned the place.",
+          "ru": "Он ведёт себя так, будто он здесь хозяин."
+        },
+        {
+          "en": "You look as if you haven't slept all night.",
+          "ru": "Похоже, ты всю ночь не спал."
+        },
+        {
+          "en": "She spoke as though nothing had happened.",
+          "ru": "Она говорила так, будто ничего не произошло."
+        }
+      ]
+    },
+    {
+      "title": "Suppose, imagine; were",
+      "body": "**Suppose / Supposing / Imagine + S + Past Simple** — воображаемая ситуация в настоящем или будущем; дальше обычно would.\n\n- Suppose you **won** the lottery — what would you do?\n- Imagine you **had** a year off.\n\nВ нереальных придаточных (if, suppose, as if) с I / he / she / it в формальном стиле используют **were**: If I were you…, as if he were the boss. В разговоре допустимо и was.",
+      "examples": [
+        {
+          "en": "Suppose you were offered the job — would you accept it?",
+          "ru": "Допустим, тебе бы предложили эту работу — ты бы согласился?"
+        },
+        {
+          "en": "Imagine you had unlimited time. What would you study?",
+          "ru": "Представь, что у тебя неограниченное время. Что бы ты изучал?"
+        },
+        {
+          "en": "If I were in your position, I'd accept the offer.",
+          "ru": "На твоём месте я бы принял предложение."
+        }
+      ]
+    },
+    {
+      "title": "Сослагательное наклонение: that he be informed",
+      "body": "После глаголов и выражений требования, совета и необходимости — **insist, suggest, recommend, demand, propose, request, it is essential / vital / important that** — в формальном стиле ставится **инфинитив без to** для всех лиц:\n\n- The board recommended that he **be** appointed.\n- It is vital that every patient **have** a copy.\n- отрицание — **not + V**: that she **not travel**\n\nВ британском английском так же часто говорят **should + V**: that he should be appointed. Это равноценные варианты. Невозможно: suggested him to go, that he to go.",
+      "examples": [
+        {
+          "en": "The doctor insisted that she not return to work for a month.",
+          "ru": "Врач настоял, чтобы она месяц не выходила на работу."
+        },
+        {
+          "en": "It is essential that the documents be signed today.",
+          "ru": "Крайне важно, чтобы документы подписали сегодня."
+        },
+        {
+          "en": "They proposed that the meeting should be postponed.",
+          "ru": "Они предложили перенести встречу."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "It's (high / about) time + S + Past Simple → It's time we left",
+    "It's time to + V → нейтрально: It's time to go",
+    "I'd rather + V (сам); I'd rather + you + Past Simple / Past Perfect",
+    "as if + past → нереально; as if + обычное время → вероятно",
+    "Suppose / Imagine + Past Simple … would …",
+    "insist / suggest / it's vital that + S + V (be, have, not go) = should + V"
+  ],
+  "mistakes": [
+    {
+      "wrong": "It's time we go home.",
+      "right": "It's time we went home.",
+      "note": "после It's time + подлежащее — Past Simple"
+    },
+    {
+      "wrong": "I'd rather to stay at home tonight.",
+      "right": "I'd rather stay at home tonight.",
+      "note": "после would rather — инфинитив без to"
+    },
+    {
+      "wrong": "The manager suggested me to apply for the post.",
+      "right": "The manager suggested that I apply for the post.",
+      "note": "suggest не строится как «объект + to V»: suggest that I (should) apply"
+    },
+    {
+      "wrong": "He looks like as if he hasn't slept.",
+      "right": "He looks as if he hasn't slept.",
+      "note": "as if не сочетается с like"
+    }
+  ],
+  "cards": [
+    {
+      "front": "«Нам давно пора уйти» — с It's time и подлежащим?",
+      "back": "**It's time + S + Past Simple**.\nIt's time we left."
+    },
+    {
+      "front": "I'd rather … (я сам) и I'd rather you … (другой человек) — какие формы?",
+      "back": "Сам: **инфинитив без to** — I'd rather stay.\nДругой: **Past Simple** — I'd rather you stayed."
+    },
+    {
+      "front": "«Лучше бы ты ему не говорил» (о прошлом).",
+      "back": "**I'd rather you hadn't + V3**.\nI'd rather you hadn't told him."
+    },
+    {
+      "front": "He talks as if he knows everything / as if he knew everything — в чём разница?",
+      "back": "**knew** — говорящий считает это неправдой.\n**knows** — возможно, так и есть."
+    },
+    {
+      "front": "«Врач настоял, чтобы она не ехала» — формально.",
+      "back": "**insist that + S + not + V**.\nThe doctor insisted that she not travel. = …that she should not travel."
+    },
+    {
+      "front": "Как сказать «Представь, что у тебя есть миллион»?",
+      "back": "**Imagine / Suppose + Past Simple**.\nImagine you had a million pounds — what would you do?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-unreal-past-p01",
+      "type": "gap",
+      "q": "It's nearly midnight. It's time we ___ home — the last train leaves in twenty minutes.",
+      "correct": "went",
+      "wrong": [
+        "go",
+        "will go"
+      ],
+      "hint": "После It's time + подлежащее нужна особая форма, хотя речь о настоящем.",
+      "explain": "It's time + S + Past Simple: It's time we went. Настоящее (go) и будущее (will go) в этой конструкции не используются.",
+      "tr": "Уже почти полночь. Нам пора домой — последний поезд уходит через двадцать минут."
+    },
+    {
+      "id": "c1-unreal-past-p02",
+      "type": "gap",
+      "q": "It's high time the council ___ something about the potholes on this road.",
+      "correct": "did",
+      "wrong": [
+        "does"
+      ],
+      "hint": "It's high time — «давно пора». Какое время идёт после подлежащего?",
+      "explain": "It's high time + S + Past Simple: the council did. Форма прошедшая, но значение настоящее: это давно должно было случиться.",
+      "tr": "Городскому совету давно пора что-то сделать с выбоинами на этой дороге."
+    },
+    {
+      "id": "c1-unreal-past-p03",
+      "type": "gap",
+      "q": "Everyone is here now, so I think it's time ___ the meeting.",
+      "correct": "to start",
+      "wrong": [
+        "we start"
+      ],
+      "hint": "Есть две модели: It's time + подлежащее + прошедшее время и It's time + инфинитив. Какая из них построена правильно?",
+      "explain": "It's time to + V — нейтральное «пора»: it's time to start. С подлежащим нужен Past Simple (it's time we started), поэтому we start — ошибка.",
+      "tr": "Все уже пришли, так что, думаю, пора начинать совещание."
+    },
+    {
+      "id": "c1-unreal-past-p04",
+      "type": "gap",
+      "q": "I'd rather you ___ anyone about the merger until it's officially announced.",
+      "correct": "didn't tell",
+      "wrong": [
+        "won't tell",
+        "not to tell"
+      ],
+      "hint": "После I'd rather идёт другой субъект (you). Какое время нужно?",
+      "explain": "would rather + другой субъект → Past Simple: I'd rather you didn't tell. Будущее время и to-инфинитив после would rather не используются.",
+      "tr": "Я бы предпочёл, чтобы ты никому не говорил о слиянии, пока о нём не объявят официально."
+    },
+    {
+      "id": "c1-unreal-past-p05",
+      "type": "gap",
+      "q": "I'd rather ___ at home tonight — it's been an exhausting week.",
+      "correct": "stay",
+      "wrong": [
+        "to stay"
+      ],
+      "hint": "Кто останется дома — сам говорящий или другой человек?",
+      "explain": "would rather + тот же субъект → инфинитив без to: I'd rather stay. После would rather, как после модальных глаголов, to не ставится.",
+      "tr": "Я лучше останусь сегодня дома — неделя была изматывающая."
+    },
+    {
+      "id": "c1-unreal-past-p06",
+      "type": "gap",
+      "q": "He talks about the project as if he ___ it all by himself, but it was really a team effort.",
+      "correct": "had done",
+      "wrong": [
+        "has done",
+        "does",
+        "would have done"
+      ],
+      "hint": "Это неправда, и речь о прошлом. Какое время передаёт нереальное прошлое?",
+      "explain": "as if + Past Perfect — нереальная ситуация в прошлом: he had done (на самом деле работала команда). Present Perfect показывал бы, что это может быть правдой.",
+      "tr": "Он говорит о проекте так, будто сделал всё сам, хотя на самом деле это была работа всей команды."
+    },
+    {
+      "id": "c1-unreal-past-p07",
+      "type": "gap",
+      "q": "The streets are all wet, so it looks as if it ___ during the night.",
+      "correct": "has rained",
+      "wrong": [
+        "had rained"
+      ],
+      "hint": "Мокрые улицы — реальное доказательство. Ситуация вероятная или воображаемая?",
+      "explain": "Если сказанное после as if, скорее всего, правда, используется обычное время: it has rained. Past Perfect означал бы, что дождя на самом деле не было.",
+      "tr": "Улицы совсем мокрые — похоже, ночью шёл дождь."
+    },
+    {
+      "id": "c1-unreal-past-p08",
+      "type": "gap",
+      "q": "___ you were offered a well-paid job abroad — would you take it?",
+      "correct": "Suppose",
+      "wrong": [
+        "Unless",
+        "If suppose",
+        "In case"
+      ],
+      "hint": "Нужно слово со значением «предположим, допустим».",
+      "explain": "Suppose + Past Simple — «предположим, что…», воображаемая ситуация с would. If suppose — калька с «если предположить», а unless и in case значат другое.",
+      "tr": "Допустим, тебе бы предложили хорошо оплачиваемую работу за границей — ты бы согласился?"
+    },
+    {
+      "id": "c1-unreal-past-p09",
+      "type": "gap",
+      "q": "Imagine you ___ the power to change just one law. Which one would you choose?",
+      "correct": "had",
+      "wrong": [
+        "will have",
+        "would have"
+      ],
+      "hint": "Воображаемая ситуация в настоящем, дальше — would.",
+      "explain": "Imagine + Past Simple — воображаемая ситуация: imagine you had. Will и would после imagine в этой модели не ставятся.",
+      "tr": "Представь, что у тебя есть возможность изменить всего один закон. Какой бы ты выбрал?"
+    },
+    {
+      "id": "c1-unreal-past-p10",
+      "type": "gap",
+      "q": "The committee has recommended that the new rules ___ introduced gradually over two years.",
+      "correct": "be",
+      "wrong": [
+        "to be",
+        "being",
+        "will be"
+      ],
+      "hint": "После recommend that в формальном стиле нужна особая форма глагола — одна для всех лиц.",
+      "explain": "recommend that + S + инфинитив без to (сослагательное наклонение): that the rules be introduced; британский вариант — should be. To be, being и will be здесь невозможны.",
+      "tr": "Комиссия рекомендовала вводить новые правила постепенно, в течение двух лет."
+    },
+    {
+      "id": "c1-unreal-past-p11",
+      "type": "gap",
+      "q": "The doctor insisted that Sophie ___ for at least a month after the operation.",
+      "correct": "not travel",
+      "wrong": [
+        "not to travel"
+      ],
+      "hint": "Как строится отрицание в сослагательном наклонении после insist that?",
+      "explain": "insist that + S + not + V: that Sophie not travel (или should not travel). Частица to после that + подлежащее невозможна.",
+      "tr": "Врач настоял, чтобы Софи никуда не ездила как минимум месяц после операции."
+    },
+    {
+      "id": "c1-unreal-past-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The manager suggested that I apply for the senior position.",
+      "wrong": [
+        "The manager suggested me to apply for the senior position.",
+        "The manager suggested me applying for the senior position."
+      ],
+      "hint": "Как строится suggest, если совет относится к другому человеку?",
+      "explain": "suggest that + S + V (или should + V): suggested that I apply. Конструкции suggest me to do и suggest me doing невозможны.",
+      "tr": "Руководитель предложил мне претендовать на более высокую должность."
+    },
+    {
+      "id": "c1-unreal-past-p13",
+      "type": "gap",
+      "q": "It is essential that every passenger ___ a valid passport before boarding the ferry.",
+      "correct": "have",
+      "wrong": [
+        "having",
+        "to have",
+        "will have"
+      ],
+      "hint": "It is essential that… — какая форма глагола одинакова для всех лиц?",
+      "explain": "It is essential that + S + инфинитив без to: every passenger have. Отсутствие -s здесь не ошибка, а сослагательное наклонение; британский вариант — should have.",
+      "tr": "Крайне важно, чтобы у каждого пассажира был действительный паспорт до посадки на паром."
+    },
+    {
+      "id": "c1-unreal-past-p14",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "She behaves as if she owned the company.",
+      "correct": "She doesn't own the company, but she behaves like its owner.",
+      "wrong": [
+        "She owned the company in the past and still behaves like its owner.",
+        "She probably owns the company, judging by her behaviour."
+      ],
+      "hint": "Что показывает прошедшее время после as if?",
+      "explain": "as if + Past Simple о настоящем — ситуация нереальна: компания ей не принадлежит. Владение в прошлом или вероятное владение выражались бы другими формами.",
+      "tr": "Компания ей не принадлежит, но она ведёт себя как владелица."
+    },
+    {
+      "id": "c1-unreal-past-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I'd rather we met on Friday, if that's all right with you.",
+      "wrong": [
+        "I'd rather to meet on Friday, if that's all right with you.",
+        "I'd rather that we will meet on Friday, if that's all right with you.",
+        "I'd rather us to meet on Friday, if that's all right with you."
+      ],
+      "hint": "После I'd rather идёт либо инфинитив без to, либо подлежащее с прошедшим временем.",
+      "explain": "would rather + we + Past Simple: I'd rather we met. После would rather не бывает to, will или us to.",
+      "tr": "Я бы предпочёл встретиться в пятницу, если вам удобно."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-unreal-past-e01",
+      "type": "gap",
+      "q": "It's about time the government ___ the real reasons for the price increases.",
+      "correct": "explained",
+      "wrong": [
+        "explains",
+        "will explain",
+        "to explain"
+      ],
+      "hint": "It's about time + подлежащее — какая форма передаёт «давно пора»?",
+      "explain": "It's about time + S + Past Simple: the government explained. Настоящее и будущее время здесь невозможны, а to-инфинитив ставится только без подлежащего (It's about time to…).",
+      "tr": "Правительству давно пора объяснить настоящие причины роста цен."
+    },
+    {
+      "id": "c1-unreal-past-e02",
+      "type": "gap",
+      "q": "I'd rather you ___ me before booking the tickets, but never mind — it's done now.",
+      "correct": "had asked",
+      "wrong": [
+        "asked",
+        "have asked"
+      ],
+      "hint": "Сожаление о том, что уже произошло. Какое время после would rather + другой субъект?",
+      "explain": "О прошлом после I'd rather you ставится Past Perfect: had asked. Past Simple (asked) относился бы к настоящему или будущему.",
+      "tr": "Лучше бы ты спросил меня, прежде чем бронировать билеты, но ладно — дело сделано."
+    },
+    {
+      "id": "c1-unreal-past-e03",
+      "type": "gap",
+      "q": "The board has proposed that the chief executive ___ re-elected for a further three years.",
+      "correct": "be",
+      "wrong": [
+        "to be"
+      ],
+      "hint": "propose that + подлежащее — какая форма нужна в формальном стиле?",
+      "explain": "propose that + S + инфинитив без to: that the chief executive be re-elected (= should be re-elected). to после подлежащего здесь невозможно.",
+      "tr": "Совет директоров предложил переизбрать генерального директора ещё на три года."
+    },
+    {
+      "id": "c1-unreal-past-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "When she came back from the trip, she looked as if she hadn't slept for days.",
+      "wrong": [
+        "When she came back from the trip, she looked as if she didn't sleep for days.",
+        "When she came back from the trip, she looked as if she hasn't slept for days.",
+        "When she came back from the trip, she looked like as if she hadn't slept for days."
+      ],
+      "hint": "Рассказ о прошлом, а бессонные ночи были ещё раньше. Проверьте и то, что стоит перед as if.",
+      "explain": "После looked (прошлое) более раннее действие передаётся Past Perfect: hadn't slept. didn't sleep не показывает предшествование, hasn't slept не сочетается с looked, а like перед as if лишнее.",
+      "tr": "Когда она вернулась из поездки, она выглядела так, будто не спала несколько суток."
+    },
+    {
+      "id": "c1-unreal-past-e05",
+      "type": "gap",
+      "q": "Suppose the meeting ___ cancelled at the last minute — what would you tell the client?",
+      "correct": "were",
+      "wrong": [
+        "will be",
+        "would be"
+      ],
+      "hint": "Воображаемая ситуация, во второй части — would. Какая форма be нужна после suppose?",
+      "explain": "Suppose + Past Simple (в формальном стиле were) — воображаемая ситуация: the meeting were cancelled. will be и would be после suppose не ставятся.",
+      "tr": "Предположим, встречу отменили бы в последний момент — что бы ты сказал клиенту?"
+    }
+  ],
+  "glossary": {
+    "announced": "объявлено (3-я форма от announce)",
+    "behaves": "ведёт себя",
+    "board": "совет директоров",
+    "boarding": "посадка (-ing от board)",
+    "booking": "бронирование (-ing от book)",
+    "cancelled": "отменена (3-я форма от cancel)",
+    "chief": "главный (chief executive — генеральный директор)",
+    "client": "клиент",
+    "committee": "комиссия, комитет",
+    "council": "городской совет",
+    "doctor": "врач",
+    "effort": "усилие (team effort — общая работа команды)",
+    "essential": "крайне важный, необходимый",
+    "executive": "руководитель (chief executive — гендиректор)",
+    "exhausting": "изматывающий",
+    "ferry": "паром",
+    "further": "ещё, дополнительный",
+    "government": "правительство",
+    "gradually": "постепенно",
+    "imagine": "представь",
+    "increases": "рост, повышение (мн. ч.)",
+    "insisted": "настоял (прош. от insist)",
+    "introduced": "введены (3-я форма от introduce)",
+    "law": "закон",
+    "leaves": "отправляется, уходит",
+    "looks": "выглядит (it looks as if — похоже, что)",
+    "merger": "слияние (компаний)",
+    "midnight": "полночь",
+    "mind": "возражать (never mind — ничего страшного)",
+    "offered": "предложено (3-я форма от offer)",
+    "officially": "официально",
+    "operation": "операция",
+    "owned": "владела (прош. от own)",
+    "passenger": "пассажир",
+    "passport": "паспорт",
+    "potholes": "выбоины (на дороге)",
+    "power": "власть, возможность",
+    "price": "цена",
+    "project": "проект",
+    "proposed": "предложил (3-я форма от propose)",
+    "re-elected": "переизбран",
+    "real": "настоящий",
+    "reasons": "причины",
+    "recommended": "рекомендовал (3-я форма от recommend)",
+    "road": "дорога",
+    "rules": "правила",
+    "streets": "улицы",
+    "suppose": "предположим, допустим",
+    "talks": "говорит, рассказывает",
+    "team": "команда",
+    "tickets": "билеты",
+    "valid": "действительный",
+    "well-paid": "хорошо оплачиваемый",
+    "wet": "мокрый"
+  }
+}

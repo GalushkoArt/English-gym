@@ -1,0 +1,457 @@
+{
+  "id": "b1-passive-basic",
+  "level": "B1",
+  "order": 12,
+  "title": "Passive: present and past simple",
+  "titleRu": "Пассивный залог: основы",
+  "summary": "be + V3: is made, was built, will be sent, must be signed",
+  "source": "Murphy EGIU units 41–42; British Council: Passive voice",
+  "rules": [
+    {
+      "title": "Форма пассива",
+      "body": "**be + V3** (past participle). Время показывает глагол **be**:\n\n- Present Simple: **am / is / are + V3** — The office **is cleaned** every day.\n- Past Simple: **was / were + V3** — The bridge **was built** in 1894.\n- Future: **will be + V3** — The results **will be published** next week.\n- с модальными: **can / must / should be + V3** — This form **must be signed**.\n\nОтрицание и вопрос — тоже через be: It **isn't made** here. **Where was** it **made**?",
+      "examples": [
+        {
+          "en": "English is spoken in many countries.",
+          "ru": "На английском говорят во многих странах."
+        },
+        {
+          "en": "My bike was stolen last night.",
+          "ru": "Вчера вечером у меня украли велосипед."
+        },
+        {
+          "en": "The documents will be sent tomorrow.",
+          "ru": "Документы отправят завтра."
+        }
+      ]
+    },
+    {
+      "title": "Когда нужен пассив",
+      "body": "Пассив выбирают, когда важнее **действие или объект**, чем исполнитель:\n\n- исполнитель неизвестен: My phone **was stolen**.\n- исполнитель неважен или очевиден: The streets **are cleaned** every morning.\n- в новостях, научных текстах, описаниях процессов\n\nЕсли исполнителя всё же нужно назвать — **by**: The hospital was designed **by** a young architect.",
+      "examples": [
+        {
+          "en": "Our car was damaged in the storm.",
+          "ru": "Нашу машину повредило во время бури."
+        },
+        {
+          "en": "This song was written by my grandfather.",
+          "ru": "Эту песню написал мой дедушка."
+        },
+        {
+          "en": "Rice is grown in many Asian countries.",
+          "ru": "Рис выращивают во многих азиатских странах."
+        }
+      ]
+    },
+    {
+      "title": "Активный или пассивный",
+      "body": "Подлежащее **само делает** действие → активный залог: The company **produces** cars.\nС подлежащим **что-то делают** → пассив: Cars **are produced** here.\n\nГлаголы без дополнения (**happen, arrive, die, appear, disappear**) пассива не имеют: The accident **happened** at night. Не «was happened».",
+      "examples": [
+        {
+          "en": "The police caught the thief. → The thief was caught.",
+          "ru": "Полиция поймала вора. → Вора поймали."
+        },
+        {
+          "en": "The parcel arrived this morning.",
+          "ru": "Посылка пришла сегодня утром."
+        }
+      ]
+    },
+    {
+      "title": "was born и вопросы",
+      "body": "«Родиться» — всегда пассив: **I was born** in 1995. Не «I born» и не «I am born».\n\nВ вопросе **be** ставится перед подлежащим, do / did не нужны:\n- **Where were** you **born**?\n- **When was** this house **built**?\n- **Is** breakfast **included** in the price?",
+      "examples": [
+        {
+          "en": "My grandmother was born in a small village.",
+          "ru": "Моя бабушка родилась в маленькой деревне."
+        },
+        {
+          "en": "Where was this photo taken?",
+          "ru": "Где сделана эта фотография?"
+        }
+      ]
+    },
+    {
+      "title": "Неправильные V3",
+      "body": "В пассиве всегда нужна **третья** форма (V3), а не вторая:\n\n- build — built — **built**, make — made — **made**, sell — sold — **sold**\n- write — wrote — **written**, steal — stole — **stolen**, take — took — **taken**\n- choose — chose — **chosen**, give — gave — **given**, catch — caught — **caught**\n- speak — spoke — **spoken**, break — broke — **broken**, hold — held — **held**",
+      "examples": [
+        {
+          "en": "The letter was written by hand.",
+          "ru": "Письмо было написано от руки."
+        },
+        {
+          "en": "Two players were chosen for the national team.",
+          "ru": "Двух игроков выбрали в национальную сборную."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "Present: am / is / are + V3 — English is spoken here",
+    "Past: was / were + V3 — The bridge was built in 1894",
+    "will be / can be / must be + V3",
+    "исполнитель важен → by: designed by a young architect",
+    "I was born… (не I born, не I am born)",
+    "happen, arrive, die, appear — без пассива"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I born in 1995.",
+      "right": "I was born in 1995.",
+      "note": "«родиться» — только was / were born"
+    },
+    {
+      "wrong": "The accident was happened at night.",
+      "right": "The accident happened at night.",
+      "note": "happen не имеет пассива"
+    },
+    {
+      "wrong": "This house built in 1900.",
+      "right": "This house was built in 1900.",
+      "note": "без be пассив не образуется"
+    },
+    {
+      "wrong": "The letter was wrote by hand.",
+      "right": "The letter was written by hand.",
+      "note": "в пассиве нужна третья форма глагола (V3)"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как образуется пассив?",
+      "back": "**be** (в нужном времени) **+ V3**.\nThe office is cleaned every evening."
+    },
+    {
+      "front": "Когда используют пассив?",
+      "back": "Когда исполнитель неизвестен или неважен, а важно действие.\nMy bike was stolen."
+    },
+    {
+      "front": "Как сказать «Я родился в Казани»?",
+      "back": "**I was born** in Kazan."
+    },
+    {
+      "front": "Как спросить «Где это было сделано?»",
+      "back": "be перед подлежащим: **Where was it made?**"
+    },
+    {
+      "front": "Когда нужен by?",
+      "back": "Когда важно назвать исполнителя.\nThe bridge was designed **by** a young engineer."
+    },
+    {
+      "front": "Как сказать «Это нужно сделать сегодня»?",
+      "back": "модальный + **be + V3**: This must be done today."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-passive-basic-p01",
+      "type": "gap",
+      "q": "Thousands of new cars ___ in this factory every year.",
+      "correct": "are produced",
+      "wrong": [
+        "produce",
+        "are producing"
+      ],
+      "hint": "Машины сами производят что-то или их производят?",
+      "explain": "Машины не совершают действие, его совершают с ними → пассив; every year → Present Simple: are produced. produce и are producing — активный залог.",
+      "tr": "На этом заводе каждый год выпускают тысячи новых машин."
+    },
+    {
+      "id": "b1-passive-basic-p02",
+      "type": "gap",
+      "q": "This bridge ___ in 1894 and is still used every day.",
+      "correct": "was built",
+      "wrong": [
+        "built"
+      ],
+      "hint": "Мост сам что-то построил?",
+      "explain": "Мост построили в прошлом (in 1894) → пассив в Past Simple: was built. Без was получается, будто мост сам что-то построил.",
+      "tr": "Этот мост был построен в 1894 году и до сих пор используется каждый день."
+    },
+    {
+      "id": "b1-passive-basic-p03",
+      "type": "gap",
+      "q": "My bike ___ outside the station last night, so I walked to work today.",
+      "correct": "was stolen",
+      "wrong": [
+        "stole",
+        "is stolen"
+      ],
+      "hint": "Кто украл, неизвестно. И когда это произошло?",
+      "explain": "Исполнитель неизвестен, last night → was stolen. stole — активный залог (будто велосипед сам что-то украл), is stolen — настоящее время.",
+      "tr": "Вчера вечером у вокзала украли мой велосипед, поэтому сегодня я шёл на работу пешком."
+    },
+    {
+      "id": "b1-passive-basic-p04",
+      "type": "gap",
+      "q": "I ___ in a small town near Kazan, but I've lived in Moscow since I was ten.",
+      "correct": "was born",
+      "wrong": [
+        "born",
+        "am born"
+      ],
+      "hint": "Как по-английски сказать «родился»?",
+      "explain": "«Родиться» — всегда пассив: was / were born. Без was предложение неграмматично, а am born — настоящее время.",
+      "tr": "Я родился в маленьком городе под Казанью, но с десяти лет живу в Москве."
+    },
+    {
+      "id": "b1-passive-basic-p05",
+      "type": "gap",
+      "q": "The results of the survey ___ next week, so we'll know more then.",
+      "correct": "will be published",
+      "wrong": [
+        "will publish"
+      ],
+      "hint": "Результаты сами что-то опубликуют?",
+      "explain": "Результаты не публикуют сами себя → пассив в будущем: will be published. will publish — активный залог.",
+      "tr": "Результаты опроса опубликуют на следующей неделе, тогда мы узнаем больше."
+    },
+    {
+      "id": "b1-passive-basic-p06",
+      "type": "gap",
+      "q": "All application forms must ___ in black ink.",
+      "correct": "be completed",
+      "wrong": [
+        "complete",
+        "to be completed"
+      ],
+      "hint": "Анкеты сами ничего не заполняют. Что может стоять после must?",
+      "explain": "Модальный глагол + be + V3: must be completed. После must не ставится to, а complete — активный залог.",
+      "tr": "Все анкеты необходимо заполнять чёрными чернилами."
+    },
+    {
+      "id": "b1-passive-basic-p07",
+      "type": "gap",
+      "q": "Where ___? It looks like somewhere in the north of Scotland.",
+      "correct": "was this photo taken",
+      "wrong": [
+        "was taken this photo",
+        "did this photo take",
+        "this photo was taken"
+      ],
+      "hint": "Вопрос в пассиве: где стоит be и где подлежащее?",
+      "explain": "В вопросе be ставится перед подлежащим: Where was this photo taken? did в пассиве не используется, а прямой порядок слов в вопросе — ошибка.",
+      "tr": "Где сделана эта фотография? Похоже на север Шотландии."
+    },
+    {
+      "id": "b1-passive-basic-p08",
+      "type": "gap",
+      "q": "Our office ___ every evening after everyone has gone home.",
+      "correct": "is cleaned",
+      "wrong": [
+        "cleans",
+        "is cleaning"
+      ],
+      "hint": "Офис убирает сам себя?",
+      "explain": "Офис убирают (кто — неважно), every evening → Present Simple Passive: is cleaned. cleans и is cleaning — активный залог.",
+      "tr": "Наш офис убирают каждый вечер, после того как все уходят домой."
+    },
+    {
+      "id": "b1-passive-basic-p09",
+      "type": "gap",
+      "q": "The parcel ___ this morning, but the box was badly damaged.",
+      "correct": "arrived",
+      "wrong": [
+        "was arrived"
+      ],
+      "hint": "Есть ли у глагола arrive дополнение?",
+      "explain": "arrive не имеет дополнения и не употребляется в пассиве: The parcel arrived. was arrived — ошибка.",
+      "tr": "Посылка пришла сегодня утром, но коробка была сильно повреждена."
+    },
+    {
+      "id": "b1-passive-basic-p10",
+      "type": "gap",
+      "q": "The new hospital was designed ___ a young local architect.",
+      "correct": "by",
+      "wrong": [
+        "from"
+      ],
+      "hint": "Каким предлогом в пассиве вводится исполнитель?",
+      "explain": "Исполнитель в пассиве вводится предлогом by: designed by a young architect. from — калька с русского «от».",
+      "tr": "Новую больницу спроектировал молодой местный архитектор."
+    },
+    {
+      "id": "b1-passive-basic-p11",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Many people were injured in the storm, but nobody was killed.",
+      "wrong": [
+        "Many people injured in the storm, but nobody was killed.",
+        "Many people were injured in the storm, but nobody killed.",
+        "Many people was injured in the storm, but nobody was killed."
+      ],
+      "hint": "В обеих частях с людьми что-то произошло. И проверьте согласование с people.",
+      "explain": "Люди пострадали (это случилось с ними) → пассив: were injured, was killed. Без be пассива нет, а people требует were.",
+      "tr": "Во время шторма пострадали многие люди, но никто не погиб."
+    },
+    {
+      "id": "b1-passive-basic-p12",
+      "type": "gap",
+      "q": "English ___ as an official language in more than fifty countries.",
+      "correct": "is used",
+      "wrong": [
+        "uses"
+      ],
+      "hint": "Язык сам что-то использует?",
+      "explain": "Язык используют люди, исполнитель неважен → Present Simple Passive: is used. uses — активный залог.",
+      "tr": "Английский используется как официальный язык более чем в пятидесяти странах."
+    },
+    {
+      "id": "b1-passive-basic-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "These photos were taken in the 1960s and sold at an auction last year.",
+      "wrong": [
+        "These photos were took in the 1960s and sold at an auction last year.",
+        "These photos were taken in the 1960s and selled at an auction last year.",
+        "These photos took in the 1960s and sold at an auction last year."
+      ],
+      "hint": "Проверьте третьи формы take и sell и наличие be.",
+      "explain": "Пассив = were + V3: taken (не took), sold (не selled); во второй части were можно не повторять. Без were пассива нет.",
+      "tr": "Эти фотографии были сделаны в 1960-х и проданы на аукционе в прошлом году."
+    },
+    {
+      "id": "b1-passive-basic-p14",
+      "type": "gap",
+      "q": "Credit cards ___ in this café, so you'll need to pay in cash.",
+      "correct": "aren't accepted",
+      "wrong": [
+        "don't accept",
+        "isn't accepted"
+      ],
+      "hint": "Карты сами ничего не принимают. И согласуйте глагол с подлежащим.",
+      "explain": "Карты принимают (или нет) → пассив; подлежащее во множественном числе → aren't accepted. don't accept — активный залог.",
+      "tr": "В этом кафе не принимают кредитные карты, так что нужно будет платить наличными."
+    },
+    {
+      "id": "b1-passive-basic-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Someone repaired my laptop yesterday.",
+      "correct": "My laptop was repaired yesterday.",
+      "wrong": [
+        "I repaired my laptop yesterday.",
+        "My laptop will be repaired tomorrow."
+      ],
+      "hint": "Кто чинил, неизвестно. Что и когда произошло с ноутбуком?",
+      "explain": "Someone repaired → пассив без исполнителя в том же времени: was repaired yesterday. I repaired — другой исполнитель, will be repaired — другое время.",
+      "tr": "Мой ноутбук вчера починили."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-passive-basic-e01",
+      "type": "gap",
+      "q": "A: Your English is excellent. Where ___?\nB: In Canada, actually — my family moved there in the nineties.",
+      "correct": "were you born",
+      "wrong": [
+        "did you born",
+        "you were born",
+        "are you born"
+      ],
+      "hint": "Вопрос о прошлом с глаголом «родиться». Где стоит be?",
+      "explain": "«Родиться» — was / were born; в вопросе be ставится перед подлежащим: Where were you born? did с born не сочетается, are — настоящее время.",
+      "tr": "— У тебя прекрасный английский. Где ты родился? — Вообще-то в Канаде: моя семья переехала туда в девяностых."
+    },
+    {
+      "id": "b1-passive-basic-e02",
+      "type": "gap",
+      "q": "The documents ___ to you by email as soon as they're ready.",
+      "correct": "will be sent",
+      "wrong": [
+        "will send"
+      ],
+      "hint": "Документы сами себя отправят?",
+      "explain": "Документы отправят (кто — неважно) в будущем → will be sent. will send — активный залог: будто документы сами что-то отправят.",
+      "tr": "Документы вам отправят по электронной почте, как только они будут готовы."
+    },
+    {
+      "id": "b1-passive-basic-e03",
+      "type": "gap",
+      "q": "This medicine mustn't ___ to children under twelve.",
+      "correct": "be given",
+      "wrong": [
+        "give",
+        "been given"
+      ],
+      "hint": "Лекарство не даёт, его дают. Что может стоять после mustn't?",
+      "explain": "Модальный глагол + be + V3: mustn't be given. give — активный залог, а been после модального глагола без have невозможно.",
+      "tr": "Это лекарство нельзя давать детям младше двенадцати лет."
+    },
+    {
+      "id": "b1-passive-basic-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The thief was caught by the police two days after the robbery.",
+      "wrong": [
+        "The thief was catched by the police two days after the robbery.",
+        "The thief caught by the police two days after the robbery.",
+        "The thief was caught from the police two days after the robbery."
+      ],
+      "hint": "Проверьте форму глагола catch, наличие be и предлог.",
+      "explain": "Пассив = was + V3; третья форма catch — caught (не catched). Исполнитель вводится через by.",
+      "tr": "Вора поймала полиция через два дня после ограбления."
+    },
+    {
+      "id": "b1-passive-basic-e05",
+      "type": "gap",
+      "q": "The painting ___ from the museum in 1990, and the police ___ it twenty years later.",
+      "correct": "was stolen / found",
+      "wrong": [
+        "stole / found",
+        "was stolen / were found",
+        "stole / was found"
+      ],
+      "hint": "В первой части картина — объект действия, а во второй полиция сама что-то делает.",
+      "explain": "Картину украли → пассив: was stolen. Полиция сама нашла её (it — дополнение) → активный залог: found.",
+      "tr": "Картину украли из музея в 1990 году, а полиция нашла её двадцать лет спустя."
+    }
+  ],
+  "glossary": {
+    "application": "заявление (application form — анкета)",
+    "architect": "архитектор",
+    "badly": "сильно, серьёзно",
+    "bike": "велосипед",
+    "black": "чёрный",
+    "box": "коробка",
+    "bridge": "мост",
+    "café": "кафе",
+    "Canada": "Канада",
+    "cards": "карты",
+    "cars": "машины",
+    "cash": "наличные",
+    "countries": "страны",
+    "credit": "кредитный",
+    "damaged": "повреждённый",
+    "designed": "спроектирован (3-я форма от design)",
+    "documents": "документы",
+    "email": "электронная почта",
+    "excellent": "отличный",
+    "factory": "завод",
+    "forms": "анкеты, бланки",
+    "hospital": "больница",
+    "ink": "чернила",
+    "Kazan": "Казань",
+    "language": "язык",
+    "laptop": "ноутбук",
+    "local": "местный",
+    "looks": "выглядит, похоже",
+    "medicine": "лекарство",
+    "museum": "музей",
+    "nineties": "девяностые (годы)",
+    "north": "север",
+    "official": "официальный",
+    "painting": "картина",
+    "parcel": "посылка",
+    "police": "полиция",
+    "repaired": "починил (прош. от repair)",
+    "results": "результаты",
+    "Scotland": "Шотландия",
+    "station": "вокзал, станция",
+    "survey": "опрос",
+    "walked": "шёл пешком (прош. от walk)"
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "id": "c1-advanced-conditionals",
+  "level": "C1",
+  "order": 3,
+  "title": "Advanced conditionals",
+  "titleRu": "Сложные условные конструкции",
+  "summary": "Инверсия в условиях, but for, provided, supposing, unless",
+  "source": "Murphy AGIU units 83–88; Cambridge Dictionary Grammar: Conditionals",
+  "rules": [
+    {
+      "title": "Инверсия вместо if",
+      "body": "В формальной речи if можно убрать и поставить вспомогательный глагол перед подлежащим:\n\n- **Had + S + V3** = If S had V3: Had I known, I would have called.\n- **Should + S + V** = If S should / happens to (возможно, но не обязательно): Should you need help, call us.\n- **Were + S + to V** или **Were + S + …** = If S were: Were she to resign, …\n\nОтрицание не сокращается, not стоит после подлежащего: **Had it not been for…**, **Were it not for…**, а не Hadn't it been… В инверсии возможна только форма were, не was.",
+      "examples": [
+        {
+          "en": "Had I known about the traffic, I would have taken the train.",
+          "ru": "Если бы я знал о пробках, я бы поехал на поезде."
+        },
+        {
+          "en": "Should you have any questions, please contact us.",
+          "ru": "Если у вас возникнут вопросы, пожалуйста, свяжитесь с нами."
+        },
+        {
+          "en": "Were the company to close, hundreds of people would lose their jobs.",
+          "ru": "Если бы компания закрылась, сотни людей потеряли бы работу."
+        }
+      ]
+    },
+    {
+      "title": "But for, if it weren't for, if it hadn't been for",
+      "body": "Значение — «если бы не…».\n\n- настоящее: **If it weren't / wasn't for + noun** = **Were it not for + noun**\n- прошлое: **If it hadn't been for + noun** = **Had it not been for + noun**\n- **But for + noun** — формально, и о настоящем, и о прошлом\n\nКалька «If not your help, …» невозможна: нужно If it hadn't been for your help или But for your help.",
+      "examples": [
+        {
+          "en": "If it weren't for the noise, this would be a perfect flat.",
+          "ru": "Если бы не шум, это была бы идеальная квартира."
+        },
+        {
+          "en": "If it hadn't been for your advice, I would have made a terrible mistake.",
+          "ru": "Если бы не твой совет, я бы совершил ужасную ошибку."
+        },
+        {
+          "en": "But for the rain, the festival would have been a success.",
+          "ru": "Если бы не дождь, фестиваль бы удался."
+        }
+      ]
+    },
+    {
+      "title": "Provided, as long as, supposing, otherwise",
+      "body": "- **provided / providing (that), as long as, on condition that** — «при условии, что», «только если». После них, как после if, — настоящее время, не will.\n- **supposing / suppose** — «предположим, что»: с present о реальной возможности, с past — о гипотетической.\n- **otherwise** — «иначе, в противном случае»; связывает два самостоятельных предложения.\n- **unless** = if … not, «если не»: Unless you hurry, you'll miss the train.",
+      "examples": [
+        {
+          "en": "You can borrow the car as long as you're back by six.",
+          "ru": "Можешь взять машину, если вернёшься к шести."
+        },
+        {
+          "en": "Supposing you lost your job, what would you do?",
+          "ru": "Предположим, ты потерял бы работу — что бы ты делал?"
+        },
+        {
+          "en": "Write it down; otherwise you'll forget it.",
+          "ru": "Запиши, а то забудешь."
+        }
+      ]
+    },
+    {
+      "title": "If + should, if + happen to",
+      "body": "Чтобы подчеркнуть, что условие маловероятно или случайно:\n\n- **If + S + should + V**: If you should see Tom, tell him to call me.\n- **If + S + happen(s) to + V**: If you happen to see Tom, …\n- можно и вместе: If you should happen to…\n\nВ главной части обычно повелительное наклонение или will.",
+      "examples": [
+        {
+          "en": "If you should change your mind, just let me know.",
+          "ru": "Если вдруг передумаешь, просто дай мне знать."
+        },
+        {
+          "en": "If you happen to pass a chemist's, could you get me some aspirin?",
+          "ru": "Если будешь проходить мимо аптеки, купи мне, пожалуйста, аспирин."
+        }
+      ]
+    },
+    {
+      "title": "Will / would после if; unless и if not",
+      "body": "Обычно после if не ставим will, но есть исключения:\n\n- вежливая просьба: **If you'll / If you would** wait here, I'll call the manager.\n- готовность: If you'll help me, we'll finish faster.\n- упрямство (will под ударением): **If you will** eat so much, of course you feel ill.\n\n**unless ≠ if not**, когда «не»-событие вызывает чувство или результат: I'd be surprised **if** he **didn't** come (не unless he came).",
+      "examples": [
+        {
+          "en": "If you'll just sign here, we can process your application.",
+          "ru": "Если вы просто распишетесь здесь, мы сможем оформить вашу заявку."
+        },
+        {
+          "en": "If you would follow me, I'll show you to the meeting room.",
+          "ru": "Пройдёмте, пожалуйста, со мной — я покажу вам переговорную."
+        },
+        {
+          "en": "I'll be upset if you don't come to my party.",
+          "ru": "Я расстроюсь, если ты не придёшь на мою вечеринку."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "Had I known… = If I had known…; Had it not been for… (без сокращения)",
+    "Should you need… = If you should need…; Were she to leave… = If she were to leave…",
+    "if it weren't for (сейчас) / if it hadn't been for (тогда) = but for + noun",
+    "provided / as long as / on condition that + present, не will",
+    "supposing + past → гипотеза; otherwise = иначе",
+    "If you'll / If you would… → вежливая просьба; I'd be surprised if … not (не unless)"
+  ],
+  "mistakes": [
+    {
+      "wrong": "If not your help, I would have failed.",
+      "right": "If it hadn't been for your help, I would have failed.",
+      "note": "«если бы не» → if it hadn't been for / but for"
+    },
+    {
+      "wrong": "Hadn't I known the truth, I would have signed.",
+      "right": "Had I not known the truth, I would have signed.",
+      "note": "в инверсии отрицание не сокращается: Had I not…"
+    },
+    {
+      "wrong": "You can stay provided you will keep quiet.",
+      "right": "You can stay provided you keep quiet.",
+      "note": "после provided / as long as — настоящее время, как после if"
+    },
+    {
+      "wrong": "We'll sign under condition that you pay in advance.",
+      "right": "We'll sign on condition that you pay in advance.",
+      "note": "«при условии, что» → on condition that"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Если бы я знал…» без if?",
+      "back": "**Had + S + V3**.\nHad I known, I would have helped."
+    },
+    {
+      "front": "«Если вам понадобится помощь, звоните» — формально, без if.",
+      "back": "**Should + S + V**.\nShould you need any help, please call us."
+    },
+    {
+      "front": "«Если бы не дождь» — о прошлом и о настоящем?",
+      "back": "Прошлое: **If it hadn't been for / Had it not been for** the rain.\nНастоящее: **If it weren't for / Were it not for** the rain.\nОба случая: **But for** the rain."
+    },
+    {
+      "front": "Чем provided отличается от if?",
+      "back": "**provided / as long as** = «только при условии, что»; после них — present.\nYou can go provided you're back by ten."
+    },
+    {
+      "front": "Можно ли will после if?",
+      "back": "Да — в вежливых просьбах, о готовности и упрямстве.\nIf you'll wait here, I'll get the manager."
+    },
+    {
+      "front": "I'd be surprised … he didn't come: if или unless?",
+      "back": "**if … not**: «не»-событие вызывает чувство.\nI'd be surprised if he didn't come."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-advanced-conditionals-p01",
+      "type": "gap",
+      "q": "___ the risks, I would never have invested my savings in the project.",
+      "correct": "Had I known",
+      "wrong": [
+        "Had I knew",
+        "If had I known",
+        "Did I know"
+      ],
+      "hint": "Речь о прошлом, которое уже не изменить. Как построить условие без if?",
+      "explain": "Had + S + V3 = If S had V3: Had I known. После had нужна третья форма (known), а if при инверсии не ставится.",
+      "tr": "Если бы я знал о рисках, никогда бы не вложил свои сбережения в этот проект."
+    },
+    {
+      "id": "c1-advanced-conditionals-p02",
+      "type": "gap",
+      "q": "___ you need any further information, please do not hesitate to contact our office.",
+      "correct": "Should",
+      "wrong": [
+        "Would",
+        "Will"
+      ],
+      "hint": "Формальное письмо. Какой глагол заменяет if, когда событие возможно, но не обязательно?",
+      "explain": "Should + S + V = If you (should) need — типичная формула делового письма. Would и will в такой инверсии не используются.",
+      "tr": "Если вам понадобится дополнительная информация, пожалуйста, без колебаний обращайтесь в наш офис."
+    },
+    {
+      "id": "c1-advanced-conditionals-p03",
+      "type": "gap",
+      "q": "___ she to resign, the whole project would be in serious trouble.",
+      "correct": "Were",
+      "wrong": [
+        "Was"
+      ],
+      "hint": "Гипотетическое условие с to-инфинитивом, без if.",
+      "explain": "Were + S + to V = If she were to resign. В инверсии возможно только were, даже с he / she / it.",
+      "tr": "Если бы она уволилась, весь проект оказался бы в серьёзной беде."
+    },
+    {
+      "id": "c1-advanced-conditionals-p04",
+      "type": "gap",
+      "q": "___ the quick reaction of the crew, the accident could have been far worse.",
+      "correct": "But for",
+      "wrong": [
+        "If not",
+        "Unless"
+      ],
+      "hint": "Нужно выражение «если бы не» перед существительным.",
+      "explain": "But for + noun = If it hadn't been for … . If not — калька с «если бы не», а после unless нужно придаточное с глаголом.",
+      "tr": "Если бы не быстрая реакция экипажа, авария могла бы быть гораздо серьёзнее."
+    },
+    {
+      "id": "c1-advanced-conditionals-p05",
+      "type": "gap",
+      "q": "If it ___ for the tourists, this village would be almost empty.",
+      "correct": "weren't",
+      "wrong": [
+        "isn't",
+        "won't be"
+      ],
+      "hint": "Нереальное условие о настоящем: туристы есть, и деревня не пустует.",
+      "explain": "If it weren't (wasn't) for + noun — «если бы не» о настоящем, в паре с would be. isn't и won't be относятся к реальному условию.",
+      "tr": "Если бы не туристы, эта деревня почти опустела бы."
+    },
+    {
+      "id": "c1-advanced-conditionals-p06",
+      "type": "gap",
+      "q": "You can borrow my car ___ you bring it back with a full tank.",
+      "correct": "provided",
+      "wrong": [
+        "unless",
+        "otherwise",
+        "in case"
+      ],
+      "hint": "Нужен союз со значением «при условии, что».",
+      "explain": "provided (that) = «при условии, что». unless значит «если не», otherwise — «иначе», in case — «на случай, если»; ни один не даёт нужного смысла.",
+      "tr": "Можешь взять мою машину при условии, что вернёшь её с полным баком."
+    },
+    {
+      "id": "c1-advanced-conditionals-p07",
+      "type": "gap",
+      "q": "We need to leave by six; ___ we'll miss the last ferry.",
+      "correct": "otherwise",
+      "wrong": [
+        "unless"
+      ],
+      "hint": "После точки с запятой идёт самостоятельное предложение. Нужно слово «иначе».",
+      "explain": "otherwise = «иначе, в противном случае» — связывает два самостоятельных предложения. unless вводит условие (unless we leave by six) и здесь не подходит.",
+      "tr": "Нам нужно выйти к шести, иначе мы опоздаем на последний паром."
+    },
+    {
+      "id": "c1-advanced-conditionals-p08",
+      "type": "gap",
+      "q": "___ you lost your job tomorrow, how would you pay the mortgage?",
+      "correct": "Supposing",
+      "wrong": [
+        "Provided",
+        "Unless"
+      ],
+      "hint": "Говорящий предлагает представить воображаемую ситуацию.",
+      "explain": "Supposing (suppose) + past = «предположим, что…» — гипотеза. Provided значит «при условии, что», unless — «если не»; в вопросе о воображаемой ситуации они не подходят.",
+      "tr": "Предположим, ты завтра потерял бы работу — чем бы ты платил ипотеку?"
+    },
+    {
+      "id": "c1-advanced-conditionals-p09",
+      "type": "gap",
+      "q": "If you ___ to see Rachel at the conference, could you give her my new number?",
+      "correct": "happen",
+      "wrong": [
+        "will happen"
+      ],
+      "hint": "Встреча возможна, но случайна. Какое время ставится после if о будущем?",
+      "explain": "If you happen to … — «если вдруг, случайно». После if о будущем ставится present, а не will.",
+      "tr": "Если вдруг увидишь Рейчел на конференции, передай ей, пожалуйста, мой новый номер."
+    },
+    {
+      "id": "c1-advanced-conditionals-p10",
+      "type": "pick",
+      "task": "Выберите предложение, где will после if употреблено правильно",
+      "q": "",
+      "correct": "If you'll wait here for a moment, I'll tell the director you've arrived.",
+      "wrong": [
+        "If I will have time later, I'll call you back.",
+        "If it will snow tonight, the roads will be closed tomorrow morning."
+      ],
+      "hint": "Will после if допустим, когда речь о готовности или вежливой просьбе, а не о простом условии.",
+      "explain": "If you'll wait here — вежливая просьба, will здесь допустим. В двух других предложениях простое условие о будущем, после if нужно present: If I have time, If it snows.",
+      "tr": "Подождите здесь минутку, пожалуйста, — я сообщу директору, что вы пришли."
+    },
+    {
+      "id": "c1-advanced-conditionals-p11",
+      "type": "gap",
+      "q": "I'd be very surprised ___ the plan, as it was largely his idea.",
+      "correct": "if he didn't support",
+      "wrong": [
+        "unless he supported"
+      ],
+      "hint": "Что удивило бы говорящего — поддержка или её отсутствие?",
+      "explain": "Удивило бы именно то, что он не поддержит план, поэтому if … not. unless значит «кроме случая, когда» и здесь даёт бессмыслицу.",
+      "tr": "Я бы очень удивился, если бы он не поддержал этот план, ведь это была в основном его идея."
+    },
+    {
+      "id": "c1-advanced-conditionals-p12",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Had it not been for the scholarship, Ivan couldn't have studied abroad.",
+      "correct": "Ivan was able to study abroad only because of the scholarship.",
+      "wrong": [
+        "Ivan didn't study abroad because he didn't get the scholarship.",
+        "Ivan studied abroad first and received the scholarship later."
+      ],
+      "hint": "Had it not been for = «если бы не». Учился ли Иван за границей на самом деле?",
+      "explain": "Had it not been for … = If it hadn't been for … : стипендия была, и благодаря ей Иван учился за границей. Остальные варианты этому противоречат.",
+      "tr": "Иван смог учиться за границей только благодаря стипендии."
+    },
+    {
+      "id": "c1-advanced-conditionals-p13",
+      "type": "gap",
+      "q": "We'll sign the agreement ___ that all invoices are paid within thirty days.",
+      "correct": "on condition",
+      "wrong": [
+        "under condition"
+      ],
+      "hint": "Устойчивое выражение «при условии, что».",
+      "explain": "Правильно on condition that. Under condition — калька с русского «при условии».",
+      "tr": "Мы подпишем соглашение при условии, что все счета будут оплачиваться в течение тридцати дней."
+    },
+    {
+      "id": "c1-advanced-conditionals-p14",
+      "type": "gap",
+      "q": "___ it not been for the storm, the flight would have landed on time.",
+      "correct": "Had",
+      "wrong": [
+        "If",
+        "Were",
+        "Hadn't"
+      ],
+      "hint": "Условие о прошлом, инверсия; отрицание стоит после подлежащего.",
+      "explain": "Had it not been for = If it hadn't been for (о прошлом). В инверсии отрицание не сокращается (не Hadn't it), Were it not for — о настоящем, а после If нужно hadn't.",
+      "tr": "Если бы не шторм, самолёт приземлился бы вовремя."
+    },
+    {
+      "id": "c1-advanced-conditionals-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Should anyone call while I'm out, please take a message.",
+      "wrong": [
+        "Should anyone calls while I'm out, please take a message.",
+        "If should anyone call while I'm out, please take a message.",
+        "Should anyone will call while I'm out, please take a message."
+      ],
+      "hint": "Какая форма глагола идёт после Should? И нужно ли if?",
+      "explain": "Should + S + инфинитив без to: Should anyone call. После should не бывает окончания -s или will, а if при инверсии не ставится.",
+      "tr": "Если кто-нибудь позвонит, пока меня нет, пожалуйста, запишите сообщение."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-advanced-conditionals-e01",
+      "type": "gap",
+      "q": "___ the government to raise taxes again, many small businesses would be forced to close.",
+      "correct": "Were",
+      "wrong": [
+        "Should",
+        "Was",
+        "If"
+      ],
+      "hint": "Посмотрите на форму глагола после подлежащего: to raise.",
+      "explain": "Were + S + to V = If the government were to raise — гипотетическое условие. После Should нужен инфинитив без to, Was в инверсии не используется, а после If нужно were.",
+      "tr": "Если бы правительство снова повысило налоги, многие малые предприятия были бы вынуждены закрыться."
+    },
+    {
+      "id": "c1-advanced-conditionals-e02",
+      "type": "gap",
+      "q": "If it ___ for the firefighters' quick response, the whole building would have burnt down.",
+      "correct": "hadn't been",
+      "wrong": [
+        "wouldn't have been"
+      ],
+      "hint": "Это if-часть условия о прошлом.",
+      "explain": "If it hadn't been for … — «если бы не» о прошлом, в паре с would have burnt down. would have в if-часть не ставится.",
+      "tr": "Если бы не быстрая реакция пожарных, всё здание сгорело бы дотла."
+    },
+    {
+      "id": "c1-advanced-conditionals-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "You can use the lab at weekends as long as you follow the safety rules.",
+      "wrong": [
+        "You can use the lab at weekends as long as you will follow the safety rules.",
+        "You can use the lab at weekends as far as you follow the safety rules."
+      ],
+      "hint": "Нужен союз «при условии, что». Какое время идёт после него?",
+      "explain": "as long as = «при условии, что»; после него, как после if, — present (you follow). as far as значит «насколько» и условия не выражает.",
+      "tr": "Можете пользоваться лабораторией по выходным при условии, что соблюдаете правила техники безопасности."
+    },
+    {
+      "id": "c1-advanced-conditionals-e04",
+      "type": "gap",
+      "q": "___ for the time difference, we could hold the meeting at nine in the morning.",
+      "correct": "Were it not",
+      "wrong": [
+        "Was it not",
+        "Weren't it",
+        "If it not were"
+      ],
+      "hint": "Нереальное условие о настоящем, без if, с отрицанием.",
+      "explain": "Were it not for = If it weren't for (о настоящем). В инверсии возможно только were, отрицание не сокращается и стоит после it.",
+      "tr": "Если бы не разница во времени, мы могли бы провести встречу в девять утра."
+    },
+    {
+      "id": "c1-advanced-conditionals-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "If you happen to be in the area, drop in for a coffee.",
+      "correct": "Should you be in the area, drop in for a coffee.",
+      "wrong": [
+        "Were you in the area, you dropped in for a coffee.",
+        "Unless you are in the area, drop in for a coffee.",
+        "Had you been in the area, drop in for a coffee."
+      ],
+      "hint": "Какая инверсия заменяет if, когда событие возможно, но случайно?",
+      "explain": "Should you be = If you happen to be — возможное, но случайное событие. Unless меняет смысл, а Were … dropped и Had you been не сочетаются с повелительным drop in.",
+      "tr": "Если вдруг окажешься в нашем районе, заходи на кофе."
+    }
+  ],
+  "glossary": {
+    "accident": "авария",
+    "agreement": "соглашение",
+    "area": "район",
+    "borrow": "взять на время",
+    "building": "здание",
+    "burnt": "сгорел (burnt down — сгорел дотла)",
+    "businesses": "предприятия, компании",
+    "coffee": "кофе",
+    "conference": "конференция",
+    "contact": "связаться с",
+    "crew": "экипаж",
+    "difference": "разница",
+    "drop": "заходить (drop in — заглянуть)",
+    "empty": "пустой",
+    "far": "далеко; гораздо (far worse — гораздо хуже)",
+    "ferry": "паром",
+    "firefighters": "пожарные",
+    "flight": "рейс, самолёт",
+    "forced": "вынуждены (3-я форма от force)",
+    "further": "дополнительный",
+    "government": "правительство",
+    "hesitate": "колебаться (do not hesitate — не стесняйтесь)",
+    "information": "информация",
+    "invested": "вложил (3-я форма от invest)",
+    "invoices": "счета-фактуры",
+    "landed": "приземлился (3-я форма от land)",
+    "largely": "в основном",
+    "miss": "опоздать на, пропустить",
+    "mortgage": "ипотека",
+    "number": "номер",
+    "plan": "план",
+    "project": "проект",
+    "quick": "быстрый",
+    "raise": "повысить",
+    "reaction": "реакция",
+    "resign": "уйти в отставку, уволиться",
+    "response": "реакция, ответные действия",
+    "risks": "риски",
+    "savings": "сбережения",
+    "scholarship": "стипендия",
+    "serious": "серьёзный",
+    "sign": "подписать",
+    "storm": "шторм, буря",
+    "studied": "учился (3-я форма от study)",
+    "tank": "бак",
+    "taxes": "налоги",
+    "tourists": "туристы",
+    "trouble": "беда, неприятности",
+    "village": "деревня"
+  }
+}

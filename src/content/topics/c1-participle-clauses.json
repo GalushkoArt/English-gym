@@ -1,0 +1,485 @@
+{
+  "id": "c1-participle-clauses",
+  "level": "C1",
+  "order": 5,
+  "title": "Participle clauses",
+  "titleRu": "Причастные обороты",
+  "summary": "Обороты с V-ing, having V3 и V3 вместо придаточных; висячие причастия",
+  "source": "Murphy AGIU units 62–64; British Council: Participle clauses",
+  "rules": [
+    {
+      "title": "V-ing: одновременность и причина",
+      "body": "Оборот с **V-ing** заменяет придаточное, если подлежащее у обеих частей одно и то же.\n\n- одновременные действия: **Walking** along the river, we talked about work. (= While we were walking…)\n- причина: **Feeling** tired, she went to bed early. (= Because she felt tired…)\n- действие сразу перед другим: **Taking** a key from her bag, she opened the door.\n\nСтиль книжный и письменный; в разговоре чаще говорят придаточными с because, when, while.",
+      "examples": [
+        {
+          "en": "Feeling tired, Maria left the party early.",
+          "ru": "Чувствуя усталость, Мария рано ушла с вечеринки."
+        },
+        {
+          "en": "Knowing how busy you are, I won't keep you long.",
+          "ru": "Зная, как вы заняты, я не буду вас долго задерживать."
+        },
+        {
+          "en": "Walking along the river, we noticed a new café.",
+          "ru": "Гуляя вдоль реки, мы заметили новое кафе."
+        }
+      ]
+    },
+    {
+      "title": "Having + V3: действие раньше",
+      "body": "**Having + V3** показывает, что действие **завершилось раньше** действия главной части. Особенно он нужен, когда первое действие длилось какое-то время или важна его завершённость.\n\n- **Having finished** the report, he went home. (= After he had finished…)\n- **Having lived** abroad for years, she speaks three languages.\n\nПростое V-ing здесь звучало бы как одновременное действие.",
+      "examples": [
+        {
+          "en": "Having finished the report, Tom went home.",
+          "ru": "Закончив отчёт, Том пошёл домой."
+        },
+        {
+          "en": "Having spent all his money, he had to borrow from friends.",
+          "ru": "Потратив все деньги, он был вынужден занимать у друзей."
+        }
+      ]
+    },
+    {
+      "title": "Пассив: V3, being V3, having been V3",
+      "body": "Если подлежащее главной части **не выполняет действие, а подвергается ему**, нужен пассивный оборот:\n\n- **V3**: **Built** in 1890, the bridge is still in use. (= which was built…)\n- **being + V3** — одновременно или как причина: **Being watched** by cameras, the staff felt nervous.\n- **having been + V3** — раньше: **Having been warned** twice, he was finally dismissed.\n\nСравните: **Encouraged** by the results, we continued (нас воодушевили) — **Encouraging** the team, she smiled (она подбадривала).",
+      "examples": [
+        {
+          "en": "Built in 1890, the bridge is still the main route into the town.",
+          "ru": "Мост, построенный в 1890 году, до сих пор остаётся главной дорогой в город."
+        },
+        {
+          "en": "Being watched by cameras all day, the staff felt nervous.",
+          "ru": "Весь день находясь под наблюдением камер, сотрудники нервничали."
+        },
+        {
+          "en": "Having been told the news, she called her parents.",
+          "ru": "Узнав новость, она позвонила родителям."
+        }
+      ]
+    },
+    {
+      "title": "Союз + причастие; отрицание",
+      "body": "Чтобы уточнить смысл, перед причастием ставят союз или предлог:\n\n- время: **after / before / since + V-ing**, **while / when + V-ing**: after leaving, while waiting\n- пассив: **when / if / unless / once / until + V3**: when asked, if accepted, unless stated, once completed\n\nОтрицание — **not перед причастием**: **Not knowing** what to say, he left. **Not having received** a reply, I called again.",
+      "examples": [
+        {
+          "en": "Please switch off your phone before entering the hall.",
+          "ru": "Пожалуйста, выключите телефон, прежде чем войти в зал."
+        },
+        {
+          "en": "When asked about her plans, she refused to comment.",
+          "ru": "Когда её спросили о планах, она отказалась от комментариев."
+        },
+        {
+          "en": "Not knowing the area, we took a taxi.",
+          "ru": "Не зная района, мы взяли такси."
+        }
+      ]
+    },
+    {
+      "title": "Висячие причастия",
+      "body": "Подлежащее главной части должно быть **тем, кто выполняет действие причастия** (или подвергается ему — в пассиве).\n\n- неверно: Walking to work, the rain started. (дождь не шёл на работу)\n- верно: Walking to work, I got caught in the rain.\n- неверно: Having checked the data, two errors were found.\n- верно: Having checked the data, we found two errors.\n\nТакие «висячие» обороты (dangling participles) — частая ошибка в письменных работах.",
+      "examples": [
+        {
+          "en": "Walking to work, I got caught in the rain.",
+          "ru": "Когда я шёл на работу, меня застал дождь."
+        },
+        {
+          "en": "Having checked the data, we found two errors.",
+          "ru": "Проверив данные, мы нашли две ошибки."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "V-ing, … → одновременно или причина: Feeling tired, she left",
+    "Having + V3, … → действие раньше: Having finished, he left",
+    "V3, … → пассив: Built in 1890, the bridge…",
+    "being + V3 (одновременно) / having been + V3 (раньше) — пассив",
+    "after / before / while + V-ing; when / if / unless / once + V3",
+    "Not + V-ing; подлежащее главной части = исполнитель действия"
+  ],
+  "mistakes": [
+    {
+      "wrong": "Walking to the station, the rain started.",
+      "right": "Walking to the station, I got caught in the rain.",
+      "note": "подлежащее главной части должно выполнять действие причастия"
+    },
+    {
+      "wrong": "After graduated from university, she moved to London.",
+      "right": "After graduating from university, she moved to London.",
+      "note": "после after / before / since — форма -ing"
+    },
+    {
+      "wrong": "Knowing not what to do, he called his lawyer.",
+      "right": "Not knowing what to do, he called his lawyer.",
+      "note": "not ставится перед причастием"
+    },
+    {
+      "wrong": "Having been finished the report, he went home.",
+      "right": "Having finished the report, he went home.",
+      "note": "он сам закончил отчёт → активная форма having + V3"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Какой оборот нужен, если одно действие закончилось до другого?",
+      "back": "**Having + V3**.\nHaving finished the report, he went home."
+    },
+    {
+      "front": "«Построенный в 1890 году, мост…» — какая форма?",
+      "back": "**V3** — пассивное значение.\nBuilt in 1890, the bridge is still in use."
+    },
+    {
+      "front": "Что не так в «Walking to work, the rain started»?",
+      "back": "**Висячее причастие**: дождь не шёл на работу.\nWalking to work, I got caught in the rain."
+    },
+    {
+      "front": "Куда ставится not в причастном обороте?",
+      "back": "**Перед причастием**.\nNot knowing the answer, I said nothing."
+    },
+    {
+      "front": "Как коротко сказать «когда его спросили»?",
+      "back": "**when + V3**.\nWhen asked, he refused to comment."
+    },
+    {
+      "front": "Чем being told отличается от having been told?",
+      "back": "**being + V3** — одновременно или причина.\n**having been + V3** — раньше.\nHaving been told the news, she called home."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-participle-clauses-p01",
+      "type": "gap",
+      "q": "___ tired after the long flight, Maria went straight to bed.",
+      "correct": "Feeling",
+      "wrong": [
+        "Felt",
+        "Being felt",
+        "Feel"
+      ],
+      "hint": "Мария сама испытывает усталость, и это причина её действия.",
+      "explain": "V-ing-оборот выражает причину, а подлежащее (Maria) само испытывает чувство: Feeling tired. Felt и being felt дают пассивное значение, а инфинитив не образует оборот.",
+      "tr": "Чувствуя усталость после долгого перелёта, Мария сразу легла спать."
+    },
+    {
+      "id": "c1-participle-clauses-p02",
+      "type": "gap",
+      "q": "___ the report carefully, the director forwarded it to the board for approval.",
+      "correct": "Having read",
+      "wrong": [
+        "Read",
+        "Being read",
+        "Having been read"
+      ],
+      "hint": "Сначала директор сделал одно, потом другое. Кто выполнял первое действие?",
+      "explain": "Having + V3 — действие завершилось до forwarded, и выполнял его сам директор: Having read. Being read и having been read — пассив («его прочитали»), а Read в начале звучит как повелительное наклонение.",
+      "tr": "Внимательно прочитав отчёт, директор переслал его совету директоров на утверждение."
+    },
+    {
+      "id": "c1-participle-clauses-p03",
+      "type": "gap",
+      "q": "___ in 1890, the bridge is still one of the main routes into the city.",
+      "correct": "Built",
+      "wrong": [
+        "Building"
+      ],
+      "hint": "Мост сам строил или его построили?",
+      "explain": "Мост подвергся действию, поэтому нужен пассивный оборот с V3: Built in 1890. Building означало бы, что мост сам что-то строит.",
+      "tr": "Мост, построенный в 1890 году, до сих пор остаётся одной из главных дорог в город."
+    },
+    {
+      "id": "c1-participle-clauses-p04",
+      "type": "gap",
+      "q": "___ by the warm reaction of the audience, the speaker put aside her notes and began to improvise.",
+      "correct": "Encouraged",
+      "wrong": [
+        "Encouraging"
+      ],
+      "hint": "Кто кого воодушевил: зал — выступающую или наоборот?",
+      "explain": "Выступающую воодушевила реакция зала — пассивное значение → V3: Encouraged. Encouraging значило бы, что она сама кого-то подбадривает.",
+      "tr": "Воодушевлённая тёплой реакцией зала, выступающая отложила записи и начала импровизировать."
+    },
+    {
+      "id": "c1-participle-clauses-p05",
+      "type": "gap",
+      "q": "___ what to say, Ben simply nodded and left the room.",
+      "correct": "Not knowing",
+      "wrong": [
+        "Knowing not",
+        "Don't knowing"
+      ],
+      "hint": "Отрицательная форма причастного оборота. Где стоит not?",
+      "explain": "not ставится перед причастием: Not knowing. Knowing not — неверный порядок слов, а don't с причастием не употребляется.",
+      "tr": "Не зная, что сказать, Бен просто кивнул и вышел из комнаты."
+    },
+    {
+      "id": "c1-participle-clauses-p06",
+      "type": "gap",
+      "q": "Please read the terms and conditions carefully before ___ the form.",
+      "correct": "completing",
+      "wrong": [
+        "complete",
+        "to complete",
+        "completed"
+      ],
+      "hint": "before здесь — предлог. Какая форма глагола идёт после предлога?",
+      "explain": "После before, after, since в роли предлога ставится -ing: before completing. Инфинитив и V3 после before в таком значении невозможны.",
+      "tr": "Пожалуйста, внимательно прочитайте условия, прежде чем заполнять форму."
+    },
+    {
+      "id": "c1-participle-clauses-p07",
+      "type": "gap",
+      "q": "When ___ about the delays, the spokesperson refused to comment.",
+      "correct": "asked",
+      "wrong": [
+        "asking"
+      ],
+      "hint": "Пресс-секретарь задавал вопрос или отвечал на него?",
+      "explain": "Пресс-секретаря спросили — пассивное значение: when asked (= when he was asked). When asking значило бы, что он сам задавал вопрос.",
+      "tr": "Когда пресс-секретаря спросили о задержках, он отказался от комментариев."
+    },
+    {
+      "id": "c1-participle-clauses-p08",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Walking home from the station, I got caught in a heavy storm.",
+      "wrong": [
+        "Walking home from the station, a heavy storm caught me.",
+        "Walking home from the station, it started to rain heavily."
+      ],
+      "hint": "Кто шёл домой со станции? Именно это слово должно быть подлежащим главной части.",
+      "explain": "Подлежащее главной части должно выполнять действие причастия: I walked → I got caught. В остальных вариантах получается, что домой шли гроза или it — это висячее причастие.",
+      "tr": "Когда я шёл домой со станции, меня застала сильная гроза."
+    },
+    {
+      "id": "c1-participle-clauses-p09",
+      "type": "gap",
+      "q": "___ twice for speeding, Paul decided to sell his car and use public transport.",
+      "correct": "Having been fined",
+      "wrong": [
+        "Having fined",
+        "Fining"
+      ],
+      "hint": "Пол штрафовал кого-то или штрафовали его? И когда это было?",
+      "explain": "Пола оштрафовали раньше, чем он принял решение → пассивный перфектный оборот: Having been fined. Having fined и fining означали бы, что он сам кого-то штрафовал.",
+      "tr": "После того как его дважды оштрафовали за превышение скорости, Пол решил продать машину и ездить на общественном транспорте."
+    },
+    {
+      "id": "c1-participle-clauses-p10",
+      "type": "gap",
+      "q": "___ watched by security cameras all day, many employees felt uncomfortable at work.",
+      "correct": "Being",
+      "wrong": [
+        "Having",
+        "Been"
+      ],
+      "hint": "Сотрудников снимают камеры, и это происходит одновременно с их ощущениями. Какая пассивная форма нужна?",
+      "explain": "being + V3 — пассив, одновременное действие или причина: Being watched. Having watched — активная форма (они сами наблюдали), а been без being или having оборот не образует.",
+      "tr": "Из-за того что их весь день снимали камеры наблюдения, многим сотрудникам было неуютно на работе."
+    },
+    {
+      "id": "c1-participle-clauses-p11",
+      "type": "gap",
+      "q": "Unless otherwise ___, all prices include VAT and delivery.",
+      "correct": "stated",
+      "wrong": [
+        "stating",
+        "state",
+        "to state"
+      ],
+      "hint": "Устойчивый оборот из официальных текстов: «если не указано иное». Цены указывают или они сами что-то указывают?",
+      "explain": "unless + V3 — сокращённое пассивное придаточное: unless otherwise stated (= unless it is stated otherwise). Активные формы здесь невозможны.",
+      "tr": "Если не указано иное, все цены включают НДС и доставку."
+    },
+    {
+      "id": "c1-participle-clauses-p12",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Having lost his passport, Nick couldn't board the plane.",
+      "correct": "Nick couldn't board the plane because he had lost his passport.",
+      "wrong": [
+        "Nick lost his passport after he couldn't board the plane.",
+        "Nick lost his passport while he was boarding the plane."
+      ],
+      "hint": "Какое действие было первым, судя по форме having + V3?",
+      "explain": "Having + V3 — действие раньше главного и его причина: сначала потерял паспорт, поэтому не смог сесть в самолёт. Остальные варианты меняют порядок событий.",
+      "tr": "Ник не смог сесть в самолёт, потому что потерял паспорт."
+    },
+    {
+      "id": "c1-participle-clauses-p13",
+      "type": "gap",
+      "q": "If ___ in a cool, dry place, the medicine will remain effective for up to two years.",
+      "correct": "stored",
+      "wrong": [
+        "storing"
+      ],
+      "hint": "Лекарство хранят или оно само что-то хранит?",
+      "explain": "if + V3 — сокращённое пассивное придаточное: if stored (= if it is stored). Storing означало бы, что лекарство само что-то хранит.",
+      "tr": "При хранении в прохладном сухом месте лекарство сохраняет эффективность до двух лет."
+    },
+    {
+      "id": "c1-participle-clauses-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Having checked the figures again, the accountant found two serious mistakes.",
+      "wrong": [
+        "Having checked the figures again, two serious mistakes were found.",
+        "Checked the figures again, the accountant found two serious mistakes.",
+        "Having been checked the figures again, the accountant found two serious mistakes."
+      ],
+      "hint": "Кто проверял цифры? Это должно быть подлежащее главной части, а форма — активная.",
+      "explain": "Бухгалтер сам проверил цифры, а потом нашёл ошибки: Having checked …, the accountant found. Во втором варианте висячее причастие (ошибки не проверяли цифры), в остальных — пассивные формы вместо активной.",
+      "tr": "Ещё раз проверив цифры, бухгалтер нашёл две серьёзные ошибки."
+    },
+    {
+      "id": "c1-participle-clauses-p15",
+      "type": "gap",
+      "q": "After ___ from university, Sophie spent a year volunteering in South America.",
+      "correct": "graduating",
+      "wrong": [
+        "graduated"
+      ],
+      "hint": "after здесь — предлог перед глаголом.",
+      "explain": "After + V-ing: after graduating (= after she graduated). Форма V3 после after в этом значении невозможна.",
+      "tr": "Окончив университет, Софи год работала волонтёром в Южной Америке."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-participle-clauses-e01",
+      "type": "gap",
+      "q": "___ the necessary experience, Tom was not considered for the post.",
+      "correct": "Not having",
+      "wrong": [
+        "Not had",
+        "Don't having"
+      ],
+      "hint": "Отрицательный причастный оборот, который выражает причину.",
+      "explain": "Not + V-ing: Not having the necessary experience (= because he didn't have). Not had и don't having причастный оборот не образуют.",
+      "tr": "Поскольку у Тома не было необходимого опыта, его кандидатуру на эту должность не рассматривали."
+    },
+    {
+      "id": "c1-participle-clauses-e02",
+      "type": "gap",
+      "q": "___ for its poor customer service, the company has lost many of its regular clients.",
+      "correct": "Criticised",
+      "wrong": [
+        "Criticising",
+        "Having criticised"
+      ],
+      "hint": "Компания критикует или критикуют её?",
+      "explain": "Компанию критикуют — пассивное значение → V3: Criticised. Criticising и having criticised означали бы, что компания сама кого-то критикует.",
+      "tr": "Компания, которую критикуют за плохое обслуживание, потеряла многих постоянных клиентов."
+    },
+    {
+      "id": "c1-participle-clauses-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Having been told about the changes only the day before, the staff were understandably annoyed.",
+      "wrong": [
+        "Having told about the changes only the day before, the staff were understandably annoyed.",
+        "Having been told about the changes only the day before, it was understandable that the staff were annoyed."
+      ],
+      "hint": "Сотрудникам сообщили или они сообщили? И кто должен быть подлежащим главной части?",
+      "explain": "Сотрудникам сообщили раньше → having been + V3, а подлежащее главной части — the staff. Having told — активная форма, а с it получается висячее причастие.",
+      "tr": "Поскольку об изменениях сотрудникам сообщили только накануне, они, что вполне понятно, были недовольны."
+    },
+    {
+      "id": "c1-participle-clauses-e04",
+      "type": "gap",
+      "q": "Once ___, the application cannot be changed or withdrawn.",
+      "correct": "submitted",
+      "wrong": [
+        "submitting"
+      ],
+      "hint": "Заявку подают или она сама что-то подаёт?",
+      "explain": "once + V3 — сокращённое пассивное придаточное: once submitted (= once it has been submitted). Submitting означало бы, что заявка сама что-то подаёт.",
+      "tr": "После подачи заявку нельзя изменить или отозвать."
+    },
+    {
+      "id": "c1-participle-clauses-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Driving through the city centre, we passed the old cathedral.",
+      "correct": "We passed the old cathedral while we were driving through the city centre.",
+      "wrong": [
+        "We drove through the city centre after we had passed the old cathedral.",
+        "We had already driven through the city centre when we passed the old cathedral.",
+        "The old cathedral is in the city centre, but we didn't drive past it."
+      ],
+      "hint": "Какое отношение по времени показывает V-ing-оборот без having?",
+      "explain": "V-ing-оборот здесь обозначает одновременное действие: мы проехали мимо собора во время поездки по центру. Остальные варианты меняют порядок событий или смысл.",
+      "tr": "Мы проехали мимо старого собора, когда ехали через центр города."
+    }
+  ],
+  "glossary": {
+    "America": "Америка",
+    "application": "заявка, заявление",
+    "approval": "утверждение, одобрение",
+    "aside": "в сторону (put aside — отложить)",
+    "audience": "зрители, публика",
+    "bed": "кровать (go to bed — лечь спать)",
+    "board": "совет директоров; сесть на (самолёт)",
+    "bridge": "мост",
+    "cameras": "камеры",
+    "carefully": "внимательно",
+    "cathedral": "собор",
+    "centre": "центр",
+    "clients": "клиенты",
+    "comment": "комментировать",
+    "conditions": "условия",
+    "considered": "рассматривали (3-я форма от consider)",
+    "cool": "прохладный",
+    "customer": "клиентский (customer service — обслуживание клиентов)",
+    "delays": "задержки",
+    "delivery": "доставка",
+    "director": "директор",
+    "driving": "проезжая, ведя машину",
+    "dry": "сухой",
+    "effective": "эффективный",
+    "employees": "сотрудники",
+    "experience": "опыт",
+    "flight": "перелёт",
+    "form": "бланк, форма",
+    "forwarded": "переслал (прош. от forward)",
+    "improvise": "импровизировать",
+    "include": "включают",
+    "main": "главный",
+    "medicine": "лекарство",
+    "necessary": "необходимый",
+    "nodded": "кивнул (прош. от nod)",
+    "notes": "записи, заметки",
+    "passed": "проехали мимо (прош. от pass)",
+    "passport": "паспорт",
+    "place": "место",
+    "poor": "плохой",
+    "post": "должность",
+    "prices": "цены",
+    "public": "общественный",
+    "reaction": "реакция",
+    "refused": "отказался (прош. от refuse)",
+    "regular": "постоянный",
+    "remain": "оставаться",
+    "report": "отчёт",
+    "routes": "пути, дороги",
+    "security": "безопасность (security cameras — камеры наблюдения)",
+    "service": "обслуживание",
+    "simply": "просто",
+    "South": "Южная (South America — Южная Америка)",
+    "speaker": "выступающий, докладчик",
+    "speeding": "превышение скорости",
+    "spokesperson": "пресс-секретарь",
+    "straight": "сразу, прямо",
+    "terms": "условия (terms and conditions)",
+    "transport": "транспорт",
+    "uncomfortable": "неуютно, некомфортно",
+    "VAT": "НДС",
+    "volunteering": "работая волонтёром",
+    "warm": "тёплый",
+    "watched": "под наблюдением (3-я форма от watch)",
+    "withdrawn": "отозвана (3-я форма от withdraw)"
+  }
+}

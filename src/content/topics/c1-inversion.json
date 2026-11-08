@@ -1,0 +1,481 @@
+{
+  "id": "c1-inversion",
+  "level": "C1",
+  "order": 1,
+  "title": "Inversion after negative adverbials",
+  "titleRu": "Инверсия после отрицательных наречий",
+  "summary": "Обратный порядок слов после never, only, hardly, not until",
+  "source": "Murphy AGIU units 99–100; Cambridge Dictionary Grammar: Inversion",
+  "rules": [
+    {
+      "title": "Never, rarely, seldom + инверсия",
+      "body": "Если предложение начинается с отрицательного или ограничительного наречия, порядок слов становится вопросительным: **наречие + вспомогательный глагол + подлежащее + смысловой глагол**.\n\n- **Never, Rarely, Seldom, Hardly ever, At no time, Nowhere**\n- в Present / Past Simple своего вспомогательного глагола нет → **do / does / did**: Rarely does she…\n- с be просто меняем местами: Never was he so nervous.\n\nСтиль формальный: статьи, речи, деловые письма. В разговоре обычно говорят I have never seen…",
+      "examples": [
+        {
+          "en": "Never have I seen such a well-organised event.",
+          "ru": "Никогда я не видел такого хорошо организованного мероприятия."
+        },
+        {
+          "en": "Rarely does the company admit its mistakes.",
+          "ru": "Компания редко признаёт свои ошибки."
+        },
+        {
+          "en": "Seldom had the city experienced such heavy snow.",
+          "ru": "Город редко видел такие сильные снегопады."
+        }
+      ]
+    },
+    {
+      "title": "Hardly … when, No sooner … than",
+      "body": "Значение — «едва… как», «не успел… как». В первой части обычно **Past Perfect**, во второй — Past Simple.\n\n- **Hardly / Scarcely + had + S + V3 … when …**\n- **No sooner + had + S + V3 … than …**\n\nПары союзов не смешиваем: hardly … **when**, no sooner … **than** (как в сравнении sooner than).",
+      "examples": [
+        {
+          "en": "Hardly had we sat down when the lights went out.",
+          "ru": "Едва мы сели, как погас свет."
+        },
+        {
+          "en": "No sooner had she accepted the offer than a better one arrived.",
+          "ru": "Не успела она принять предложение, как пришло более выгодное."
+        }
+      ]
+    },
+    {
+      "title": "Only …, Not until … — инверсия в главной части",
+      "body": "После **Only + обстоятельство** и **Not until** инверсия стоит **в главной части**, а не сразу после only.\n\n- **Only after / when / if / by + …**, aux + S + V\n- **Only then / Only later / Only in 2010** + aux + S + V\n- **Not until + время или придаточное**, aux + S + V\n\nOnly when I got home **did I realise** — придаточное (when I got home) сохраняет прямой порядок.",
+      "examples": [
+        {
+          "en": "Only when the figures came in did we understand the scale of the problem.",
+          "ru": "Только когда пришли цифры, мы поняли масштаб проблемы."
+        },
+        {
+          "en": "Only by working together can we solve this.",
+          "ru": "Только работая вместе, мы сможем это решить."
+        },
+        {
+          "en": "Not until the next morning did anyone notice the error.",
+          "ru": "Только на следующее утро кто-то заметил ошибку."
+        }
+      ]
+    },
+    {
+      "title": "Not only, Under no circumstances, Little",
+      "body": "Устойчивые отрицательные выражения в начале предложения тоже требуют инверсии.\n\n- **Not only + aux + S + V, but (S) also …** — инверсия только в первой части\n- **Under no circumstances / On no account / In no way / At no time** + aux + S — «ни в коем случае», «никоим образом»\n- **Little did I know / Little did they realise** — «я и не подозревал», «они и не догадывались»",
+      "examples": [
+        {
+          "en": "Not only did he lose the contract, but he also damaged the firm's reputation.",
+          "ru": "Он не только потерял контракт, но и навредил репутации фирмы."
+        },
+        {
+          "en": "Under no circumstances should you share your password.",
+          "ru": "Ни при каких обстоятельствах не сообщайте никому свой пароль."
+        },
+        {
+          "en": "Little did we know that the decision would change everything.",
+          "ru": "Мы и не подозревали, что это решение всё изменит."
+        }
+      ]
+    },
+    {
+      "title": "So + прилагательное; nor / neither",
+      "body": "**So + прилагательное + be + подлежащее + that …** — «настолько…, что…». Глагол согласуется с подлежащим, которое стоит после него.\n\n**Nor / Neither + aux + S** — добавляет ещё одно отрицание: «и… тоже не». Отрицание уже есть в nor, поэтому второе not не нужно: nor did it, а не nor didn't it.",
+      "examples": [
+        {
+          "en": "So great was the demand that the tickets sold out in an hour.",
+          "ru": "Спрос был настолько велик, что билеты раскупили за час."
+        },
+        {
+          "en": "The report wasn't finished on time, nor was it accurate.",
+          "ru": "Отчёт не был готов вовремя, да и точностью он не отличался."
+        },
+        {
+          "en": "I don't trust these figures, and neither does my boss.",
+          "ru": "Я не доверяю этим цифрам, и мой начальник тоже."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "Never / Rarely / Seldom + aux + S + V → Never have I seen…",
+    "нет aux в Simple → do / does / did: Rarely does she agree",
+    "Hardly / Scarcely had S V3 … when; No sooner had S V3 … than",
+    "Only when / after / if / by … + aux + S в главной части; Not until … did S V",
+    "Not only / Under no circumstances / On no account / Little + aux + S",
+    "So + adj + be + S + that …; nor / neither + aux + S"
+  ],
+  "mistakes": [
+    {
+      "wrong": "Never I have seen such a mess.",
+      "right": "Never have I seen such a mess.",
+      "note": "после never в начале вспомогательный глагол встаёт перед подлежащим"
+    },
+    {
+      "wrong": "No sooner had we left when it started to rain.",
+      "right": "No sooner had we left than it started to rain.",
+      "note": "no sooner … than; when — пара для hardly / scarcely"
+    },
+    {
+      "wrong": "Only when I got home I realised my mistake.",
+      "right": "Only when I got home did I realise my mistake.",
+      "note": "после оборота с only инверсия нужна в главной части"
+    },
+    {
+      "wrong": "Not only she speaks Chinese, but she also speaks Arabic.",
+      "right": "Not only does she speak Chinese, but she also speaks Arabic.",
+      "note": "not only в начале предложения → инверсия с do / does / did"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Что меняется в порядке слов, если предложение начинается с Never, Rarely или Seldom?",
+      "back": "Вспомогательный глагол встаёт **перед подлежащим**: aux + S + V.\nRarely does he make mistakes."
+    },
+    {
+      "front": "Hardly … и No sooner … — какой союз во второй части?",
+      "back": "**Hardly / Scarcely … when**\n**No sooner … than**\nNo sooner had I arrived than it started to rain."
+    },
+    {
+      "front": "В какой части нужна инверсия после «Only when …»?",
+      "back": "В **главной**, а не в придаточном.\nOnly when she left did I understand why."
+    },
+    {
+      "front": "Как формально сказать «Ни в коем случае не открывайте эту дверь»?",
+      "back": "**Under no circumstances / On no account + should + S + V**.\nOn no account should you open this door."
+    },
+    {
+      "front": "Как сказать «Я и не подозревал, что…» с инверсией?",
+      "back": "**Little did I know (that) …**\nLittle did I know that she was his sister."
+    },
+    {
+      "front": "«Спрос был так велик, что…» — как построить с so?",
+      "back": "**So + adj + be + S + that …**\nSo great was the demand that prices doubled."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-inversion-p01",
+      "type": "gap",
+      "q": "Never ___ such a well-organised conference in all my years in the industry.",
+      "correct": "have I attended",
+      "wrong": [
+        "I have attended",
+        "I attended"
+      ],
+      "hint": "Предложение начинается с отрицательного наречия. Что происходит с порядком слов?",
+      "explain": "Never в начале предложения → инверсия: have I attended. Прямой порядок (I have attended) возможен, только если never стоит после подлежащего.",
+      "tr": "Никогда за все годы работы в этой сфере я не был на такой хорошо организованной конференции."
+    },
+    {
+      "id": "c1-inversion-p02",
+      "type": "gap",
+      "q": "Rarely ___ the minister answer journalists' questions directly, which frustrates many reporters.",
+      "correct": "does",
+      "wrong": [
+        "do",
+        "is",
+        "has"
+      ],
+      "hint": "После Rarely нужен вспомогательный глагол. Какое время и какое подлежащее?",
+      "explain": "В Present Simple своего вспомогательного глагола нет → does; подлежащее the minister — 3-е лицо ед. ч. С has нужно было бы answered, с is — answering.",
+      "tr": "Министр редко отвечает на вопросы журналистов прямо, и это раздражает многих репортёров."
+    },
+    {
+      "id": "c1-inversion-p03",
+      "type": "gap",
+      "q": "Hardly had the meeting started ___ the fire alarm went off.",
+      "correct": "when",
+      "wrong": [
+        "than"
+      ],
+      "hint": "Конструкция «едва… как». Какой союз идёт в паре с hardly?",
+      "explain": "Hardly / scarcely … when — «едва… как». than употребляется в паре с no sooner (sooner than).",
+      "tr": "Едва началось совещание, как сработала пожарная сигнализация."
+    },
+    {
+      "id": "c1-inversion-p04",
+      "type": "gap",
+      "q": "No sooner ___ the contract than the client asked for major changes.",
+      "correct": "had we signed",
+      "wrong": [
+        "we had signed",
+        "have we signed"
+      ],
+      "hint": "No sooner в начале требует особого порядка слов. И какое действие было раньше?",
+      "explain": "No sooner + had + S + V3 … than: had we signed. Прямой порядок после no sooner в начале невозможен, а have не сочетается с прошедшим asked.",
+      "tr": "Не успели мы подписать контракт, как клиент попросил внести серьёзные изменения."
+    },
+    {
+      "id": "c1-inversion-p05",
+      "type": "gap",
+      "q": "Only when the results were published ___ how serious the problem was.",
+      "correct": "did we realise",
+      "wrong": [
+        "we realised"
+      ],
+      "hint": "Где нужна инверсия — в части с when или в главной?",
+      "explain": "Only when … → инверсия в главной части: did we realise. Придаточное (when the results were published) сохраняет прямой порядок.",
+      "tr": "Только когда результаты опубликовали, мы поняли, насколько серьёзна проблема."
+    },
+    {
+      "id": "c1-inversion-p06",
+      "type": "gap",
+      "q": "Not until the last guest had left ___ to relax.",
+      "correct": "did the hosts begin",
+      "wrong": [
+        "the hosts began",
+        "began the hosts"
+      ],
+      "hint": "Not until в начале предложения. Вспомните, какой глагол встаёт перед подлежащим.",
+      "explain": "Not until … → инверсия в главной части через did: did the hosts begin. Смысловой глагол перед подлежащим не ставится, поэтому began the hosts — ошибка.",
+      "tr": "Хозяева смогли расслабиться только после того, как ушёл последний гость."
+    },
+    {
+      "id": "c1-inversion-p07",
+      "type": "gap",
+      "q": "Under no circumstances ___ their luggage unattended in the terminal.",
+      "correct": "should passengers leave",
+      "wrong": [
+        "passengers should leave"
+      ],
+      "hint": "Under no circumstances — отрицательное выражение в начале предложения.",
+      "explain": "Under no circumstances в начале → инверсия: should passengers leave. Без инверсии ту же мысль выражают иначе: Passengers should never leave…",
+      "tr": "Пассажирам ни при каких обстоятельствах нельзя оставлять багаж без присмотра в терминале."
+    },
+    {
+      "id": "c1-inversion-p08",
+      "type": "gap",
+      "q": "Little ___ that their small start-up would one day employ thousands of people.",
+      "correct": "did the founders suspect",
+      "wrong": [
+        "the founders suspected"
+      ],
+      "hint": "Little здесь значит «совсем не». Как это влияет на порядок слов?",
+      "explain": "Little в значении «совсем не» в начале предложения → инверсия: did the founders suspect. Прямой порядок здесь — калька с русского.",
+      "tr": "Основатели и не подозревали, что их маленький стартап однажды будет давать работу тысячам людей."
+    },
+    {
+      "id": "c1-inversion-p09",
+      "type": "gap",
+      "q": "Not only ___ the deadline, but she also stayed within budget.",
+      "correct": "did she meet",
+      "wrong": [
+        "she met"
+      ],
+      "hint": "Not only открывает предложение. Какой порядок слов нужен в первой части?",
+      "explain": "Not only в начале → инверсия в первой части: did she meet. Во второй части (but she also stayed) порядок прямой.",
+      "tr": "Она не только уложилась в срок, но и не вышла за рамки бюджета."
+    },
+    {
+      "id": "c1-inversion-p10",
+      "type": "gap",
+      "q": "So great ___ for tickets that the organisers added a second concert.",
+      "correct": "was the demand",
+      "wrong": [
+        "the demand was",
+        "were the demand",
+        "did the demand"
+      ],
+      "hint": "So + прилагательное в начале. Какой глагол нужен и в каком числе?",
+      "explain": "So + adj + be + подлежащее: was the demand. Demand — ед. ч., поэтому не were; с be вспомогательный did не используется.",
+      "tr": "Спрос на билеты был так велик, что организаторы добавили второй концерт."
+    },
+    {
+      "id": "c1-inversion-p11",
+      "type": "gap",
+      "q": "The airline didn't apologise for the delay, nor ___ any compensation.",
+      "correct": "did it offer",
+      "wrong": [
+        "it offered",
+        "didn't it offer",
+        "it didn't offer"
+      ],
+      "hint": "nor уже содержит отрицание. Какой порядок слов идёт после него?",
+      "explain": "nor + aux + S: nor did it offer. Отрицание уже есть в nor, поэтому didn't даёт двойное отрицание, а прямой порядок после nor невозможен.",
+      "tr": "Авиакомпания не извинилась за задержку и не предложила никакой компенсации."
+    },
+    {
+      "id": "c1-inversion-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Only by cutting costs can the company survive the crisis.",
+      "wrong": [
+        "Only by cutting costs the company can survive the crisis.",
+        "Only by cutting costs does the company can survive the crisis."
+      ],
+      "hint": "Only by + -ing — обстоятельство в начале. Сколько вспомогательных глаголов нужно?",
+      "explain": "Only by … → инверсия: can the company survive. Модальный глагол сам встаёт перед подлежащим, does к нему не добавляется.",
+      "tr": "Только сократив расходы, компания сможет пережить кризис."
+    },
+    {
+      "id": "c1-inversion-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Seldom have I heard such a convincing argument.",
+      "wrong": [
+        "Seldom I have heard such a convincing argument.",
+        "Seldom have heard I such a convincing argument.",
+        "Seldom did I have heard such a convincing argument."
+      ],
+      "hint": "Seldom в начале. Что именно меняется местами с подлежащим?",
+      "explain": "Перед подлежащим встаёт только вспомогательный глагол: have I heard. Смысловой глагол остаётся после подлежащего, а did к have не добавляется.",
+      "tr": "Редко мне доводилось слышать такой убедительный аргумент."
+    },
+    {
+      "id": "c1-inversion-p14",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "As soon as I had sent the email, I noticed the mistake.",
+      "correct": "No sooner had I sent the email than I noticed the mistake.",
+      "wrong": [
+        "Hardly had I sent the email than I noticed the mistake.",
+        "Only after I had noticed the mistake did I send the email."
+      ],
+      "hint": "Какое действие было первым? И какие союзы идут в паре?",
+      "explain": "No sooner … than — «не успел… как», порядок событий сохранён. Hardly требует when, а вариант с only after меняет последовательность событий.",
+      "tr": "Не успел я отправить письмо, как заметил ошибку."
+    },
+    {
+      "id": "c1-inversion-p15",
+      "type": "gap",
+      "q": "In no way ___ responsible for the delay, as the court documents clearly show.",
+      "correct": "was the supplier",
+      "wrong": [
+        "the supplier was",
+        "the supplier wasn't",
+        "did the supplier"
+      ],
+      "hint": "In no way — отрицательное выражение. Подумайте и о двойном отрицании.",
+      "explain": "In no way в начале → инверсия: was the supplier. Отрицание уже есть в no, поэтому wasn't даёт двойное отрицание; с be вспомогательный did не нужен.",
+      "tr": "Как ясно показывают судебные документы, поставщик никоим образом не был виноват в задержке."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-inversion-e01",
+      "type": "gap",
+      "q": "Scarcely ___ the new software when users started reporting serious bugs.",
+      "correct": "had the company released",
+      "wrong": [
+        "the company had released",
+        "has the company released",
+        "released the company"
+      ],
+      "hint": "Scarcely … when — та же модель, что и hardly … when.",
+      "explain": "Scarcely + had + S + V3 … when: had the company released. Present Perfect не сочетается с прошедшим started, а смысловой глагол перед подлежащим не ставится.",
+      "tr": "Едва компания выпустила новую программу, как пользователи начали сообщать о серьёзных ошибках."
+    },
+    {
+      "id": "c1-inversion-e02",
+      "type": "gap",
+      "q": "Only after the inspector had checked every document ___ to open.",
+      "correct": "was the restaurant allowed",
+      "wrong": [
+        "the restaurant was allowed",
+        "did the restaurant allowed"
+      ],
+      "hint": "Only after … в начале. Сказуемое главной части — в пассиве.",
+      "explain": "Only after … → инверсия в главной части; в пассиве перед подлежащим встаёт was: was the restaurant allowed. did с причастием allowed не сочетается.",
+      "tr": "Ресторану разрешили открыться только после того, как инспектор проверил все документы."
+    },
+    {
+      "id": "c1-inversion-e03",
+      "type": "gap",
+      "q": "Not until the late 1990s ___ widely available in ordinary homes.",
+      "correct": "did the internet become",
+      "wrong": [
+        "the internet became"
+      ],
+      "hint": "Not until + время в начале предложения.",
+      "explain": "Not until … в начале → инверсия через did: did the internet become. Прямой порядок возможен только в другой модели: The internet didn't become … until …",
+      "tr": "Интернет стал широко доступен в обычных домах только в конце 1990-х."
+    },
+    {
+      "id": "c1-inversion-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Only if all members agree will the proposal be accepted.",
+      "wrong": [
+        "Only if all members agree the proposal will be accepted.",
+        "Only if do all members agree will the proposal be accepted."
+      ],
+      "hint": "В какой из двух частей нужна инверсия?",
+      "explain": "Only if … → инверсия только в главной части: will the proposal be accepted. Придаточное с if сохраняет прямой порядок.",
+      "tr": "Предложение примут, только если согласятся все участники."
+    },
+    {
+      "id": "c1-inversion-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I had no idea at the time that this job would change my life.",
+      "correct": "Little did I know at the time that this job would change my life.",
+      "wrong": [
+        "Little I knew at the time that this job would change my life.",
+        "Hardly did I know at the time that this job would change my life.",
+        "Never did I want this job to change my life."
+      ],
+      "hint": "Какое выражение значит «я и не подозревал»?",
+      "explain": "Little did I know — «я и не подозревал», с инверсией. Little I knew без инверсии — ошибка; hardly did I know значит «едва знал», а never did I want меняет смысл.",
+      "tr": "Тогда я и не подозревал, что эта работа изменит мою жизнь."
+    }
+  ],
+  "glossary": {
+    "added": "добавили (прош. от add)",
+    "airline": "авиакомпания",
+    "alarm": "сигнализация",
+    "apologise": "извиняться",
+    "available": "доступный",
+    "budget": "бюджет",
+    "bugs": "ошибки (в программе)",
+    "changes": "изменения",
+    "checked": "проверил (прош. от check)",
+    "circumstances": "обстоятельства",
+    "clearly": "ясно, явно",
+    "client": "клиент",
+    "compensation": "компенсация",
+    "concert": "концерт",
+    "conference": "конференция",
+    "contract": "контракт, договор",
+    "court": "суд; судебный",
+    "deadline": "крайний срок",
+    "delay": "задержка",
+    "directly": "прямо, напрямую",
+    "document": "документ",
+    "documents": "документы",
+    "email": "электронное письмо",
+    "employ": "нанимать, давать работу",
+    "fire": "пожарный (fire alarm — пожарная сигнализация)",
+    "frustrates": "раздражает, огорчает",
+    "guest": "гость",
+    "homes": "дома, жилища",
+    "industry": "отрасль",
+    "inspector": "инспектор",
+    "journalists": "журналисты",
+    "luggage": "багаж",
+    "major": "крупный, серьёзный",
+    "minister": "министр",
+    "mistake": "ошибка",
+    "noticed": "заметил (прош. от notice)",
+    "ordinary": "обычный",
+    "organisers": "организаторы",
+    "published": "опубликованы (3-я форма от publish)",
+    "questions": "вопросы",
+    "relax": "расслабиться",
+    "reporters": "репортёры",
+    "reporting": "сообщать (-ing от report)",
+    "responsible": "ответственный; виноватый",
+    "results": "результаты",
+    "scarcely": "едва",
+    "serious": "серьёзный",
+    "software": "программное обеспечение",
+    "sooner": "раньше (no sooner … than — не успел… как)",
+    "start-up": "стартап",
+    "terminal": "терминал (аэропорта)",
+    "tickets": "билеты",
+    "unattended": "без присмотра",
+    "users": "пользователи",
+    "well-organised": "хорошо организованный",
+    "widely": "широко"
+  }
+}

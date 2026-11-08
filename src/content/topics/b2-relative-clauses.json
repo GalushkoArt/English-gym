@@ -1,0 +1,467 @@
+{
+  "id": "b2-relative-clauses",
+  "level": "B2",
+  "order": 11,
+  "title": "Non-defining relative clauses",
+  "titleRu": "Неопределительные придаточные и сложные случаи",
+  "summary": "Придаточные с запятыми, whom, whose, which и what",
+  "source": "Murphy EGIU units 95–97; British Council: Relative clauses",
+  "rules": [
+    {
+      "title": "Неопределительные придаточные: запятые и who / which",
+      "body": "Неопределительное придаточное (non-defining clause) добавляет **дополнительную информацию** о том, что и так понятно. Его выделяют **запятыми**.\n\n- люди → **who**, предметы → **which**\n- **that** в таких придаточных не используется\n- местоимение **нельзя опустить**, даже если оно дополнение\n- местоимение не повторяют: не which I bought it",
+      "examples": [
+        {
+          "en": "My sister, who lives in Leeds, is a nurse.",
+          "ru": "Моя сестра, которая живёт в Лидсе, работает медсестрой."
+        },
+        {
+          "en": "Our new car, which we bought in May, has already broken down.",
+          "ru": "Наша новая машина, которую мы купили в мае, уже сломалась."
+        }
+      ]
+    },
+    {
+      "title": "which о всём предложении",
+      "body": "**, which** может относиться не к одному слову, а ко **всей предыдущей части** предложения: по-русски «что».\n\n- He was late, which annoyed everyone. (то, что он опоздал, раздражало)\n- в этой функции **не** используются **what** и **that**",
+      "examples": [
+        {
+          "en": "She passed the exam, which surprised everyone.",
+          "ru": "Она сдала экзамен, что всех удивило."
+        },
+        {
+          "en": "The flight was cancelled, which meant we had to stay another night.",
+          "ru": "Рейс отменили, из-за чего нам пришлось остаться ещё на одну ночь."
+        }
+      ]
+    },
+    {
+      "title": "whom, whose и предлоги",
+      "body": "**whom** — формальная форма дополнения о людях; обязательна сразу **после предлога**: the person **to whom** I spoke.\n\n- в разговорной речи предлог ставят в конец: the person (who) I spoke **to**\n- сразу после предлога нельзя **who** или **that**: не to who, не to that\n- о предметах после предлога — **which**: the hotel at which we stayed\n- **whose** = «чей», для людей и предметов: a writer whose books…, a city whose history…",
+      "examples": [
+        {
+          "en": "The manager to whom I sent the complaint never replied.",
+          "ru": "Менеджер, которому я отправил жалобу, так и не ответил."
+        },
+        {
+          "en": "Is this the colleague you work with?",
+          "ru": "Это тот коллега, с которым ты работаешь?"
+        },
+        {
+          "en": "Anna, whose brother is a doctor, gave me some advice.",
+          "ru": "Анна, брат которой врач, дала мне совет."
+        }
+      ]
+    },
+    {
+      "title": "all of which, most of whom",
+      "body": "Количество + **of whom** (люди) / **of which** (предметы) в придаточном с запятой:\n\n- **all / most / some / many / none / both / one of whom / which**\n- нельзя **of who**\n- **of them** превращает конструкцию в два предложения без союза — это ошибка",
+      "examples": [
+        {
+          "en": "He has two sisters, both of whom are lawyers.",
+          "ru": "У него две сестры, и обе — юристы."
+        },
+        {
+          "en": "We tried three restaurants, none of which were open.",
+          "ru": "Мы заглянули в три ресторана, и ни один не был открыт."
+        }
+      ]
+    },
+    {
+      "title": "what и сокращённые придаточные",
+      "body": "**what** = «то, что» (the thing that); перед ним **нет** существительного: What I need is a holiday.\n**which / that** относятся к слову перед ними. После **everything, all, nothing** — **that** (или без местоимения), не what.\n\nСокращённые придаточные:\n- **V-ing** вместо who / which + активный глагол: people **living** near the airport (= who live)\n- **V3** вместо who / which + пассив: the documents **sent** yesterday (= which were sent)",
+      "examples": [
+        {
+          "en": "What she said made me think.",
+          "ru": "То, что она сказала, заставило меня задуматься."
+        },
+        {
+          "en": "Everything that he told us was true.",
+          "ru": "Всё, что он нам рассказал, было правдой."
+        },
+        {
+          "en": "The documents sent yesterday contained errors.",
+          "ru": "Документы, отправленные вчера, содержали ошибки."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "доп. информация в запятых → who / which; that нельзя, опускать нельзя",
+    ", which … → о всём предыдущем предложении (не what, не that)",
+    "предлог + whom / which: to whom, with which; разговорно: who … to",
+    "whose + существительное = чей (о людях и предметах)",
+    "all / most / none / both + of whom (люди) / of which (предметы)",
+    "what = то, что; everything that; V-ing = актив, V3 = пассив"
+  ],
+  "mistakes": [
+    {
+      "wrong": "My brother, that lives in Canada, is an engineer.",
+      "right": "My brother, who lives in Canada, is an engineer.",
+      "note": "в придаточных с запятыми that не используется"
+    },
+    {
+      "wrong": "He forgot my birthday, what really upset me.",
+      "right": "He forgot my birthday, which really upset me.",
+      "note": "калька с «что»: о всём предложении — which"
+    },
+    {
+      "wrong": "I have two cousins, both of them are doctors.",
+      "right": "I have two cousins, both of whom are doctors.",
+      "note": "после запятой нужно of whom; of them даёт два предложения без союза"
+    },
+    {
+      "wrong": "Everything what you said is true.",
+      "right": "Everything that you said is true.",
+      "note": "калька «всё, что»: после everything — that или ничего"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Можно ли сказать «My mother, that is a teacher, …»?",
+      "back": "Нет. В придаточном с запятыми — **who / which**, не that.\nMy mother, who is a teacher, …"
+    },
+    {
+      "front": "Как сказать «Он опоздал, что всех разозлило»?",
+      "back": "**, which** — о всём предложении.\nHe was late, which annoyed everyone."
+    },
+    {
+      "front": "Как сказать «человек, с которым я работаю» формально и разговорно?",
+      "back": "Формально: the person **with whom** I work.\nРазговорно: the person (who) I work **with**."
+    },
+    {
+      "front": "Как сказать «у меня два брата, оба — врачи» одним предложением?",
+      "back": "**both of whom**: I have two brothers, both of whom are doctors."
+    },
+    {
+      "front": "Когда «то, что» — what, а когда which?",
+      "back": "**what** — без существительного перед ним: What I need is rest.\n**, which** — о предыдущем предложении: He helped me, which was kind."
+    },
+    {
+      "front": "Как сократить «people who live near the airport» и «the letters which were sent yesterday»?",
+      "back": "Актив → **V-ing**: people living near the airport.\nПассив → **V3**: the letters sent yesterday."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-relative-clauses-p01",
+      "type": "gap",
+      "q": "My sister, ___ works as a nurse in Leeds, is coming to stay with us next month.",
+      "correct": "who",
+      "wrong": [
+        "that",
+        "which"
+      ],
+      "hint": "Придаточное выделено запятыми и относится к человеку.",
+      "explain": "Неопределительное придаточное о человеке → who. that в придаточных с запятыми не используется, а which — для предметов.",
+      "tr": "Моя сестра, которая работает медсестрой в Лидсе, приедет к нам погостить в следующем месяце."
+    },
+    {
+      "id": "b2-relative-clauses-p02",
+      "type": "gap",
+      "q": "Last summer we spent a week in Lisbon, ___ is one of the oldest cities in Europe.",
+      "correct": "which",
+      "wrong": [
+        "where"
+      ],
+      "hint": "В придаточном нужно подлежащее для глагола is.",
+      "explain": "Придаточное описывает сам город, и в нём нужно подлежащее → which. where означает «где» и требует своего подлежащего: where we stayed.",
+      "tr": "Прошлым летом мы провели неделю в Лиссабоне — одном из старейших городов Европы."
+    },
+    {
+      "id": "b2-relative-clauses-p03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The film, which I watched on the plane, was surprisingly good.",
+      "wrong": [
+        "The film, I watched on the plane, was surprisingly good.",
+        "The film, that I watched on the plane, was surprisingly good.",
+        "The film, which I watched it on the plane, was surprisingly good."
+      ],
+      "hint": "Придаточное выделено запятыми. Проверьте местоимение и нет ли лишних слов.",
+      "explain": "В придаточном с запятыми нужен which: его нельзя опустить или заменить на that. Повторять it после which не нужно.",
+      "tr": "Фильм, который я посмотрел в самолёте, оказался на удивление хорошим."
+    },
+    {
+      "id": "b2-relative-clauses-p04",
+      "type": "gap",
+      "q": "Tom left his passport at home, ___ meant we missed our flight to Rome.",
+      "correct": "which",
+      "wrong": [
+        "what",
+        "that",
+        "it"
+      ],
+      "hint": "Что привело к опозданию на рейс: один предмет или вся ситуация?",
+      "explain": "Придаточное относится ко всей предыдущей части → , which. what и that в этой функции не используются, а it создаёт два предложения без союза.",
+      "tr": "Том оставил паспорт дома, из-за чего мы опоздали на рейс в Рим."
+    },
+    {
+      "id": "b2-relative-clauses-p05",
+      "type": "gap",
+      "q": "Ben offered to drive everyone home after the party, ___ was very kind of him.",
+      "correct": "which",
+      "wrong": [
+        "what"
+      ],
+      "hint": "Русское «что» здесь относится ко всей предыдущей ситуации.",
+      "explain": "О всём предыдущем предложении → , which. what не может относиться к предшествующей части — это калька с русского «что».",
+      "tr": "Бен предложил развезти всех по домам после вечеринки, что было очень мило с его стороны."
+    },
+    {
+      "id": "b2-relative-clauses-p06",
+      "type": "gap",
+      "q": "The professor to ___ I sent my application has not replied yet.",
+      "correct": "whom",
+      "wrong": [
+        "who",
+        "that",
+        "which"
+      ],
+      "hint": "Местоимение стоит сразу после предлога и относится к человеку.",
+      "explain": "После предлога о человеке → whom. who и that сразу после предлога не употребляются, а which — для предметов.",
+      "tr": "Профессор, которому я отправил свою заявку, пока не ответил."
+    },
+    {
+      "id": "b2-relative-clauses-p07",
+      "type": "gap",
+      "q": "This is Sophie, the colleague ___ I share an office.",
+      "correct": "with whom",
+      "wrong": [
+        "with who",
+        "whom"
+      ],
+      "hint": "Делить кабинет с кем-то. Где в этом предложении предлог?",
+      "explain": "share an office with someone → предлог нужен; в формальном варианте он стоит перед whom: with whom. with who — ошибка, а без with предложение неполное.",
+      "tr": "Это Софи, коллега, с которой я делю кабинет."
+    },
+    {
+      "id": "b2-relative-clauses-p08",
+      "type": "gap",
+      "q": "Rachel, ___ husband works for the city council, knows a lot about local politics.",
+      "correct": "whose",
+      "wrong": [
+        "who's",
+        "whom",
+        "which"
+      ],
+      "hint": "Нужно слово со значением «чей».",
+      "explain": "whose + существительное = «чей»: whose husband. who's = who is, а whom и which не выражают принадлежность.",
+      "tr": "Рэйчел, муж которой работает в городском совете, много знает о местной политике."
+    },
+    {
+      "id": "b2-relative-clauses-p09",
+      "type": "gap",
+      "q": "The company employs 200 people, most of ___ work from home at least two days a week.",
+      "correct": "whom",
+      "wrong": [
+        "who",
+        "them"
+      ],
+      "hint": "Количество + of + относительное местоимение о людях.",
+      "explain": "most of whom — о людях в придаточном с запятой. of who не бывает, а most of them создаёт два предложения без союза.",
+      "tr": "В компании работают 200 человек, большинство из которых работают из дома как минимум два дня в неделю."
+    },
+    {
+      "id": "b2-relative-clauses-p10",
+      "type": "gap",
+      "q": "We looked at five flats yesterday, none of ___ had a balcony.",
+      "correct": "which",
+      "wrong": [
+        "them"
+      ],
+      "hint": "Квартиры — предметы. Как связать две части в одно предложение?",
+      "explain": "none of which — о предметах, связывает части в одно предложение. none of them после запятой даёт два предложения без союза.",
+      "tr": "Вчера мы посмотрели пять квартир, и ни в одной из них не было балкона."
+    },
+    {
+      "id": "b2-relative-clauses-p11",
+      "type": "gap",
+      "q": "___ surprised me most about Tokyo was how quiet the trains were.",
+      "correct": "What",
+      "wrong": [
+        "Which"
+      ],
+      "hint": "Перед пропуском нет существительного. Нужно слово со значением «то, что».",
+      "explain": "What = the thing that, «то, что»; перед ним нет существительного. Which должно относиться к слову или предложению перед ним.",
+      "tr": "Больше всего в Токио меня удивило то, какими тихими были поезда."
+    },
+    {
+      "id": "b2-relative-clauses-p12",
+      "type": "gap",
+      "q": "Everything ___ the manager told us about the job turned out to be true.",
+      "correct": "that",
+      "wrong": [
+        "what"
+      ],
+      "hint": "После everything не ставят слово, которое само по себе значит «то, что».",
+      "explain": "После everything, all, nothing → that (или без местоимения). what уже содержит значение «то, что» и после everything не ставится.",
+      "tr": "Всё, что менеджер рассказал нам о работе, оказалось правдой."
+    },
+    {
+      "id": "b2-relative-clauses-p13",
+      "type": "gap",
+      "q": "People ___ near the airport have complained about the noise for years.",
+      "correct": "living",
+      "wrong": [
+        "lived",
+        "who living"
+      ],
+      "hint": "Люди сами живут рядом с аэропортом: значение активное или пассивное?",
+      "explain": "Сокращённое придаточное с активным значением → V-ing: living = who live. lived здесь не подходит, а who living — смесь полной и сокращённой формы.",
+      "tr": "Люди, живущие рядом с аэропортом, уже много лет жалуются на шум."
+    },
+    {
+      "id": "b2-relative-clauses-p14",
+      "type": "gap",
+      "q": "The documents ___ to clients last week contained several serious errors.",
+      "correct": "sent",
+      "wrong": [
+        "sending"
+      ],
+      "hint": "Документы не отправляли сами — их отправили.",
+      "explain": "Пассивное значение (= which were sent) → V3: sent. sending означало бы, что документы сами что-то отправляют.",
+      "tr": "Документы, отправленные клиентам на прошлой неделе, содержали несколько серьёзных ошибок."
+    },
+    {
+      "id": "b2-relative-clauses-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The woman I spoke to at reception was very helpful.",
+      "wrong": [
+        "The woman to who I spoke at reception was very helpful.",
+        "The woman to that I spoke at reception was very helpful.",
+        "The woman I spoke to her at reception was very helpful."
+      ],
+      "hint": "Проверьте, что стоит после предлога, и нет ли лишнего местоимения.",
+      "explain": "Разговорный вариант: предлог в конце, местоимение опущено — the woman I spoke to. После предлога нельзя who или that, а her дублирует придаточное.",
+      "tr": "Женщина, с которой я разговаривал на ресепшене, очень мне помогла."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-relative-clauses-e01",
+      "type": "gap",
+      "q": "The museum, ___ collection includes over 5,000 paintings, attracts visitors from all over the world.",
+      "correct": "whose",
+      "wrong": [
+        "which",
+        "its",
+        "who's"
+      ],
+      "hint": "Нужна принадлежность: коллекция музея.",
+      "explain": "whose = «чей», в том числе о предметах: the museum, whose collection… which не выражает принадлежность, its разрывает предложение, а who's = who is.",
+      "tr": "Музей, коллекция которого насчитывает более 5000 картин, привлекает посетителей со всего мира."
+    },
+    {
+      "id": "b2-relative-clauses-e02",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I have three brothers, and all of them live abroad.",
+      "correct": "I have three brothers, all of whom live abroad.",
+      "wrong": [
+        "I have three brothers, one of whom lives abroad.",
+        "I have three brothers, all of who live abroad."
+      ],
+      "hint": "Сохраните смысл «все» и проверьте форму местоимения после of.",
+      "explain": "all of whom — «все из них» о людях. one of whom меняет смысл, а of who не употребляется.",
+      "tr": "У меня три брата, и все они живут за границей."
+    },
+    {
+      "id": "b2-relative-clauses-e03",
+      "type": "gap",
+      "q": "The conference ___ we were invited took place in an old castle near Edinburgh.",
+      "correct": "to which",
+      "wrong": [
+        "to that",
+        "which"
+      ],
+      "hint": "be invited to something. Где должен стоять предлог?",
+      "explain": "invite to → предлог перед местоимением: to which. После предлога нельзя that, а без to конструкция неполная.",
+      "tr": "Конференция, на которую нас пригласили, проходила в старом замке недалеко от Эдинбурга."
+    },
+    {
+      "id": "b2-relative-clauses-e04",
+      "type": "gap",
+      "q": "Anyone ___ to join the hiking trip should sign up by Friday.",
+      "correct": "wishing",
+      "wrong": [
+        "wished"
+      ],
+      "hint": "Это сокращённое придаточное: человек сам хочет присоединиться.",
+      "explain": "Сокращённое придаточное с активным значением → V-ing: wishing (= who wishes). wished имело бы пассивное значение.",
+      "tr": "Все, кто хочет присоединиться к походу, должны записаться до пятницы."
+    },
+    {
+      "id": "b2-relative-clauses-e05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "What the city needs most is better public transport.",
+      "wrong": [
+        "Which the city needs most is better public transport.",
+        "That the city needs most is better public transport."
+      ],
+      "hint": "Перед местоимением нет существительного, к которому оно относится.",
+      "explain": "What = the thing that, «то, что»; перед ним не нужно существительное. Which и that требуют слова, к которому они относятся.",
+      "tr": "Больше всего городу нужен более удобный общественный транспорт."
+    }
+  ],
+  "glossary": {
+    "airport": "аэропорт",
+    "application": "заявка, заявление",
+    "attracts": "привлекает",
+    "balcony": "балкон",
+    "brothers": "братья",
+    "castle": "замок",
+    "cities": "города",
+    "clients": "клиенты",
+    "collection": "коллекция",
+    "complained": "жаловались (3-я форма от complain)",
+    "conference": "конференция",
+    "contained": "содержали (прош. от contain)",
+    "council": "(city council) городской совет",
+    "documents": "документы",
+    "Edinburgh": "Эдинбург",
+    "employs": "нанимает, даёт работу",
+    "errors": "ошибки",
+    "Europe": "Европа",
+    "flats": "квартиры",
+    "flight": "рейс",
+    "hiking": "пеший, походный (hiking trip — поход)",
+    "includes": "включает",
+    "invited": "приглашены (3-я форма от invite)",
+    "join": "присоединиться",
+    "kind": "добрый, любезный",
+    "Leeds": "Лидс",
+    "Lisbon": "Лиссабон",
+    "local": "местный",
+    "lot": "(a lot) много",
+    "manager": "менеджер, руководитель",
+    "missed": "пропустили, опоздали на (прош. от miss)",
+    "museum": "музей",
+    "noise": "шум",
+    "none": "ни один",
+    "nurse": "медсестра",
+    "offered": "предложил (прош. от offer)",
+    "oldest": "старейший",
+    "paintings": "картины",
+    "party": "вечеринка",
+    "passport": "паспорт",
+    "place": "(take place) проходить, состояться",
+    "politics": "политика",
+    "professor": "профессор",
+    "quiet": "тихий",
+    "replied": "ответил (3-я форма от reply)",
+    "serious": "серьёзный",
+    "share": "делить, пользоваться вместе",
+    "sign": "(sign up) записаться",
+    "trains": "поезда",
+    "trip": "поездка, поход",
+    "true": "правдивый (turn out to be true — оказаться правдой)",
+    "turned": "(turned out) оказалось (прош. от turn out)",
+    "visitors": "посетители"
+  }
+}

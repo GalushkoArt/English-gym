@@ -1,0 +1,454 @@
+{
+  "id": "b1-present-perfect-past-simple",
+  "level": "B1",
+  "order": 3,
+  "title": "Present Perfect vs Past Simple",
+  "titleRu": "Present Perfect или Past Simple",
+  "summary": "Опыт и результат к настоящему против законченного прошлого",
+  "source": "Murphy EGIU units 7–8, 13–14; British Council: Present perfect and past simple",
+  "rules": [
+    {
+      "title": "Present Perfect — связь с настоящим",
+      "body": "Форма: **have / has + V3** (третья форма: done, seen, written). Вопрос: **Have you…?** Отрицание: **haven't / hasn't + V3**.\n\nДействие произошло в прошлом, но важен его **результат сейчас**, или это **новость**. Время действия не называется.",
+      "examples": [
+        {
+          "en": "I've lost my keys, so I can't get into the flat.",
+          "ru": "Я потерял ключи, поэтому не могу попасть в квартиру."
+        },
+        {
+          "en": "The government has announced new tax rules.",
+          "ru": "Правительство объявило о новых налоговых правилах."
+        }
+      ]
+    },
+    {
+      "title": "Опыт; just, already, yet",
+      "body": "**Опыт** за всю жизнь до сих пор: **ever, never, before, three times**. После **It's the first time…** — тоже Present Perfect.\n\n- **just** (только что), **already** (уже) — между have и V3\n- **yet** (уже? / ещё не) — в вопросах и отрицаниях, в конце предложения",
+      "examples": [
+        {
+          "en": "Have you ever been to Japan?",
+          "ru": "Ты когда-нибудь был в Японии?"
+        },
+        {
+          "en": "It's the first time I've tried Indian food.",
+          "ru": "Я впервые пробую индийскую еду."
+        },
+        {
+          "en": "Has the taxi arrived yet? — No, not yet.",
+          "ru": "Такси уже приехало? — Нет, ещё нет."
+        }
+      ]
+    },
+    {
+      "title": "Законченное и незаконченное время",
+      "body": "**Past Simple** — если время названо и оно закончилось: **yesterday, last week, in 2019, three years ago, when I was a child**. Вопросы **When…? / What time…?** — тоже Past Simple.\n\n**Present Perfect** — если период ещё идёт: **today, this week, this year, so far, since…**\n\nPresent Perfect не сочетается с точным прошлым временем: не *I have seen him yesterday*.",
+      "examples": [
+        {
+          "en": "I've written five emails so far today.",
+          "ru": "Сегодня я уже написал пять писем."
+        },
+        {
+          "en": "When did you start your new job?",
+          "ru": "Когда ты вышел на новую работу?"
+        }
+      ]
+    },
+    {
+      "title": "Новость и подробности",
+      "body": "Сообщаем новость — **Present Perfect**. Переходим к подробностям (когда, где, как) — **Past Simple**.",
+      "examples": [
+        {
+          "en": "I've cut my finger. — Oh no! How did you do it?",
+          "ru": "Я порезал палец. — Ой! Как это получилось?"
+        },
+        {
+          "en": "Kate has found a new job. She started on Monday.",
+          "ru": "Кейт нашла новую работу. Она вышла в понедельник."
+        }
+      ]
+    },
+    {
+      "title": "been или gone",
+      "body": "- **has gone to** — уехал(а) и сейчас там или в пути\n- **has been to** — был(а) и вернулся(-лась); это опыт",
+      "examples": [
+        {
+          "en": "Anna isn't here. She's gone to the bank.",
+          "ru": "Анны нет. Она ушла в банк."
+        },
+        {
+          "en": "I've been to Rome three times.",
+          "ru": "Я был в Риме три раза."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "результат сейчас, новость → have/has + V3",
+    "ever / never / before / It's the first time… → Present Perfect",
+    "just / already — перед V3; yet — в конце, в ? и −",
+    "yesterday / last … / … ago / in 2019 / When…? → Past Simple",
+    "today / this week / so far (период не закончился) → Present Perfect",
+    "has gone = уехал и там; has been = был и вернулся"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I have lost my phone yesterday.",
+      "right": "I lost my phone yesterday.",
+      "note": "yesterday — законченное время → только Past Simple"
+    },
+    {
+      "wrong": "When have you arrived?",
+      "right": "When did you arrive?",
+      "note": "вопрос When…? → Past Simple"
+    },
+    {
+      "wrong": "It's the first time I see snow.",
+      "right": "It's the first time I've seen snow.",
+      "note": "после It's the first time — Present Perfect"
+    },
+    {
+      "wrong": "She has gone to Italy twice.",
+      "right": "She has been to Italy twice.",
+      "note": "опыт поездок → been to; gone — уехала и ещё не вернулась"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Можно ли сказать «I have seen him yesterday»?",
+      "back": "**Нет**. Точное прошлое время → Past Simple.\nI saw him yesterday."
+    },
+    {
+      "front": "Чем отличается «She has gone to Paris» от «She has been to Paris»?",
+      "back": "**has gone** — уехала и сейчас там.\n**has been** — была там и вернулась."
+    },
+    {
+      "front": "Какое время в вопросе «Когда ты приехал?»",
+      "back": "**Past Simple**: When did you arrive?\nWhen…? с Present Perfect не сочетается."
+    },
+    {
+      "front": "Где стоят just, already и yet?",
+      "back": "**just / already** — между have и V3: I've just eaten.\n**yet** — в конце вопроса или отрицания: Have you finished yet?"
+    },
+    {
+      "front": "Как сказать «Я здесь впервые»?",
+      "back": "**It's the first time I've been** here.\nПосле It's the first time — Present Perfect."
+    },
+    {
+      "front": "Как сообщить новость, а потом рассказать подробности?",
+      "back": "Новость — **Present Perfect**, детали — **Past Simple**.\nI've cut my finger. I did it while I was cooking."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-present-perfect-past-simple-p01",
+      "type": "gap",
+      "q": "I ___ my passport on the train yesterday, so I had to go to the embassy for a new one.",
+      "correct": "lost",
+      "wrong": [
+        "have lost"
+      ],
+      "hint": "Найдите в предложении указание на время.",
+      "explain": "yesterday — законченное время → Past Simple: lost. Present Perfect не сочетается с точным прошлым временем.",
+      "tr": "Вчера я потерял паспорт в поезде, поэтому мне пришлось идти в посольство за новым."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p02",
+      "type": "gap",
+      "q": "A: Is Kate in the office today?\nB: No, she ___ to a conference in Berlin. She'll be back on Friday.",
+      "correct": "has gone",
+      "wrong": [
+        "has been"
+      ],
+      "hint": "Кейт сейчас на конференции или уже вернулась?",
+      "explain": "has gone to — уехала и сейчас там. has been to означало бы, что она уже вернулась, а Кейт ещё в Берлине.",
+      "tr": "— Кейт сегодня в офисе? — Нет, она уехала на конференцию в Берлин. Вернётся в пятницу."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p03",
+      "type": "gap",
+      "q": "This is the first time I ___ a car on the left side of the road, so I'm a bit nervous.",
+      "correct": "have driven",
+      "wrong": [
+        "drive",
+        "drove"
+      ],
+      "hint": "Какое время требует конструкция «This is the first time…»?",
+      "explain": "После This is the first time… ставится Present Perfect: have driven. drive — калька с русского «впервые веду», drove — Past Simple, здесь он тоже неверен.",
+      "tr": "Я впервые веду машину по левой стороне дороги, поэтому немного нервничаю."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p04",
+      "type": "gap",
+      "q": "A: I hear you work in Madrid now. When ___ there?\nB: Last spring, right after my contract here ended.",
+      "correct": "did you move",
+      "wrong": [
+        "have you moved"
+      ],
+      "hint": "Спрашивают о точном моменте в прошлом.",
+      "explain": "When…? — вопрос о точном времени в прошлом → Past Simple: did you move. Present Perfect с When не употребляется.",
+      "tr": "— Я слышал, ты теперь работаешь в Мадриде. Когда ты туда переехал? — Прошлой весной, сразу после того, как закончился мой контракт здесь."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p05",
+      "type": "gap",
+      "q": "A: I've had a minor accident with the car.\nB: Oh no! How ___?",
+      "correct": "did it happen",
+      "wrong": [
+        "has it happened",
+        "it happened",
+        "did it happened"
+      ],
+      "hint": "Новость уже прозвучала. Теперь спрашивают о подробностях.",
+      "explain": "Новость — Present Perfect (I've had), подробности (как это случилось) — Past Simple: How did it happen? Нужен вспомогательный did, а после него — начальная форма глагола.",
+      "tr": "— Я попал в небольшую аварию на машине. — Ой! Как это случилось?"
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p06",
+      "type": "gap",
+      "q": "A: Is the new website ready?\nB: Not quite. The designers ___ the main page yet.",
+      "correct": "haven't finished",
+      "wrong": [
+        "haven't finish",
+        "hasn't finished",
+        "not finished"
+      ],
+      "hint": "Отрицание с yet. Подлежащее — во множественном числе.",
+      "explain": "yet в отрицании → Present Perfect: haven't + V3. designers — они, поэтому haven't, а не hasn't; после haven't нужна третья форма.",
+      "tr": "— Новый сайт готов? — Не совсем. Дизайнеры ещё не закончили главную страницу."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p07",
+      "type": "gap",
+      "q": "Mark ___ at this company three years ago, and he's already the head of his department.",
+      "correct": "started",
+      "wrong": [
+        "has started"
+      ],
+      "hint": "Найдите указание на законченное время.",
+      "explain": "three years ago — точное прошлое → Past Simple: started. С ago Present Perfect не используется.",
+      "tr": "Марк начал работать в этой компании три года назад и уже возглавляет свой отдел."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p08",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I've never eaten Japanese food, but I'd love to try it.",
+      "wrong": [
+        "I've ever eaten Japanese food, but I'd love to try it.",
+        "I've never ate Japanese food, but I'd love to try it."
+      ],
+      "hint": "Речь об опыте за всю жизнь. Проверьте наречие и форму глагола.",
+      "explain": "Опыт за жизнь → Present Perfect с never: have never + V3 (eaten). ever в утвердительном предложении не значит «никогда», а ate — вторая форма, не третья.",
+      "tr": "Я никогда не ел японскую еду, но очень хотел бы попробовать."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p09",
+      "type": "gap",
+      "q": "I ___ three cups of coffee so far today, and it's only ten o'clock.",
+      "correct": "have drunk",
+      "wrong": [
+        "drank",
+        "have drank"
+      ],
+      "hint": "«so far today» — период закончился или ещё идёт?",
+      "explain": "so far today — период ещё не закончился → Present Perfect: have drunk (drink — drank — drunk). drank — вторая форма, она для Past Simple.",
+      "tr": "Я уже выпил сегодня три чашки кофе, а сейчас только десять часов."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p10",
+      "type": "gap",
+      "q": "The company ___ its first electric car in 2019, and it's still the most popular model.",
+      "correct": "launched",
+      "wrong": [
+        "has launched"
+      ],
+      "hint": "Обратите внимание на год.",
+      "explain": "in 2019 — законченное время → Past Simple: launched. Present Perfect не сочетается с указанием года в прошлом, даже если модель продаётся до сих пор.",
+      "tr": "Компания выпустила свой первый электромобиль в 2019 году, и он до сих пор самая популярная модель."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p11",
+      "type": "gap",
+      "q": "A: Can I speak to Ms Brown, please?\nB: I'm afraid she ___ left. You missed her by five minutes.",
+      "correct": "has just",
+      "wrong": [
+        "just has",
+        "is just",
+        "was just"
+      ],
+      "hint": "Она ушла только что. Какое время и где стоит наречие?",
+      "explain": "Только что произошедшее действие → Present Perfect: has just left. just стоит между has и V3; is и was с left Present Perfect не образуют.",
+      "tr": "— Можно поговорить с госпожой Браун? — Боюсь, она только что ушла. Вы разминулись с ней на пять минут."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p12",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I've never seen this film before.",
+      "correct": "This is the first time I've seen this film.",
+      "wrong": [
+        "I saw this film for the first time a long time ago.",
+        "I've seen this film several times before."
+      ],
+      "hint": "never … before — раньше ни разу. Что это значит для сегодняшнего просмотра?",
+      "explain": "never … before = раньше ни разу не видел, значит, смотрю впервые: This is the first time I've seen… — тоже Present Perfect.",
+      "tr": "Я смотрю этот фильм впервые."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p13",
+      "type": "gap",
+      "q": "My grandfather ___ as a train driver for forty years before he retired in 1995.",
+      "correct": "worked",
+      "wrong": [
+        "has worked"
+      ],
+      "hint": "Этот период работы закончился или продолжается?",
+      "explain": "Период закончился (before he retired in 1995) → Past Simple: worked. Present Perfect с for используется, только если ситуация длится до сих пор.",
+      "tr": "Мой дедушка сорок лет проработал машинистом поезда, прежде чем вышел на пенсию в 1995 году."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верный вариант",
+      "q": "",
+      "correct": "The police have arrested two men. They caught them at the airport last night.",
+      "wrong": [
+        "The police have arrested two men. They have caught them at the airport last night.",
+        "The police arrested two men. They have caught them at the airport last night."
+      ],
+      "hint": "Сначала новость, потом подробность с указанием времени.",
+      "explain": "Новость — Present Perfect (have arrested), подробность с last night — Past Simple (caught). Present Perfect не сочетается с last night.",
+      "tr": "Полиция задержала двух мужчин. Их поймали в аэропорту вчера вечером."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-p15",
+      "type": "gap",
+      "q": "___ the results of your blood test yet?",
+      "correct": "Have you received",
+      "wrong": [
+        "Have you receive",
+        "Has you received",
+        "You have received"
+      ],
+      "hint": "Вопрос с yet. Какой вспомогательный глагол нужен для you и какая форма смыслового?",
+      "explain": "Вопрос с yet → Present Perfect: Have you + V3. Для you — have, а не has; вспомогательный глагол стоит перед подлежащим.",
+      "tr": "Ты уже получил результаты анализа крови?"
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-present-perfect-past-simple-e01",
+      "type": "gap",
+      "q": "A: Have you ever been to an opera?\nB: Yes, once. I ___ one in Vienna when I was a student.",
+      "correct": "saw",
+      "wrong": [
+        "have seen",
+        "have been seeing",
+        "was seeing"
+      ],
+      "hint": "Вопрос был об опыте, но в ответе появилось указание на время.",
+      "explain": "В ответе названо законченное время (when I was a student) → Past Simple: saw. Present Perfect с таким указанием времени не используется.",
+      "tr": "— Ты когда-нибудь был в опере? — Да, один раз. Я слушал оперу в Вене, когда был студентом."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-e02",
+      "type": "gap",
+      "q": "Sophie ___ three different jobs since she graduated, and she's only twenty-five.",
+      "correct": "has had",
+      "wrong": [
+        "had",
+        "has",
+        "has been having"
+      ],
+      "hint": "Период начался в прошлом и продолжается до сих пор. Плюс названо количество.",
+      "explain": "since + момент в прошлом, период длится до сих пор → Present Perfect: has had. Past Simple had с since в таком значении не сочетается, а количество (three jobs) не передаётся формой Continuous.",
+      "tr": "С тех пор как Софи окончила университет, она сменила три работы, а ей всего двадцать пять."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-e03",
+      "type": "gap",
+      "q": "It's the third time this month that the lift ___ down.",
+      "correct": "has broken",
+      "wrong": [
+        "breaks"
+      ],
+      "hint": "Какое время требует конструкция «It's the first / second / third time…»?",
+      "explain": "It's the third time… → Present Perfect: has broken down. Present Simple здесь — калька с русского «ломается уже третий раз».",
+      "tr": "Лифт ломается уже третий раз за этот месяц."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верный диалог",
+      "q": "",
+      "correct": "Where's Jack? — He's gone home. He left about ten minutes ago.",
+      "wrong": [
+        "Where's Jack? — He's been home. He left about ten minutes ago.",
+        "Where's Jack? — He's gone home. He has left about ten minutes ago."
+      ],
+      "hint": "Джек сейчас дома? И посмотрите, какое время названо во второй фразе ответа.",
+      "explain": "Джек ушёл и сейчас дома → has gone. Подробность с ago → Past Simple: left; Present Perfect с ago не сочетается.",
+      "tr": "— Где Джек? — Он ушёл домой. Ушёл минут десять назад."
+    },
+    {
+      "id": "b1-present-perfect-past-simple-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Rachel has gone to Canada for a month.",
+      "correct": "Rachel is in Canada now or on her way there.",
+      "wrong": [
+        "Rachel went to Canada and has already come back.",
+        "Rachel has visited Canada several times."
+      ],
+      "hint": "has gone to: человек уже вернулся или ещё нет?",
+      "explain": "has gone to — уехала и ещё не вернулась. Если бы поездка была позади, сказали бы has been to.",
+      "tr": "Рейчел сейчас в Канаде или едет туда."
+    }
+  ],
+  "glossary": {
+    "accident": "авария",
+    "afraid": "(I'm afraid) боюсь, к сожалению",
+    "bit": "(a bit) немного",
+    "blood": "кровь",
+    "Brown": "Браун (фамилия)",
+    "Canada": "Канада",
+    "coffee": "кофе",
+    "conference": "конференция",
+    "contract": "контракт",
+    "cups": "чашки",
+    "department": "отдел",
+    "designers": "дизайнеры",
+    "driver": "водитель; (train driver) машинист",
+    "electric": "электрический",
+    "embassy": "посольство",
+    "ended": "закончился (прош. от end)",
+    "far": "(so far) пока, до сих пор",
+    "film": "фильм",
+    "graduated": "окончила учёбу (прош. от graduate)",
+    "grandfather": "дедушка",
+    "head": "глава, руководитель",
+    "jobs": "работы, места работы",
+    "lift": "лифт",
+    "Madrid": "Мадрид",
+    "main": "главный",
+    "minor": "незначительный, небольшой",
+    "missed": "разминулись, упустили (прош. от miss)",
+    "model": "модель",
+    "nervous": "нервничающий, взволнованный",
+    "oh": "ой, о",
+    "opera": "опера",
+    "page": "страница",
+    "passport": "паспорт",
+    "popular": "популярный",
+    "results": "результаты",
+    "retired": "вышел на пенсию (прош. от retire)",
+    "road": "дорога",
+    "side": "сторона",
+    "student": "студент",
+    "test": "анализ (blood test — анализ крови)",
+    "twenty-five": "двадцать пять",
+    "Vienna": "Вена",
+    "website": "сайт"
+  }
+}

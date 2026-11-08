@@ -1,0 +1,475 @@
+{
+  "id": "b1-gerund-infinitive",
+  "level": "B1",
+  "order": 11,
+  "title": "Verb + -ing or to-infinitive",
+  "titleRu": "Герундий или инфинитив: базовые модели",
+  "summary": "enjoy doing или want to do: какая форма после глагола и предлога",
+  "source": "Murphy EGIU units 53–56, 60–64; British Council: Verbs followed by -ing or infinitive",
+  "rules": [
+    {
+      "title": "Глагол + -ing",
+      "body": "После этих глаголов следующий глагол стоит в форме **-ing**:\n\n**enjoy, avoid, mind, finish, suggest, consider, keep, practise, imagine, miss, give up, can't stand**\n\n- отрицание — **not** + -ing: I considered **not going**.\n- suggest + -ing или suggest that…: She suggested **taking** a taxi. Не «suggested to take» и не «suggested me to take».",
+      "examples": [
+        {
+          "en": "I enjoy cooking for friends.",
+          "ru": "Я люблю готовить для друзей."
+        },
+        {
+          "en": "Would you mind waiting a few minutes?",
+          "ru": "Вы не против подождать несколько минут?"
+        },
+        {
+          "en": "He finally gave up smoking.",
+          "ru": "Он наконец бросил курить."
+        }
+      ]
+    },
+    {
+      "title": "Глагол + to-infinitive",
+      "body": "После этих глаголов — **to + V**:\n\n**want, decide, hope, plan, agree, refuse, afford, manage, promise, offer, learn, seem, need, expect**\n\n- отрицание — **not to** + V: We decided **not to go**.\n- **would like / would love / would prefer** — всегда с to: I'd like **to** help.",
+      "examples": [
+        {
+          "en": "We decided to stay at home.",
+          "ru": "Мы решили остаться дома."
+        },
+        {
+          "en": "She refused to answer the question.",
+          "ru": "Она отказалась отвечать на вопрос."
+        },
+        {
+          "en": "I can't afford to buy a new car.",
+          "ru": "Я не могу позволить себе новую машину."
+        }
+      ]
+    },
+    {
+      "title": "Предлог + -ing",
+      "body": "После **любого предлога** глагол стоит в форме **-ing**:\n\n- interested **in** doing, good **at** doing, tired **of** doing, thank you **for** doing\n- **before / after / without / instead of** + -ing: She left **without saying** goodbye.\n- **look forward to** + -ing: здесь to — предлог, а не частица инфинитива: I'm looking forward to **seeing** you.",
+      "examples": [
+        {
+          "en": "I'm interested in learning Japanese.",
+          "ru": "Мне интересно изучать японский."
+        },
+        {
+          "en": "Read the contract carefully before signing it.",
+          "ru": "Внимательно прочитайте договор, прежде чем подписывать его."
+        },
+        {
+          "en": "I look forward to hearing from you.",
+          "ru": "Жду вашего ответа."
+        }
+      ]
+    },
+    {
+      "title": "Цель; прилагательное + to",
+      "body": "**Цель** («чтобы») — **to + V**, без for: I went to the bank **to ask** about a loan. Не «for ask» и не «for asking».\n\nСравните: **for** + существительное: I went out **for** a walk. — I went out **to buy** bread.\n\n**Прилагательное + to + V**: easy **to understand**, difficult **to find**, nice **to meet** you, important **to know**.",
+      "examples": [
+        {
+          "en": "She moved to London to study design.",
+          "ru": "Она переехала в Лондон, чтобы изучать дизайн."
+        },
+        {
+          "en": "This book is easy to read.",
+          "ru": "Эту книгу легко читать."
+        },
+        {
+          "en": "Nice to meet you.",
+          "ru": "Приятно познакомиться."
+        }
+      ]
+    },
+    {
+      "title": "like / love / hate",
+      "body": "После **like, love, hate, prefer** возможны обе формы почти без разницы в значении: I like **swimming** = I like **to swim**.\n\nНо **would like / would love / would hate / would prefer** — только **to**: I'd like **to** swim.",
+      "examples": [
+        {
+          "en": "She loves travelling. = She loves to travel.",
+          "ru": "Она обожает путешествовать."
+        },
+        {
+          "en": "I'd love to come to your party.",
+          "ru": "Я с удовольствием приду на твою вечеринку."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "enjoy, avoid, mind, finish, suggest, consider, keep, give up, practise, can't stand + V-ing",
+    "want, decide, hope, plan, agree, refuse, afford, manage, promise, offer, learn, seem + to V",
+    "предлог + V-ing: interested in doing, good at doing, before / after / without doing",
+    "look forward to + V-ing (to — предлог)",
+    "цель: to + V, не for + V: I came to help",
+    "easy / difficult / nice + to V; like / love / hate + -ing или to; would like + to"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I suggest to meet at six.",
+      "right": "I suggest meeting at six.",
+      "note": "suggest + -ing (или suggest that we meet)"
+    },
+    {
+      "wrong": "I went to the shop for buy some bread.",
+      "right": "I went to the shop to buy some bread.",
+      "note": "цель выражается через to + V, а не через for"
+    },
+    {
+      "wrong": "I look forward to hear from you.",
+      "right": "I look forward to hearing from you.",
+      "note": "to здесь предлог, после него — -ing"
+    },
+    {
+      "wrong": "I enjoy to travel alone.",
+      "right": "I enjoy travelling alone.",
+      "note": "enjoy + -ing"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Какая форма после enjoy, avoid, mind, finish?",
+      "back": "**-ing**: I enjoy cooking. We finished eating at ten."
+    },
+    {
+      "front": "Какая форма после want, decide, hope, afford?",
+      "back": "**to + V**: We decided to stay."
+    },
+    {
+      "front": "Почему «look forward to seeing», а не «to see»?",
+      "back": "to здесь **предлог**, а после предлога — **-ing**.\nI'm looking forward to seeing you."
+    },
+    {
+      "front": "Как сказать «Я пришёл, чтобы помочь»?",
+      "back": "**to + V**: I came to help.\nНе «for help» и не «for helping»."
+    },
+    {
+      "front": "Какая форма после in, at, before, without?",
+      "back": "**-ing**: She left without saying goodbye."
+    },
+    {
+      "front": "I like swimming или I like to swim?",
+      "back": "Оба варианта верны.\nНо **would like** — только **to**: I'd like to swim."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-gerund-infinitive-p01",
+      "type": "gap",
+      "q": "Would you mind ___ the window? It's getting cold in here.",
+      "correct": "closing",
+      "wrong": [
+        "to close"
+      ],
+      "hint": "Какая форма идёт после mind?",
+      "explain": "mind + -ing: Would you mind closing…? Инфинитив с to после mind не употребляется.",
+      "tr": "Вы не могли бы закрыть окно? Здесь становится холодно."
+    },
+    {
+      "id": "b1-gerund-infinitive-p02",
+      "type": "gap",
+      "q": "Tom finished ___ the report at midnight and then decided ___ for a short walk.",
+      "correct": "writing / to go",
+      "wrong": [
+        "to write / going",
+        "writing / going",
+        "to write / to go"
+      ],
+      "hint": "Вспомните, какая форма идёт после finish и какая — после decide.",
+      "explain": "finish + -ing: finished writing. decide + to: decided to go.",
+      "tr": "Том закончил писать отчёт в полночь, а потом решил немного прогуляться."
+    },
+    {
+      "id": "b1-gerund-infinitive-p03",
+      "type": "gap",
+      "q": "My doctor suggested ___ less coffee, especially in the evening.",
+      "correct": "drinking",
+      "wrong": [
+        "to drink",
+        "me to drink",
+        "drink"
+      ],
+      "hint": "После suggest не бывает конструкции «предложить кому-то сделать».",
+      "explain": "suggest + -ing: suggested drinking. suggest to do и suggest me to do — типичные ошибки; можно также сказать suggested that I drink.",
+      "tr": "Врач посоветовал мне пить меньше кофе, особенно вечером."
+    },
+    {
+      "id": "b1-gerund-infinitive-p04",
+      "type": "gap",
+      "q": "They can't afford ___ on holiday this year because they're saving for a car.",
+      "correct": "to go",
+      "wrong": [
+        "going"
+      ],
+      "hint": "Какая форма идёт после afford?",
+      "explain": "afford + to: can't afford to go. Форма -ing после afford не употребляется.",
+      "tr": "В этом году они не могут позволить себе поехать в отпуск, потому что копят на машину."
+    },
+    {
+      "id": "b1-gerund-infinitive-p05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I enjoy hiking, and one day I'd like to climb a real mountain.",
+      "wrong": [
+        "I enjoy to hike, and one day I'd like to climb a real mountain.",
+        "I enjoy hiking, and one day I'd like climbing a real mountain.",
+        "I enjoy to hike, and one day I'd like climbing a real mountain."
+      ],
+      "hint": "Проверьте форму после enjoy и после would like.",
+      "explain": "enjoy + -ing: enjoy hiking. would like — всегда с to: I'd like to climb.",
+      "tr": "Я люблю ходить в походы, и когда-нибудь мне хотелось бы подняться на настоящую гору."
+    },
+    {
+      "id": "b1-gerund-infinitive-p06",
+      "type": "gap",
+      "q": "When my car broke down, a colleague offered ___ me home.",
+      "correct": "to drive",
+      "wrong": [
+        "driving",
+        "drive"
+      ],
+      "hint": "Какая форма идёт после offer?",
+      "explain": "offer + to: offered to drive. -ing и форма без to после offer невозможны.",
+      "tr": "Когда у меня сломалась машина, коллега предложил отвезти меня домой."
+    },
+    {
+      "id": "b1-gerund-infinitive-p07",
+      "type": "gap",
+      "q": "I try to avoid ___ during the rush hour because the roads are so busy.",
+      "correct": "driving",
+      "wrong": [
+        "to drive"
+      ],
+      "hint": "Какая форма идёт после avoid?",
+      "explain": "avoid + -ing: avoid driving. Инфинитив после avoid не употребляется.",
+      "tr": "Я стараюсь не ездить на машине в час пик, потому что дороги очень загружены."
+    },
+    {
+      "id": "b1-gerund-infinitive-p08",
+      "type": "gap",
+      "q": "Maria is very good at ___ complicated ideas in simple words.",
+      "correct": "explaining",
+      "wrong": [
+        "to explain",
+        "explain"
+      ],
+      "hint": "Перед пропуском стоит предлог.",
+      "explain": "После предлога (at) глагол стоит в форме -ing: good at explaining.",
+      "tr": "Мария очень хорошо умеет объяснять сложные идеи простыми словами."
+    },
+    {
+      "id": "b1-gerund-infinitive-p09",
+      "type": "gap",
+      "q": "I'm really looking forward to ___ you at the conference next month.",
+      "correct": "seeing",
+      "wrong": [
+        "see"
+      ],
+      "hint": "to в выражении look forward to — частица инфинитива или предлог?",
+      "explain": "В look forward to слово to — предлог, поэтому дальше -ing: looking forward to seeing you.",
+      "tr": "Очень жду встречи с тобой на конференции в следующем месяце."
+    },
+    {
+      "id": "b1-gerund-infinitive-p10",
+      "type": "gap",
+      "q": "Always read a contract carefully before ___ it.",
+      "correct": "signing",
+      "wrong": [
+        "to sign",
+        "sign"
+      ],
+      "hint": "before здесь — предлог.",
+      "explain": "После предлогов before, after, without глагол стоит в форме -ing: before signing.",
+      "tr": "Всегда внимательно читайте договор, прежде чем его подписывать."
+    },
+    {
+      "id": "b1-gerund-infinitive-p11",
+      "type": "gap",
+      "q": "Yesterday I went to the bank ___ about a mortgage.",
+      "correct": "to ask",
+      "wrong": [
+        "for asking",
+        "for ask",
+        "for to ask"
+      ],
+      "hint": "Здесь выражена цель: зачем я пошёл в банк?",
+      "explain": "Цель выражается через to + V: went to the bank to ask. for с глаголом в этом значении не употребляется.",
+      "tr": "Вчера я ходил в банк, чтобы узнать об ипотеке."
+    },
+    {
+      "id": "b1-gerund-infinitive-p12",
+      "type": "gap",
+      "q": "The instructions are easy ___, even if you've never assembled furniture before.",
+      "correct": "to follow",
+      "wrong": [
+        "following",
+        "for following"
+      ],
+      "hint": "Какая конструкция идёт после прилагательного easy?",
+      "explain": "Прилагательное + to + V: easy to follow, difficult to understand. -ing и for + -ing здесь невозможны.",
+      "tr": "Инструкции легко выполнить, даже если вы никогда раньше не собирали мебель."
+    },
+    {
+      "id": "b1-gerund-infinitive-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "She decided to leave her job and start her own business.",
+      "wrong": [
+        "She decided leaving her job and starting her own business.",
+        "She decided to leave her job for starting her own business."
+      ],
+      "hint": "Вспомните, какая форма идёт после decide и как выражается цель.",
+      "explain": "decide + to: decided to leave… and (to) start; второе to можно опустить. -ing после decide невозможно, а цель не выражается через for + -ing.",
+      "tr": "Она решила уйти с работы и открыть собственное дело."
+    },
+    {
+      "id": "b1-gerund-infinitive-p14",
+      "type": "gap",
+      "q": "Our neighbours keep ___ loud music late at night, and it's driving us crazy.",
+      "correct": "playing",
+      "wrong": [
+        "to play"
+      ],
+      "hint": "Какая форма идёт после keep в значении «постоянно делать»?",
+      "explain": "keep + -ing = постоянно, снова и снова: keep playing. Инфинитив после keep не употребляется.",
+      "tr": "Наши соседи постоянно включают громкую музыку поздно ночью, и это сводит нас с ума."
+    },
+    {
+      "id": "b1-gerund-infinitive-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I can't stand waiting in long queues.",
+      "correct": "I really hate waiting in long queues.",
+      "wrong": [
+        "I can't wait in long queues because my legs hurt.",
+        "I don't mind waiting in long queues."
+      ],
+      "hint": "can't stand — это о физической возможности стоять?",
+      "explain": "can't stand + -ing = терпеть не могу. Речь не о физической способности стоять и не о безразличии (don't mind).",
+      "tr": "Я терпеть не могу стоять в длинных очередях."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-gerund-infinitive-e01",
+      "type": "gap",
+      "q": "The company refused ___ my faulty laptop, so I'm now considering ___ them to court.",
+      "correct": "to replace / taking",
+      "wrong": [
+        "replacing / to take",
+        "to replace / to take",
+        "replacing / taking"
+      ],
+      "hint": "Посмотрите на глаголы перед пропусками: refuse и consider.",
+      "explain": "refuse + to: refused to replace. consider + -ing: considering taking.",
+      "tr": "Компания отказалась заменить мой неисправный ноутбук, поэтому теперь я подумываю подать на неё в суд."
+    },
+    {
+      "id": "b1-gerund-infinitive-e02",
+      "type": "gap",
+      "q": "Without proper training, this software is quite difficult ___.",
+      "correct": "to use",
+      "wrong": [
+        "using",
+        "for using"
+      ],
+      "hint": "Какая конструкция идёт после прилагательного difficult?",
+      "explain": "Прилагательное + to + V: difficult to use. Ни -ing, ни for + -ing после такого прилагательного не ставятся.",
+      "tr": "Без должного обучения этой программой довольно сложно пользоваться."
+    },
+    {
+      "id": "b1-gerund-infinitive-e03",
+      "type": "gap",
+      "q": "If you want to improve, you should practise ___ English with native speakers as often as you can.",
+      "correct": "speaking",
+      "wrong": [
+        "to speak",
+        "speak"
+      ],
+      "hint": "Какая форма идёт после practise?",
+      "explain": "practise + -ing: practise speaking. Инфинитив после practise не употребляется.",
+      "tr": "Если хотите добиться прогресса, как можно чаще практикуйтесь говорить по-английски с носителями языка."
+    },
+    {
+      "id": "b1-gerund-infinitive-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I'm interested in learning Japanese, so I've decided to take an evening course.",
+      "wrong": [
+        "I'm interested in learn Japanese, so I've decided to take an evening course.",
+        "I'm interested in learning Japanese, so I've decided taking an evening course.",
+        "I'm interested to learning Japanese, so I've decided to take an evening course."
+      ],
+      "hint": "Проверьте форму после предлога и после decide.",
+      "explain": "После предлога in — -ing: interested in learning. После decide — to: decided to take.",
+      "tr": "Мне интересно изучать японский, поэтому я решил записаться на вечерние курсы."
+    },
+    {
+      "id": "b1-gerund-infinitive-e05",
+      "type": "gap",
+      "q": "Anna seems ___ a lot about the project, but she rarely shares her ideas in meetings.",
+      "correct": "to know",
+      "wrong": [
+        "knowing"
+      ],
+      "hint": "Какая форма идёт после seem?",
+      "explain": "seem + to: seems to know. -ing после seem не употребляется.",
+      "tr": "Похоже, Анна много знает о проекте, но на совещаниях она редко делится идеями."
+    }
+  ],
+  "glossary": {
+    "afford": "позволить себе (по деньгам)",
+    "assembled": "собирали (3-я форма от assemble)",
+    "avoid": "избегать",
+    "bank": "банк",
+    "carefully": "внимательно",
+    "coffee": "кофе",
+    "cold": "холодно",
+    "complicated": "сложный",
+    "conference": "конференция",
+    "considering": "подумываю (-ing от consider)",
+    "contract": "договор",
+    "court": "суд (take to court — подать в суд)",
+    "crazy": "с ума (drive crazy — сводить с ума)",
+    "doctor": "врач",
+    "driving": "сводит (drive crazy — сводить с ума)",
+    "faulty": "неисправный",
+    "finished": "закончил (прош. от finish)",
+    "forward": "вперёд (look forward to — с нетерпением ждать)",
+    "furniture": "мебель",
+    "holiday": "отпуск",
+    "ideas": "идеи",
+    "improve": "совершенствоваться, улучшить",
+    "instructions": "инструкции",
+    "laptop": "ноутбук",
+    "lot": "много (a lot)",
+    "loud": "громкий",
+    "meetings": "совещания",
+    "midnight": "полночь",
+    "mind": "возражать (would you mind — не могли бы вы)",
+    "mortgage": "ипотека",
+    "music": "музыка",
+    "native": "носители (native speakers)",
+    "neighbours": "соседи",
+    "offered": "предложил (прош. от offer)",
+    "practise": "практиковаться",
+    "project": "проект",
+    "proper": "должный, надлежащий",
+    "queues": "очереди",
+    "refused": "отказалась (прош. от refuse)",
+    "report": "отчёт",
+    "roads": "дороги",
+    "rush": "час пик (rush hour)",
+    "saving": "копят (-ing от save)",
+    "shares": "делится",
+    "simple": "простой",
+    "software": "программа, программное обеспечение",
+    "speakers": "носители (native speakers)",
+    "suggested": "посоветовал, предложил (прош. от suggest)",
+    "training": "обучение",
+    "walk": "прогулка",
+    "window": "окно",
+    "words": "слова"
+  }
+}

@@ -1276,6 +1276,12 @@ kbd {
   margin-bottom: 10px;
   font-weight: 550;
 }
+.q-card.no-text .q-task {
+  margin: 0;
+  font-size: clamp(1.1rem, 0.95rem + 0.6vw, 1.35rem);
+  color: var(--text);
+  font-weight: 600;
+}
 .q-text {
   font-size: clamp(1.2rem, 0.95rem + 0.9vw, 1.6rem);
   line-height: 1.55;

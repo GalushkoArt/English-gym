@@ -1,0 +1,474 @@
+{
+  "id": "b1-articles",
+  "level": "B1",
+  "order": 9,
+  "title": "Articles: a/an, the, no article",
+  "titleRu": "Артикли a/an, the и нулевой",
+  "summary": "a/an, the или без артикля: новое, известное, общее и названия",
+  "source": "Murphy EGIU units 69–78; British Council: Articles",
+  "rules": [
+    {
+      "title": "a/an — один из многих",
+      "body": "**a / an** + исчисляемое существительное в единственном числе.\n\n- первое упоминание: предмет новый для слушателя\n- профессия, «кто такой»: She's **a** doctor. He works as **an** engineer.\n- любой, один из многих: Can I borrow **a** pen?\n\n**a** или **an** — по первому **звуку**, а не по букве: **an** hour, **an** MBA, **an** honest man, но **a** university, **a** European country.",
+      "examples": [
+        {
+          "en": "I bought a jacket and two shirts.",
+          "ru": "Я купил куртку и две рубашки."
+        },
+        {
+          "en": "My sister is an architect.",
+          "ru": "Моя сестра — архитектор."
+        },
+        {
+          "en": "It took us an hour to find a hotel.",
+          "ru": "Мы целый час искали гостиницу."
+        }
+      ]
+    },
+    {
+      "title": "the — конкретный и известный",
+      "body": "**the** — когда обоим понятно, о каком именно предмете речь.\n\n- второе упоминание: I bought a jacket… **The** jacket was too small.\n- единственный в своём роде: **the** sun, **the** internet, **the** world\n- **the only, the same, the first** и превосходная степень: **the** best, **the** most expensive\n- уточнение делает предмет конкретным: **the** books you lent me, **the** water in this river",
+      "examples": [
+        {
+          "en": "The jacket was too small, so I sent it back.",
+          "ru": "Куртка оказалась мала, поэтому я её вернул."
+        },
+        {
+          "en": "It's the best café in town.",
+          "ru": "Это лучшее кафе в городе."
+        },
+        {
+          "en": "The people I work with are very friendly.",
+          "ru": "Люди, с которыми я работаю, очень дружелюбные."
+        }
+      ]
+    },
+    {
+      "title": "Без артикля — общее утверждение",
+      "body": "Существительные во множественном числе и неисчисляемые **в общем смысле** употребляются без артикля.\n\n- **Dogs** are loyal. **Life** is short. I like **music**.\n- сравните: **the** music in this film — конкретная музыка\n\nПриёмы пищи обычно без артикля: have **breakfast / lunch / dinner**. С прилагательным появляется a: We had **a** lovely dinner.",
+      "examples": [
+        {
+          "en": "Money doesn't always bring happiness.",
+          "ru": "Деньги не всегда приносят счастье."
+        },
+        {
+          "en": "I don't usually like coffee, but the coffee here is excellent.",
+          "ru": "Обычно я не люблю кофе, но кофе здесь отличный."
+        },
+        {
+          "en": "We usually have lunch at one.",
+          "ru": "Обычно мы обедаем в час."
+        }
+      ]
+    },
+    {
+      "title": "school, hospital, prison, bed, work, home",
+      "body": "Без артикля, когда речь о **назначении** места: учиться, лечиться, отбывать срок, спать, работать.\n\n- go to **school / university / work / bed**, go to **church** (на службу), go to **prison**\n- be in **hospital** — лежать в больнице (британский вариант)\n- **home**: go home, at home — без артикля и без to\n\nС **the** — когда речь о здании, куда идут по другому делу: She went to **the** school to talk to the teacher.",
+      "examples": [
+        {
+          "en": "He's in hospital after an accident.",
+          "ru": "Он в больнице после аварии."
+        },
+        {
+          "en": "I was tired, so I went to bed early.",
+          "ru": "Я устал, поэтому рано лёг спать."
+        },
+        {
+          "en": "Jack's mother went to the school to meet his teacher.",
+          "ru": "Мама Джека пришла в школу встретиться с его учителем."
+        }
+      ]
+    },
+    {
+      "title": "Географические названия",
+      "body": "**Без артикля**: большинство стран, города, континенты, отдельные горы и озёра — France, Moscow, Asia, Everest, Lake Baikal.\n\n**С the**:\n- реки, моря, океаны: **the** Thames, **the** Black Sea, **the** Atlantic\n- горные хребты и группы островов: **the** Alps, **the** Canaries\n- страны со словами Kingdom, States, Republic и во множественном числе: **the** UK, **the** USA, **the** Czech Republic, **the** Netherlands",
+      "examples": [
+        {
+          "en": "She grew up in France and studied in the UK.",
+          "ru": "Она выросла во Франции и училась в Великобритании."
+        },
+        {
+          "en": "The Volga flows into the Caspian Sea.",
+          "ru": "Волга впадает в Каспийское море."
+        },
+        {
+          "en": "We went skiing in the Alps.",
+          "ru": "Мы ездили кататься на лыжах в Альпы."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "впервые / один из многих / профессия → a/an + сущ. в ед. ч.",
+    "a/an по звуку: an hour, an MBA, но a university, a European",
+    "уже упомянутый / единственный / the only / the best → the",
+    "обобщение: Dogs are… / Life is… / I like music → без артикля",
+    "go to school / work / bed, in hospital, at home → без артикля",
+    "the Thames, the Alps, the UK, the Netherlands; но France, Everest"
+  ],
+  "mistakes": [
+    {
+      "wrong": "She is doctor.",
+      "right": "She is a doctor.",
+      "note": "профессия в единственном числе требует a/an"
+    },
+    {
+      "wrong": "The life is too short.",
+      "right": "Life is too short.",
+      "note": "жизнь вообще — общее утверждение, артикль не нужен"
+    },
+    {
+      "wrong": "Sun rises in east.",
+      "right": "The sun rises in the east.",
+      "note": "единственный в своём роде объект и стороны света — с the"
+    },
+    {
+      "wrong": "We spent a week in the France and swam in Mediterranean.",
+      "right": "We spent a week in France and swam in the Mediterranean.",
+      "note": "страны обычно без артикля; моря — с the"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Когда a/an, а когда the?",
+      "back": "**a/an** — предмет новый, один из многих.\n**the** — уже известный, конкретный.\nI saw a film. The film was boring."
+    },
+    {
+      "front": "a или an перед hour, university, honest?",
+      "back": "По **звуку**, не по букве: **an** hour, **an** honest man (h не читается), **a** university (звук [j])."
+    },
+    {
+      "front": "Почему «Life is short», но «the life of a nurse»?",
+      "back": "Общее значение — **без артикля**.\nКонкретное, уточнённое (of a nurse) — **the**."
+    },
+    {
+      "front": "Чем отличается «go to school» от «go to the school»?",
+      "back": "**go to school** — учиться (назначение места).\n**go to the school** — прийти в здание по другому делу: Her mother went to the school to see the head teacher."
+    },
+    {
+      "front": "С артиклем или без: France, Netherlands, Thames, Alps, Everest?",
+      "back": "Без: **France, Everest**.\nС the: **the Netherlands, the Thames, the Alps**."
+    },
+    {
+      "front": "Нужен ли артикль перед breakfast, lunch, dinner?",
+      "back": "Обычно **нет**: We have dinner at seven.\nС прилагательным — **a**: We had a lovely dinner."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-articles-p01",
+      "type": "gap",
+      "q": "A: Did you buy anything online during the sale?\nB: Yes, ___ jacket and two shirts, but ___ jacket was too small, so I sent it back.",
+      "correct": "a / the",
+      "wrong": [
+        "the / the",
+        "a / a",
+        "the / a"
+      ],
+      "hint": "Сравните: куртка упоминается впервые — и во второй раз, когда о ней уже сказано.",
+      "explain": "Первое упоминание, новая информация → a jacket. Во второй раз куртка уже известна собеседнику → the jacket.",
+      "tr": "— Ты что-нибудь купил онлайн на распродаже? — Да, куртку и две рубашки, но куртка оказалась мала, так что я её вернул."
+    },
+    {
+      "id": "b1-articles-p02",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "My brother works as an engineer for a large construction company.",
+      "wrong": [
+        "My brother works as engineer for a large construction company.",
+        "My brother works as a engineer for a large construction company."
+      ],
+      "hint": "Профессия требует артикля. И проверьте, с какого звука начинается engineer.",
+      "explain": "С названием профессии в единственном числе нужен a/an. engineer начинается с гласного звука → an engineer.",
+      "tr": "Мой брат работает инженером в крупной строительной компании."
+    },
+    {
+      "id": "b1-articles-p03",
+      "type": "gap",
+      "q": "These days most people get their news from ___ rather than from newspapers.",
+      "correct": "the internet",
+      "wrong": [
+        "internet",
+        "an internet"
+      ],
+      "hint": "Интернет один на весь мир.",
+      "explain": "Единственный в своём роде предмет → the: the internet, the sun, the world. Без артикля или с an здесь нельзя.",
+      "tr": "Сейчас большинство людей узнают новости из интернета, а не из газет."
+    },
+    {
+      "id": "b1-articles-p04",
+      "type": "gap",
+      "q": "___ is too short to waste on a job you hate.",
+      "correct": "Life",
+      "wrong": [
+        "The life",
+        "A life"
+      ],
+      "hint": "Речь о жизни вообще, а не о чьей-то конкретной.",
+      "explain": "Неисчисляемое существительное в общем смысле → без артикля: Life is short. The life — калька; the нужен только для конкретной жизни: the life of a nurse.",
+      "tr": "Жизнь слишком коротка, чтобы тратить её на работу, которую ненавидишь."
+    },
+    {
+      "id": "b1-articles-p05",
+      "type": "gap",
+      "q": "___ you lent me were really useful when I was preparing for the exam.",
+      "correct": "The books",
+      "wrong": [
+        "Books"
+      ],
+      "hint": "Речь о книгах вообще или о вполне определённых?",
+      "explain": "Придаточное you lent me уточняет, какие именно книги, → the books. Без артикля было бы «книги вообще».",
+      "tr": "Книги, которые ты мне одолжил, очень пригодились, когда я готовился к экзамену."
+    },
+    {
+      "id": "b1-articles-p06",
+      "type": "gap",
+      "q": "Most doctors agree that ___ is one of the best ways to reduce stress.",
+      "correct": "exercise",
+      "wrong": [
+        "the exercise",
+        "an exercise"
+      ],
+      "hint": "Имеется в виду физическая нагрузка вообще.",
+      "explain": "exercise в значении «физическая нагрузка» — неисчисляемое; в общем смысле → без артикля. an exercise — одно упражнение, the exercise — уже известное.",
+      "tr": "Большинство врачей согласны, что физическая нагрузка — один из лучших способов снизить стресс."
+    },
+    {
+      "id": "b1-articles-p07",
+      "type": "gap",
+      "q": "Ivan was ___ only person in the office who knew how to fix the printer.",
+      "correct": "the",
+      "wrong": [
+        "a"
+      ],
+      "hint": "Таких людей в офисе было несколько или один?",
+      "explain": "only — единственный → the only. a невозможен: единственный человек не может быть «одним из многих».",
+      "tr": "Иван был единственным человеком в офисе, кто умел чинить принтер."
+    },
+    {
+      "id": "b1-articles-p08",
+      "type": "gap",
+      "q": "I was so tired after the conference that I went straight to ___ without eating anything.",
+      "correct": "bed",
+      "wrong": [
+        "the bed",
+        "a bed"
+      ],
+      "hint": "Речь о предмете мебели или о том, чтобы лечь спать?",
+      "explain": "go to bed = лечь спать: важно назначение, поэтому без артикля. the bed — конкретная кровать как предмет.",
+      "tr": "После конференции я так устал, что сразу лёг спать, ничего не поев."
+    },
+    {
+      "id": "b1-articles-p09",
+      "type": "gap",
+      "q": "After the trial, he was sent to ___ for five years for stealing money from his clients.",
+      "correct": "prison",
+      "wrong": [
+        "the prison"
+      ],
+      "hint": "Речь о конкретном здании или о наказании?",
+      "explain": "go / be sent to prison — отбывать срок, важно назначение места → без артикля. the prison — конкретное здание, куда приходят, например, на работу.",
+      "tr": "После суда его отправили в тюрьму на пять лет за кражу денег у клиентов."
+    },
+    {
+      "id": "b1-articles-p10",
+      "type": "gap",
+      "q": "We usually have ___ at about seven, after the children have gone to bed.",
+      "correct": "dinner",
+      "wrong": [
+        "the dinner",
+        "a dinner"
+      ],
+      "hint": "Как обычно говорят о приёмах пищи?",
+      "explain": "Приёмы пищи обычно без артикля: have breakfast, have dinner. a появляется только с прилагательным: a lovely dinner.",
+      "tr": "Обычно мы ужинаем около семи, когда дети уже легли спать."
+    },
+    {
+      "id": "b1-articles-p11",
+      "type": "gap",
+      "q": "London stands on ___, which flows into the North Sea.",
+      "correct": "the Thames",
+      "wrong": [
+        "Thames"
+      ],
+      "hint": "Какие географические названия употребляются с артиклем?",
+      "explain": "Реки, моря и океаны — с the: the Thames, the North Sea. Без артикля — города и большинство стран.",
+      "tr": "Лондон стоит на Темзе, которая впадает в Северное море."
+    },
+    {
+      "id": "b1-articles-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "She grew up in France but moved to the UK to study medicine.",
+      "wrong": [
+        "She grew up in the France but moved to UK to study medicine.",
+        "She grew up in France but moved to UK to study medicine.",
+        "She grew up in the France but moved to the UK to study medicine."
+      ],
+      "hint": "Сравните названия: одно — обычная страна, в другом спрятано слово Kingdom.",
+      "explain": "Большинство стран — без артикля: France. Названия со словами Kingdom, States, Republic — с the: the UK (the United Kingdom).",
+      "tr": "Она выросла во Франции, но переехала в Великобританию изучать медицину."
+    },
+    {
+      "id": "b1-articles-p13",
+      "type": "gap",
+      "q": "It took Alex ___ hour and a half to fill in ___ university application form.",
+      "correct": "an / a",
+      "wrong": [
+        "a / an",
+        "a / a",
+        "an / an"
+      ],
+      "hint": "Смотрите не на первую букву, а на первый звук каждого слова.",
+      "explain": "В hour h не произносится, слово начинается с гласного звука → an hour. university начинается со звука [j] → a university.",
+      "tr": "У Алекса ушло полтора часа на то, чтобы заполнить анкету для поступления в университет."
+    },
+    {
+      "id": "b1-articles-p14",
+      "type": "gap",
+      "q": "Don't forget your sunglasses — ___ is really strong at this time of year.",
+      "correct": "the sun",
+      "wrong": [
+        "sun",
+        "a sun"
+      ],
+      "hint": "Сколько солнц на нашем небе?",
+      "explain": "Единственный в своём роде объект → the sun. Без артикля или с a — ошибка.",
+      "tr": "Не забудь солнечные очки — в это время года солнце очень сильное."
+    },
+    {
+      "id": "b1-articles-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Helen is in hospital after a car accident.",
+      "correct": "Helen is being treated as a patient after a car accident.",
+      "wrong": [
+        "Helen has gone to the hospital to visit someone after a car accident.",
+        "Helen works at the hospital where car accident victims are treated."
+      ],
+      "hint": "in hospital без артикля говорит о назначении места.",
+      "explain": "be in hospital (без артикля, британский вариант) — лежать в больнице как пациент. Навестить кого-то или работать там — это о здании: go to the hospital, work at the hospital.",
+      "tr": "Хелен проходит лечение в больнице после автомобильной аварии."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-articles-e01",
+      "type": "gap",
+      "q": "My cousin spent a month in ___ and even tried to climb ___.",
+      "correct": "the Himalayas / Everest",
+      "wrong": [
+        "the Himalayas / the Everest",
+        "Himalayas / Everest",
+        "Himalayas / the Everest"
+      ],
+      "hint": "Горная система и отдельная вершина ведут себя по-разному.",
+      "explain": "Горные хребты и системы — с the: the Himalayas, the Alps. Отдельные вершины — без артикля: Everest, Elbrus.",
+      "tr": "Мой двоюродный брат провёл месяц в Гималаях и даже пытался подняться на Эверест."
+    },
+    {
+      "id": "b1-articles-e02",
+      "type": "gap",
+      "q": "This is ___ best coffee I've had since I moved to Rome.",
+      "correct": "the",
+      "wrong": [
+        "a"
+      ],
+      "hint": "Обратите внимание на форму прилагательного.",
+      "explain": "Превосходная степень (best, most …) употребляется с the: the best coffee. С a она не сочетается.",
+      "tr": "Это лучший кофе, который я пил с тех пор, как переехал в Рим."
+    },
+    {
+      "id": "b1-articles-e03",
+      "type": "gap",
+      "q": "Jack isn't religious, but he sometimes goes to ___ in our village to look at its old paintings.",
+      "correct": "the church",
+      "wrong": [
+        "church"
+      ],
+      "hint": "Он идёт на службу или просто в здание?",
+      "explain": "go to church — ходить на службу. Джек идёт смотреть картины, то есть в конкретное здание, → the church; in our village тоже уточняет, о какой церкви речь.",
+      "tr": "Джек не религиозен, но иногда ходит в церковь в нашей деревне, чтобы посмотреть на её старые картины."
+    },
+    {
+      "id": "b1-articles-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "In general, money doesn't bring happiness, but it certainly helps.",
+      "wrong": [
+        "In general, the money doesn't bring the happiness, but it certainly helps.",
+        "In general, money doesn't bring the happiness, but it certainly helps.",
+        "In general, the money doesn't bring happiness, but it certainly helps."
+      ],
+      "hint": "In general показывает, что это общее утверждение.",
+      "explain": "Неисчисляемые существительные в общем смысле — без артикля: money, happiness. the money значило бы конкретные деньги, о которых уже шла речь.",
+      "tr": "В целом деньги не приносят счастья, но определённо помогают."
+    },
+    {
+      "id": "b1-articles-e05",
+      "type": "gap",
+      "q": "Olga is ___ honest and hard-working accountant, so her manager trusts her completely.",
+      "correct": "an",
+      "wrong": [
+        "a",
+        "the"
+      ],
+      "hint": "Слово после пропуска начинается с буквы h. Она произносится?",
+      "explain": "В honest h не произносится, слово начинается с гласного звука → an. Речь о том, какой Ольга специалист (одна из многих), поэтому не the.",
+      "tr": "Ольга — честный и трудолюбивый бухгалтер, поэтому руководитель полностью ей доверяет."
+    }
+  ],
+  "glossary": {
+    "accident": "авария",
+    "accountant": "бухгалтер",
+    "application": "заявление; (application form) анкета",
+    "bed": "кровать; (go to bed) ложиться спать",
+    "clients": "клиенты",
+    "climb": "подняться, взойти (на гору)",
+    "coffee": "кофе",
+    "completely": "полностью",
+    "conference": "конференция",
+    "cousin": "двоюродный брат / сестра",
+    "doctors": "врачи",
+    "eating": "еда, приём пищи (-ing от eat)",
+    "exam": "экзамен",
+    "fill": "заполнять (fill in)",
+    "fix": "чинить",
+    "flows": "течёт, впадает",
+    "form": "анкета, бланк",
+    "hard-working": "трудолюбивый",
+    "hate": "ненавидеть",
+    "honest": "честный",
+    "hospital": "больница",
+    "jacket": "куртка",
+    "lent": "одолжил (прош. от lend)",
+    "manager": "руководитель, менеджер",
+    "news": "новости",
+    "newspapers": "газеты",
+    "North": "Северное (North Sea)",
+    "online": "онлайн, через интернет",
+    "paintings": "картины",
+    "preparing": "готовясь (-ing от prepare)",
+    "printer": "принтер",
+    "reduce": "снизить, уменьшить",
+    "religious": "религиозный",
+    "sale": "распродажа",
+    "Sea": "море (North Sea)",
+    "shirts": "рубашки",
+    "stands": "стоит, расположен",
+    "stealing": "кража (-ing от steal)",
+    "straight": "сразу, прямо",
+    "stress": "стресс",
+    "strong": "сильный",
+    "sunglasses": "солнечные очки",
+    "trial": "суд, судебный процесс",
+    "trusts": "доверяет",
+    "useful": "полезный",
+    "village": "деревня",
+    "waste": "тратить впустую",
+    "ways": "способы"
+  }
+}

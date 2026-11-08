@@ -1,0 +1,502 @@
+{
+  "id": "c1-future-in-the-past",
+  "level": "C1",
+  "order": 8,
+  "title": "Future in the past and formal future",
+  "titleRu": "Будущее в прошедшем и формальное будущее",
+  "summary": "Планы и прогнозы из прошлого, официальные планы и распоряжения",
+  "source": "Murphy AGIU units 13–16; British Council: Future in the past",
+  "rules": [
+    {
+      "title": "was / were going to — план или прогноз в прошлом",
+      "body": "Форма: **was / were going to + V**.\n\n- намерение, которое было в прошлом и часто **не осуществилось**: I was going to call you, but I forgot.\n- прогноз в прошлом по очевидным признакам: The sky was black — it was going to rain.\n\n**would** для несостоявшегося плана не используется: НЕ I would call you yesterday, but I forgot.",
+      "examples": [
+        {
+          "en": "We were going to fly to Rome, but all the flights were cancelled.",
+          "ru": "Мы собирались лететь в Рим, но все рейсы отменили."
+        },
+        {
+          "en": "Everyone could see that the project was going to fail.",
+          "ru": "Всем было видно, что проект провалится."
+        }
+      ]
+    },
+    {
+      "title": "would, was about to, was due to",
+      "body": "**would + V** — будущее с точки зрения прошлого, особенно после **knew, thought, believed, was sure, promised**: She knew it would be difficult.\n\n- **was about to + V** — вот-вот должно было случиться; часто с **when**: I was about to leave when the phone rang.\n- **was on the point of + V-ing** — то же значение; после of — только -ing.\n- **was due to + V** — было запланировано по графику (часто вышло иначе).",
+      "examples": [
+        {
+          "en": "He promised he would send the figures by Friday.",
+          "ru": "Он пообещал, что пришлёт цифры к пятнице."
+        },
+        {
+          "en": "I was on the point of giving up when the results finally arrived.",
+          "ru": "Я уже готов был сдаться, когда наконец пришли результаты."
+        },
+        {
+          "en": "The train was due to leave at six, but it was cancelled.",
+          "ru": "Поезд должен был отправиться в шесть, но его отменили."
+        }
+      ]
+    },
+    {
+      "title": "was to + V и was to have + V3",
+      "body": "**was / were to + V** — в повествовании: то, чему было **суждено** случиться, или то, что было официально запланировано.\n\n**was / were to have + V3** — было запланировано, но **не состоялось**.\n\n- They said goodbye, not knowing they were never to meet again.\n- The bridge was to have opened in May. (не открылся)",
+      "examples": [
+        {
+          "en": "The young engineer was to become one of the country's leading architects.",
+          "ru": "Молодому инженеру суждено было стать одним из ведущих архитекторов страны."
+        },
+        {
+          "en": "The talks were to have taken place in Geneva, but they were postponed.",
+          "ru": "Переговоры должны были пройти в Женеве, но их перенесли."
+        }
+      ]
+    },
+    {
+      "title": "be to + V — официальные планы и распоряжения",
+      "body": "Форма: **am / is / are to + V**. Формальный стиль, новости, инструкции.\n\n- официальные договорённости: The Prime Minister is to visit Japan. В заголовках be опускают: PM to visit Japan.\n- распоряжения и запреты: You are to report to reception. You are not to leave.\n- в if-части = «если мы хотим, если нужно»: If we are to win, we need more players.\n\n**be to** — только для того, что зависит от людей. Для погоды и природных событий — **will / be going to**.",
+      "examples": [
+        {
+          "en": "The minister is to announce the new budget on Tuesday.",
+          "ru": "Министр объявит новый бюджет во вторник (так запланировано)."
+        },
+        {
+          "en": "Candidates are not to use their phones during the exam.",
+          "ru": "Кандидатам запрещено пользоваться телефонами во время экзамена."
+        },
+        {
+          "en": "If the company is to survive, it must cut costs.",
+          "ru": "Если компания хочет выжить, ей нужно сократить расходы."
+        }
+      ]
+    },
+    {
+      "title": "be due to, be about to, be on the verge of",
+      "body": "- **be due to + V** — запланировано по графику: The report is due to be published on Monday. С временем без глагола: **be due + время** (The train is due at six).\n- **be about to + V** — вот-вот; обычно **без** указания времени: НЕ about to start in two hours.\n- **be on the verge / brink of + существительное или V-ing** — на грани: on the verge of a breakthrough, on the brink of collapse.\n- **be on the point of + V-ing** — вот-вот (о действии человека).",
+      "examples": [
+        {
+          "en": "The new law is due to come into force in January.",
+          "ru": "Новый закон должен вступить в силу в январе."
+        },
+        {
+          "en": "Hurry up — the film is about to start.",
+          "ru": "Поторопись — фильм вот-вот начнётся."
+        },
+        {
+          "en": "Scientists believe they are on the verge of a breakthrough.",
+          "ru": "Учёные считают, что они на пороге прорыва."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "план в прошлом, не сбылся → was / were going to + V",
+    "будущее после knew / thought / promised → would + V",
+    "вот-вот (в прошлом) → was about to + V / was on the point of + V-ing",
+    "суждено → was to + V; план сорвался → was to have + V3",
+    "официально, приказ → is / are to + V; if we are to = если хотим",
+    "по графику → be due to + V; на грани → on the verge / brink of + сущ. / V-ing"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I would call you yesterday, but I forgot.",
+      "right": "I was going to call you yesterday, but I forgot.",
+      "note": "несостоявшийся план в прошлом — was going to; would в этом значении не используется"
+    },
+    {
+      "wrong": "She was on the point to resign.",
+      "right": "She was on the point of resigning.",
+      "note": "после of — только V-ing; to + V идёт после about"
+    },
+    {
+      "wrong": "He said he will help us, but he didn't.",
+      "right": "He said he would help us, but he didn't.",
+      "note": "в рассказе о прошлом will сдвигается в would"
+    },
+    {
+      "wrong": "The concert is about to start in two hours.",
+      "right": "The concert is due to start in two hours.",
+      "note": "be about to — «вот-вот», без указания времени; для расписания — be due to"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Я собирался позвонить, но забыл»?",
+      "back": "**was going to + V** — план в прошлом, который не состоялся.\nI was going to call you, but I forgot."
+    },
+    {
+      "front": "Чем отличается «was to open» от «was to have opened»?",
+      "back": "**was to + V** — было запланировано или суждено.\n**was to have + V3** — было запланировано, но не произошло.\nThe bridge was to have opened in May."
+    },
+    {
+      "front": "Что значит «The minister is to visit Japan»?",
+      "back": "**be to + V** — официальная договорённость, стиль новостей.\nМинистр посетит Японию (так запланировано)."
+    },
+    {
+      "front": "Как формально запретить: «Вам нельзя покидать здание»?",
+      "back": "**be not to + V** — официальный запрет.\nYou are not to leave the building."
+    },
+    {
+      "front": "about to или on the point of — какая форма глагола после каждого?",
+      "back": "**about to + V**: I was about to leave.\n**on the point of + V-ing**: I was on the point of leaving."
+    },
+    {
+      "front": "Почему неверно «The storm is to hit the coast tonight»?",
+      "back": "**be to** — только для того, что планируют люди. Для природы — will / be going to.\nThe storm will hit the coast tonight."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-future-in-the-past-p01",
+      "type": "gap",
+      "q": "I ___ call you last night, but by the time I got home it was after midnight.",
+      "correct": "was going to",
+      "wrong": [
+        "would",
+        "am going to"
+      ],
+      "hint": "Намерение было, но не осуществилось. Какая конструкция описывает несостоявшийся план?",
+      "explain": "Намерение в прошлом, которое не сбылось → was going to. would в этом значении не используется, а am going to относится к настоящему.",
+      "tr": "Я собирался позвонить тебе вчера вечером, но к тому времени, как я добрался домой, было уже за полночь."
+    },
+    {
+      "id": "c1-future-in-the-past-p02",
+      "type": "gap",
+      "q": "Rachel was about ___ her resignation letter when her manager offered her a promotion.",
+      "correct": "to hand in",
+      "wrong": [
+        "handing in",
+        "hand in",
+        "to handing in"
+      ],
+      "hint": "Действие должно было вот-вот произойти. Какая форма глагола следует за about в этом значении?",
+      "explain": "be about + to-infinitive — «вот-вот»: was about to hand in. Форма -ing нужна после on the point of, а не после about.",
+      "tr": "Рейчел уже собиралась подать заявление об уходе, когда начальник предложил ей повышение."
+    },
+    {
+      "id": "c1-future-in-the-past-p03",
+      "type": "gap",
+      "q": "The firm was on the point of ___ for bankruptcy when a foreign investor stepped in.",
+      "correct": "filing",
+      "wrong": [
+        "to file"
+      ],
+      "hint": "Посмотрите на предлог прямо перед пропуском.",
+      "explain": "После предлога of — только V-ing: on the point of filing. to-infinitive идёт после about, но не после of.",
+      "tr": "Фирма была на грани подачи заявления о банкротстве, когда вмешался иностранный инвестор."
+    },
+    {
+      "id": "c1-future-in-the-past-p04",
+      "type": "gap",
+      "q": "Back in 2015, few analysts believed that the small start-up ___ one day become the market leader it is today.",
+      "correct": "would",
+      "wrong": [
+        "will",
+        "was about to",
+        "is going to"
+      ],
+      "hint": "Прогноз сделан в прошлом (believed). Обратите внимание и на «one day».",
+      "explain": "Будущее с точки зрения прошлого после believed → would. will и is going to не согласуются с прошедшим временем, а was about to значит «вот-вот» и не сочетается с one day.",
+      "tr": "В 2015 году мало кто из аналитиков верил, что маленький стартап когда-нибудь станет тем лидером рынка, каким он является сегодня."
+    },
+    {
+      "id": "c1-future-in-the-past-p05",
+      "type": "gap",
+      "q": "When Anna left her home town in 1975, she had no idea that she ___ return forty years later as its mayor.",
+      "correct": "was to",
+      "wrong": [
+        "is to",
+        "was about to"
+      ],
+      "hint": "Рассказчик знает, что случилось потом. Как выразить «ей было суждено»?",
+      "explain": "was to + V в повествовании — то, чему было суждено случиться. is to относится к настоящему, а was about to значит «вот-вот» и не сочетается с forty years later.",
+      "tr": "Когда Анна уехала из родного города в 1975 году, она и не подозревала, что вернётся туда через сорок лет в качестве мэра."
+    },
+    {
+      "id": "c1-future-in-the-past-p06",
+      "type": "gap",
+      "q": "The new bridge ___ in May, but problems with the foundations delayed the opening until the following year.",
+      "correct": "was to have opened",
+      "wrong": [
+        "was to have open",
+        "is to have opened",
+        "will have opened"
+      ],
+      "hint": "Открытие планировалось, но не состоялось. Какая форма инфинитива передаёт сорвавшийся план?",
+      "explain": "was to have + V3 — план, который не осуществился. После have нужна третья форма (opened), а is и will не подходят для рассказа о прошлом.",
+      "tr": "Новый мост должны были открыть в мае, но проблемы с фундаментом отложили открытие до следующего года."
+    },
+    {
+      "id": "c1-future-in-the-past-p07",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "You are not to discuss the details of the case with anyone outside the team.",
+      "correct": "You are not allowed to discuss the details of the case with anyone outside the team.",
+      "wrong": [
+        "You probably won't need to discuss the details of the case with anyone outside the team.",
+        "You are not going to have time to discuss the details of the case with anyone outside the team."
+      ],
+      "hint": "be to + V в официальной речи может выражать распоряжение.",
+      "explain": "be not to + V — формальный запрет, как not allowed. Это не прогноз и не отсутствие необходимости.",
+      "tr": "Вам не разрешается обсуждать подробности дела с кем-либо вне команды."
+    },
+    {
+      "id": "c1-future-in-the-past-p08",
+      "type": "gap",
+      "q": "If we ___ meet the deadline, we'll need at least two more engineers on the project.",
+      "correct": "are to",
+      "wrong": [
+        "will"
+      ],
+      "hint": "В if-части нужна конструкция со значением «если мы хотим добиться этого».",
+      "explain": "If + be to + V = «если мы хотим, если нужно»: If we are to meet the deadline. will в if-части условия не ставится.",
+      "tr": "Если мы хотим уложиться в срок, нам понадобятся ещё как минимум два инженера на проекте."
+    },
+    {
+      "id": "c1-future-in-the-past-p09",
+      "type": "gap",
+      "q": "Looking at the long queue at passport control, we realised we ___ miss our connecting flight.",
+      "correct": "were going to",
+      "wrong": [
+        "are going to"
+      ],
+      "hint": "Вывод сделан в прошлом (realised) по тому, что было видно.",
+      "explain": "Прогноз в прошлом по очевидным признакам → were going to. are going to не согласуется с realised.",
+      "tr": "Глядя на длинную очередь на паспортном контроле, мы поняли, что опоздаем на стыковочный рейс."
+    },
+    {
+      "id": "c1-future-in-the-past-p10",
+      "type": "gap",
+      "q": "Forecasters say the storm ___ reach the south coast by Friday morning.",
+      "correct": "will",
+      "wrong": [
+        "is to"
+      ],
+      "hint": "Подумайте, может ли кто-то «запланировать» шторм.",
+      "explain": "be to + V — для официальных планов и распоряжений, то есть для того, что зависит от людей. Для природных явлений — will или be going to.",
+      "tr": "Синоптики говорят, что шторм достигнет южного побережья к утру пятницы."
+    },
+    {
+      "id": "c1-future-in-the-past-p11",
+      "type": "gap",
+      "q": "The new terminal is due ___ in spring, although the exact date has not been confirmed yet.",
+      "correct": "to open",
+      "wrong": [
+        "opening"
+      ],
+      "hint": "be due в значении «запланировано»: какая форма глагола идёт после него?",
+      "explain": "be due to + V — запланировано по графику: is due to open. Без to возможно только be due + время (due in spring), но не due + V-ing.",
+      "tr": "Новый терминал должен открыться весной, хотя точная дата ещё не подтверждена."
+    },
+    {
+      "id": "c1-future-in-the-past-p12",
+      "type": "gap",
+      "q": "After months of negotiations, the two airlines are ___ a merger that would create Europe's largest carrier.",
+      "correct": "on the verge of",
+      "wrong": [
+        "about to",
+        "on the point to",
+        "due to"
+      ],
+      "hint": "После пропуска стоит существительное (a merger). Какая конструкция может его присоединить?",
+      "explain": "on the verge of + существительное — «на пороге, на грани». about to и due to требуют глагола, а после on the point нужно of + V-ing.",
+      "tr": "После нескольких месяцев переговоров две авиакомпании стоят на пороге слияния, которое создало бы крупнейшего перевозчика Европы."
+    },
+    {
+      "id": "c1-future-in-the-past-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The meeting is about to start, so please switch off your phones.",
+      "wrong": [
+        "The meeting is about starting, so please switch off your phones.",
+        "The meeting is on the point to start, so please switch off your phones."
+      ],
+      "hint": "Сравните форму глагола после about и после on the point.",
+      "explain": "be about to + V — «вот-вот начнётся». about в этом значении не сочетается с -ing, а после on the point нужно of + V-ing.",
+      "tr": "Совещание вот-вот начнётся, поэтому, пожалуйста, выключите телефоны."
+    },
+    {
+      "id": "c1-future-in-the-past-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The ceremony was due to finish at five, but the speeches went on until after seven.",
+      "wrong": [
+        "The ceremony was due finishing at five, but the speeches went on until after seven.",
+        "The ceremony is due to finish at five, but the speeches went on until after seven.",
+        "The ceremony was due to finished at five, but the speeches went on until after seven."
+      ],
+      "hint": "План был в прошлом и не совпал с реальностью. Проверьте время глагола be и форму после to.",
+      "explain": "was due to + V — было запланировано на определённое время в прошлом. После to — инфинитив без окончаний, а is due не согласуется с went on.",
+      "tr": "Церемония должна была закончиться в пять, но речи продолжались и после семи."
+    },
+    {
+      "id": "c1-future-in-the-past-p15",
+      "type": "gap",
+      "q": "According to the memo, all staff ___ informed of the changes by the end of the week.",
+      "correct": "are to be",
+      "wrong": [
+        "are to"
+      ],
+      "hint": "Сотрудников информируют другие люди — нужен пассив.",
+      "explain": "be to + пассивный инфинитив (be + V3) — официальное распоряжение: are to be informed. Без be инфинитива нет: are to informed — ошибка.",
+      "tr": "Согласно служебной записке, все сотрудники должны быть уведомлены об изменениях до конца недели."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-future-in-the-past-e01",
+      "type": "gap",
+      "q": "The minister ___ have announced the new policy on Monday, but the press conference was cancelled at the last minute.",
+      "correct": "was to",
+      "wrong": [
+        "is to",
+        "was about to"
+      ],
+      "hint": "Объявление планировалось официально, но не состоялось. Посмотрите на форму после пропуска.",
+      "explain": "was to have + V3 — официальный план, который не осуществился. is to относится к настоящему, а about to с перфектным инфинитивом не употребляется.",
+      "tr": "Министр должен был объявить о новой политике в понедельник, но пресс-конференцию отменили в последний момент."
+    },
+    {
+      "id": "c1-future-in-the-past-e02",
+      "type": "gap",
+      "q": "Last autumn the landlord promised that the heating ___ repaired before winter, but it was still broken in January.",
+      "correct": "would be",
+      "wrong": [
+        "will be",
+        "is going to be"
+      ],
+      "hint": "Обещание дано в прошлом, и срок «до зимы» тоже уже в прошлом.",
+      "explain": "Будущее с точки зрения прошлого после promised → would be. will be и is going to be не сдвинуты в прошлое, хотя и обещание, и срок «до зимы» уже позади.",
+      "tr": "Прошлой осенью арендодатель обещал, что отопление починят до зимы, но в январе оно всё ещё не работало."
+    },
+    {
+      "id": "c1-future-in-the-past-e03",
+      "type": "gap",
+      "q": "All visitors ___ sign in at reception and wear their badges at all times.",
+      "correct": "are to",
+      "wrong": [
+        "are about to",
+        "are on the verge of",
+        "are due"
+      ],
+      "hint": "Это официальное правило для посетителей. Какая конструкция выражает распоряжение?",
+      "explain": "be to + V — формальная инструкция: are to sign in. about to значит «вот-вот» и не сочетается с at all times, а после on the verge of и due нужна другая форма.",
+      "tr": "Все посетители обязаны регистрироваться на ресепшене и постоянно носить бейджи."
+    },
+    {
+      "id": "c1-future-in-the-past-e04",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "She joined the firm as a junior clerk in 1990; ten years later, she was to become its first female director.",
+      "correct": "Ten years after joining the firm, she did in fact become its first female director.",
+      "wrong": [
+        "Ten years after joining the firm, she was expected to become its director, but it never happened.",
+        "Ten years after joining the firm, she decided that she wanted to become its director."
+      ],
+      "hint": "was to + V в рассказе о прошлом — это план, желание или то, что действительно произошло позже?",
+      "explain": "was to + V в повествовании — то, чему было суждено случиться, и это произошло. Сорвавшийся план выражался бы через was to have + V3.",
+      "tr": "Через десять лет после прихода в фирму она действительно стала её первой женщиной-директором."
+    },
+    {
+      "id": "c1-future-in-the-past-e05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The CEO was on the point of resigning when the board offered her a new contract.",
+      "wrong": [
+        "The CEO was on the point to resign when the board offered her a new contract.",
+        "The CEO was about resigning when the board offered her a new contract.",
+        "The CEO was on the verge to resign when the board offered her a new contract."
+      ],
+      "hint": "Проверьте, что идёт после about, а что — после on the point / on the verge.",
+      "explain": "on the point of + V-ing — «вот-вот, уже готова была». После on the point и on the verge нужен of + V-ing, а about требует to + V.",
+      "tr": "Генеральный директор уже собиралась уйти в отставку, когда совет директоров предложил ей новый контракт."
+    }
+  ],
+  "glossary": {
+    "according": "согласно (according to)",
+    "airlines": "авиакомпании",
+    "analysts": "аналитики",
+    "announced": "объявил (3-я форма от announce)",
+    "badges": "бейджи, пропуска",
+    "bankruptcy": "банкротство",
+    "believed": "верили, считали (прош. от believe)",
+    "bridge": "мост",
+    "cancelled": "отменён (3-я форма от cancel)",
+    "carrier": "перевозчик, авиакомпания",
+    "case": "дело (судебное, служебное)",
+    "changes": "изменения",
+    "clerk": "клерк, служащий",
+    "coast": "побережье",
+    "conference": "конференция; press conference — пресс-конференция",
+    "confirmed": "подтверждён (3-я форма от confirm)",
+    "connecting": "стыковочный (рейс)",
+    "control": "контроль",
+    "create": "создать",
+    "date": "дата",
+    "deadline": "срок, дедлайн",
+    "delayed": "задержали, отложили (прош. от delay)",
+    "details": "подробности",
+    "director": "директор",
+    "discuss": "обсуждать",
+    "due": "(be due to) должен по плану, по графику",
+    "end": "конец",
+    "engineers": "инженеры",
+    "Europe": "Европа",
+    "exact": "точный",
+    "female": "женщина- (о должности); женский",
+    "firm": "фирма",
+    "flight": "рейс",
+    "following": "следующий",
+    "forecasters": "синоптики",
+    "foreign": "иностранный",
+    "foundations": "фундамент (мн. ч.)",
+    "heating": "отопление",
+    "informed": "уведомлены (3-я форма от inform)",
+    "investor": "инвестор",
+    "joined": "пришла (в компанию) (прош. от join)",
+    "junior": "младший",
+    "landlord": "арендодатель",
+    "largest": "крупнейший",
+    "leader": "лидер",
+    "letter": "письмо; resignation letter — заявление об уходе",
+    "manager": "начальник, менеджер",
+    "market": "рынок",
+    "mayor": "мэр",
+    "memo": "служебная записка",
+    "merger": "слияние (компаний)",
+    "midnight": "полночь",
+    "minister": "министр",
+    "miss": "опоздать на (рейс), пропустить",
+    "negotiations": "переговоры",
+    "offered": "предложил (прош. от offer)",
+    "opening": "открытие",
+    "passport": "паспорт; passport control — паспортный контроль",
+    "point": "момент; (on the point of) вот-вот",
+    "policy": "политика, курс",
+    "press": "пресса; press conference — пресс-конференция",
+    "problems": "проблемы",
+    "project": "проект",
+    "promised": "пообещал (прош. от promise)",
+    "promotion": "повышение (по службе)",
+    "queue": "очередь",
+    "reach": "достичь, дойти до",
+    "realised": "поняли (прош. от realise)",
+    "reception": "стойка регистрации, ресепшен",
+    "repaired": "отремонтирован (3-я форма от repair)",
+    "resignation": "уход с должности; resignation letter — заявление об уходе",
+    "return": "вернуться",
+    "sign": "(sign in) зарегистрироваться",
+    "south": "южный",
+    "staff": "сотрудники, персонал",
+    "start-up": "стартап",
+    "stepped": "(stepped in) вмешался (прош. от step)",
+    "storm": "шторм, буря",
+    "team": "команда",
+    "terminal": "терминал",
+    "visitors": "посетители"
+  }
+}

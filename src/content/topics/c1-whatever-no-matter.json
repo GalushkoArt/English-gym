@@ -1,0 +1,477 @@
+{
+  "id": "c1-whatever-no-matter",
+  "level": "C1",
+  "order": 11,
+  "title": "Whatever, however, no matter",
+  "titleRu": "Whatever, however, no matter: обобщающие слова",
+  "summary": "Что бы ни, кто бы ни, как бы ни: -ever, however + adj, no matter",
+  "source": "Murphy AGIU unit 93 (whatever, however); Cambridge Grammar: whatever, however, no matter",
+  "rules": [
+    {
+      "title": "whatever, whoever, wherever… = неважно что / кто / где",
+      "body": "**-ever + придаточное** = it doesn't matter what / who / where…\n\n- **whatever** — что бы ни; **whoever** — кто бы ни; **wherever** — где / куда бы ни; **whenever** — когда бы ни; **whichever** — какой бы (из) ни\n- будущее в таком придаточном выражается **Present Simple**: Whatever happens, … (НЕ whatever will happen)\n- без -ever такая уступка невозможна: НЕ What you decide, I'll support you.",
+      "examples": [
+        {
+          "en": "Whatever you decide, let me know by Friday.",
+          "ru": "Что бы ты ни решил, сообщи мне до пятницы."
+        },
+        {
+          "en": "Wherever she travels, she takes her laptop with her.",
+          "ru": "Куда бы она ни ездила, она берёт с собой ноутбук."
+        },
+        {
+          "en": "Whoever calls, tell them I'm in a meeting.",
+          "ru": "Кто бы ни позвонил, скажи, что я на совещании."
+        }
+      ]
+    },
+    {
+      "title": "however + прилагательное / наречие",
+      "body": "**However + прилагательное / наречие + подлежащее + глагол** = no matter how.\n\n- прилагательное или наречие стоит **сразу после however**: However hard I try (НЕ However I try hard)\n- выбор между прилагательным и наречием зависит от глагола: However clear the rules are; However carefully you check\n- также **however much / however many**\n\nНе путайте со связкой **However, …** = однако: она отделяется запятой и не вводит придаточное.",
+      "examples": [
+        {
+          "en": "However hard I try, I can't remember his name.",
+          "ru": "Как я ни стараюсь, не могу вспомнить, как его зовут."
+        },
+        {
+          "en": "However much it costs, we need a new server.",
+          "ru": "Сколько бы он ни стоил, нам нужен новый сервер."
+        },
+        {
+          "en": "The plan is good. However, it is too expensive.",
+          "ru": "План хороший. Однако он слишком дорогой."
+        }
+      ]
+    },
+    {
+      "title": "no matter + who / what / how…",
+      "body": "**No matter + вопросительное слово** = -ever: No matter what you say = Whatever you say.\n\n- no matter **what, who, which, how (hard / much), where, when**\n- вопросительное слово обязательно: НЕ No matter you say.\n- -ever после no matter не добавляют: НЕ no matter however.\n\nNo matter… вводит только уступку («неважно, …»). Подлежащим или дополнением это сочетание быть не может.",
+      "examples": [
+        {
+          "en": "No matter what people say, I think we made the right decision.",
+          "ru": "Что бы ни говорили люди, я считаю, мы приняли правильное решение."
+        },
+        {
+          "en": "No matter how late it is, call me when you land.",
+          "ru": "Неважно, насколько будет поздно, — позвони, когда приземлишься."
+        }
+      ]
+    },
+    {
+      "title": "-ever в значении «всё, что / любой, кто»",
+      "body": "Слова на -ever могут быть членом предложения, а не уступкой:\n\n- дополнение: Take whatever you need. (= anything that) Invite whoever you like. (= anyone who)\n- подлежащее: Whoever wins will get a prize. (= the person who)\n- перед существительным: whatever help you need (= any help that)\n\nЗдесь **no matter** невозможно: НЕ Take no matter what you need.",
+      "examples": [
+        {
+          "en": "You can sit wherever you like.",
+          "ru": "Можете садиться, где хотите."
+        },
+        {
+          "en": "Whoever wrote this report knows the market very well.",
+          "ru": "Тот, кто написал этот отчёт, очень хорошо знает рынок."
+        },
+        {
+          "en": "We'll give you whatever support you need.",
+          "ru": "Мы окажем вам любую необходимую поддержку."
+        }
+      ]
+    },
+    {
+      "title": "whichever или whatever; may / might",
+      "body": "- **whichever** — выбор из **ограниченного** набора; сочетается с **of**: whichever of the two rooms you prefer\n- **whatever** — выбор не ограничен: Order whatever you want from the menu.\n- в формальной речи в уступительном придаточном — **may / might**: Whatever they may say, … Whatever his reasons might have been, …",
+      "examples": [
+        {
+          "en": "There are two trains an hour — take whichever is more convenient.",
+          "ru": "Поездов два в час — садись на тот, который удобнее."
+        },
+        {
+          "en": "Whatever the experts may say, the public remains unconvinced.",
+          "ru": "Что бы ни говорили эксперты, общество по-прежнему не убеждено."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "Whatever / Whoever / Wherever + S + V, … = неважно что / кто / где",
+    "However + adj / adv + S + V: However hard I try…",
+    "No matter + what / who / how / where… (без -ever)",
+    "take whatever you need = anything that; whoever wins = the person who",
+    "whichever — из ограниченного набора (whichever of them); whatever — любой",
+    "Whatever happens (НЕ will happen); формально: whatever they may say"
+  ],
+  "mistakes": [
+    {
+      "wrong": "What you decide, I'll support you.",
+      "right": "Whatever you decide, I'll support you.",
+      "note": "в значении «что бы ни» нужно слово на -ever"
+    },
+    {
+      "wrong": "However I try hard, I can't remember it.",
+      "right": "However hard I try, I can't remember it.",
+      "note": "прилагательное или наречие стоит сразу после however"
+    },
+    {
+      "wrong": "No matter you say, I won't change my mind.",
+      "right": "No matter what you say, I won't change my mind.",
+      "note": "после no matter обязательно вопросительное слово"
+    },
+    {
+      "wrong": "Take no matter what you want.",
+      "right": "Take whatever you want.",
+      "note": "no matter what не бывает дополнением; whatever = anything that"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Что бы ни случилось, звони мне»?",
+      "back": "**Whatever happens, call me.**\nPresent Simple, не will happen."
+    },
+    {
+      "front": "«Как бы я ни старался» — где стоит hard?",
+      "back": "**However hard I try**, …\nНЕ However I try hard."
+    },
+    {
+      "front": "Чем отличается «However, it is expensive» от «However expensive it is, …»?",
+      "back": "**However,** — связка «однако».\n**However + adj** — «каким бы … ни»."
+    },
+    {
+      "front": "Можно ли сказать «Take no matter what you want»?",
+      "back": "Нет. Дополнением служит **whatever**.\nTake whatever you want."
+    },
+    {
+      "front": "whichever или whatever: «You can have ___ of the two rooms you prefer»?",
+      "back": "**whichever** — выбор из ограниченного набора, сочетается с of.\nYou can have whichever of the two rooms you prefer."
+    },
+    {
+      "front": "Что обязательно нужно после no matter?",
+      "back": "**Вопросительное слово**: no matter what / who / how / where.\nNo matter how late it is, call me."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-whatever-no-matter-p01",
+      "type": "gap",
+      "q": "___ the board decides next week, the project will need more funding.",
+      "correct": "Whatever",
+      "wrong": [
+        "What",
+        "No matter"
+      ],
+      "hint": "Смысл: «неважно, что решит совет». Какое слово вводит такое придаточное?",
+      "explain": "Слово на -ever + придаточное = no matter what: Whatever the board decides. Простое What так не используется, а после No matter нужно вопросительное слово (No matter what).",
+      "tr": "Что бы ни решил совет директоров на следующей неделе, проекту понадобится дополнительное финансирование."
+    },
+    {
+      "id": "c1-whatever-no-matter-p02",
+      "type": "gap",
+      "q": "___ hard I try, I can never answer all my emails before lunch.",
+      "correct": "However",
+      "wrong": [
+        "How",
+        "No matter",
+        "Whatever"
+      ],
+      "hint": "Перед наречием hard нужно одно слово со значением «как бы ни».",
+      "explain": "However + наречие + подлежащее + глагол = no matter how: However hard I try. How без -ever и No matter без how неграмматичны, а Whatever не ставится перед наречием.",
+      "tr": "Как бы я ни старался, я никогда не успеваю ответить на все письма до обеда."
+    },
+    {
+      "id": "c1-whatever-no-matter-p03",
+      "type": "gap",
+      "q": "However ___, I can't get the printer to connect to the new network.",
+      "correct": "hard I try",
+      "wrong": [
+        "I try hard"
+      ],
+      "hint": "Какое слово должно стоять сразу после however в этой конструкции?",
+      "explain": "После however сразу идёт прилагательное или наречие, затем подлежащее и глагол: However hard I try. Вариант However I try hard — неверный порядок слов.",
+      "tr": "Как я ни стараюсь, мне не удаётся подключить принтер к новой сети."
+    },
+    {
+      "id": "c1-whatever-no-matter-p04",
+      "type": "gap",
+      "q": "___ you ask in the office, you'll get a different answer about the new policy.",
+      "correct": "Whoever",
+      "wrong": [
+        "Who",
+        "Anyone"
+      ],
+      "hint": "Смысл: «кого бы вы ни спросили».",
+      "explain": "Whoever + придаточное = no matter who. Простое Who уступку не вводит, а Anyone you ask мог бы быть только подлежащим (Anyone you ask will tell you…), но у главной части уже есть подлежащее you.",
+      "tr": "Кого бы вы ни спросили в офисе, о новой политике вам ответят по-разному."
+    },
+    {
+      "id": "c1-whatever-no-matter-p05",
+      "type": "gap",
+      "q": "No matter ___ late it is, call me as soon as the test results come in.",
+      "correct": "how",
+      "wrong": [
+        "however"
+      ],
+      "hint": "После no matter нужно вопросительное слово. С -ever или без?",
+      "explain": "No matter + how / what / who… без -ever: No matter how late. Слово however уже само значит no matter how, поэтому no matter however — ошибка.",
+      "tr": "Неважно, насколько будет поздно, — позвони мне, как только придут результаты анализов."
+    },
+    {
+      "id": "c1-whatever-no-matter-p06",
+      "type": "gap",
+      "q": "___ you go in the old town, you'll find small cafés and second-hand bookshops.",
+      "correct": "Wherever",
+      "wrong": [
+        "Where"
+      ],
+      "hint": "Смысл: «куда бы вы ни пошли».",
+      "explain": "Wherever = no matter where: куда бы вы ни пошли. Простое Where не вводит уступительное придаточное.",
+      "tr": "Куда бы вы ни пошли в старом городе, везде найдёте маленькие кафе и букинистические магазины."
+    },
+    {
+      "id": "c1-whatever-no-matter-p07",
+      "type": "gap",
+      "q": "Whatever ___ at the meeting tomorrow, please try not to lose your temper.",
+      "correct": "happens",
+      "wrong": [
+        "will happen"
+      ],
+      "hint": "Придаточное с whatever относится к будущему. Какое время в нём используется?",
+      "explain": "В придаточных с -ever, как и в придаточных времени, будущее выражается Present Simple: Whatever happens. will здесь не ставится.",
+      "tr": "Что бы ни случилось завтра на совещании, постарайся не выходить из себя."
+    },
+    {
+      "id": "c1-whatever-no-matter-p08",
+      "type": "gap",
+      "q": "No matter ___ money we spend on advertising, our sales don't seem to improve.",
+      "correct": "how much",
+      "wrong": [
+        "how many",
+        "what much",
+        "however much"
+      ],
+      "hint": "money — исчисляемое или нет? И нужно ли -ever после no matter?",
+      "explain": "money неисчисляемое → how much; после no matter — вопросительное слово без -ever. how many — для исчисляемых, а what much и however much после no matter неграмматичны.",
+      "tr": "Сколько бы денег мы ни тратили на рекламу, продажи, похоже, не растут."
+    },
+    {
+      "id": "c1-whatever-no-matter-p09",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "However expensive the course is, I'm going to take it.",
+      "correct": "No matter how expensive the course is, I'm going to take it.",
+      "wrong": [
+        "The course is expensive; however, I'm not going to take it.",
+        "The course is expensive, so I'm not going to take it."
+      ],
+      "hint": "However здесь стоит перед прилагательным. Это связка «однако» или «как бы ни»?",
+      "explain": "However + прилагательное = no matter how: каким бы дорогим ни был курс. Связка however («однако») стоит отдельно и отделяется запятой.",
+      "tr": "Каким бы дорогим ни был курс, я на него запишусь."
+    },
+    {
+      "id": "c1-whatever-no-matter-p10",
+      "type": "gap",
+      "q": "Feel free to take ___ you need from the stationery cupboard.",
+      "correct": "whatever",
+      "wrong": [
+        "no matter what",
+        "however",
+        "whoever"
+      ],
+      "hint": "Нужно слово со значением «всё, что»: оно служит дополнением к take.",
+      "explain": "whatever = anything that и может быть дополнением: take whatever you need. no matter what вводит только уступку, however не обозначает предмет, а whoever — о людях.",
+      "tr": "Берите из шкафа с канцтоварами всё, что вам нужно."
+    },
+    {
+      "id": "c1-whatever-no-matter-p11",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "We'll provide whatever help you need to settle into your new role.",
+      "wrong": [
+        "We'll provide no matter what help you need to settle into your new role.",
+        "We'll provide whatever help do you need to settle into your new role.",
+        "We'll provide however help you need to settle into your new role."
+      ],
+      "hint": "Слово на -ever может стоять перед существительным. Проверьте и порядок слов после него.",
+      "explain": "whatever + существительное = any … that: whatever help you need. no matter what не бывает дополнением, however не ставится перед существительным, а в придаточном порядок слов прямой, без do.",
+      "tr": "Мы окажем любую помощь, которая понадобится вам, чтобы освоиться в новой должности."
+    },
+    {
+      "id": "c1-whatever-no-matter-p12",
+      "type": "gap",
+      "q": "___ wins the election will have to deal with a serious housing crisis.",
+      "correct": "Whoever",
+      "wrong": [
+        "No matter who",
+        "Anyone"
+      ],
+      "hint": "Пропуск начинает подлежащее всего предложения: «тот, кто победит».",
+      "explain": "Whoever wins = the person who wins — придаточное служит подлежащим. No matter who не может быть подлежащим, а Anyone wins неграмматично без who.",
+      "tr": "Тому, кто победит на выборах, придётся иметь дело с серьёзным жилищным кризисом."
+    },
+    {
+      "id": "c1-whatever-no-matter-p13",
+      "type": "gap",
+      "q": "The bank offers three savings accounts, and you can switch to ___ of them suits you best.",
+      "correct": "whichever",
+      "wrong": [
+        "whatever",
+        "which"
+      ],
+      "hint": "Выбор ограничен тремя вариантами, а после пропуска стоит of them.",
+      "explain": "Выбор из ограниченного набора → whichever, и только оно сочетается с of them. whatever — для неограниченного выбора и без of, а which здесь не может начинать придаточное-дополнение.",
+      "tr": "Банк предлагает три сберегательных счёта, и вы можете перейти на тот из них, который вам больше подходит."
+    },
+    {
+      "id": "c1-whatever-no-matter-p14",
+      "type": "gap",
+      "q": "Whatever critics ___ say about the film, it has been a huge commercial success.",
+      "correct": "may",
+      "wrong": [
+        "will",
+        "must"
+      ],
+      "hint": "В формальных уступительных придаточных с -ever часто стоит модальный глагол со значением «пусть даже».",
+      "explain": "Whatever + may / might — формальное «что бы ни говорили»: whatever critics may say. will в таком придаточном не ставится, а must выражает обязанность.",
+      "tr": "Что бы ни говорили критики о фильме, он имел огромный коммерческий успех."
+    },
+    {
+      "id": "c1-whatever-no-matter-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "However tempting the offer may be, we can't accept it without checking the contract.",
+      "wrong": [
+        "However the offer may be tempting, we can't accept it without checking the contract.",
+        "No matter tempting the offer may be, we can't accept it without checking the contract."
+      ],
+      "hint": "Что стоит сразу после however? И чего не хватает после no matter?",
+      "explain": "However + прилагательное + подлежащее + глагол: However tempting the offer may be. Прилагательное не переносится в конец, а No matter без how неграмматично.",
+      "tr": "Каким бы заманчивым ни было предложение, мы не можем принять его, не проверив договор."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-whatever-no-matter-e01",
+      "type": "gap",
+      "q": "However ___ the instructions are, some customers will still manage to misunderstand them.",
+      "correct": "clear",
+      "wrong": [
+        "clearly"
+      ],
+      "hint": "Посмотрите на глагол в придаточном: are требует прилагательного или наречия?",
+      "explain": "После however стоит то слово, которое нужно глаголу: the instructions are clear → However clear the instructions are. Наречие clearly после are невозможно.",
+      "tr": "Какими бы понятными ни были инструкции, некоторые клиенты всё равно умудрятся понять их неправильно."
+    },
+    {
+      "id": "c1-whatever-no-matter-e02",
+      "type": "gap",
+      "q": "Our engineers can provide technical support ___ in the world you happen to be.",
+      "correct": "wherever",
+      "wrong": [
+        "where"
+      ],
+      "hint": "Смысл: «в какой бы точке мира вы ни оказались».",
+      "explain": "wherever = no matter where: wherever in the world you happen to be. Простое where не передаёт значение «где бы ни».",
+      "tr": "Наши инженеры могут оказать техническую поддержку, где бы в мире вы ни находились."
+    },
+    {
+      "id": "c1-whatever-no-matter-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верный ответ",
+      "q": "A: Who should I invite to the launch party?",
+      "correct": "You can invite whoever you like.",
+      "wrong": [
+        "You can invite no matter who you like.",
+        "You can invite whoever do you like.",
+        "You can invite whatever you like."
+      ],
+      "hint": "Нужно слово со значением «любого, кого»: оно служит дополнением к invite.",
+      "explain": "whoever = anyone who / anyone whom и может быть дополнением: invite whoever you like. no matter who не бывает дополнением, whatever не используется для людей, а вопросительное do в придаточном не нужно.",
+      "tr": "Можешь пригласить кого хочешь."
+    },
+    {
+      "id": "c1-whatever-no-matter-e04",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "No matter what the critics said, the director refused to change the ending.",
+      "correct": "The director refused to change the ending, regardless of what the critics said.",
+      "wrong": [
+        "The director refused to change the ending because the critics said nothing about it.",
+        "The critics said nothing important, so the director changed the ending."
+      ],
+      "hint": "No matter what = whatever. Повлияли ли слова критиков на решение режиссёра?",
+      "explain": "No matter what the critics said = что бы ни говорили критики: их отзывы не изменили решения режиссёра. Критики при этом высказывались.",
+      "tr": "Режиссёр отказался менять финал, что бы ни говорили критики."
+    },
+    {
+      "id": "c1-whatever-no-matter-e05",
+      "type": "gap",
+      "q": "___ reasons she may have had for resigning, she never discussed them with any of us.",
+      "correct": "Whatever",
+      "wrong": [
+        "What",
+        "However",
+        "No matter"
+      ],
+      "hint": "Перед существительным reasons нужно слово со значением «какими бы ни были».",
+      "explain": "Whatever + существительное + may have + V3 = какие бы причины ни были. What без -ever уступку не вводит, However не ставится перед существительным, а No matter требует вопросительного слова.",
+      "tr": "Какие бы причины для ухода у неё ни были, она никогда не обсуждала их ни с кем из нас."
+    }
+  ],
+  "glossary": {
+    "accounts": "счета (банковские)",
+    "advertising": "реклама",
+    "bank": "банк",
+    "board": "совет директоров",
+    "bookshops": "книжные магазины",
+    "cafés": "кафе (мн. ч.)",
+    "commercial": "коммерческий",
+    "connect": "подключиться",
+    "course": "курс (обучения)",
+    "crisis": "кризис",
+    "critics": "критики",
+    "cupboard": "шкаф",
+    "customers": "клиенты, покупатели",
+    "deal": "(deal with) иметь дело с, справляться с",
+    "decides": "решит (3-е л. от decide)",
+    "director": "режиссёр",
+    "discussed": "обсуждала (прош. от discuss)",
+    "election": "выборы",
+    "emails": "электронные письма",
+    "ending": "финал, концовка",
+    "engineers": "инженеры",
+    "film": "фильм",
+    "funding": "финансирование",
+    "housing": "жилищный",
+    "huge": "огромный",
+    "improve": "улучшаться, расти",
+    "instructions": "инструкции",
+    "invite": "пригласить",
+    "launch": "презентация, запуск (продукта)",
+    "lunch": "обед",
+    "manage": "умудриться, суметь",
+    "matter": "(no matter) неважно",
+    "misunderstand": "понять неправильно",
+    "network": "сеть",
+    "offers": "предлагает (3-е л. от offer)",
+    "party": "вечеринка, приём",
+    "policy": "политика, правила",
+    "printer": "принтер",
+    "project": "проект",
+    "provide": "предоставить, оказать",
+    "reasons": "причины",
+    "refused": "отказался (прош. от refuse)",
+    "resigning": "уход с должности (-ing от resign)",
+    "results": "результаты",
+    "sales": "продажи",
+    "savings": "сберегательный (savings account — сберегательный счёт)",
+    "second-hand": "подержанный; second-hand bookshop — букинистический магазин",
+    "serious": "серьёзный",
+    "stationery": "канцелярские товары",
+    "success": "успех",
+    "suits": "подходит (3-е л. от suit)",
+    "support": "поддержка",
+    "switch": "перейти, переключиться",
+    "technical": "технический",
+    "temper": "самообладание; lose your temper — выйти из себя",
+    "test": "анализ, тест; test results — результаты анализов",
+    "wins": "победит (3-е л. от win)"
+  }
+}

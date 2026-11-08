@@ -1,0 +1,445 @@
+{
+  "id": "b1-present-perfect-continuous",
+  "level": "B1",
+  "order": 4,
+  "title": "Present Perfect Continuous",
+  "titleRu": "Present Perfect Continuous и for/since",
+  "summary": "Действие, которое длится до сих пор, и разница между for и since",
+  "source": "Murphy EGIU units 9–12; British Council: Present perfect simple and continuous",
+  "rules": [
+    {
+      "title": "Форма и значение",
+      "body": "Форма: **have / has been + V-ing**. Вопрос: **Have you been waiting…?** Отрицание: **haven't / hasn't been + V-ing**.\n\nДействие началось в прошлом и **продолжается до сих пор** (или только что закончилось). Важен сам процесс и его длительность.\n\n- вопрос о длительности: **How long have you been…?**",
+      "examples": [
+        {
+          "en": "They have been arguing for hours.",
+          "ru": "Они спорят уже несколько часов."
+        },
+        {
+          "en": "How long have you been working here?",
+          "ru": "Сколько ты уже здесь работаешь?"
+        }
+      ]
+    },
+    {
+      "title": "Видимый результат недавнего процесса",
+      "body": "Процесс только что закончился, а его последствия видны сейчас: человек устал или запыхался, руки грязные, асфальт мокрый.",
+      "examples": [
+        {
+          "en": "You're out of breath. Have you been running?",
+          "ru": "Ты запыхался. Ты бегал?"
+        },
+        {
+          "en": "Her eyes are red — she's been crying.",
+          "ru": "У неё красные глаза — она плакала."
+        }
+      ]
+    },
+    {
+      "title": "for и since",
+      "body": "- **for** + период: for ten minutes, for three years, for ages\n- **since** + момент начала: since 9 o'clock, since Monday, since 2015, since I was a child\n\nРусское «я жду уже час» — не Present Simple и не Present Continuous: **I've been waiting for an hour**, а не *I am waiting for an hour*.",
+      "examples": [
+        {
+          "en": "He's been playing the guitar since he was twelve.",
+          "ru": "Он играет на гитаре с двенадцати лет."
+        },
+        {
+          "en": "She's been working on this project for six months.",
+          "ru": "Она работает над этим проектом уже шесть месяцев."
+        }
+      ]
+    },
+    {
+      "title": "Continuous или Simple",
+      "body": "**have been + V-ing** — процесс, длительность (как долго?); действие может быть не закончено.\n\n**have + V3** — результат, законченное действие, количество (сколько? **how much / how many**).",
+      "examples": [
+        {
+          "en": "I've been reading your report.",
+          "ru": "Я читаю твой отчёт (ещё не дочитал)."
+        },
+        {
+          "en": "I've read twenty pages so far.",
+          "ru": "Пока я прочитал двадцать страниц."
+        },
+        {
+          "en": "Kate has been writing emails all morning. She's written about thirty.",
+          "ru": "Кейт всё утро пишет письма. Она написала уже около тридцати."
+        }
+      ]
+    },
+    {
+      "title": "Глаголы состояния",
+      "body": "Глаголы состояния (**know, have = иметь, be, like, believe, own, belong**) не ставятся в Continuous. Чтобы сказать «как долго», с ними используют **Present Perfect Simple**.",
+      "examples": [
+        {
+          "en": "I've known Anna for ten years.",
+          "ru": "Я знаю Анну десять лет."
+        },
+        {
+          "en": "How long have you had this car?",
+          "ru": "Сколько у тебя уже эта машина?"
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "How long…? / до сих пор → have/has been + V-ing",
+    "for + период: for two hours, for years",
+    "since + момент: since 9 am, since 2019, since I was a child",
+    "процесс → been + V-ing; результат, сколько штук → have + V3",
+    "know, have (иметь), be, like → have + V3: I've known her for years",
+    "«Я жду уже час» → I've been waiting for an hour (не I am waiting)"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I am waiting for you for an hour.",
+      "right": "I've been waiting for you for an hour.",
+      "note": "действие длится до сих пор + for → Present Perfect Continuous"
+    },
+    {
+      "wrong": "I know him since 2015.",
+      "right": "I've known him since 2015.",
+      "note": "know — глагол состояния; с since → Present Perfect Simple"
+    },
+    {
+      "wrong": "She has been working here since three years.",
+      "right": "She has been working here for three years.",
+      "note": "период → for; since — только с моментом начала"
+    },
+    {
+      "wrong": "I've been writing five emails this morning.",
+      "right": "I've written five emails this morning.",
+      "note": "названо количество → Present Perfect Simple"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Я жду тебя уже полчаса»?",
+      "back": "**I've been waiting** for you for half an hour.\nНе I am waiting / I wait."
+    },
+    {
+      "front": "for или since: … Monday, … two weeks, … I was a child?",
+      "back": "**since** Monday, **for** two weeks, **since** I was a child.\nfor + период, since + момент."
+    },
+    {
+      "front": "Чем отличается «I've been reading your book» от «I've read your book»?",
+      "back": "**been reading** — процесс, книга не дочитана.\n**have read** — результат, книга прочитана."
+    },
+    {
+      "front": "Почему не говорят «I've been knowing her for years»?",
+      "back": "know — **глагол состояния**, без -ing.\nI've known her for years."
+    },
+    {
+      "front": "Как спросить, сколько человек уже здесь работает?",
+      "back": "**How long have you been working** here?\nНе How long are you working…?"
+    },
+    {
+      "front": "Почему в «You're out of breath. Have you been running?» нужен Continuous?",
+      "back": "Процесс только что закончился, а его **результат виден сейчас**.\nIt's been raining — the streets are wet."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-present-perfect-continuous-p01",
+      "type": "gap",
+      "q": "A: You're out of breath. ___?\nB: Yes, I didn't want to miss the bus.",
+      "correct": "Have you been running",
+      "wrong": [
+        "Are you running",
+        "Do you run"
+      ],
+      "hint": "Процесс только что закончился, а его след виден сейчас.",
+      "explain": "Видимый результат недавнего процесса (out of breath) → Present Perfect Continuous: Have you been running? Present Continuous означал бы, что человек бежит прямо сейчас, а Do you run спрашивает о привычке.",
+      "tr": "— Ты запыхался. Ты бежал? — Да, не хотел опоздать на автобус."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p02",
+      "type": "gap",
+      "q": "Nick has been working as a nurse ___ 2018.",
+      "correct": "since",
+      "wrong": [
+        "for"
+      ],
+      "hint": "2018 — это период или точка начала?",
+      "explain": "2018 — момент начала → since. for ставится перед периодом: for six years.",
+      "tr": "Ник работает медбратом с 2018 года."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p03",
+      "type": "gap",
+      "q": "The neighbours have been repairing their roof ___ three weeks, and the noise is unbearable.",
+      "correct": "for",
+      "wrong": [
+        "since"
+      ],
+      "hint": "three weeks — период или точка начала?",
+      "explain": "three weeks — период → for. since используется с моментом начала: since Monday.",
+      "tr": "Соседи ремонтируют крышу уже три недели, и шум невыносимый."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p04",
+      "type": "gap",
+      "q": "A: How long ___ English?\nB: For about five years, but I still make mistakes.",
+      "correct": "have you been learning",
+      "wrong": [
+        "are you learning",
+        "do you learn",
+        "you have been learning"
+      ],
+      "hint": "Вопрос о том, сколько длится действие до сих пор. Проверьте и порядок слов.",
+      "explain": "How long…? о действии, которое длится до сих пор → Present Perfect Continuous: have you been learning. are you learning и do you learn — калька с русского «сколько ты учишь»; в вопросе вспомогательный глагол стоит перед подлежащим.",
+      "tr": "— Сколько ты уже учишь английский? — Около пяти лет, но всё ещё делаю ошибки."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p05",
+      "type": "gap",
+      "q": "I ___ for the bus for forty minutes, and it still hasn't come.",
+      "correct": "have been waiting",
+      "wrong": [
+        "am waiting"
+      ],
+      "hint": "Ожидание началось в прошлом и всё ещё продолжается.",
+      "explain": "Действие началось в прошлом и длится до сих пор (for forty minutes) → have been waiting. am waiting — калька с русского «жду уже сорок минут».",
+      "tr": "Я жду автобус уже сорок минут, а он всё не приходит."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p06",
+      "type": "gap",
+      "q": "Lisa ___ four job applications this week, but she hasn't had any replies yet.",
+      "correct": "has sent",
+      "wrong": [
+        "has been sending"
+      ],
+      "hint": "Здесь важен процесс или количество?",
+      "explain": "Названо количество (four applications) → Present Perfect Simple: has sent. Continuous подчёркивает процесс и с количеством не используется.",
+      "tr": "На этой неделе Лиза отправила четыре заявки на работу, но пока не получила ни одного ответа."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p07",
+      "type": "gap",
+      "q": "My hands are covered in oil because I ___ my bike all morning, and it still doesn't work.",
+      "correct": "have been repairing",
+      "wrong": [
+        "have repaired",
+        "am repairing"
+      ],
+      "hint": "Работа длилась всё утро. Есть ли результат?",
+      "explain": "Процесс длился всё утро, а результата нет (it still doesn't work) → Present Perfect Continuous. have repaired означало бы, что велосипед уже починен.",
+      "tr": "У меня руки в масле, потому что я всё утро чинил велосипед, а он всё равно не работает."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p08",
+      "type": "gap",
+      "q": "Anna and I ___ each other since we were at school together.",
+      "correct": "have known",
+      "wrong": [
+        "have been knowing"
+      ],
+      "hint": "Знать кого-то — это действие или состояние?",
+      "explain": "know — глагол состояния, в Continuous не ставится → Present Perfect Simple: have known.",
+      "tr": "Мы с Анной знаем друг друга со школы."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p09",
+      "type": "gap",
+      "q": "Mark has been feeling much better ___ he started cycling to work.",
+      "correct": "since",
+      "wrong": [
+        "for",
+        "from",
+        "when"
+      ],
+      "hint": "После пропуска — событие, с которого всё началось.",
+      "explain": "Момент начала, выраженный целым предложением (he started cycling), → since. from — калька с русского «с тех пор как», а for ставится перед периодом.",
+      "tr": "Марк чувствует себя намного лучше с тех пор, как начал ездить на работу на велосипеде."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p10",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I've had this laptop for six years, and it still works perfectly.",
+      "wrong": [
+        "I have this laptop for six years, and it still works perfectly.",
+        "I've been having this laptop for six years, and it still works perfectly."
+      ],
+      "hint": "have здесь значит «иметь». Это действие или состояние?",
+      "explain": "have = иметь — глагол состояния → Present Perfect Simple: I've had… for six years. Present Simple с for в значении «уже столько-то лет» не используется.",
+      "tr": "Этот ноутбук у меня уже шесть лет, и он до сих пор отлично работает."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p11",
+      "type": "gap",
+      "q": "How many pages of your thesis ___ so far?",
+      "correct": "have you written",
+      "wrong": [
+        "have you been writing",
+        "are you writing"
+      ],
+      "hint": "Вопрос о процессе или о количестве?",
+      "explain": "How many…? — вопрос о количестве и результате → Present Perfect Simple: have you written. Continuous подчёркивал бы процесс, а не число страниц.",
+      "tr": "Сколько страниц диплома ты уже написал?"
+    },
+    {
+      "id": "b1-present-perfect-continuous-p12",
+      "type": "gap",
+      "q": "Kate looks exhausted. She ___ on that report since seven this morning.",
+      "correct": "has been working",
+      "wrong": [
+        "is working",
+        "works",
+        "worked"
+      ],
+      "hint": "Работа началась утром и до сих пор не закончилась.",
+      "explain": "since + момент начала, работа длится до сих пор → has been working. Present Continuous, Present Simple и Past Simple с since в таком значении не употребляются.",
+      "tr": "Кейт выглядит измотанной. Она работает над этим отчётом с семи утра."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I've been reading the book you lent me.",
+      "correct": "I've started the book you lent me, but I haven't finished it yet.",
+      "wrong": [
+        "I finished the book you lent me last week.",
+        "I'm going to start the book you lent me soon."
+      ],
+      "hint": "Continuous подчёркивает процесс. Книга дочитана?",
+      "explain": "Present Perfect Continuous подчёркивает процесс: чтение идёт, книга ещё не дочитана. Законченный результат передал бы I've read.",
+      "tr": "Я начал книгу, которую ты мне дал, но ещё не дочитал её."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p14",
+      "type": "gap",
+      "q": "Ben ___ to find a flat for months, but everything in this area is too expensive.",
+      "correct": "has been trying",
+      "wrong": [
+        "is trying"
+      ],
+      "hint": "Обратите внимание на «for months».",
+      "explain": "for months + действие продолжается → Present Perfect Continuous: has been trying. Present Continuous с for в значении «уже несколько месяцев» не сочетается.",
+      "tr": "Бен уже несколько месяцев пытается найти квартиру, но в этом районе всё слишком дорого."
+    },
+    {
+      "id": "b1-present-perfect-continuous-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "We've been living in this flat since 2021.",
+      "wrong": [
+        "We are living in this flat since 2021.",
+        "We've been living in this flat for 2021.",
+        "We live in this flat since 2021."
+      ],
+      "hint": "Ситуация началась в прошлом и длится до сих пор. Что ставится перед годом?",
+      "explain": "Ситуация длится до сих пор → Present Perfect (Continuous); перед годом — since. Present Continuous и Present Simple с since не употребляются, а for ставится только перед периодом.",
+      "tr": "Мы живём в этой квартире с 2021 года."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-present-perfect-continuous-e01",
+      "type": "gap",
+      "q": "A: How long ___ your current phone?\nB: About three years. I really need a new one.",
+      "correct": "have you had",
+      "wrong": [
+        "have you been having",
+        "do you have",
+        "are you having"
+      ],
+      "hint": "have здесь значит «владеть». И вопрос о длительности до сих пор.",
+      "explain": "have = иметь — глагол состояния → Present Perfect Simple: How long have you had…? do you have — калька с русского, а Continuous с этим значением have не употребляется.",
+      "tr": "— Сколько у тебя уже этот телефон? — Около трёх лет. Мне очень нужен новый."
+    },
+    {
+      "id": "b1-present-perfect-continuous-e02",
+      "type": "gap",
+      "q": "I ___ about your offer since our meeting on Monday, and I'd like to accept it.",
+      "correct": "have been thinking",
+      "wrong": [
+        "am thinking",
+        "think",
+        "thought"
+      ],
+      "hint": "Обдумывание началось в понедельник. Закончилось ли оно?",
+      "explain": "since + момент, процесс длится до сих пор → have been thinking (think about = обдумывать, поэтому Continuous возможен). С since не употребляются ни настоящие времена, ни Past Simple.",
+      "tr": "Я думал о вашем предложении с нашей встречи в понедельник и хотел бы его принять."
+    },
+    {
+      "id": "b1-present-perfect-continuous-e03",
+      "type": "gap",
+      "q": "The company ___ three new branches since January, all of them in the north.",
+      "correct": "has opened",
+      "wrong": [
+        "has been opening"
+      ],
+      "hint": "Здесь важен процесс или результат, который можно сосчитать?",
+      "explain": "Названо количество (three branches) → Present Perfect Simple: has opened. Continuous для подсчёта результатов не используется.",
+      "tr": "С января компания открыла три новых филиала, все на севере."
+    },
+    {
+      "id": "b1-present-perfect-continuous-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Peter has been teaching at this university for ten years.",
+      "wrong": [
+        "Peter is teaching at this university for ten years.",
+        "Peter has been teaching at this university since ten years."
+      ],
+      "hint": "Действие длится до сих пор. ten years — период или момент?",
+      "explain": "Действие длится до сих пор → Present Perfect Continuous; ten years — период → for. is teaching for… — калька с русского «преподаёт уже десять лет».",
+      "tr": "Питер преподаёт в этом университете уже десять лет."
+    },
+    {
+      "id": "b1-present-perfect-continuous-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Chris started learning Japanese two years ago, and he's still learning it.",
+      "correct": "Chris has been learning Japanese for two years.",
+      "wrong": [
+        "Chris learned Japanese for two years.",
+        "Chris has been learning Japanese since two years."
+      ],
+      "hint": "Началось в прошлом и продолжается сейчас. И проверьте предлог перед периодом.",
+      "explain": "Началось в прошлом и продолжается сейчас → has been learning; two years — период → for. Past Simple learned означал бы, что он уже бросил учить язык.",
+      "tr": "Крис учит японский уже два года."
+    }
+  ],
+  "glossary": {
+    "accept": "принять",
+    "applications": "заявки, заявления",
+    "area": "район",
+    "bike": "велосипед",
+    "branches": "филиалы",
+    "breath": "дыхание; (out of breath) запыхавшийся",
+    "covered": "покрытый, испачканный (covered in)",
+    "current": "нынешний, текущий",
+    "cycling": "ездить на велосипеде (-ing от cycle)",
+    "exhausted": "измотанный",
+    "far": "(so far) пока, до сих пор",
+    "feeling": "чувствовать себя (-ing от feel)",
+    "flat": "квартира",
+    "hands": "руки, кисти рук",
+    "Japanese": "японский язык",
+    "learning": "учить, изучать (-ing от learn)",
+    "lent": "одолжил, дал на время (прош. от lend)",
+    "looks": "выглядит",
+    "miss": "пропустить, опоздать на",
+    "mistakes": "ошибки",
+    "neighbours": "соседи",
+    "noise": "шум",
+    "north": "север",
+    "nurse": "медбрат, медсестра",
+    "offer": "предложение",
+    "oil": "масло (машинное)",
+    "pages": "страницы",
+    "reading": "читать (-ing от read)",
+    "repairing": "ремонтировать (-ing от repair)",
+    "replies": "ответы",
+    "report": "отчёт",
+    "roof": "крыша",
+    "thesis": "дипломная работа, диссертация",
+    "unbearable": "невыносимый"
+  }
+}

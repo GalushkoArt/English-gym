@@ -273,7 +273,7 @@ export function Play({ mode, arg }: { mode: PlayMode; arg?: string }) {
             )}
           </div>
 
-          <section className={`q-card${ans ? (ans.correct || isExam ? ' is-answered' : ' is-wrong') : ''}`} key={item.key}>
+          <section className={`q-card${q.q.trim() ? '' : ' no-text'}${ans ? (ans.correct || isExam ? ' is-answered' : ' is-wrong') : ''}`} key={item.key}>
             <div className="q-task">{q.task ?? DEFAULT_TASK[q.type]}</div>
             {q.q.trim() && (
               <div className={`q-text type-${q.type}`} lang="en">

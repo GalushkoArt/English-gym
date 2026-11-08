@@ -1,0 +1,452 @@
+{
+  "id": "b2-second-conditional",
+  "level": "B2",
+  "order": 3,
+  "title": "Second conditional",
+  "titleRu": "Второй тип условных: нереальное настоящее",
+  "summary": "Воображаемое настоящее и маловероятное будущее",
+  "source": "Murphy EGIU units 38–39; British Council: Conditionals: zero, first and second",
+  "rules": [
+    {
+      "title": "Форма и значение",
+      "body": "**if + Past Simple, would + V**.\n\nВоображаемая ситуация в настоящем или маловероятная в будущем. Past Simple здесь не означает прошлое.\n\n- would часто сокращается: **I'd, you'd, she'd**\n- части можно менять местами; запятая ставится, когда if-часть первая\n- вопрос: **What would you do if…?**",
+      "examples": [
+        {
+          "en": "If I had more time, I'd learn Japanese.",
+          "ru": "Если бы у меня было больше времени, я бы выучил японский."
+        },
+        {
+          "en": "What would you do if you lost your job?",
+          "ru": "Что бы ты сделал, если бы потерял работу?"
+        },
+        {
+          "en": "I wouldn't live here if I didn't have to.",
+          "ru": "Я бы здесь не жил, если бы не был вынужден."
+        }
+      ]
+    },
+    {
+      "title": "were для всех лиц",
+      "body": "В if-части второго типа можно ставить **were** с любым подлежащим: if I were, if she were, if it were. В разговорной речи встречается и was.\n\nВ формуле совета — только **If I were you, I'd…**",
+      "examples": [
+        {
+          "en": "If I were you, I'd accept the offer.",
+          "ru": "На твоём месте я бы принял предложение."
+        },
+        {
+          "en": "If the flat were bigger, we could stay longer.",
+          "ru": "Если бы квартира была больше, мы могли бы остаться подольше."
+        }
+      ]
+    },
+    {
+      "title": "would — только в главной части",
+      "body": "После **if** would не ставится, хотя по-русски в обеих частях «бы».\n\n- If I **knew** the answer… — не If I would know\n- If they **lived** closer… — не If they would live",
+      "examples": [
+        {
+          "en": "If I knew her address, I'd send her an invitation.",
+          "ru": "Если бы я знал её адрес, я бы отправил ей приглашение."
+        },
+        {
+          "en": "If they lived closer, we'd see them more often.",
+          "ru": "Если бы они жили ближе, мы бы виделись чаще."
+        }
+      ]
+    },
+    {
+      "title": "could и might",
+      "body": "Вместо would в главной части:\n- **could** = would be able to — смог бы\n- **might** = perhaps would — возможно, бы\n\n**could** бывает и в if-части: If I could… = если бы я мог.",
+      "examples": [
+        {
+          "en": "If we had a car, we could visit my parents more often.",
+          "ru": "Если бы у нас была машина, мы могли бы чаще навещать моих родителей."
+        },
+        {
+          "en": "If you asked her, she might help.",
+          "ru": "Если бы ты её попросил, она, может быть, помогла бы."
+        },
+        {
+          "en": "If I could drive, I'd find a better job.",
+          "ru": "Если бы я умел водить, я бы нашёл работу получше."
+        }
+      ]
+    },
+    {
+      "title": "Первый или второй тип",
+      "body": "- **if + Present Simple, will** — реальная возможность, говорящий считает её вероятной\n- **if + Past Simple, would** — ситуация воображаемая или маловероятная\n\nЕсли рядом есть факт, противоречащий условию (**but I don't have a car**), — второй тип.",
+      "examples": [
+        {
+          "en": "I've applied for the job. If I get it, I'll move to London.",
+          "ru": "Я подал заявку. Если я получу эту работу, я перееду в Лондон."
+        },
+        {
+          "en": "I'm not going to apply, but if I got the job, I'd move to London.",
+          "ru": "Я не буду подавать заявку, но если бы я получил эту работу, я бы переехал в Лондон."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "if + Past Simple → would / could / might + V",
+    "If I were you, I'd… → совет",
+    "would — не после if: If I knew (не would know)",
+    "could = смог бы; might = возможно, бы",
+    "реально → if + Present, will; воображаемо → if + Past, would",
+    "факт против условия (but I don't…) → второй тип"
+  ],
+  "mistakes": [
+    {
+      "wrong": "If I would have more money, I would travel.",
+      "right": "If I had more money, I would travel.",
+      "note": "калька с «если бы»: после if would не ставится"
+    },
+    {
+      "wrong": "If I am you, I would accept the offer.",
+      "right": "If I were you, I would accept the offer.",
+      "note": "нереальное условие → were"
+    },
+    {
+      "wrong": "If I knew his address, I will send him an invitation.",
+      "right": "If I knew his address, I would send him an invitation.",
+      "note": "if + Past Simple сочетается с would, а не с will"
+    },
+    {
+      "wrong": "If I had a car, I can drive you to the airport.",
+      "right": "If I had a car, I could drive you to the airport.",
+      "note": "во втором типе can → could"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Если бы у меня было время, я бы помог»?",
+      "back": "**if + Past Simple, would + V**.\nIf I had time, I would help."
+    },
+    {
+      "front": "Как по-английски дать совет «На твоём месте я бы…»?",
+      "back": "**If I were you, I'd + V**.\nIf I were you, I'd talk to your manager."
+    },
+    {
+      "front": "Можно ли сказать «If I would know the answer…»?",
+      "back": "Нет. **would** — только в главной части.\nIf I knew the answer, I'd tell you."
+    },
+    {
+      "front": "If I get the job / If I got the job — в чём разница?",
+      "back": "**get … will** — реальная возможность.\n**got … would** — маловероятно, воображаемо.\nIf I got the job, I'd move to London."
+    },
+    {
+      "front": "Чем отличаются would, could и might в главной части?",
+      "back": "**would** — сделал бы; **could** — смог бы; **might** — возможно, сделал бы.\nIf you asked her, she might help."
+    },
+    {
+      "front": "Как спросить «Что бы ты сделал, если бы…»?",
+      "back": "**What would you do if + Past Simple?**\nWhat would you do if you won a lot of money?"
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-second-conditional-p01",
+      "type": "gap",
+      "q": "If I ___ more free time, I would learn to play the piano.",
+      "correct": "had",
+      "wrong": [
+        "would have",
+        "have"
+      ],
+      "hint": "Какая форма нужна в if-части, когда в главной части would?",
+      "explain": "Second conditional: if + Past Simple → would + V. would не ставится в if-части, а have (Present) не сочетается с would в главной.",
+      "tr": "Если бы у меня было больше свободного времени, я бы научился играть на пианино."
+    },
+    {
+      "id": "b2-second-conditional-p02",
+      "type": "gap",
+      "q": "If I ___ you, I'd ask for a pay rise before the end of the year.",
+      "correct": "were",
+      "wrong": [
+        "am",
+        "would be"
+      ],
+      "hint": "Говорящий не может стать вами — ситуация нереальная. Это устойчивая формула совета.",
+      "explain": "If I were you, I'd… — формула совета, ситуация нереальная → were. am описывало бы реальную ситуацию, а would в if-части не ставится.",
+      "tr": "На твоём месте я бы попросил повышения зарплаты до конца года."
+    },
+    {
+      "id": "b2-second-conditional-p03",
+      "type": "gap",
+      "q": "We ___ the children to the seaside more often if we had a car, but we don't, so we hardly ever go.",
+      "correct": "would take",
+      "wrong": [
+        "will take"
+      ],
+      "hint": "«but we don't» — у них есть машина?",
+      "explain": "Машины нет, условие нереальное → if + Past Simple (had), в главной части would + V: would take. will take относится к реальным условиям (первый тип).",
+      "tr": "Мы бы чаще возили детей на море, если бы у нас была машина, но её нет, так что мы почти никогда не ездим."
+    },
+    {
+      "id": "b2-second-conditional-p04",
+      "type": "gap",
+      "q": "If the company ___ its prices, it would lose most of its customers.",
+      "correct": "raised",
+      "wrong": [
+        "raises",
+        "would raise",
+        "will raise"
+      ],
+      "hint": "Посмотрите на главную часть — она подсказывает тип условного.",
+      "explain": "В главной части would lose → второй тип: if + Past Simple (raised). Present (raises) нужен для первого типа с will, а would и will в if-части не ставятся.",
+      "tr": "Если бы компания подняла цены, она потеряла бы большинство своих клиентов."
+    },
+    {
+      "id": "b2-second-conditional-p05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If I knew her number, I would call her right now.",
+      "wrong": [
+        "If I would know her number, I would call her right now.",
+        "If I know her number, I would call her right now."
+      ],
+      "hint": "Сравните if-части. Где would уместно?",
+      "explain": "Нереальное настоящее: if + Past Simple (knew) → would + V. would после if не ставится, а Present Simple (know) не сочетается с would.",
+      "tr": "Если бы я знал её номер, я бы позвонил ей прямо сейчас."
+    },
+    {
+      "id": "b2-second-conditional-p06",
+      "type": "gap",
+      "q": "If I had a driving licence, I ___ help you move the furniture this weekend, but I've never learned to drive.",
+      "correct": "could",
+      "wrong": [
+        "can"
+      ],
+      "hint": "Условие нереальное. Какая форма модального глагола нужна в главной части?",
+      "explain": "Second conditional: could = would be able to. can относится к реальной ситуации и не сочетается с if + Past Simple.",
+      "tr": "Если бы у меня были права, я мог бы помочь тебе перевезти мебель в эти выходные, но я так и не научился водить."
+    },
+    {
+      "id": "b2-second-conditional-p07",
+      "type": "gap",
+      "q": "If you asked him nicely, he ___ agree to help, but I wouldn't count on it.",
+      "correct": "might",
+      "wrong": [
+        "will"
+      ],
+      "hint": "В if-части Past Simple, и говорящий не уверен в результате.",
+      "explain": "if + Past Simple → might + V, когда результат лишь возможен: might agree. will не сочетается с if + Past Simple.",
+      "tr": "Если бы ты вежливо его попросил, он, может быть, и согласился бы помочь, но я бы на это не рассчитывал."
+    },
+    {
+      "id": "b2-second-conditional-p08",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "If our flat were closer to the centre, we wouldn't need a car.",
+      "correct": "Our flat isn't close to the centre, so we need a car.",
+      "wrong": [
+        "Our flat is close to the centre, so we don't need a car.",
+        "Our flat was far from the centre, but now we live closer."
+      ],
+      "hint": "Второй тип условных описывает ситуацию, противоположную реальности.",
+      "explain": "If + were → нереальное настоящее: на самом деле квартира далеко, и машина нужна. Past Simple здесь не означает прошлое.",
+      "tr": "Наша квартира не близко к центру, поэтому нам нужна машина."
+    },
+    {
+      "id": "b2-second-conditional-p09",
+      "type": "gap",
+      "q": "What ___ if you lost your job tomorrow?",
+      "correct": "would you do",
+      "wrong": [
+        "will you do",
+        "did you do",
+        "would you have done"
+      ],
+      "hint": "Ситуация воображаемая. Как строится вопрос в главной части?",
+      "explain": "Вопрос во втором типе: What would you do if + Past Simple? will не сочетается с lost, а would you have done относится к прошлому (третий тип).",
+      "tr": "Что бы ты сделал, если бы завтра потерял работу?"
+    },
+    {
+      "id": "b2-second-conditional-p10",
+      "type": "gap",
+      "q": "If they ___ in the city centre, they wouldn't need to spend two hours a day commuting.",
+      "correct": "lived",
+      "wrong": [
+        "would live"
+      ],
+      "hint": "would уже есть в главной части. Что ставится после if?",
+      "explain": "В if-части второго типа — Past Simple: lived. would после if не ставится, это калька с «если бы».",
+      "tr": "Если бы они жили в центре города, им не пришлось бы тратить два часа в день на дорогу."
+    },
+    {
+      "id": "b2-second-conditional-p11",
+      "type": "gap",
+      "q": "If my brother ___ more patient, he would make an excellent teacher.",
+      "correct": "were",
+      "wrong": [
+        "is",
+        "would be"
+      ],
+      "hint": "Ситуация нереальная: брату не хватает терпения.",
+      "explain": "Нереальное настоящее → if + were (возможно для всех лиц). is описывало бы реальную возможность, а would в if-части не ставится.",
+      "tr": "Если бы мой брат был терпеливее, из него вышел бы отличный учитель."
+    },
+    {
+      "id": "b2-second-conditional-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If I were you, I'd talk to your manager about it.",
+      "wrong": [
+        "If I am you, I'll talk to your manager about it.",
+        "If I were you, I'll talk to your manager about it.",
+        "If I would be you, I'd talk to your manager about it."
+      ],
+      "hint": "Устойчивая формула совета: нереальное условие и соответствующая главная часть.",
+      "explain": "Совет: If I were you, I'd + V. am и will описывают реальное условие, а would после if не ставится.",
+      "tr": "На твоём месте я бы поговорил об этом с твоим руководителем."
+    },
+    {
+      "id": "b2-second-conditional-p13",
+      "type": "gap",
+      "q": "It's a pity Kate isn't here. If she were here, she ___ what to do.",
+      "correct": "would know",
+      "wrong": [
+        "will know",
+        "knows",
+        "would have known"
+      ],
+      "hint": "Речь о нереальной ситуации в настоящем, а не в прошлом.",
+      "explain": "if + were → would + V: would know. will и knows относятся к реальной ситуации, а would have known — к прошлому (третий тип).",
+      "tr": "Жаль, что Кейт здесь нет. Если бы она была здесь, она бы знала, что делать."
+    },
+    {
+      "id": "b2-second-conditional-p14",
+      "type": "gap",
+      "q": "I'm not going to win, of course, but if I ___ the competition, I'd spend the money on a trip around the world.",
+      "correct": "won",
+      "wrong": [
+        "win",
+        "would win"
+      ],
+      "hint": "Говорящий считает победу маловероятной. Посмотрите и на главную часть.",
+      "explain": "Маловероятное будущее → if + Past Simple (won) → would ('d spend). win подошло бы для реальной возможности с will.",
+      "tr": "Я, конечно, не выиграю, но если бы я выиграл конкурс, я бы потратил деньги на кругосветное путешествие."
+    },
+    {
+      "id": "b2-second-conditional-p15",
+      "type": "gap",
+      "q": "The forecast says it'll rain tomorrow. If it ___, we'll have the party indoors.",
+      "correct": "rains",
+      "wrong": [
+        "rained"
+      ],
+      "hint": "Дождь — реальная возможность. Посмотрите на главную часть.",
+      "explain": "Реальное условие в будущем → первый тип: if + Present Simple (rains), will + V. rained подходило бы для воображаемой ситуации с would.",
+      "tr": "Прогноз обещает завтра дождь. Если он пойдёт, мы устроим вечеринку в помещении."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-second-conditional-e01",
+      "type": "gap",
+      "q": "A: Are you going to apply for the manager's job?\nB: Yes, and if I ___ it, I'll have to move to Manchester.",
+      "correct": "get",
+      "wrong": [
+        "got"
+      ],
+      "hint": "Человек действительно подаёт заявку. Посмотрите на главную часть.",
+      "explain": "Реальная возможность и will в главной части → первый тип: if + Present Simple (get). got с would означало бы, что говорящий считает это почти невозможным.",
+      "tr": "— Ты собираешься подавать заявку на должность менеджера? — Да, и если я её получу, мне придётся переехать в Манчестер."
+    },
+    {
+      "id": "b2-second-conditional-e02",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I can't speak Italian, so I can't help you with this letter.",
+      "correct": "If I spoke Italian, I could help you with this letter.",
+      "wrong": [
+        "If I speak Italian, I can help you with this letter.",
+        "If I spoke Italian, I could have helped you with this letter."
+      ],
+      "hint": "Факт в настоящем, а вариант должен описать противоположную воображаемую ситуацию.",
+      "explain": "Нереальное настоящее: if + Past Simple (spoke) → could + V. speak … can описывает реальную возможность, а could have helped относится к прошлому.",
+      "tr": "Если бы я говорил по-итальянски, я мог бы помочь тебе с этим письмом."
+    },
+    {
+      "id": "b2-second-conditional-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If I could work from home, I wouldn't waste so much time travelling.",
+      "wrong": [
+        "If I can work from home, I wouldn't waste so much time travelling.",
+        "If I would be able to work from home, I wouldn't waste so much time travelling.",
+        "If I could work from home, I won't waste so much time travelling."
+      ],
+      "hint": "Проверьте согласование: форма после if и форма в главной части.",
+      "explain": "Нереальное условие: if + could (= was able to) → wouldn't + V. can и won't относятся к реальному условию, а would после if не ставится.",
+      "tr": "Если бы я мог работать из дома, я бы не тратил столько времени на дорогу."
+    },
+    {
+      "id": "b2-second-conditional-e04",
+      "type": "gap",
+      "q": "It's unlikely to happen, but if the city ___ public transport free, far fewer people ___ to work.",
+      "correct": "made / would drive",
+      "wrong": [
+        "would make / would drive",
+        "made / will drive",
+        "make / would drive"
+      ],
+      "hint": "Ситуация маловероятная. Какие формы нужны в обеих частях?",
+      "explain": "Маловероятное будущее → if + Past Simple (made), would + V (would drive). would не ставится после if, а will и make относятся к первому типу.",
+      "tr": "Вряд ли так будет, но если бы город сделал общественный транспорт бесплатным, гораздо меньше людей ездили бы на работу на машине."
+    },
+    {
+      "id": "b2-second-conditional-e05",
+      "type": "gap",
+      "q": "I'm not sure, but if we left right now, we ___ catch the last train.",
+      "correct": "might",
+      "wrong": [
+        "will",
+        "can"
+      ],
+      "hint": "Говорящий не уверен в результате, а в if-части Past Simple.",
+      "explain": "if + Past Simple → might + V, когда результат только возможен: might catch. will и can относятся к реальному условию с Present Simple.",
+      "tr": "Не уверен, но если бы мы вышли прямо сейчас, мы, может быть, успели бы на последний поезд."
+    }
+  ],
+  "glossary": {
+    "apply": "подавать заявку",
+    "centre": "центр",
+    "closer": "ближе",
+    "commuting": "дорога на работу и обратно (-ing от commute)",
+    "competition": "конкурс, соревнование",
+    "count": "(count on) рассчитывать на",
+    "course": "(of course) конечно",
+    "customers": "клиенты, покупатели",
+    "driving": "(driving licence) водительские права",
+    "end": "конец",
+    "excellent": "отличный",
+    "far": "далеко; (far fewer) гораздо меньше",
+    "flat": "квартира",
+    "forecast": "прогноз (погоды)",
+    "furniture": "мебель",
+    "indoors": "в помещении",
+    "Italian": "итальянский язык",
+    "learned": "научился (3-я форма от learn)",
+    "letter": "письмо",
+    "licence": "права, лицензия",
+    "manager": "менеджер, руководитель",
+    "Manchester": "Манчестер",
+    "nicely": "вежливо, по-хорошему",
+    "party": "вечеринка",
+    "patient": "терпеливый",
+    "piano": "пианино",
+    "pity": "(it's a pity) жаль",
+    "play": "играть",
+    "prices": "цены",
+    "public": "общественный",
+    "rain": "идти (о дожде)",
+    "seaside": "морское побережье",
+    "teacher": "учитель",
+    "transport": "транспорт",
+    "trip": "поездка, путешествие",
+    "unlikely": "маловероятный"
+  }
+}

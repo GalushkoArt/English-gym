@@ -1,0 +1,443 @@
+{
+  "id": "b2-used-to-would",
+  "level": "B2",
+  "order": 12,
+  "title": "used to, would, be/get used to",
+  "titleRu": "used to, would, be used to, get used to",
+  "summary": "Прошлые привычки и состояния; привыкать и быть привыкшим",
+  "source": "Murphy EGIU units 18, 61; British Council: Used to; Be used to and get used to",
+  "rules": [
+    {
+      "title": "used to + V — прошлые привычки и состояния",
+      "body": "**used to + V** — то, что было регулярно или постоянно в прошлом, но **больше не так**.\n\n- привычки: I used to play tennis every weekend.\n- состояния: I used to live in Kazan. There used to be a cinema here.\n- о настоящем used to не используют: привычка сейчас → **usually + Present Simple**",
+      "examples": [
+        {
+          "en": "I used to play football every weekend.",
+          "ru": "Раньше я играл в футбол каждые выходные."
+        },
+        {
+          "en": "There used to be a market in this square.",
+          "ru": "Раньше на этой площади был рынок."
+        },
+        {
+          "en": "I usually cycle to work.",
+          "ru": "Обычно я езжу на работу на велосипеде."
+        }
+      ]
+    },
+    {
+      "title": "Отрицание и вопрос",
+      "body": "Отрицание: **didn't use to + V**. Вопрос: **Did you use to + V?**\n\n- после did — **use** без -d\n- можно также **never used to**: I never used to drink coffee.\n- формы **I use to** в настоящем времени не существует",
+      "examples": [
+        {
+          "en": "I didn't use to like jazz.",
+          "ru": "Раньше я не любил джаз."
+        },
+        {
+          "en": "Did you use to live near here?",
+          "ru": "Ты раньше жил где-то здесь?"
+        }
+      ]
+    },
+    {
+      "title": "would + V — повторяющиеся действия в прошлом",
+      "body": "**would + V** — повторяющиеся действия в прошлом, часто в воспоминаниях.\n\n- только с **действиями**: we would go, she would cook\n- **не** с состояниями (have, live, be, like, know): не I would have a dog, а **I used to have a dog**\n- обычно из контекста уже ясно, о каком периоде прошлого речь",
+      "examples": [
+        {
+          "en": "Every Sunday my grandmother would bake bread.",
+          "ru": "Каждое воскресенье бабушка пекла хлеб."
+        },
+        {
+          "en": "When we were students, we would talk for hours.",
+          "ru": "Когда мы были студентами, мы часами разговаривали."
+        }
+      ]
+    },
+    {
+      "title": "be used to — быть привыкшим",
+      "body": "**be used to + -ing / существительное** — «быть привыкшим»: для человека это уже нормально.\n\n- **to** здесь предлог, поэтому дальше **-ing**, а не инфинитив\n- be может стоять в любом времени: I'm used to, I was used to, I'll be used to\n- не путать с **used to + V** (раньше было, а теперь нет)",
+      "examples": [
+        {
+          "en": "I'm used to working late.",
+          "ru": "Я привык работать допоздна."
+        },
+        {
+          "en": "She isn't used to the cold.",
+          "ru": "Она не привыкла к холоду."
+        }
+      ]
+    },
+    {
+      "title": "get used to — привыкать",
+      "body": "**get used to + -ing / существительное** — процесс: человек **привыкает**, ситуация постепенно становится нормальной.\n\nСравните:\n- I **used to** drive. — Раньше я водил.\n- I'm **used to** driving. — Я привык водить.\n- I'm **getting used to** driving. — Я привыкаю водить.",
+      "examples": [
+        {
+          "en": "It took me a month to get used to the new job.",
+          "ru": "Мне понадобился месяц, чтобы привыкнуть к новой работе."
+        },
+        {
+          "en": "You'll soon get used to driving on the left.",
+          "ru": "Ты скоро привыкнешь ездить по левой стороне."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "раньше было, а теперь нет → used to + V",
+    "отрицание / вопрос → didn't use to + V / Did you use to + V?",
+    "повторяющиеся действия в прошлом → would + V (не с состояниями)",
+    "привык (состояние) → be used to + -ing / сущ.",
+    "привыкаю, привыкну (процесс) → get used to + -ing / сущ.",
+    "привычка сейчас → usually + Present Simple (не «I use to»)"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I use to get up at seven.",
+      "right": "I usually get up at seven.",
+      "note": "о настоящем used to не употребляют — usually + Present Simple"
+    },
+    {
+      "wrong": "I'm used to work at night.",
+      "right": "I'm used to working at night.",
+      "note": "to в be used to — предлог, после него -ing"
+    },
+    {
+      "wrong": "When I was a child, I would have a cat.",
+      "right": "When I was a child, I used to have a cat.",
+      "note": "would не употребляется с состояниями (have, live, be)"
+    },
+    {
+      "wrong": "I can't get used to live here.",
+      "right": "I can't get used to living here.",
+      "note": "калька «привыкнуть жить»: get used to + -ing"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Раньше я жил в Казани» (теперь нет)?",
+      "back": "**used to + V**: I used to live in Kazan."
+    },
+    {
+      "front": "Как спросить «Ты раньше играл в теннис?»",
+      "back": "**Did you use to + V?**\nDid you use to play tennis?"
+    },
+    {
+      "front": "Можно ли сказать «I would have a dog when I was a child»?",
+      "back": "Нет: have — состояние → **used to have**.\nwould — только для повторяющихся действий: We would walk the dog every evening."
+    },
+    {
+      "front": "«Я привык рано вставать» — как по-английски?",
+      "back": "**be used to + -ing**: I'm used to getting up early."
+    },
+    {
+      "front": "«Я привыкаю к новой работе» — как сказать?",
+      "back": "**get used to**: I'm getting used to my new job."
+    },
+    {
+      "front": "Как сказать о привычке в настоящем: «Я обычно хожу пешком»?",
+      "back": "**usually + Present Simple**: I usually walk.\nФормы «I use to» не существует."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-used-to-would-p01",
+      "type": "gap",
+      "q": "When I was a student, I ___ in a tiny flat above a bakery.",
+      "correct": "used to live",
+      "wrong": [
+        "would live",
+        "use to live",
+        "was used to live"
+      ],
+      "hint": "Речь о состоянии в прошлом, которого больше нет. Какая конструкция подходит и для состояний?",
+      "explain": "Прошлое состояние, которого больше нет → used to + V. would с глаголами состояния (live, have, be) не употребляется, use to без -d — ошибка, а be used to значит «привыкнуть» и требует -ing.",
+      "tr": "Когда я был студентом, я жил в крошечной квартире над пекарней."
+    },
+    {
+      "id": "b2-used-to-would-p02",
+      "type": "gap",
+      "q": "There ___ a cinema on this corner, but it closed down years ago.",
+      "correct": "used to be",
+      "wrong": [
+        "would be",
+        "was used to be",
+        "use to be"
+      ],
+      "hint": "Что-то существовало раньше, а теперь нет. Это действие или состояние?",
+      "explain": "Прошлое состояние → used to be. would не употребляется с состояниями, а be used to значит «привыкнуть» и требует -ing.",
+      "tr": "Раньше на этом углу был кинотеатр, но он закрылся много лет назад."
+    },
+    {
+      "id": "b2-used-to-would-p03",
+      "type": "gap",
+      "q": "I ___ like vegetables as a child, but now I eat them every day.",
+      "correct": "didn't use to",
+      "wrong": [
+        "wouldn't"
+      ],
+      "hint": "like — глагол состояния. И обратите внимание на форму после did.",
+      "explain": "Отрицание: didn't use to + V (после did — use без -d). would не употребляется с глаголами состояния, такими как like.",
+      "tr": "В детстве я не любил овощи, а теперь ем их каждый день."
+    },
+    {
+      "id": "b2-used-to-would-p04",
+      "type": "gap",
+      "q": "___ live in the countryside when you were a child?",
+      "correct": "Did you use to",
+      "wrong": [
+        "Were you used to",
+        "Would you"
+      ],
+      "hint": "Вопрос о прошлом состоянии. Как строится вопрос с used to?",
+      "explain": "Вопрос: Did you use to + V? Were you used to означает «Ты привык…» и требует -ing, а would не употребляется с глаголом состояния live.",
+      "tr": "Ты в детстве жил за городом?"
+    },
+    {
+      "id": "b2-used-to-would-p05",
+      "type": "gap",
+      "q": "These days I ___ cycle to work, but on rainy days I take the bus.",
+      "correct": "usually",
+      "wrong": [
+        "use to",
+        "am used to",
+        "used to"
+      ],
+      "hint": "Речь о привычке в настоящем, а не в прошлом.",
+      "explain": "Привычка в настоящем → usually + Present Simple. used to бывает только о прошлом, формы use to в настоящем нет, а be used to требует -ing и значит «привык».",
+      "tr": "Сейчас я обычно езжу на работу на велосипеде, но в дождливые дни сажусь на автобус."
+    },
+    {
+      "id": "b2-used-to-would-p06",
+      "type": "gap",
+      "q": "Every summer my grandfather ___ take us fishing on the lake near his house.",
+      "correct": "would",
+      "wrong": [
+        "was used to"
+      ],
+      "hint": "Повторяющееся действие в прошлом. После пропуска стоит инфинитив без to.",
+      "explain": "Повторяющееся действие в прошлом → would + V (также used to). was used to значит «привык» и требует -ing.",
+      "tr": "Каждое лето дедушка брал нас на рыбалку на озеро рядом со своим домом."
+    },
+    {
+      "id": "b2-used-to-would-p07",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "When we lived in Spain, we used to have a big dog.",
+      "wrong": [
+        "When we lived in Spain, we would have a big dog.",
+        "When we lived in Spain, we were used to have a big dog."
+      ],
+      "hint": "have a dog — это повторяющееся действие или состояние?",
+      "explain": "Владение — состояние → used to have. would с состояниями не употребляется, а be used to требует -ing и означает «привыкнуть».",
+      "tr": "Когда мы жили в Испании, у нас была большая собака."
+    },
+    {
+      "id": "b2-used-to-would-p08",
+      "type": "gap",
+      "q": "I've worked night shifts for ten years, so I ___ sleeping during the day.",
+      "correct": "am used to",
+      "wrong": [
+        "used to",
+        "use to"
+      ],
+      "hint": "Человеку это уже привычно. Какая форма стоит после пропуска?",
+      "explain": "Привычность сейчас → be used to + -ing: I am used to sleeping. used to + V описывает прошлую привычку, и после него -ing невозможно.",
+      "tr": "Я десять лет работаю в ночные смены, поэтому привык спать днём."
+    },
+    {
+      "id": "b2-used-to-would-p09",
+      "type": "gap",
+      "q": "Lisa grew up in the far north, so she ___ long, cold winters.",
+      "correct": "is used to",
+      "wrong": [
+        "used to"
+      ],
+      "hint": "Это привычно для Лизы и сейчас. После пропуска стоит существительное.",
+      "explain": "Привыкла и сейчас → be used to + существительное: is used to long winters. used to + V — прошлая привычка, и после него существительное стоять не может.",
+      "tr": "Лиза выросла на крайнем севере, поэтому привыкла к долгим холодным зимам."
+    },
+    {
+      "id": "b2-used-to-would-p10",
+      "type": "gap",
+      "q": "At first I found it hard to drive on the left, but I soon ___ it.",
+      "correct": "got used to",
+      "wrong": [
+        "used to"
+      ],
+      "hint": "Сначала было трудно, потом ситуация изменилась.",
+      "explain": "Процесс привыкания → get used to: I soon got used to it. used to + V описывает прошлую привычку и не может стоять перед it.",
+      "tr": "Сначала мне было трудно ездить по левой стороне, но я быстро привык."
+    },
+    {
+      "id": "b2-used-to-would-p11",
+      "type": "gap",
+      "q": "It took me months to ___ up at five o'clock for my new job.",
+      "correct": "get used to getting",
+      "wrong": [
+        "get used to get",
+        "used to get",
+        "be used to get"
+      ],
+      "hint": "Речь о постепенном привыкании. Какая форма глагола идёт после to в этой конструкции?",
+      "explain": "Процесс привыкания → get used to + -ing: get used to getting up. to здесь предлог, поэтому дальше нужна форма -ing, а не инфинитив.",
+      "tr": "Мне понадобились месяцы, чтобы привыкнуть вставать в пять утра на новой работе."
+    },
+    {
+      "id": "b2-used-to-would-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I'm not used to working in such a noisy office.",
+      "wrong": [
+        "I'm not used to work in such a noisy office.",
+        "I don't used to working in such a noisy office.",
+        "I'm not use to working in such a noisy office."
+      ],
+      "hint": "Конструкция «быть привыкшим». Что идёт после to?",
+      "explain": "be used to + -ing: I'm not used to working. После to здесь нужна форма -ing, а do / don't с этой конструкцией не употребляются.",
+      "tr": "Я не привык работать в таком шумном офисе."
+    },
+    {
+      "id": "b2-used-to-would-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Ivan smoked when he was younger, but he gave up years ago.",
+      "correct": "Ivan used to smoke.",
+      "wrong": [
+        "Ivan is used to smoking.",
+        "Ivan got used to smoking."
+      ],
+      "hint": "Речь о прошлой привычке, которой больше нет.",
+      "explain": "Прошлая привычка, которой больше нет → used to + V. is used to smoking = привык к курению, got used to smoking = привык (постепенно).",
+      "tr": "Раньше Иван курил."
+    },
+    {
+      "id": "b2-used-to-would-p14",
+      "type": "gap",
+      "q": "I ___ drink a lot of coffee, but now I only have one cup a day.",
+      "correct": "used to",
+      "wrong": [
+        "am used to"
+      ],
+      "hint": "Сравните прошлое и now. После пропуска — инфинитив.",
+      "explain": "Прошлая привычка, которой больше нет → used to + V. am used to значит «привык» и требует -ing.",
+      "tr": "Раньше я пил много кофе, а теперь выпиваю только одну чашку в день."
+    },
+    {
+      "id": "b2-used-to-would-p15",
+      "type": "gap",
+      "q": "Don't worry about the new software. You'll ___ it after a week or two.",
+      "correct": "get used to",
+      "wrong": [
+        "used to"
+      ],
+      "hint": "Речь о процессе привыкания в будущем.",
+      "explain": "Привыкнуть (процесс) → get used to + существительное или -ing. После will нужен инфинитив, а used to описывает только прошлое.",
+      "tr": "Не переживай из-за новой программы. Через неделю-другую ты к ней привыкнешь."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-used-to-would-e01",
+      "type": "gap",
+      "q": "When my parents were first married, they ___ an old car that broke down every few weeks.",
+      "correct": "used to have",
+      "wrong": [
+        "would have"
+      ],
+      "hint": "have a car — действие или состояние?",
+      "explain": "Владение — состояние → used to have. would + V описывает только повторяющиеся действия, а не состояния.",
+      "tr": "Когда мои родители только поженились, у них была старая машина, которая ломалась каждые несколько недель."
+    },
+    {
+      "id": "b2-used-to-would-e02",
+      "type": "gap",
+      "q": "Having lived in Scotland for years, Mark ___ the rain and hardly notices it any more.",
+      "correct": "is used to",
+      "wrong": [
+        "used to",
+        "was used to"
+      ],
+      "hint": "Обратите внимание на время глагола notices во второй части.",
+      "explain": "Привык и сейчас → is used to + существительное. used to + V — прошлая привычка, а was used to не согласуется с настоящим временем (notices).",
+      "tr": "Прожив в Шотландии много лет, Марк привык к дождю и почти его не замечает."
+    },
+    {
+      "id": "b2-used-to-would-e03",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I found the long working hours difficult at first, but now they don't bother me.",
+      "correct": "I've got used to the long working hours.",
+      "wrong": [
+        "I used to work long hours.",
+        "I'm still getting used to the long working hours."
+      ],
+      "hint": "Было трудно, а теперь нет. Какой процесс завершился?",
+      "explain": "Процесс привыкания завершён → have got used to. I used to work long hours говорит о прошлой привычке, а still getting used to — о том, что привыкание ещё идёт.",
+      "tr": "Я привык к долгому рабочему дню."
+    },
+    {
+      "id": "b2-used-to-would-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Did you use to walk to school when you were a child?",
+      "wrong": [
+        "Did you use to walking to school when you were a child?",
+        "Were you use to walk to school when you were a child?",
+        "Do you used to walk to school when you were a child?"
+      ],
+      "hint": "Вопрос о прошлой привычке. Проверьте вспомогательный глагол и форму после use to.",
+      "explain": "Вопрос о прошлой привычке: Did you use to + V? После did — use без -d, затем инфинитив, а не -ing.",
+      "tr": "Ты в детстве ходил в школу пешком?"
+    },
+    {
+      "id": "b2-used-to-would-e05",
+      "type": "gap",
+      "q": "I can't ___ in this city: everything is so expensive, and people are always in a hurry.",
+      "correct": "get used to living",
+      "wrong": [
+        "get used to live",
+        "used to live"
+      ],
+      "hint": "Человек никак не может привыкнуть. Какая форма идёт после to в этой конструкции?",
+      "explain": "Процесс привыкания → get used to + -ing: can't get used to living. to здесь предлог, поэтому инфинитив live невозможен.",
+      "tr": "Я не могу привыкнуть жить в этом городе: всё так дорого, и люди вечно спешат."
+    }
+  ],
+  "glossary": {
+    "bakery": "пекарня",
+    "bother": "беспокоить, мешать",
+    "cinema": "кинотеатр",
+    "closed": "(closed down) закрылся (прош. от close down)",
+    "coffee": "кофе",
+    "cold": "холодный",
+    "corner": "угол",
+    "countryside": "сельская местность",
+    "cup": "чашка",
+    "cycle": "ездить на велосипеде",
+    "far": "крайний, дальний (the far north)",
+    "fishing": "рыбалка",
+    "flat": "квартира",
+    "grandfather": "дедушка",
+    "hurry": "(in a hurry) в спешке",
+    "lake": "озеро",
+    "lot": "(a lot of) много",
+    "north": "север",
+    "notices": "замечает",
+    "rain": "дождь",
+    "rainy": "дождливый",
+    "Scotland": "Шотландия",
+    "shifts": "смены (рабочие)",
+    "sleeping": "сон, спать (-ing от sleep)",
+    "smoked": "курил (прош. от smoke)",
+    "software": "программное обеспечение, программа",
+    "student": "студент",
+    "tiny": "крошечный",
+    "vegetables": "овощи",
+    "winters": "зимы",
+    "worry": "волноваться",
+    "younger": "моложе"
+  }
+}

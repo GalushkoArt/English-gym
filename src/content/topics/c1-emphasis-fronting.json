@@ -1,0 +1,487 @@
+{
+  "id": "c1-emphasis-fronting",
+  "level": "C1",
+  "order": 9,
+  "title": "Emphasis and fronting",
+  "titleRu": "Эмфаза и вынесение в начало",
+  "summary": "Эмфатическое do, Strange as it may seem, so / such, усилители",
+  "source": "Murphy AGIU units 98–100; British Council: Emphasis",
+  "rules": [
+    {
+      "title": "Эмфатическое do / does / did",
+      "body": "В утвердительном предложении **do / does / did + V** усиливает глагол. Ударение падает на do.\n\n- возражение или подтверждение: I did lock the door. (Я точно закрыл дверь.)\n- уступка: It does have a few problems, but… (Недостатки, конечно, есть, но…)\n- настойчивое вежливое приглашение: Do sit down.\n\nПосле do / does / did — только инфинитив без окончаний: НЕ I did locked, НЕ she does has.",
+      "examples": [
+        {
+          "en": "I did send the email — check your spam folder.",
+          "ru": "Я же отправил письмо — проверь папку со спамом."
+        },
+        {
+          "en": "She does work hard, but she still needs more experience.",
+          "ru": "Работает она действительно много, но ей всё же не хватает опыта."
+        }
+      ]
+    },
+    {
+      "title": "Уступка с вынесением: Strange as it may seem",
+      "body": "**Прилагательное / наречие + as / though + подлежащее + глагол** = although…, но с эмфазой.\n\n- **Strange as it may seem, …** = Хотя это может показаться странным, …\n- **Tired though she was, …** = Хотя она и устала, …\n- **Much as I admire her, …** = Как бы я ею ни восхищался, …\n- **Try as he might, …** = Как он ни старался, …\n\nПосле as / though — прямой порядок слов: as it may seem, НЕ as may it seem. very перед much не ставится.",
+      "examples": [
+        {
+          "en": "Strange as it may seem, the cheapest hotel was the most comfortable.",
+          "ru": "Как ни странно, самая дешёвая гостиница оказалась самой удобной."
+        },
+        {
+          "en": "Much as I like the idea, we simply can't afford it.",
+          "ru": "Как бы мне ни нравилась эта идея, мы просто не можем себе её позволить."
+        },
+        {
+          "en": "Try as she might, she couldn't open the file.",
+          "ru": "Как она ни старалась, открыть файл ей не удалось."
+        }
+      ]
+    },
+    {
+      "title": "so и such",
+      "body": "- **so + прилагательное / наречие (+ that)**: The talk was so long that I fell asleep.\n- **such (a / an) + (прилагательное) + существительное (+ that)**: It was such a long talk that…; с неисчисляемыми и мн. ч. — без a: such bad weather, such nice people.\n- **so many / so few** + исчисл. во мн. ч., **so much / so little** + неисчисл., **such a lot of** + любое.\n- формально: **Such + be + существительное + that**: Such was the noise that we couldn't sleep.",
+      "examples": [
+        {
+          "en": "The instructions were so confusing that nobody followed them.",
+          "ru": "Инструкции были настолько запутанными, что никто им не следовал."
+        },
+        {
+          "en": "It was such a good offer that she accepted it immediately.",
+          "ru": "Предложение было настолько хорошим, что она сразу его приняла."
+        },
+        {
+          "en": "Such was the demand that the shop ran out of stock in an hour.",
+          "ru": "Спрос был так велик, что в магазине за час всё раскупили."
+        }
+      ]
+    },
+    {
+      "title": "Усилители: the very, at all, whatsoever, on earth",
+      "body": "- **the very + существительное** — «самый, именно тот»: the very first day, at the very end, the very person I needed.\n- **at all** — после отрицания и в вопросах: I don't mind at all. Did you sleep at all? Возможно и перед прилагательным: not at all surprised.\n- **whatsoever** — после **no / none / nothing / any + существительное**: no doubt whatsoever. После глагола или перед прилагательным не ставится.\n- **on earth / ever** после вопросительного слова — удивление или раздражение: Why on earth…? What on earth…? Why ever…?",
+      "examples": [
+        {
+          "en": "We made the decision on the very last day.",
+          "ru": "Мы приняли решение в самый последний день."
+        },
+        {
+          "en": "There is no reason whatsoever to panic.",
+          "ru": "Нет абсолютно никаких причин паниковать."
+        },
+        {
+          "en": "What on earth were they thinking?",
+          "ru": "О чём они вообще думали?"
+        }
+      ]
+    },
+    {
+      "title": "Эмфатическое -self",
+      "body": "Местоимение на **-self / -selves** подчёркивает, что действие выполнил **именно этот** человек, а не кто-то другой.\n\n- сразу после существительного: The CEO herself replied.\n- в конце предложения: I'll talk to him myself.\n\nНе путайте с **by myself** = один, без помощи. Форма для they — **themselves** (НЕ theirselves).",
+      "examples": [
+        {
+          "en": "The mayor herself opened the new library.",
+          "ru": "Новую библиотеку открыла сама мэр."
+        },
+        {
+          "en": "If nobody helps, we'll organise the event ourselves.",
+          "ru": "Если никто не поможет, мы организуем мероприятие сами."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "эмфаза глагола → do / does / did + V (без -s, -ed)",
+    "хотя (с эмфазой) → Adj / Adv + as / though + подлежащее + глагол",
+    "Much as I like it… = хотя мне это очень нравится; Try as he might… = как он ни старался",
+    "so + adj; such (a) + (adj) + noun; so many / so much + noun",
+    "Such was the + noun + that… — формальная эмфаза",
+    "no … whatsoever; not … at all; Why on earth…?; the very first; the CEO herself"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I did locked the door.",
+      "right": "I did lock the door.",
+      "note": "после эмфатического did — инфинитив без -ed"
+    },
+    {
+      "wrong": "It was such a bad weather that we stayed at home.",
+      "right": "It was such bad weather that we stayed at home.",
+      "note": "weather — неисчисляемое: such + неисчисл. без a"
+    },
+    {
+      "wrong": "There were so much people at the meeting.",
+      "right": "There were so many people at the meeting.",
+      "note": "people — множественное число, поэтому so many"
+    },
+    {
+      "wrong": "Strange as may it seem, he was right.",
+      "right": "Strange as it may seem, he was right.",
+      "note": "после as — прямой порядок слов, инверсии нет"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как подчеркнуть, что вы действительно закрыли дверь?",
+      "back": "**did + V**: I did lock the door.\nПосле did — инфинитив без -ed."
+    },
+    {
+      "front": "Как формально сказать «Как ни странно это может показаться, …»?",
+      "back": "**Strange as it may seem, …**\nAdj + as + подлежащее + глагол."
+    },
+    {
+      "front": "so или such: «___ a difficult task», «it was ___ difficult»?",
+      "back": "**such a** difficult task — перед существительным.\n**so** difficult — прилагательное без существительного."
+    },
+    {
+      "front": "Что значит «Much as I admire her, …»?",
+      "back": "= Although I admire her very much, …\nКак бы я ею ни восхищался, …"
+    },
+    {
+      "front": "Как усилить отрицание: «никаких сомнений нет вообще»?",
+      "back": "**no + noun + whatsoever** / **not … at all**.\nThere is no doubt whatsoever."
+    },
+    {
+      "front": "Чем отличается «The CEO herself replied» от «The CEO replied by herself»?",
+      "back": "**herself** после существительного — именно она, а не помощник.\n**by herself** — одна, без чужой помощи."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-emphasis-fronting-p01",
+      "type": "gap",
+      "q": "A: You forgot to lock the back door again.\nB: That's not true — I ___ it. Someone must have opened it after I left.",
+      "correct": "did lock",
+      "wrong": [
+        "did locked"
+      ],
+      "hint": "Говорящий возражает и усиливает глагол. Какая форма глагола идёт после вспомогательного?",
+      "explain": "Эмфатическое did + инфинитив без окончания: did lock. Окончание -ed уже выражено в did, поэтому did locked — ошибка.",
+      "tr": "— Ты опять забыл закрыть заднюю дверь. — Это неправда — я её точно закрыл. Наверное, кто-то открыл её после моего ухода."
+    },
+    {
+      "id": "c1-emphasis-fronting-p02",
+      "type": "gap",
+      "q": "The new system ___ have a few problems, but overall it's a big improvement on the old one.",
+      "correct": "does",
+      "wrong": [
+        "is",
+        "do"
+      ],
+      "hint": "Говорящий признаёт недостаток перед тем, как возразить. Подлежащее — the new system.",
+      "explain": "Эмфатическое does + V передаёт уступку: «недостатки, конечно, есть». Подлежащее в 3-м лице ед. ч. → does, а is с have не сочетается.",
+      "tr": "У новой системы, конечно, есть некоторые недостатки, но в целом она гораздо лучше старой."
+    },
+    {
+      "id": "c1-emphasis-fronting-p03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "He does have a point, although I don't agree with everything he says.",
+      "wrong": [
+        "He does has a point, although I don't agree with everything he says.",
+        "He do have a point, although I don't agree with everything he says."
+      ],
+      "hint": "Проверьте согласование вспомогательного глагола с he и форму смыслового глагола.",
+      "explain": "Окончание 3-го лица переходит на вспомогательный глагол: he does have. Смысловой глагол после does — без окончания.",
+      "tr": "В чём-то он, конечно, прав, хотя я согласен не со всем, что он говорит."
+    },
+    {
+      "id": "c1-emphasis-fronting-p04",
+      "type": "gap",
+      "q": "___ it may seem, the cheapest option turned out to be the most reliable.",
+      "correct": "Strange as",
+      "wrong": [
+        "As strange",
+        "So strange",
+        "Although strange"
+      ],
+      "hint": "Уступка с вынесением: прилагательное ставится в самое начало, а за ним идёт союз.",
+      "explain": "Adj + as + подлежащее + глагол = although: Strange as it may seem. As strange без второго as, so strange и although strange в этой схеме неграмматичны.",
+      "tr": "Как ни странно, самый дешёвый вариант оказался самым надёжным."
+    },
+    {
+      "id": "c1-emphasis-fronting-p05",
+      "type": "gap",
+      "q": "___ I admire her talent, I can't support her proposal for the new budget.",
+      "correct": "Much as",
+      "wrong": [
+        "As much"
+      ],
+      "hint": "Нужна устойчивая формула «как бы сильно я ни…». Где стоит as?",
+      "explain": "Much as + подлежащее + глагол = although … very much. As much без второго as здесь неграмматично.",
+      "tr": "Как бы я ни восхищался её талантом, я не могу поддержать её предложение по новому бюджету."
+    },
+    {
+      "id": "c1-emphasis-fronting-p06",
+      "type": "gap",
+      "q": "___ we tried, we couldn't find a cheaper supplier anywhere in the region.",
+      "correct": "Hard as",
+      "wrong": [
+        "As hard"
+      ],
+      "hint": "Наречие выносится вперёд, за ним — союз и подлежащее.",
+      "explain": "Adv + as + подлежащее + глагол: Hard as we tried = как мы ни старались. As hard we tried без второго as неграмматично.",
+      "tr": "Как мы ни старались, найти более дешёвого поставщика в регионе не удалось."
+    },
+    {
+      "id": "c1-emphasis-fronting-p07",
+      "type": "gap",
+      "q": "It was ___ interesting project that nobody in the team wanted it to end.",
+      "correct": "such an",
+      "wrong": [
+        "so an",
+        "so",
+        "such"
+      ],
+      "hint": "После пропуска — прилагательное и исчисляемое существительное в ед. ч.",
+      "explain": "Перед существительным с прилагательным — such a / an: such an interesting project. so ставится перед прилагательным без существительного, а без артикля исчисляемое существительное в ед. ч. не употребляется.",
+      "tr": "Это был настолько интересный проект, что никто в команде не хотел, чтобы он заканчивался."
+    },
+    {
+      "id": "c1-emphasis-fronting-p08",
+      "type": "gap",
+      "q": "There was ___ traffic on the motorway that we missed the start of the conference.",
+      "correct": "so much",
+      "wrong": [
+        "so many",
+        "such a"
+      ],
+      "hint": "traffic — исчисляемое или неисчисляемое?",
+      "explain": "traffic — неисчисляемое → so much. so many — для исчисляемых во мн. ч., а such a с неисчисляемым не сочетается.",
+      "tr": "На трассе было так много машин, что мы пропустили начало конференции."
+    },
+    {
+      "id": "c1-emphasis-fronting-p09",
+      "type": "gap",
+      "q": "___ the demand for tickets that the organisers added three extra performances.",
+      "correct": "Such was",
+      "wrong": [
+        "So was"
+      ],
+      "hint": "После пропуска — существительное без прилагательного. Какое слово сочетается с существительным?",
+      "explain": "Such + be + существительное + that — формальная эмфаза: Such was the demand. So требует прилагательного: So great was the demand.",
+      "tr": "Спрос на билеты был так велик, что организаторы добавили три дополнительных спектакля."
+    },
+    {
+      "id": "c1-emphasis-fronting-p10",
+      "type": "gap",
+      "q": "There is ___ evidence whatsoever that the new drug causes serious side effects.",
+      "correct": "no",
+      "wrong": [
+        "not",
+        "any",
+        "some"
+      ],
+      "hint": "whatsoever усиливает только определённый тип высказываний.",
+      "explain": "whatsoever ставится после no / any + существительное в отрицании: no evidence whatsoever. В утвердительном предложении any и some с ним не сочетаются, а not не ставится перед существительным.",
+      "tr": "Нет абсолютно никаких доказательств того, что новый препарат вызывает серьёзные побочные эффекты."
+    },
+    {
+      "id": "c1-emphasis-fronting-p11",
+      "type": "gap",
+      "q": "Why ___ did you agree to work for them without a written contract?",
+      "correct": "on earth",
+      "wrong": [
+        "in earth"
+      ],
+      "hint": "Устойчивое усиление после вопросительного слова; подумайте о предлоге.",
+      "explain": "Why on earth…? — эмоциональное усиление вопроса («Зачем вообще…?»). Предлог в этом выражении только on.",
+      "tr": "Зачем ты вообще согласился работать на них без письменного договора?"
+    },
+    {
+      "id": "c1-emphasis-fronting-p12",
+      "type": "gap",
+      "q": "Mark was the ___ person to sign up for the course, and he has never missed a single class.",
+      "correct": "very first",
+      "wrong": [
+        "most first",
+        "first very",
+        "much first"
+      ],
+      "hint": "first уже превосходное по смыслу. Какое слово его усиливает и где оно стоит?",
+      "explain": "the very + first / last / end — «самый первый». first не сочетается с most или much, а very ставится перед ним.",
+      "tr": "Марк записался на курс самым первым и не пропустил ни одного занятия."
+    },
+    {
+      "id": "c1-emphasis-fronting-p13",
+      "type": "gap",
+      "q": "The complaint was taken so seriously that the CEO ___ phoned the customer to apologise.",
+      "correct": "herself",
+      "wrong": [
+        "her",
+        "itself",
+        "her own"
+      ],
+      "hint": "Нужно подчеркнуть, что позвонила именно руководитель, а не кто-то из сотрудников.",
+      "explain": "Эмфатическое местоимение после существительного: the CEO herself = сама руководитель. her и her own не могут стоять после подлежащего, а itself — о предметах.",
+      "tr": "К жалобе отнеслись настолько серьёзно, что генеральный директор сама позвонила клиенту, чтобы извиниться."
+    },
+    {
+      "id": "c1-emphasis-fronting-p14",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Try as she might, Laura couldn't get the old printer to work.",
+      "correct": "However hard Laura tried, she couldn't get the old printer to work.",
+      "wrong": [
+        "Laura didn't try very hard, so the old printer didn't work.",
+        "Laura might try to repair the old printer if she has time."
+      ],
+      "hint": "Try as she might — это уступка. Что она подчёркивает: мало или много усилий?",
+      "explain": "Try as she might = как она ни старалась: усилий было много, но результата нет. might здесь не выражает возможность в будущем.",
+      "tr": "Как Лора ни старалась, заставить старый принтер работать ей не удалось."
+    },
+    {
+      "id": "c1-emphasis-fronting-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The weather was so bad that the flight was cancelled.",
+      "wrong": [
+        "It was so bad weather that the flight was cancelled.",
+        "It was such a bad weather that the flight was cancelled.",
+        "The weather was such bad that the flight was cancelled."
+      ],
+      "hint": "weather — неисчисляемое. Что стоит после so, а что — после such?",
+      "explain": "so + прилагательное без существительного: was so bad. С существительным нужно such (без a, так как weather неисчисляемое): such bad weather.",
+      "tr": "Погода была настолько плохой, что рейс отменили."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-emphasis-fronting-e01",
+      "type": "gap",
+      "q": "___ though the results were, the board decided not to publish them until the following year.",
+      "correct": "Impressive",
+      "wrong": [
+        "Although impressive",
+        "So impressive"
+      ],
+      "hint": "В предложении уже есть though. Что выносится перед ним?",
+      "explain": "Adj + though + подлежащее + глагол = although the results were impressive. Although impressive though дублирует союз, а so impressive в этой схеме неграмматично.",
+      "tr": "Хотя результаты были впечатляющими, совет директоров решил не публиковать их до следующего года."
+    },
+    {
+      "id": "c1-emphasis-fronting-e02",
+      "type": "gap",
+      "q": "We need to hear from the nurses ___, not just from the hospital's press office.",
+      "correct": "themselves",
+      "wrong": [
+        "theirselves"
+      ],
+      "hint": "Эмфатическое местоимение для they. Вспомните, от какой формы оно образовано.",
+      "explain": "Эмфатическое местоимение для they — themselves (от them). Форма theirselves в стандартном английском не существует.",
+      "tr": "Нам нужно услышать самих медсестёр, а не только пресс-службу больницы."
+    },
+    {
+      "id": "c1-emphasis-fronting-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "There were so many people at the launch that we couldn't get anywhere near the stage.",
+      "wrong": [
+        "There were such many people at the launch that we couldn't get anywhere near the stage.",
+        "There were so much people at the launch that we couldn't get anywhere near the stage.",
+        "There were such a lot people at the launch that we couldn't get anywhere near the stage."
+      ],
+      "hint": "people — множественное число. Какие сочетания с so и such возможны перед ним?",
+      "explain": "Исчисляемые во мн. ч. → so many. such many и so much people неверны, а такое сочетание с such требует of: such a lot of people.",
+      "tr": "На презентации было так много людей, что мы не могли даже близко подойти к сцене."
+    },
+    {
+      "id": "c1-emphasis-fronting-e04",
+      "type": "gap",
+      "q": "To be honest, I wasn't ___ surprised when they cancelled the project.",
+      "correct": "at all",
+      "wrong": [
+        "whatsoever"
+      ],
+      "hint": "После пропуска — прилагательное. Какой из усилителей может стоять в этой позиции?",
+      "explain": "not at all + прилагательное — «ничуть не». whatsoever ставится только после существительного с no / any (no reason whatsoever), а не перед прилагательным.",
+      "tr": "Честно говоря, я ничуть не удивился, когда проект отменили."
+    },
+    {
+      "id": "c1-emphasis-fronting-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Such was the noise from the building site that we had to keep all the windows closed.",
+      "correct": "The noise from the building site was so loud that we had to keep all the windows closed.",
+      "wrong": [
+        "The building site was noisy only because we had left all the windows open.",
+        "We kept all the windows closed, although the noise from the building site was not very loud."
+      ],
+      "hint": "Such was the noise that… — формальная эмфаза. Что она говорит о силе шума и о причине?",
+      "explain": "Such was + существительное + that = существительное было настолько сильным, что…: шум был таким громким, что пришлось закрыть окна.",
+      "tr": "Шум со стройки был настолько громким, что нам приходилось держать все окна закрытыми."
+    }
+  ],
+  "glossary": {
+    "added": "добавили (прош. от add)",
+    "admire": "восхищаться",
+    "apologise": "извиниться",
+    "board": "совет директоров",
+    "budget": "бюджет",
+    "building": "строительная (building site — стройка)",
+    "cancelled": "отменили (прош. от cancel)",
+    "causes": "вызывает (3-е л. от cause)",
+    "CEO": "генеральный директор",
+    "cheaper": "более дешёвый",
+    "cheapest": "самый дешёвый",
+    "class": "занятие, урок",
+    "closed": "закрытыми (3-я форма от close)",
+    "complaint": "жалоба",
+    "conference": "конференция",
+    "contract": "договор, контракт",
+    "course": "курс (обучения)",
+    "customer": "клиент, покупатель",
+    "demand": "спрос",
+    "door": "дверь",
+    "drug": "лекарство, препарат",
+    "effects": "эффекты; side effects — побочные эффекты",
+    "end": "закончиться",
+    "evidence": "доказательства",
+    "extra": "дополнительный",
+    "following": "следующий",
+    "honest": "честный; to be honest — честно говоря",
+    "hospital": "больница",
+    "improvement": "улучшение",
+    "interesting": "интересный",
+    "lock": "запереть, закрыть на ключ",
+    "missed": "пропустили (прош. от miss)",
+    "motorway": "автомагистраль, трасса",
+    "noise": "шум",
+    "nurses": "медсёстры",
+    "opened": "открыл (3-я форма от open)",
+    "option": "вариант",
+    "organisers": "организаторы",
+    "overall": "в целом",
+    "performances": "спектакли, выступления",
+    "phoned": "позвонила (прош. от phone)",
+    "press": "пресса; press office — пресс-служба",
+    "printer": "принтер",
+    "problems": "проблемы, недостатки",
+    "project": "проект",
+    "proposal": "предложение (проект)",
+    "publish": "публиковать",
+    "region": "регион",
+    "reliable": "надёжный",
+    "results": "результаты",
+    "serious": "серьёзный",
+    "seriously": "серьёзно",
+    "side": "побочный (side effects)",
+    "sign": "(sign up) записаться",
+    "single": "один, единственный",
+    "site": "площадка; building site — стройка",
+    "supplier": "поставщик",
+    "support": "поддержать",
+    "system": "система",
+    "talent": "талант",
+    "team": "команда",
+    "tickets": "билеты",
+    "traffic": "движение, поток машин",
+    "true": "правда, верно",
+    "turned": "(turned out) оказался (прош. от turn)",
+    "whatsoever": "вообще, абсолютно (после no)",
+    "windows": "окна"
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "id": "b2-modals-deduction",
+  "level": "B2",
+  "order": 9,
+  "title": "Modals of deduction",
+  "titleRu": "Модальные глаголы предположения",
+  "summary": "Уверенность и предположения о настоящем и прошлом",
+  "source": "Murphy EGIU units 28–30; British Council: Modals – deductions about the present and the past",
+  "rules": [
+    {
+      "title": "must и can't — уверенный вывод",
+      "body": "**must + V** — говорящий почти уверен, что это правда: вывод из фактов.\n**can't + V** — говорящий уверен, что это невозможно.\n\n- вместо can't можно **couldn't**: That couldn't be true.\n- **mustn't** для вывода не используется: mustn't — это запрет («нельзя»)",
+      "examples": [
+        {
+          "en": "You've been travelling all day. You must be tired.",
+          "ru": "Ты весь день в дороге. Ты, наверное, устал."
+        },
+        {
+          "en": "That can't be Lisa — she's in Spain this week.",
+          "ru": "Это не может быть Лиза — она на этой неделе в Испании."
+        }
+      ]
+    },
+    {
+      "title": "may / might / could — возможно",
+      "body": "**may / might / could + V** — «возможно», говорящий не уверен. Разница в степени уверенности между ними минимальна.\n\n- отрицание: **may not / might not** = возможно, не…\n- **couldn't** ≠ might not: couldn't значит «не может быть»\n- **can** для предположения о конкретной ситуации не используют: не He can be at home, а **He might be at home**",
+      "examples": [
+        {
+          "en": "I'm not sure where Anna is. She could be in the library.",
+          "ru": "Не знаю точно, где Анна. Может быть, она в библиотеке."
+        },
+        {
+          "en": "He may not know your new address.",
+          "ru": "Возможно, он не знает твой новый адрес."
+        }
+      ]
+    },
+    {
+      "title": "Вывод о процессе: must be doing",
+      "body": "Вывод о действии, которое идёт **прямо сейчас**: **must / might / can't + be + V-ing**.\n\n- He isn't answering — he must be driving.\n- о процессе в прошлом: **must / might / can't + have been + V-ing**",
+      "examples": [
+        {
+          "en": "Listen to that noise upstairs. They must be moving furniture.",
+          "ru": "Послушай этот шум наверху. Наверное, они двигают мебель."
+        },
+        {
+          "en": "Her eyes are red. She might have been crying.",
+          "ru": "У неё красные глаза. Возможно, она плакала."
+        }
+      ]
+    },
+    {
+      "title": "Вывод о прошлом: modal + have + V3",
+      "body": "**must have + V3** — почти уверен, что это было.\n**can't have / couldn't have + V3** — уверен, что этого не было.\n**may / might / could have + V3** — возможно, было.\n\n- после have всегда третья форма: must have gone, не must have went\n- could have + V3 тоже бывает предположением: The fire could have started in the kitchen.",
+      "examples": [
+        {
+          "en": "The ground is wet. It must have rained in the night.",
+          "ru": "Земля мокрая. Наверное, ночью шёл дождь."
+        },
+        {
+          "en": "She can't have seen us — she didn't even look up.",
+          "ru": "Она не могла нас видеть — она даже не подняла глаз."
+        },
+        {
+          "en": "I might have left my keys at the office.",
+          "ru": "Возможно, я оставил ключи в офисе."
+        }
+      ]
+    },
+    {
+      "title": "must have или had to",
+      "body": "**must have + V3** — вывод о прошлом («наверное, было»).\n**had to + V** — обязанность или необходимость в прошлом («пришлось»).\n\nОтрицательный вывод строится через **can't / couldn't**, а не через mustn't.",
+      "examples": [
+        {
+          "en": "The door was open. Someone must have forgotten to lock it.",
+          "ru": "Дверь была открыта. Наверное, кто-то забыл её запереть."
+        },
+        {
+          "en": "The trains weren't running, so we had to take a taxi.",
+          "ru": "Поезда не ходили, поэтому нам пришлось взять такси."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "почти уверен (да) → must + V; уверен (нет) → can't / couldn't + V",
+    "возможно → may / might / could + V; возможно, нет → may not / might not",
+    "процесс сейчас → must / might / can't + be + V-ing",
+    "о прошлом → must / can't / might + have + V3",
+    "must have + V3 = наверное, было; had to + V = пришлось",
+    "mustn't = нельзя, не вывод; can + V для предположения не используют"
+  ],
+  "mistakes": [
+    {
+      "wrong": "He mustn't be at home — his car isn't here.",
+      "right": "He can't be at home — his car isn't here.",
+      "note": "отрицательный вывод — can't; mustn't означает запрет"
+    },
+    {
+      "wrong": "She must have went to bed early.",
+      "right": "She must have gone to bed early.",
+      "note": "после have — третья форма (V3)"
+    },
+    {
+      "wrong": "I'm not sure, but he can be in the office.",
+      "right": "I'm not sure, but he might be in the office.",
+      "note": "предположение о конкретной ситуации — might / may / could, не can"
+    },
+    {
+      "wrong": "The road is wet. It had to rain at night.",
+      "right": "The road is wet. It must have rained at night.",
+      "note": "калька «должно быть, шёл дождь»: вывод о прошлом — must have + V3"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Он, должно быть, устал» о настоящем?",
+      "back": "**must + V**: He must be tired.\nВывод из фактов, говорящий почти уверен."
+    },
+    {
+      "front": "Чем выразить «не может быть, чтобы…»?",
+      "back": "**can't / couldn't + V**: That can't be true.\nmustn't здесь не подходит — это запрет."
+    },
+    {
+      "front": "Как сказать «Возможно, она на совещании»?",
+      "back": "**may / might / could + V**: She might be in a meeting.\ncan для такого предположения не используют."
+    },
+    {
+      "front": "Как сделать вывод о действии, которое идёт сейчас?",
+      "back": "**must / might / can't + be + V-ing**.\nHe's not answering — he must be driving."
+    },
+    {
+      "front": "«Должно быть, он забыл» — как сказать о прошлом?",
+      "back": "**must have + V3**: He must have forgotten.\nОтрицание: He can't have forgotten."
+    },
+    {
+      "front": "Чем «She must have left» отличается от «She had to leave»?",
+      "back": "**must have left** — вывод: наверное, ушла.\n**had to leave** — ей пришлось уйти."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-modals-deduction-p01",
+      "type": "gap",
+      "q": "Sarah has been working on that report since six this morning without a break. She ___ exhausted.",
+      "correct": "must be",
+      "wrong": [
+        "mustn't be",
+        "can't be"
+      ],
+      "hint": "Факты дают основание для уверенного вывода. Вывод положительный или отрицательный?",
+      "explain": "Из фактов следует уверенный вывод о настоящем → must be. can't be значило бы «не может быть», а mustn't — это запрет, а не вывод.",
+      "tr": "Сара работает над этим отчётом с шести утра без перерыва. Она, должно быть, совершенно вымотана."
+    },
+    {
+      "id": "b2-modals-deduction-p02",
+      "type": "gap",
+      "q": "That ___ Ivan's car outside. He sold it last month and now cycles everywhere.",
+      "correct": "can't be",
+      "wrong": [
+        "mustn't be"
+      ],
+      "hint": "Говорящий уверен, что это невозможно. Какой модальный глагол выражает такой вывод?",
+      "explain": "Уверенность в невозможности → can't be. mustn't означает запрет («нельзя») и для логического вывода не используется.",
+      "tr": "Это не может быть машина Ивана. Он продал её в прошлом месяце и теперь везде ездит на велосипеде."
+    },
+    {
+      "id": "b2-modals-deduction-p03",
+      "type": "gap",
+      "q": "I'm not sure where Paul is. He ___ be in the meeting room, but I haven't checked.",
+      "correct": "might",
+      "wrong": [
+        "must",
+        "can"
+      ],
+      "hint": "Говорящий не уверен и ничего не проверял — это лишь предположение.",
+      "explain": "Неуверенное предположение о настоящем → might (так же may или could). must выражает уверенность, а can не используют для предположения о конкретной ситуации.",
+      "tr": "Не знаю точно, где Пол. Возможно, он в переговорной, но я не проверял."
+    },
+    {
+      "id": "b2-modals-deduction-p04",
+      "type": "gap",
+      "q": "Kate left the office by car ten minutes ago and isn't answering her phone. She ___ home right now.",
+      "correct": "must be driving",
+      "wrong": [
+        "must drive",
+        "must have driven",
+        "must to drive"
+      ],
+      "hint": "Вывод касается действия, которое идёт в момент речи (right now).",
+      "explain": "Вывод о процессе прямо сейчас → must + be + V-ing. must drive значило бы «обязана водить», а must have driven — вывод о прошлом.",
+      "tr": "Кейт уехала из офиса на машине десять минут назад и не отвечает на звонки. Наверное, она сейчас едет домой."
+    },
+    {
+      "id": "b2-modals-deduction-p05",
+      "type": "gap",
+      "q": "The streets are wet and there are puddles everywhere. It ___ during the night.",
+      "correct": "must have rained",
+      "wrong": [
+        "must rain",
+        "had to rain",
+        "must be raining"
+      ],
+      "hint": "Вывод делается сейчас, а событие было ночью. Какая конструкция нужна для прошлого?",
+      "explain": "Уверенный вывод о прошлом → must have + V3. had to означает «пришлось», а must rain и must be raining относятся к настоящему.",
+      "tr": "Улицы мокрые, повсюду лужи. Должно быть, ночью шёл дождь."
+    },
+    {
+      "id": "b2-modals-deduction-p06",
+      "type": "gap",
+      "q": "Daniel ___ my email. I've just noticed that I sent it to the wrong address.",
+      "correct": "can't have received",
+      "wrong": [
+        "mustn't have received",
+        "must have received"
+      ],
+      "hint": "Говорящий знает, что произошло, и уверен в результате. Вывод о прошлом положительный или отрицательный?",
+      "explain": "Уверенность, что чего-то не было в прошлом → can't have + V3. mustn't have для вывода не используют, а must have противоречит фактам.",
+      "tr": "Дэниел не мог получить моё письмо. Я только что заметил, что отправил его не на тот адрес."
+    },
+    {
+      "id": "b2-modals-deduction-p07",
+      "type": "gap",
+      "q": "I'm not sure why Lucy didn't come to the party. She ___ about it, or perhaps she was simply too tired.",
+      "correct": "might have forgotten",
+      "wrong": [
+        "must have forgotten"
+      ],
+      "hint": "Говорящий предлагает несколько объяснений и не уверен ни в одном.",
+      "explain": "Одно из возможных объяснений прошлого → might have + V3. must have выражал бы уверенность, а говорящий сам признаёт, что не знает (I'm not sure, or perhaps).",
+      "tr": "Не знаю, почему Люси не пришла на вечеринку. Возможно, она забыла о ней, а может, просто слишком устала."
+    },
+    {
+      "id": "b2-modals-deduction-p08",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Don't phone Anna now. She might be sleeping after her night shift.",
+      "wrong": [
+        "Don't phone Anna now. She might sleeping after her night shift.",
+        "Don't phone Anna now. She might to be sleeping after her night shift.",
+        "Don't phone Anna now. She might is sleeping after her night shift."
+      ],
+      "hint": "После модального глагола идёт инфинитив без to. Как тогда построить форму процесса?",
+      "explain": "Предположение о процессе сейчас → might + be + V-ing. После might не ставят to и личную форму is, а V-ing без be не может быть сказуемым.",
+      "tr": "Не звони Анне сейчас. Возможно, она спит после ночной смены."
+    },
+    {
+      "id": "b2-modals-deduction-p09",
+      "type": "gap",
+      "q": "I sent Jack the file an hour ago, but there's no reply. He ___ it yet, or maybe he's just busy.",
+      "correct": "might not have opened",
+      "wrong": [
+        "can't have opened",
+        "mustn't have opened"
+      ],
+      "hint": "Говорящий не уверен и сразу предлагает другое объяснение. Нужна возможность или уверенность?",
+      "explain": "«Возможно, не…» о прошлом → might not have + V3. can't have означало бы полную уверенность, а mustn't для вывода не используется.",
+      "tr": "Я отправил Джеку файл час назад, но ответа нет. Возможно, он его ещё не открыл, а может, просто занят."
+    },
+    {
+      "id": "b2-modals-deduction-p10",
+      "type": "gap",
+      "q": "Ben's eyes were red this morning. He ___ for his exam until very late last night.",
+      "correct": "must have been studying",
+      "wrong": [
+        "must be studying"
+      ],
+      "hint": "Вывод о длительном процессе, который шёл вчера вечером.",
+      "explain": "Вывод о длительном действии в прошлом (last night) → must have been + V-ing. must be studying относится к настоящему моменту.",
+      "tr": "Сегодня утром у Бена были красные глаза. Наверное, вчера он допоздна готовился к экзамену."
+    },
+    {
+      "id": "b2-modals-deduction-p11",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "It's possible that Mark doesn't know about the meeting.",
+      "correct": "Mark might not know about the meeting.",
+      "wrong": [
+        "Mark can't know about the meeting.",
+        "Mark mustn't know about the meeting."
+      ],
+      "hint": "Речь о возможности, а не об уверенности и не о запрете.",
+      "explain": "It's possible that… not → might not. can't know = точно не может знать, а mustn't know = ему нельзя знать.",
+      "tr": "Возможно, Марк не знает о совещании."
+    },
+    {
+      "id": "b2-modals-deduction-p12",
+      "type": "gap",
+      "q": "Yesterday I ___ a taxi to the airport because the trains weren't running. It cost me forty pounds.",
+      "correct": "had to take",
+      "wrong": [
+        "must have taken"
+      ],
+      "hint": "Говорящий не делает вывод, а вспоминает, что ему пришлось сделать.",
+      "explain": "Необходимость в прошлом → had to + V. must have taken — вывод («наверное, взял»), а говорящий точно знает, что произошло.",
+      "tr": "Вчера мне пришлось взять такси до аэропорта, потому что поезда не ходили. Это обошлось мне в сорок фунтов."
+    },
+    {
+      "id": "b2-modals-deduction-p13",
+      "type": "gap",
+      "q": "The burglar ___ in through this window. It's far too small for an adult to fit through.",
+      "correct": "couldn't have got",
+      "wrong": [
+        "mustn't have got"
+      ],
+      "hint": "Уверенный вывод о прошлом: этого не было. Какой модальный глагол подходит?",
+      "explain": "Уверенность, что чего-то не было → couldn't have + V3 (или can't have). mustn't — запрет, для вывода он не подходит.",
+      "tr": "Грабитель не мог залезть через это окно. Оно слишком маленькое, чтобы через него пролез взрослый."
+    },
+    {
+      "id": "b2-modals-deduction-p14",
+      "type": "gap",
+      "q": "The police aren't sure how the fire started. Someone ___ a cigarette, but it's too early to say.",
+      "correct": "could have dropped",
+      "wrong": [
+        "must have dropped",
+        "could drop",
+        "can have dropped"
+      ],
+      "hint": "Полиция не уверена, а событие уже произошло.",
+      "explain": "Возможное объяснение прошлого → could have + V3. must have — уверенность, could drop — о настоящем или будущем, а can have для предположений не используют.",
+      "tr": "Полиция не знает точно, как начался пожар. Возможно, кто-то уронил сигарету, но пока рано делать выводы."
+    },
+    {
+      "id": "b2-modals-deduction-p15",
+      "type": "pick",
+      "task": "Выберите верное предложение",
+      "q": "",
+      "correct": "You must have been very proud when your daughter graduated.",
+      "wrong": [
+        "You must be very proud when your daughter graduated.",
+        "You had to be very proud when your daughter graduated.",
+        "You must have be very proud when your daughter graduated."
+      ],
+      "hint": "Вывод делается о чувствах в момент события, которое уже произошло.",
+      "explain": "Вывод о прошлом → must have + V3 (been). had to значит «пришлось», а must be не сочетается с прошедшим событием (graduated).",
+      "tr": "Вы, должно быть, очень гордились, когда ваша дочь окончила университет."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-modals-deduction-e01",
+      "type": "gap",
+      "q": "Peter ___ the truth about Friday. He says he was ill at home, but I saw him in town that evening.",
+      "correct": "can't be telling",
+      "wrong": [
+        "mustn't be telling",
+        "must be telling"
+      ],
+      "hint": "Факты противоречат его словам. Какой вывод можно сделать?",
+      "explain": "Уверенность, что этого не происходит → can't + be + V-ing. mustn't означает запрет, а must be telling противоречит фактам.",
+      "tr": "Питер не может говорить правду о пятнице. Он говорит, что болел дома, но я видел его в городе в тот вечер."
+    },
+    {
+      "id": "b2-modals-deduction-e02",
+      "type": "gap",
+      "q": "When Jack opened the door yesterday, his hands were covered in fresh paint. He ___ the kitchen just before I arrived.",
+      "correct": "must have been painting",
+      "wrong": [
+        "must be painting",
+        "can't have been painting"
+      ],
+      "hint": "Вывод о длительном действии, которое шло до прихода говорящего.",
+      "explain": "Уверенный вывод о процессе в прошлом → must have been + V-ing. must be painting относится к настоящему, а can't have противоречит свежей краске на руках.",
+      "tr": "Когда Джек вчера открыл дверь, его руки были в свежей краске. Должно быть, он красил кухню прямо перед моим приходом."
+    },
+    {
+      "id": "b2-modals-deduction-e03",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I'm sure the parcel arrived while we were out.",
+      "correct": "The parcel must have arrived while we were out.",
+      "wrong": [
+        "The parcel had to arrive while we were out.",
+        "The parcel might have arrived while we were out.",
+        "The parcel must arrive while we were out."
+      ],
+      "hint": "Говорящий уверен, и речь о прошлом.",
+      "explain": "I'm sure + прошлое → must have + V3. might have — лишь возможность, had to — необходимость, а must arrive не относится к прошлому.",
+      "tr": "Посылка, должно быть, пришла, пока нас не было."
+    },
+    {
+      "id": "b2-modals-deduction-e04",
+      "type": "pick",
+      "task": "Выберите верное предложение",
+      "q": "",
+      "correct": "Olga hasn't replied to any of my messages. She may not have my new number.",
+      "wrong": [
+        "Olga hasn't replied to any of my messages. She mustn't have my new number.",
+        "Olga hasn't replied to any of my messages. She may not to have my new number."
+      ],
+      "hint": "Это лишь одно из возможных объяснений. Проверьте также форму глагола после модального.",
+      "explain": "«Возможно, не…» → may not + V без to. mustn't означает запрет и для предположений не используется.",
+      "tr": "Ольга не ответила ни на одно моё сообщение. Возможно, у неё нет моего нового номера."
+    },
+    {
+      "id": "b2-modals-deduction-e05",
+      "type": "gap",
+      "q": "A: I think the museum is closed today.\nB: It ___ be. I saw a group of tourists going in ten minutes ago.",
+      "correct": "can't",
+      "wrong": [
+        "mustn't"
+      ],
+      "hint": "B уверен, что A ошибается. Каким глаголом выражают уверенность в невозможности?",
+      "explain": "Уверенность, что это невозможно → can't. mustn't выражает запрет и для логического вывода не используется.",
+      "tr": "— По-моему, музей сегодня закрыт. — Не может быть. Я видел, как туда десять минут назад заходила группа туристов."
+    }
+  ],
+  "glossary": {
+    "address": "адрес",
+    "adult": "взрослый",
+    "airport": "аэропорт",
+    "answering": "отвечая (на звонки)",
+    "burglar": "грабитель, вор-взломщик",
+    "checked": "проверил (3-я форма от check)",
+    "cigarette": "сигарета",
+    "closed": "закрытый",
+    "covered": "покрытый, (covered in) в чём-то",
+    "cycles": "ездит на велосипеде",
+    "door": "дверь",
+    "email": "электронное письмо",
+    "exam": "экзамен",
+    "exhausted": "измотанный, без сил",
+    "eyes": "глаза",
+    "far": "намного, слишком (far too)",
+    "file": "файл",
+    "fire": "пожар",
+    "fit": "пролезть, поместиться (fit through)",
+    "fresh": "свежий",
+    "group": "группа",
+    "hands": "руки (кисти)",
+    "ill": "больной",
+    "kitchen": "кухня",
+    "museum": "музей",
+    "noticed": "заметил (3-я форма от notice)",
+    "opened": "открыл (прош. от open)",
+    "paint": "краска",
+    "parcel": "посылка",
+    "party": "вечеринка",
+    "police": "полиция",
+    "pounds": "фунты (стерлингов)",
+    "puddles": "лужи",
+    "red": "красный",
+    "reply": "ответ",
+    "report": "отчёт",
+    "simply": "просто",
+    "streets": "улицы",
+    "taxi": "такси",
+    "tourists": "туристы",
+    "trains": "поезда",
+    "truth": "правда",
+    "wet": "мокрый",
+    "window": "окно"
+  }
+}

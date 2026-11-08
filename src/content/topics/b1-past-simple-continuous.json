@@ -1,0 +1,452 @@
+{
+  "id": "b1-past-simple-continuous",
+  "level": "B1",
+  "order": 2,
+  "title": "Past Simple vs Past Continuous",
+  "titleRu": "Прошедшее простое и длительное",
+  "summary": "Завершённые действия и процесс в определённый момент прошлого",
+  "source": "Murphy EGIU units 5–6; British Council: Past simple and past continuous",
+  "rules": [
+    {
+      "title": "Past Simple — завершённые действия",
+      "body": "Форма: **V-ed** или вторая форма неправильного глагола (went, saw, bought). Вопрос и отрицание — через **did / didn't + V**: Did you see…? I didn't go.\n\nИспользуем для действий, которые начались и закончились в прошлом, в том числе для цепочки событий одно за другим.\n\n- маркеры: **yesterday, last week, three years ago, in 2019, when I was a child**\n- повторяющиеся действия и подсчёт: **every summer, four times**",
+      "examples": [
+        {
+          "en": "I sold my old car three years ago.",
+          "ru": "Я продал свою старую машину три года назад."
+        },
+        {
+          "en": "Did you see the match last night? — No, I didn't.",
+          "ru": "Ты смотрел вчера матч? — Нет."
+        },
+        {
+          "en": "She got up, had a quick breakfast and left for work.",
+          "ru": "Она встала, быстро позавтракала и ушла на работу."
+        }
+      ]
+    },
+    {
+      "title": "Past Continuous — процесс в момент прошлого",
+      "body": "Форма: **was / were + V-ing** (I/he/she/it **was**, you/we/they **were**). Вопрос: **Were you working…?** Отрицание: **wasn't / weren't + V-ing**.\n\nДействие было в процессе в определённый момент прошлого: началось раньше и ещё не закончилось.\n\n- маркеры: **at 8 pm yesterday, at that moment, this time last week**",
+      "examples": [
+        {
+          "en": "At eight o'clock yesterday evening I was having dinner with colleagues.",
+          "ru": "Вчера в восемь вечера я ужинал с коллегами."
+        },
+        {
+          "en": "What were you doing at ten last night?",
+          "ru": "Что ты делал вчера в десять вечера?"
+        }
+      ]
+    },
+    {
+      "title": "Прерванное действие: when и while",
+      "body": "Длинное действие (**Past Continuous**) прерывается коротким (**Past Simple**).\n\n- **when** + короткое действие: I was cooking **when** the phone rang.\n- **while** + длинное действие: **While** I was cooking, the phone rang.\n\nСравните: When Anna arrived, we **had** dinner — сначала она пришла, потом ужинали. When Anna arrived, we **were having** dinner — ужин уже шёл.",
+      "examples": [
+        {
+          "en": "I was walking to the station when it started to rain.",
+          "ru": "Я шёл на станцию, когда начался дождь."
+        },
+        {
+          "en": "While we were having dinner, the lights went out.",
+          "ru": "Пока мы ужинали, погас свет."
+        }
+      ]
+    },
+    {
+      "title": "Фон рассказа и параллельные действия",
+      "body": "В рассказе **Past Continuous** описывает фон — обстановку, то, что уже происходило. **Past Simple** — события, которые двигают сюжет.\n\nДва длинных действия, которые шли одновременно: **while** + Past Continuous в обеих частях.",
+      "examples": [
+        {
+          "en": "The sun was shining and people were sitting outside the cafés when the storm began.",
+          "ru": "Светило солнце, люди сидели на верандах кафе, когда началась гроза."
+        },
+        {
+          "en": "While I was working, my flatmate was watching TV.",
+          "ru": "Пока я работал, мой сосед по квартире смотрел телевизор."
+        }
+      ]
+    },
+    {
+      "title": "Глаголы состояния и русское «делал»",
+      "body": "Глаголы состояния (**know, want, need, like, believe, understand, realise, belong, seem**) не ставятся в Continuous и в прошлом: **I didn't know**, а не *I wasn't knowing*.\n\nРусское несовершенное «делал» не всегда = Past Continuous. Законченные действия, подсчёт и привычки в прошлом — **Past Simple**.",
+      "examples": [
+        {
+          "en": "At that moment I didn't know what to say.",
+          "ru": "В тот момент я не знал, что сказать."
+        },
+        {
+          "en": "When I was a student, I worked in a café at weekends.",
+          "ru": "Когда я был студентом, я по выходным работал в кафе."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "yesterday / last … / … ago / in 2019 → V-ed / V2; ? и − → did + V",
+    "at 8 pm yesterday / at that moment → was/were + V-ing",
+    "длинное (was/were V-ing) + when + короткое (V2)",
+    "while + was/were V-ing → прерванное или параллельное действие",
+    "фон рассказа → Continuous; события → Simple",
+    "know, want, need, realise → Past Simple, без -ing"
+  ],
+  "mistakes": [
+    {
+      "wrong": "Did you saw him yesterday?",
+      "right": "Did you see him yesterday?",
+      "note": "после did — начальная форма глагола"
+    },
+    {
+      "wrong": "We was watching the news when the lights went out.",
+      "right": "We were watching the news when the lights went out.",
+      "note": "we / you / they → were"
+    },
+    {
+      "wrong": "I wasn't knowing what to do.",
+      "right": "I didn't know what to do.",
+      "note": "know — глагол состояния, без -ing"
+    },
+    {
+      "wrong": "Yesterday I was writing three emails and was calling two clients.",
+      "right": "Yesterday I wrote three emails and called two clients.",
+      "note": "законченные действия с количеством → Past Simple; русское «писал» здесь ≠ was writing"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Какое время, если действие было в процессе вчера в 8 вечера?",
+      "back": "**Past Continuous**: was/were + V-ing.\nAt 8 pm yesterday I was watching a film."
+    },
+    {
+      "front": "Чем отличается «When Anna arrived, we had dinner» от «When Anna arrived, we were having dinner»?",
+      "back": "**had dinner** — сначала она пришла, потом ужинали.\n**were having dinner** — ужин уже шёл, когда она пришла."
+    },
+    {
+      "front": "Как построить вопрос и отрицание в Past Simple?",
+      "back": "**did + V** (начальная форма).\nDid you call him? — No, I didn't call him."
+    },
+    {
+      "front": "Что ставим после while, а что после when в рассказе о прерванном действии?",
+      "back": "**while** + длинное действие (was/were V-ing), **when** + короткое (V2).\nWhile I was cooking, the phone rang. / I was cooking when the phone rang."
+    },
+    {
+      "front": "Как описать фон в начале истории?",
+      "back": "**Past Continuous** — обстановка, **Past Simple** — события.\nIt was raining and people were hurrying home. Then I saw her."
+    },
+    {
+      "front": "«I wasn't knowing» или «I didn't know»?",
+      "back": "**I didn't know** — know глагол состояния, в Continuous не ставится."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-past-simple-continuous-p01",
+      "type": "gap",
+      "q": "A: I called you at nine last night, but you didn't answer. What ___?\nB: Sorry, I was at the gym, and my phone was in my bag.",
+      "correct": "were you doing",
+      "wrong": [
+        "did you do",
+        "you were doing",
+        "was you doing"
+      ],
+      "hint": "Спрашивают о том, что происходило в момент звонка. Проверьте и порядок слов.",
+      "explain": "Вопрос о процессе в конкретный момент прошлого (at nine) → Past Continuous: What were you doing? did you do спрашивало бы о законченном действии; в вопросе вспомогательный глагол стоит перед подлежащим, а для you — were.",
+      "tr": "— Я звонил тебе вчера в девять вечера, но ты не ответил. Что ты делал? — Извини, я был в спортзале, а телефон лежал в сумке."
+    },
+    {
+      "id": "b1-past-simple-continuous-p02",
+      "type": "gap",
+      "q": "We ___ to Kazan in 2019 and bought a small flat near the river.",
+      "correct": "moved",
+      "wrong": [
+        "were moving"
+      ],
+      "hint": "Это законченное событие или процесс в определённый момент?",
+      "explain": "in 2019 и цепочка законченных действий (… and bought) → Past Simple: moved. Past Continuous описывал бы процесс в разгаре в какой-то момент.",
+      "tr": "В 2019 году мы переехали в Казань и купили небольшую квартиру у реки."
+    },
+    {
+      "id": "b1-past-simple-continuous-p03",
+      "type": "gap",
+      "q": "Sarah broke her wrist while she ___ in the mountains last winter.",
+      "correct": "was skiing",
+      "wrong": [
+        "were skiing",
+        "skiing"
+      ],
+      "hint": "После while — длинное действие. Какой вспомогательный глагол нужен для she?",
+      "explain": "while + длинное действие → Past Continuous; для she — was: was skiing. Без вспомогательного глагола форма skiing не может быть сказуемым.",
+      "tr": "Прошлой зимой Сара сломала запястье, когда каталась на лыжах в горах."
+    },
+    {
+      "id": "b1-past-simple-continuous-p04",
+      "type": "gap",
+      "q": "I ___ through the old town when I suddenly heard someone call my name.",
+      "correct": "was walking",
+      "wrong": [
+        "walked"
+      ],
+      "hint": "Какое действие длилось, а какое его прервало?",
+      "explain": "Длинное действие, которое прервало короткое событие (suddenly heard) → Past Continuous: was walking. walked означало бы законченную прогулку, а не процесс.",
+      "tr": "Я шёл по старому городу, когда вдруг услышал, что кто-то зовёт меня по имени."
+    },
+    {
+      "id": "b1-past-simple-continuous-p05",
+      "type": "gap",
+      "q": "While Paul was driving to work, his car suddenly ___ down.",
+      "correct": "broke",
+      "wrong": [
+        "was breaking",
+        "breaks"
+      ],
+      "hint": "Что здесь фон, а что внезапное короткое событие?",
+      "explain": "Короткое событие прерывает процесс → Past Simple: broke down. was breaking описывал бы медленный процесс, а suddenly указывает на мгновенное событие.",
+      "tr": "Пока Пол ехал на работу, его машина вдруг сломалась."
+    },
+    {
+      "id": "b1-past-simple-continuous-p06",
+      "type": "gap",
+      "q": "While Mark ___ the dishes, Anna was helping the children with their homework.",
+      "correct": "was doing",
+      "wrong": [
+        "were doing",
+        "doing",
+        "is doing"
+      ],
+      "hint": "Два процесса шли одновременно. Посмотрите на форму во второй части.",
+      "explain": "Два параллельных процесса с while → Past Continuous в обеих частях; для Mark — was: was doing. is doing — настоящее время, а doing без was не может быть сказуемым.",
+      "tr": "Пока Марк мыл посуду, Анна помогала детям с домашним заданием."
+    },
+    {
+      "id": "b1-past-simple-continuous-p07",
+      "type": "gap",
+      "q": "I ___ anyone at the conference, so I spent the first evening alone in my hotel room.",
+      "correct": "didn't know",
+      "wrong": [
+        "wasn't knowing"
+      ],
+      "hint": "Знать кого-то — это действие или состояние?",
+      "explain": "know — глагол состояния, в Continuous не употребляется → Past Simple: didn't know.",
+      "tr": "Я никого не знал на конференции, поэтому первый вечер провёл один в номере."
+    },
+    {
+      "id": "b1-past-simple-continuous-p08",
+      "type": "gap",
+      "q": "___ the report before the meeting yesterday?",
+      "correct": "Did you finish",
+      "wrong": [
+        "Did you finished",
+        "Have you finished"
+      ],
+      "hint": "Обратите внимание на yesterday и на форму глагола после вспомогательного.",
+      "explain": "yesterday — законченное время → Past Simple: Did you finish. После did глагол стоит в начальной форме, без -ed; Present Perfect с yesterday не сочетается.",
+      "tr": "Ты закончил отчёт вчера до совещания?"
+    },
+    {
+      "id": "b1-past-simple-continuous-p09",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "It was getting dark and the shops were closing when I finally found the hotel.",
+      "wrong": [
+        "It got dark and the shops closed when I was finally finding the hotel.",
+        "It was getting dark and the shops were closing when I was finally finding the hotel."
+      ],
+      "hint": "Где здесь фон, а где короткое событие?",
+      "explain": "Фон (темнело, магазины закрывались) → Past Continuous; короткое событие (нашёл гостиницу) → Past Simple: found.",
+      "tr": "Темнело, магазины закрывались, когда я наконец нашёл гостиницу."
+    },
+    {
+      "id": "b1-past-simple-continuous-p10",
+      "type": "gap",
+      "q": "I ___ to Lisa's birthday party last Saturday because I had a terrible cold.",
+      "correct": "didn't go",
+      "wrong": [
+        "didn't went",
+        "wasn't go",
+        "not went"
+      ],
+      "hint": "Как строится отрицание в Past Simple?",
+      "explain": "Отрицание в Past Simple: didn't + начальная форма → didn't go. После didn't вторая форма (went) не ставится, а was с начальной формой не сочетается.",
+      "tr": "Я не пошёл на день рождения Лизы в прошлую субботу, потому что сильно простудился."
+    },
+    {
+      "id": "b1-past-simple-continuous-p11",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "When Helen got home, her husband cooked dinner.",
+      "correct": "Helen got home, and then her husband started cooking dinner.",
+      "wrong": [
+        "Her husband was already cooking dinner when Helen got home.",
+        "Her husband had cooked dinner before Helen got home."
+      ],
+      "hint": "Past Simple в обеих частях: действия идут одновременно или одно за другим?",
+      "explain": "when + Past Simple в обеих частях — последовательность: сначала Хелен пришла, потом муж готовил. Если бы ужин уже готовился, было бы was cooking.",
+      "tr": "Хелен пришла домой, и тогда её муж начал готовить ужин."
+    },
+    {
+      "id": "b1-past-simple-continuous-p12",
+      "type": "gap",
+      "q": "When I looked out of the window, it ___ heavily, so I took my umbrella.",
+      "correct": "was raining",
+      "wrong": [
+        "rained"
+      ],
+      "hint": "Дождь начался в этот момент или уже шёл?",
+      "explain": "Дождь уже шёл в момент, когда я выглянул, — это фон → Past Continuous: was raining. rained означало бы, что дождь начался именно тогда.",
+      "tr": "Когда я выглянул в окно, шёл сильный дождь, поэтому я взял зонт."
+    },
+    {
+      "id": "b1-past-simple-continuous-p13",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "My parents were watching the news when I got home.",
+      "wrong": [
+        "My parents was watching the news when I got home.",
+        "My parents were watch the news when I got home.",
+        "My parents watching the news when I got home."
+      ],
+      "hint": "Проверьте вспомогательный глагол для parents и форму смыслового глагола.",
+      "explain": "parents — они → were + V-ing: were watching. Без were или без -ing форма Past Continuous неполная.",
+      "tr": "Когда я пришёл домой, родители смотрели новости."
+    },
+    {
+      "id": "b1-past-simple-continuous-p14",
+      "type": "gap",
+      "q": "When the manager came in, everyone ___ talking and looked at her.",
+      "correct": "stopped",
+      "wrong": [
+        "was stopping"
+      ],
+      "hint": "Действия идут одно за другим или одно служит фоном?",
+      "explain": "Короткие действия одно за другим (came in → … → looked) → Past Simple: stopped. was stopping описывал бы длительный процесс.",
+      "tr": "Когда вошла начальница, все замолчали и посмотрели на неё."
+    },
+    {
+      "id": "b1-past-simple-continuous-p15",
+      "type": "gap",
+      "q": "Last summer we ___ to the seaside four times, but it rained almost every time.",
+      "correct": "went",
+      "wrong": [
+        "were going"
+      ],
+      "hint": "Обратите внимание на «four times».",
+      "explain": "Повторяющиеся законченные действия, которые можно сосчитать (four times), → Past Simple: went. Past Continuous для подсчёта раз не используется.",
+      "tr": "Прошлым летом мы четыре раза ездили на море, но почти каждый раз шёл дождь."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-past-simple-continuous-e01",
+      "type": "gap",
+      "q": "A: Why didn't you open the door? I rang three times.\nB: Sorry, I didn't hear the bell because I ___ a shower.",
+      "correct": "was having",
+      "wrong": [
+        "had"
+      ],
+      "hint": "Что происходило в тот момент, когда звонили в дверь?",
+      "explain": "В момент звонка действие было в процессе → Past Continuous: was having. had a shower — законченное событие, оно не объясняет, почему звонок не был слышен.",
+      "tr": "— Почему ты не открыл дверь? Я звонил три раза. — Извини, я не слышал звонка, потому что был в душе."
+    },
+    {
+      "id": "b1-past-simple-continuous-e02",
+      "type": "gap",
+      "q": "Ivan ___ a presentation to the board when the projector suddenly ___ working.",
+      "correct": "was giving / stopped",
+      "wrong": [
+        "gave / was stopping",
+        "was giving / was stopping"
+      ],
+      "hint": "Одно действие длилось, другое его прервало.",
+      "explain": "Длинное действие (презентация) → Past Continuous: was giving; короткое событие, которое его прервало, → Past Simple: stopped.",
+      "tr": "Иван проводил презентацию для совета директоров, когда проектор вдруг перестал работать."
+    },
+    {
+      "id": "b1-past-simple-continuous-e03",
+      "type": "gap",
+      "q": "When I first met Daniel, I ___ he was the new director, so I spoke to him quite informally.",
+      "correct": "didn't realise",
+      "wrong": [
+        "wasn't realising",
+        "didn't realised",
+        "not realised"
+      ],
+      "hint": "Понимать, осознавать — действие или состояние? И как строится отрицание?",
+      "explain": "realise — глагол состояния, в Continuous не ставится; отрицание в Past Simple: didn't + начальная форма → didn't realise.",
+      "tr": "Когда я впервые встретил Дэниела, я не понял, что он новый директор, поэтому говорил с ним довольно неформально."
+    },
+    {
+      "id": "b1-past-simple-continuous-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "What were you doing when the storm began?",
+      "wrong": [
+        "What was you doing when the storm began?",
+        "What you were doing when the storm began?",
+        "What did you doing when the storm began?"
+      ],
+      "hint": "Вопрос о процессе в момент события. Проверьте вспомогательный глагол и порядок слов.",
+      "explain": "Процесс в момент события → Past Continuous: What were you doing…? Для you — were, вспомогательный глагол стоит перед подлежащим, а did с -ing не сочетается.",
+      "tr": "Что вы делали, когда началась буря?"
+    },
+    {
+      "id": "b1-past-simple-continuous-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Lucy was writing an email when her boss called her into his office.",
+      "correct": "Lucy started the email, but her boss called her in before she finished it.",
+      "wrong": [
+        "Lucy wrote the email after her boss called her into his office.",
+        "Lucy finished the email, and then her boss called her into his office."
+      ],
+      "hint": "Past Continuous + when + Past Simple: процесс был закончен или прерван?",
+      "explain": "was writing … when … called — процесс прерван: письмо ещё не было дописано, когда начальник её вызвал.",
+      "tr": "Люси начала писать письмо, но начальник вызвал её к себе раньше, чем она его закончила."
+    }
+  ],
+  "glossary": {
+    "alone": "один, в одиночестве",
+    "bag": "сумка",
+    "bell": "дверной звонок",
+    "birthday": "день рождения",
+    "board": "совет директоров",
+    "cold": "простуда",
+    "conference": "конференция",
+    "cooked": "готовил (прош. от cook)",
+    "dinner": "ужин",
+    "director": "директор",
+    "dishes": "посуда; (do the dishes) мыть посуду",
+    "door": "дверь",
+    "driving": "ведя машину, едучи (-ing от drive)",
+    "email": "электронное письмо",
+    "flat": "квартира",
+    "gym": "спортзал",
+    "heavily": "сильно (о дожде)",
+    "helping": "помогая (-ing от help)",
+    "homework": "домашнее задание",
+    "hotel": "гостиница, отель",
+    "informally": "неформально",
+    "Kazan": "Казань",
+    "manager": "руководитель, менеджер",
+    "mountains": "горы",
+    "name": "имя",
+    "party": "вечеринка, праздник",
+    "presentation": "презентация",
+    "projector": "проектор",
+    "rained": "шёл дождь (прош. от rain)",
+    "rang": "звонил (прош. от ring)",
+    "report": "отчёт",
+    "river": "река",
+    "seaside": "море, морское побережье",
+    "shower": "душ",
+    "sorry": "извини(те)",
+    "talking": "разговаривать (stop talking — замолчать)",
+    "terrible": "ужасный",
+    "umbrella": "зонт",
+    "window": "окно",
+    "wrist": "запястье",
+    "writing": "писала (-ing от write)"
+  }
+}

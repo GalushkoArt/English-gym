@@ -1,0 +1,503 @@
+{
+  "id": "c1-advanced-linking",
+  "level": "C1",
+  "order": 12,
+  "title": "Formal linking and cohesion",
+  "titleRu": "Формальные связки и логика текста",
+  "summary": "nevertheless, albeit, owing to, hence, in that, lest и другие связки",
+  "source": "Murphy AGIU units 101–107; Cambridge Grammar of English: linking adjuncts",
+  "rules": [
+    {
+      "title": "Уступка и контраст",
+      "body": "- **nevertheless / nonetheless** — наречия «тем не менее»: начинают предложение или стоят после точки с запятой, обычно с запятой: The plan is risky; nevertheless, we'll try it. Могут стоять и внутри: It is, nonetheless, a good result.\n- **notwithstanding + существительное** — формальный предлог «несмотря на»: Notwithstanding the risks, …\n- **albeit + прилагательное / наречие / оборот без глагола** — «хотя и»: a small, albeit important, change; albeit slowly\n- **whereas + придаточное** — противопоставление двух фактов: He prefers the city, whereas his wife loves the countryside.",
+      "examples": [
+        {
+          "en": "The results were disappointing; nevertheless, the team decided to continue.",
+          "ru": "Результаты разочаровали; тем не менее команда решила продолжать."
+        },
+        {
+          "en": "Notwithstanding the cost, the council approved the project.",
+          "ru": "Несмотря на стоимость, совет одобрил проект."
+        },
+        {
+          "en": "Prices are falling, albeit slowly.",
+          "ru": "Цены снижаются, хотя и медленно."
+        }
+      ]
+    },
+    {
+      "title": "Причина: owing to, due to, given, in view of, on the grounds that",
+      "body": "Решает то, что идёт после связки — **существительное** или **придаточное** (подлежащее + глагол).\n\n- **owing to / due to / in view of + существительное**: owing to a strike\n- **due to the fact that / owing to the fact that + придаточное**\n- **given + существительное** или **given that + придаточное**\n- **on the grounds that + придаточное**, **on the grounds of + существительное** — «на том основании, что»\n\nНЕ because the fact that, НЕ in view that.",
+      "examples": [
+        {
+          "en": "The concert was cancelled owing to the singer's illness.",
+          "ru": "Концерт отменили из-за болезни певицы."
+        },
+        {
+          "en": "Given that he has no experience, his salary is surprisingly high.",
+          "ru": "Учитывая, что у него нет опыта, его зарплата удивительно высокая."
+        },
+        {
+          "en": "She was dismissed on the grounds that she had broken the rules.",
+          "ru": "Её уволили на том основании, что она нарушила правила."
+        }
+      ]
+    },
+    {
+      "title": "Следствие: hence, thus, therefore",
+      "body": "- **therefore / thus + придаточное**: Costs rose; therefore, prices went up.\n- **hence + существительное** (без глагола): The road was closed; hence the delay.\n\n**hence** = «отсюда, этим и объясняется». therefore и thus с одним существительным без глагола не употребляются.",
+      "examples": [
+        {
+          "en": "The data was incomplete; therefore, the results cannot be trusted.",
+          "ru": "Данные были неполными; поэтому результатам нельзя доверять."
+        },
+        {
+          "en": "The company changed its owner last year — hence the new name.",
+          "ru": "В прошлом году у компании сменился владелец — отсюда и новое название."
+        }
+      ]
+    },
+    {
+      "title": "Уточнение: in that, insofar as, inasmuch as, whereby",
+      "body": "- **in that + придаточное** — «в том смысле, что; тем, что»: The job is ideal in that it is close to home.\n- **insofar as / inasmuch as + придаточное** — «в той мере, в какой; поскольку»: The law applies only insofar as the work is paid.\n- **whereby** — «посредством которого, по которому»; относится к существительному (system, scheme, agreement): a system whereby students can borrow laptops.",
+      "examples": [
+        {
+          "en": "The new design is better in that it uses less material.",
+          "ru": "Новый дизайн лучше тем, что требует меньше материала."
+        },
+        {
+          "en": "They signed an agreement whereby both sides would share the costs.",
+          "ru": "Они подписали соглашение, по которому обе стороны делят расходы."
+        }
+      ]
+    },
+    {
+      "title": "Опасение: lest, for fear of, for fear that",
+      "body": "- **lest + (should) + инфинитив без to** — формально «чтобы не»: lest anyone (should) forget\n- **for fear of + V-ing / существительное**: for fear of losing his job\n- **for fear that + придаточное** (обычно с might / would / should): for fear that the files might be stolen\n\nНЕ for fear to …, НЕ lest + V-ing.",
+      "examples": [
+        {
+          "en": "He wrote everything down lest he should forget the details.",
+          "ru": "Он всё записал, чтобы не забыть подробности."
+        },
+        {
+          "en": "Many people stay silent for fear of losing their jobs.",
+          "ru": "Многие молчат из страха потерять работу."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "nevertheless / nonetheless → «тем не менее», после ; или в начале предложения",
+    "notwithstanding / owing to / due to / in view of + сущ.",
+    "given + сущ. / given that + S + V; on the grounds that + S + V",
+    "albeit + adj / adv без глагола: a small, albeit useful, change",
+    "hence + сущ. (hence the delay); therefore / thus + S + V",
+    "lest + (should) V; for fear of + V-ing; for fear that + S + might V; whereby = by which"
+  ],
+  "mistakes": [
+    {
+      "wrong": "The flight was delayed because the fact that the pilot was ill.",
+      "right": "The flight was delayed due to the fact that the pilot was ill.",
+      "note": "the fact that присоединяется через due to / owing to (или because of)"
+    },
+    {
+      "wrong": "Costs rose sharply; therefore the price increase.",
+      "right": "Costs rose sharply; hence the price increase.",
+      "note": "therefore требует придаточного; с одним существительным — hence"
+    },
+    {
+      "wrong": "Notwithstanding the plan is risky, we'll go ahead.",
+      "right": "Notwithstanding the risks, we'll go ahead.",
+      "note": "notwithstanding — предлог: после него существительное, а не придаточное"
+    },
+    {
+      "wrong": "He said nothing for fear to lose his job.",
+      "right": "He said nothing for fear of losing his job.",
+      "note": "for fear of + V-ing"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Что идёт после notwithstanding и после nevertheless?",
+      "back": "**notwithstanding + сущ.**: Notwithstanding the risks, …\n**nevertheless** — наречие: …; nevertheless, we agreed."
+    },
+    {
+      "front": "Как сказать «небольшое, хотя и важное, изменение»?",
+      "back": "**albeit + прилагательное**: a small, albeit important, change."
+    },
+    {
+      "front": "hence или therefore: «The road was closed; ___ the delay»?",
+      "back": "**hence** — перед существительным без глагола.\ntherefore — перед придаточным."
+    },
+    {
+      "front": "Как сказать «на том основании, что…»?",
+      "back": "**on the grounds that + S + V**.\nС существительным — on the grounds of."
+    },
+    {
+      "front": "Что значит in that в «The plan is risky in that it relies on one supplier»?",
+      "back": "**in that** = в том смысле, что; тем, что.\nУточняет, в чём именно состоит признак."
+    },
+    {
+      "front": "Как сказать «из страха потерять работу»?",
+      "back": "**for fear of losing** his job.\nС придаточным: for fear that he might lose his job."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-advanced-linking-p01",
+      "type": "gap",
+      "q": "The new treatment is expensive; ___, many hospitals have already adopted it.",
+      "correct": "nevertheless",
+      "wrong": [
+        "albeit",
+        "whereas",
+        "in that"
+      ],
+      "hint": "После пропуска стоит запятая и полное предложение. Нужно наречие со значением «тем не менее».",
+      "explain": "nevertheless — наречие, которое после точки с запятой начинает новое предложение. albeit не вводит предложение с глаголом, а whereas и in that — союзы, их не отделяют запятой от придаточного.",
+      "tr": "Новый метод лечения дорогой; тем не менее многие больницы уже его внедрили."
+    },
+    {
+      "id": "c1-advanced-linking-p02",
+      "type": "gap",
+      "q": "___ the recent fall in sales, the company expects to report a profit this year.",
+      "correct": "Notwithstanding",
+      "wrong": [
+        "Nevertheless",
+        "Whereas",
+        "Albeit"
+      ],
+      "hint": "После пропуска — только существительное (the recent fall), без глагола. Нужен предлог.",
+      "explain": "notwithstanding — формальный предлог «несмотря на» + существительное. Nevertheless — наречие, Whereas требует придаточного, а Albeit не присоединяет существительное.",
+      "tr": "Несмотря на недавнее падение продаж, компания рассчитывает отчитаться о прибыли в этом году."
+    },
+    {
+      "id": "c1-advanced-linking-p03",
+      "type": "gap",
+      "q": "The economy is growing again, ___ more slowly than the government had predicted.",
+      "correct": "albeit",
+      "wrong": [
+        "whereas",
+        "notwithstanding"
+      ],
+      "hint": "После пропуска нет подлежащего и глагола — только наречие more slowly.",
+      "explain": "albeit + наречие / прилагательное без глагола = «хотя и»: albeit more slowly. whereas требует придаточного, а notwithstanding — существительного.",
+      "tr": "Экономика снова растёт, хотя и медленнее, чем прогнозировало правительство."
+    },
+    {
+      "id": "c1-advanced-linking-p04",
+      "type": "gap",
+      "q": "My first job was in a small family firm, ___ my current employer has over ten thousand staff.",
+      "correct": "whereas",
+      "wrong": [
+        "nevertheless"
+      ],
+      "hint": "Противопоставляются два факта, и после запятой идёт придаточное. Нужен союз.",
+      "explain": "whereas — союз, противопоставляющий два факта: small firm ↔ ten thousand staff. nevertheless — наречие, оно не соединяет два предложения через запятую и выражает уступку, а не сравнение.",
+      "tr": "Моя первая работа была в небольшой семейной фирме, а у моего нынешнего работодателя больше десяти тысяч сотрудников."
+    },
+    {
+      "id": "c1-advanced-linking-p05",
+      "type": "gap",
+      "q": "Dozens of flights were cancelled ___ a strike by air traffic controllers.",
+      "correct": "owing to",
+      "wrong": [
+        "in that",
+        "on the grounds that",
+        "whereas"
+      ],
+      "hint": "После пропуска — существительное (a strike), а не придаточное.",
+      "explain": "owing to + существительное = «из-за». in that, on the grounds that и whereas — союзы, после них нужно подлежащее и глагол.",
+      "tr": "Десятки рейсов отменили из-за забастовки авиадиспетчеров."
+    },
+    {
+      "id": "c1-advanced-linking-p06",
+      "type": "gap",
+      "q": "The project was delayed ___ the fact that two key suppliers went out of business.",
+      "correct": "due to",
+      "wrong": [
+        "because"
+      ],
+      "hint": "the fact that — существительное. Нужен предлог, а не союз.",
+      "explain": "due to the fact that — устойчивая формальная связка: предлог due to + the fact. Союз because не присоединяет существительное; было бы нужно because of.",
+      "tr": "Проект задержали из-за того, что два ключевых поставщика обанкротились."
+    },
+    {
+      "id": "c1-advanced-linking-p07",
+      "type": "gap",
+      "q": "___ that most of our clients are based in Asia, it makes sense to open an office in Singapore.",
+      "correct": "Given",
+      "wrong": [
+        "In view"
+      ],
+      "hint": "Какая связка со значением «учитывая» сочетается с that и придаточным?",
+      "explain": "Given that + придаточное = «учитывая, что». In view требует of + существительное (in view of the fact that); In view that — ошибка.",
+      "tr": "Учитывая, что большинство наших клиентов находятся в Азии, имеет смысл открыть офис в Сингапуре."
+    },
+    {
+      "id": "c1-advanced-linking-p08",
+      "type": "gap",
+      "q": "___ the seriousness of the allegations, the board has suspended the director until further notice.",
+      "correct": "In view of",
+      "wrong": [
+        "In that",
+        "Whereas",
+        "Insofar as"
+      ],
+      "hint": "После пропуска — существительное (the seriousness), а не придаточное.",
+      "explain": "In view of + существительное = «ввиду, учитывая». In that, Whereas и Insofar as — союзы, они требуют подлежащего и глагола.",
+      "tr": "Ввиду серьёзности обвинений совет директоров отстранил директора до дальнейшего уведомления."
+    },
+    {
+      "id": "c1-advanced-linking-p09",
+      "type": "gap",
+      "q": "The council rejected the plans ___ the new building would block light to nearby homes.",
+      "correct": "on the grounds that",
+      "wrong": [
+        "on the grounds of",
+        "owing to",
+        "in view of"
+      ],
+      "hint": "После пропуска — полное предложение с подлежащим и глаголом (would block).",
+      "explain": "on the grounds that + придаточное = «на том основании, что». on the grounds of, owing to и in view of присоединяют только существительное.",
+      "tr": "Совет отклонил проект на том основании, что новое здание будет загораживать свет соседним домам."
+    },
+    {
+      "id": "c1-advanced-linking-p10",
+      "type": "gap",
+      "q": "The study is unusual ___ it followed the same patients for over thirty years.",
+      "correct": "in that",
+      "wrong": [
+        "whereby",
+        "on the grounds of"
+      ],
+      "hint": "Нужна связка, которая уточняет, чем именно исследование необычно, и вводит придаточное.",
+      "explain": "in that + придаточное = «тем, что; в том смысле, что». whereby относится к существительному вроде system или scheme, а on the grounds of требует существительного.",
+      "tr": "Это исследование необычно тем, что одних и тех же пациентов наблюдали более тридцати лет."
+    },
+    {
+      "id": "c1-advanced-linking-p11",
+      "type": "gap",
+      "q": "The new rules apply to freelancers only ___ they work more than twenty hours a week for a single client.",
+      "correct": "insofar as",
+      "wrong": [
+        "in view of"
+      ],
+      "hint": "После пропуска — придаточное. Смысл: «в той мере, в какой».",
+      "explain": "insofar as + придаточное = «в той мере, в какой; лишь постольку, поскольку». in view of присоединяет только существительное.",
+      "tr": "Новые правила распространяются на фрилансеров лишь в той мере, в какой они работают на одного клиента более двадцати часов в неделю."
+    },
+    {
+      "id": "c1-advanced-linking-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Two of our engineers are off sick; hence the delay.",
+      "wrong": [
+        "Two of our engineers are off sick; therefore the delay.",
+        "Two of our engineers are off sick; owing to the delay."
+      ],
+      "hint": "Во второй части нет глагола — только существительное. Какая связка «отсюда» с ним сочетается?",
+      "explain": "hence + существительное = «отсюда и…»: hence the delay. therefore требует полного предложения, а owing to the delay переворачивает смысл: задержка оказывается причиной.",
+      "tr": "Двое наших инженеров на больничном — отсюда и задержка."
+    },
+    {
+      "id": "c1-advanced-linking-p13",
+      "type": "gap",
+      "q": "Energy costs rose by forty per cent last year; ___, the company has decided to close two of its factories.",
+      "correct": "therefore",
+      "wrong": [
+        "owing to"
+      ],
+      "hint": "Вторая часть — полное предложение-следствие с подлежащим и глаголом.",
+      "explain": "therefore + придаточное — следствие: «поэтому компания решила…». owing to — предлог причины, ему нужно существительное.",
+      "tr": "В прошлом году расходы на энергию выросли на сорок процентов, поэтому компания решила закрыть два своих завода."
+    },
+    {
+      "id": "c1-advanced-linking-p14",
+      "type": "gap",
+      "q": "Staff were told not to discuss the merger lest anyone outside the company ___ about it too early.",
+      "correct": "should hear",
+      "wrong": [
+        "would hear"
+      ],
+      "hint": "Какая форма глагола традиционно используется после lest?",
+      "explain": "lest + should + инфинитив (или просто инфинитив без to) = «чтобы не». would после lest не употребляется.",
+      "tr": "Сотрудникам велели не обсуждать слияние, чтобы никто за пределами компании не узнал о нём раньше времени."
+    },
+    {
+      "id": "c1-advanced-linking-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "She didn't mention the problem for fear of upsetting her manager.",
+      "wrong": [
+        "She didn't mention the problem for fear to upset her manager.",
+        "She didn't mention the problem for fear that upsetting her manager."
+      ],
+      "hint": "for fear of / for fear that: после какого из них нужен глагол с -ing?",
+      "explain": "for fear of + V-ing = «из страха (сделать что-то)». for fear to + V не существует, а for fear that требует полного придаточного с подлежащим.",
+      "tr": "Она не упомянула о проблеме, боясь расстроить начальника."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-advanced-linking-e01",
+      "type": "gap",
+      "q": "The firm has introduced a scheme ___ employees can buy company shares at a discount.",
+      "correct": "whereby",
+      "wrong": [
+        "in that",
+        "whereas",
+        "albeit"
+      ],
+      "hint": "Пропуск относится к слову scheme: «схема, по которой…».",
+      "explain": "whereby = by which: a scheme whereby employees can buy shares. in that не бывает относительным словом после существительного, whereas противопоставляет факты, а albeit не вводит придаточное.",
+      "tr": "Фирма ввела программу, по которой сотрудники могут покупать акции компании со скидкой."
+    },
+    {
+      "id": "c1-advanced-linking-e02",
+      "type": "gap",
+      "q": "The evidence is incomplete. It is, ___, strong enough to justify further research.",
+      "correct": "nonetheless",
+      "wrong": [
+        "whereas",
+        "albeit"
+      ],
+      "hint": "Нужно наречие «тем не менее», которое может стоять внутри предложения между запятыми.",
+      "explain": "nonetheless — наречие, его можно поставить в середину предложения: It is, nonetheless, strong enough. whereas — союз, а albeit не стоит отдельно между запятыми.",
+      "tr": "Доказательства неполные. Тем не менее их достаточно, чтобы обосновать дальнейшие исследования."
+    },
+    {
+      "id": "c1-advanced-linking-e03",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The two cases are similar inasmuch as both involve the misuse of public funds.",
+      "correct": "The two cases are similar in the sense that both involve the misuse of public funds.",
+      "wrong": [
+        "The two cases are similar, although only one of them involves the misuse of public funds.",
+        "The two cases involve so much public money that they are almost identical."
+      ],
+      "hint": "inasmuch as уточняет, в чём именно состоит сходство.",
+      "explain": "inasmuch as = in that, in the sense that: дела похожи тем, что в обоих речь о нецелевом использовании государственных средств.",
+      "tr": "Эти два дела похожи в том смысле, что оба связаны с нецелевым использованием государственных средств."
+    },
+    {
+      "id": "c1-advanced-linking-e04",
+      "type": "gap",
+      "q": "___ the current economic climate, few investors are willing to take serious risks.",
+      "correct": "Given",
+      "wrong": [
+        "Given that"
+      ],
+      "hint": "После пропуска — существительное (the current economic climate), глагола нет.",
+      "explain": "Given + существительное = «учитывая». Given that требует придаточного с подлежащим и глаголом.",
+      "tr": "Учитывая нынешнюю экономическую ситуацию, мало кто из инвесторов готов идти на серьёзный риск."
+    },
+    {
+      "id": "c1-advanced-linking-e05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "He kept the documents in a safe for fear that they might be stolen.",
+      "wrong": [
+        "He kept the documents in a safe for fear of they might be stolen.",
+        "He kept the documents in a safe for fear to be stolen.",
+        "He kept the documents in a safe for fearing that they might be stolen."
+      ],
+      "hint": "После пропуска-связки здесь идёт полное придаточное they might be stolen.",
+      "explain": "for fear that + придаточное (часто с might) = «из опасения, что». for fear of требует V-ing или существительного, а for fear to и for fearing that неграмматичны.",
+      "tr": "Он хранил документы в сейфе, опасаясь, что их могут украсть."
+    }
+  ],
+  "glossary": {
+    "adopted": "внедрили (3-я форма от adopt)",
+    "air": "воздушный; air traffic controllers — авиадиспетчеры",
+    "allegations": "обвинения",
+    "apply": "распространяться на, касаться",
+    "Asia": "Азия",
+    "based": "(be based in) находиться, базироваться",
+    "block": "загораживать",
+    "board": "совет директоров",
+    "building": "здание",
+    "business": "бизнес; go out of business — обанкротиться",
+    "cancelled": "отменены (3-я форма от cancel)",
+    "cases": "дела (судебные)",
+    "cent": "(per cent) процент",
+    "client": "клиент",
+    "clients": "клиенты",
+    "climate": "климат; economic climate — экономическая ситуация",
+    "controllers": "диспетчеры",
+    "costs": "расходы, затраты",
+    "council": "местный совет, муниципалитет",
+    "current": "нынешний, текущий",
+    "delayed": "задержан (3-я форма от delay)",
+    "director": "директор",
+    "discount": "скидка",
+    "discuss": "обсуждать",
+    "dozens": "десятки",
+    "economic": "экономический",
+    "economy": "экономика",
+    "employees": "сотрудники",
+    "employer": "работодатель",
+    "energy": "энергия",
+    "evidence": "доказательства",
+    "expects": "рассчитывает (3-е л. от expect)",
+    "fact": "факт; the fact that — то, что",
+    "factories": "заводы, фабрики",
+    "firm": "фирма",
+    "flights": "рейсы",
+    "followed": "наблюдало, отслеживало (прош. от follow)",
+    "freelancers": "фрилансеры",
+    "funds": "средства, фонды",
+    "further": "дальнейший",
+    "government": "правительство",
+    "growing": "растёт (-ing от grow)",
+    "homes": "дома, жилища",
+    "hospitals": "больницы",
+    "inasmuch": "(inasmuch as) в том смысле, что; поскольку",
+    "incomplete": "неполный",
+    "introduced": "ввела (3-я форма от introduce)",
+    "investors": "инвесторы",
+    "involve": "касаться, быть связанным с",
+    "justify": "оправдать, обосновать",
+    "key": "ключевой",
+    "lest": "чтобы не (формальн.)",
+    "light": "свет",
+    "merger": "слияние (компаний)",
+    "misuse": "злоупотребление, нецелевое использование",
+    "nearby": "соседний, близлежащий",
+    "notice": "уведомление; until further notice — до дальнейшего уведомления",
+    "patients": "пациенты",
+    "plans": "проект, планы (строительства)",
+    "predicted": "прогнозировало (3-я форма от predict)",
+    "profit": "прибыль",
+    "project": "проект",
+    "public": "государственный, общественный",
+    "recent": "недавний",
+    "rejected": "отклонил (прош. от reject)",
+    "report": "отчитаться о",
+    "research": "исследования",
+    "risks": "риски",
+    "rules": "правила",
+    "sales": "продажи",
+    "scheme": "программа, схема",
+    "sense": "смысл; in the sense that — в том смысле, что",
+    "serious": "серьёзный",
+    "seriousness": "серьёзность",
+    "shares": "акции",
+    "similar": "похожий, сходный",
+    "Singapore": "Сингапур",
+    "single": "один, единственный",
+    "slowly": "медленно",
+    "staff": "сотрудники, персонал",
+    "strike": "забастовка",
+    "strong": "сильный, убедительный",
+    "suppliers": "поставщики",
+    "suspended": "отстранил (3-я форма от suspend)",
+    "traffic": "движение; air traffic controllers — авиадиспетчеры",
+    "treatment": "лечение, метод лечения",
+    "unusual": "необычный",
+    "willing": "готовый (что-то сделать)"
+  }
+}

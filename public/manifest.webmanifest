@@ -1,0 +1,11 @@
+{
+  "name": "English Gym — тренажёр грамматики",
+  "short_name": "English Gym",
+  "description": "Тренажёр английской грамматики B1–C1 для русскоязычных",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#14171f",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}

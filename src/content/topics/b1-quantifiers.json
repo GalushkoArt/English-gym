@@ -1,0 +1,483 @@
+{
+  "id": "b1-quantifiers",
+  "level": "B1",
+  "order": 10,
+  "title": "Quantifiers: some, any, much, many, few, little",
+  "titleRu": "Квантификаторы и исчисляемость",
+  "summary": "Исчисляемое и неисчисляемое: some, any, much, many, few, enough",
+  "source": "Murphy EGIU units 68–69, 85–88, 102–103; British Council: Quantifiers",
+  "rules": [
+    {
+      "title": "Исчисляемые и неисчисляемые",
+      "body": "**Исчисляемые** можно посчитать: a job, two jobs, many jobs.\n\n**Неисчисляемые** — без a/an, без -s, глагол в единственном числе. Многие из них в русском исчисляемые:\n- **advice** (советы), **information** (сведения), **news** (новости: The news **is** good)\n- **furniture** (мебель), **luggage** (багаж), **equipment** (оборудование)\n- **research** (исследования), **work** (работа), **traffic**, **money**, **homework**\n\nЧтобы посчитать: **a piece of** advice / news / furniture.",
+      "examples": [
+        {
+          "en": "Can you give me some advice?",
+          "ru": "Можешь дать мне совет?"
+        },
+        {
+          "en": "The news was a shock to everyone.",
+          "ru": "Новость стала для всех шоком."
+        },
+        {
+          "en": "We bought two pieces of furniture for the hall.",
+          "ru": "Мы купили два предмета мебели для прихожей."
+        }
+      ]
+    },
+    {
+      "title": "some / any / no",
+      "body": "- **some** — в утвердительных предложениях: I've bought some bread.\n- **any** — в вопросах и отрицаниях: Have you got any questions? There isn't any milk.\n- **some** в вопросах-**предложениях** и **просьбах**, когда ждём ответа «да»: Would you like some tea? Could I have some water?\n- **no** = not any: There's **no** milk = There isn't **any** milk. Двойного отрицания нет: не «There isn't no milk».",
+      "examples": [
+        {
+          "en": "Would you like some coffee?",
+          "ru": "Хотите кофе?"
+        },
+        {
+          "en": "We haven't got any bread left.",
+          "ru": "У нас не осталось хлеба."
+        },
+        {
+          "en": "There are no buses after midnight.",
+          "ru": "После полуночи автобусов нет."
+        }
+      ]
+    },
+    {
+      "title": "much / many / a lot of",
+      "body": "- **many** + исчисляемые во множественном числе: many people, how many times\n- **much** + неисчисляемые: much time, how much money\n- **a lot of / lots of** — с любыми существительными\n\nВ утвердительных предложениях обычно говорят **a lot of**; **much** и **many** чаще встречаются в вопросах и отрицаниях: She earns a lot of money. — She doesn't earn much money.",
+      "examples": [
+        {
+          "en": "How much homework do you usually get?",
+          "ru": "Сколько вам обычно задают на дом?"
+        },
+        {
+          "en": "There weren't many people at the meeting.",
+          "ru": "На встрече было немного людей."
+        },
+        {
+          "en": "We've got lots of time.",
+          "ru": "У нас полно времени."
+        }
+      ]
+    },
+    {
+      "title": "a few / few, a little / little",
+      "body": "- **a few** + исчисляемые, **a little** + неисчисляемые = **немного, несколько** (и этого хватает)\n- **few / little** без a = **мало, почти нет** (и это плохо)\n\nI have **a few** friends here — у меня тут есть несколько друзей.\nI have **few** friends here — у меня тут мало друзей.\n\nВ разговорной речи вместо few / little часто говорят **not many / not much** или **very few / very little**.",
+      "examples": [
+        {
+          "en": "We still have a little time, so let's have a coffee.",
+          "ru": "У нас ещё есть немного времени, давай выпьем кофе."
+        },
+        {
+          "en": "Very few people came to the talk.",
+          "ru": "На лекцию пришло очень мало людей."
+        },
+        {
+          "en": "She speaks a little French.",
+          "ru": "Она немного говорит по-французски."
+        }
+      ]
+    },
+    {
+      "title": "too much / too many / enough / plenty of",
+      "body": "- **too much** + неисчисляемые, **too many** + исчисляемые: too much traffic, too many cars\n- **too** + прилагательное: too expensive (без much)\n- **enough** + существительное: enough time, enough chairs\n- прилагательное + **enough**: old enough, big enough\n- **plenty of** = более чем достаточно: There's plenty of food.",
+      "examples": [
+        {
+          "en": "There are too many cars in the city centre.",
+          "ru": "В центре города слишком много машин."
+        },
+        {
+          "en": "This flat isn't big enough for us.",
+          "ru": "Эта квартира для нас недостаточно большая."
+        },
+        {
+          "en": "Don't worry, we've got plenty of time.",
+          "ru": "Не волнуйся, у нас полно времени."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "advice, information, news, furniture, luggage, equipment, research → без a/an и -s",
+    "some — утверждение, предложение, просьба; any — вопрос, отрицание; no = not any",
+    "many + исчисл. мн. ч.; much + неисчисл.; a lot of — с обоими",
+    "a few / a little = немного (хватает); few / little = мало (не хватает)",
+    "too much + неисчисл.; too many + исчисл.; too + прилагательное",
+    "enough + сущ.; прилаг. + enough; plenty of = с избытком"
+  ],
+  "mistakes": [
+    {
+      "wrong": "Can you give me an advice?",
+      "right": "Can you give me some advice?",
+      "note": "advice неисчисляемое; один совет — a piece of advice"
+    },
+    {
+      "wrong": "The news are good.",
+      "right": "The news is good.",
+      "note": "news — неисчисляемое, глагол в единственном числе"
+    },
+    {
+      "wrong": "There are too much cars in the centre.",
+      "right": "There are too many cars in the centre.",
+      "note": "cars — исчисляемое, поэтому many"
+    },
+    {
+      "wrong": "She isn't enough old to drive.",
+      "right": "She isn't old enough to drive.",
+      "note": "enough ставится после прилагательного"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «один совет», «одна новость»?",
+      "back": "advice и news неисчисляемые: **a piece of advice**, **a piece of news**."
+    },
+    {
+      "front": "some или any в просьбе «Можно мне воды?»",
+      "back": "**some**: Could I have some water, please?\nВ просьбах и предложениях ждём ответа «да»."
+    },
+    {
+      "front": "Чем отличается «I have a few friends here» от «I have few friends here»?",
+      "back": "**a few** — несколько, и это неплохо.\n**few** — мало, почти нет."
+    },
+    {
+      "front": "much или a lot of в утвердительном предложении?",
+      "back": "Обычно **a lot of**: She earns a lot of money.\n**much** — в вопросах и отрицаниях: She doesn't earn much."
+    },
+    {
+      "front": "Где ставится enough?",
+      "back": "**enough + сущ.**: enough money.\n**прилаг. + enough**: big enough."
+    },
+    {
+      "front": "too much или too many: people, traffic, furniture?",
+      "back": "**too many** people (исчисл.).\n**too much** traffic, **too much** furniture (неисчисл.)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-quantifiers-p01",
+      "type": "gap",
+      "q": "Thanks for ___ — I'll think about it carefully before I sign the contract.",
+      "correct": "the advice",
+      "wrong": [
+        "the advices",
+        "an advice"
+      ],
+      "hint": "Можно ли посчитать это слово в английском?",
+      "explain": "advice — неисчисляемое: без a/an и без -s. Один совет — a piece of advice.",
+      "tr": "Спасибо за совет — я хорошо подумаю, прежде чем подписывать договор."
+    },
+    {
+      "id": "b1-quantifiers-p02",
+      "type": "gap",
+      "q": "The news about the factory closure ___ a shock to the whole town.",
+      "correct": "was",
+      "wrong": [
+        "were"
+      ],
+      "hint": "news оканчивается на -s, но исчисляемое ли это слово?",
+      "explain": "news — неисчисляемое существительное, глагол в единственном числе: The news was… Окончание -s здесь не означает множественного числа.",
+      "tr": "Новость о закрытии завода стала шоком для всего города."
+    },
+    {
+      "id": "b1-quantifiers-p03",
+      "type": "gap",
+      "q": "How much ___ are you taking on the trip? Remember, the airline only allows one suitcase per person.",
+      "correct": "luggage",
+      "wrong": [
+        "luggages",
+        "bags"
+      ],
+      "hint": "Посмотрите на how much: с какими существительными оно сочетается?",
+      "explain": "how much сочетается только с неисчисляемыми; luggage неисчисляемое и не имеет формы на -s. С bags нужно how many.",
+      "tr": "Сколько багажа ты берёшь в поездку? Помни, авиакомпания разрешает только один чемодан на человека."
+    },
+    {
+      "id": "b1-quantifiers-p04",
+      "type": "gap",
+      "q": "She's doing ___ on air pollution in big cities for her PhD.",
+      "correct": "research",
+      "wrong": [
+        "a research"
+      ],
+      "hint": "Можно ли посчитать это слово в английском?",
+      "explain": "research — неисчисляемое: do research, без a. Если нужно посчитать — a research project, a study.",
+      "tr": "Для своей диссертации она проводит исследование загрязнения воздуха в крупных городах."
+    },
+    {
+      "id": "b1-quantifiers-p05",
+      "type": "gap",
+      "q": "There's no need to bring food — there'll be ___ sandwiches and snacks at the party.",
+      "correct": "plenty of",
+      "wrong": [
+        "plenty",
+        "much"
+      ],
+      "hint": "Еды будет больше чем достаточно. Нужен ли предлог перед существительным?",
+      "explain": "plenty of + существительное = более чем достаточно; без of нельзя. much не сочетается с исчисляемыми sandwiches.",
+      "tr": "Еду приносить не нужно — на вечеринке будет полно бутербродов и закусок."
+    },
+    {
+      "id": "b1-quantifiers-p06",
+      "type": "gap",
+      "q": "There isn't ___ milk left, so I'll stop at the shop on my way home.",
+      "correct": "any",
+      "wrong": [
+        "no"
+      ],
+      "hint": "В предложении уже есть отрицание.",
+      "explain": "В отрицательном предложении — any: There isn't any milk. no само по себе отрицание, а двойного отрицания в английском нет.",
+      "tr": "Молока не осталось, так что я зайду в магазин по дороге домой."
+    },
+    {
+      "id": "b1-quantifiers-p07",
+      "type": "gap",
+      "q": "There are ___ buses after midnight, so we'll have to take a taxi.",
+      "correct": "no",
+      "wrong": [
+        "any",
+        "some",
+        "not"
+      ],
+      "hint": "Глагол утвердительный, но смысл — автобусов нет.",
+      "explain": "no = not any: There are no buses = There aren't any buses. any без отрицания здесь не работает, а some противоречит смыслу.",
+      "tr": "После полуночи автобусов нет, так что придётся взять такси."
+    },
+    {
+      "id": "b1-quantifiers-p08",
+      "type": "pick",
+      "task": "Выберите грамматически верный ответ",
+      "q": "A: Can I get you anything to drink?",
+      "correct": "Could I have some water, please?",
+      "wrong": [
+        "Could I have any water, please?",
+        "Could I have a few water, please?",
+        "Could I have many water, please?"
+      ],
+      "hint": "Это вежливая просьба. И можно ли посчитать water?",
+      "explain": "В просьбах и предложениях, когда ждём ответа «да», — some, хотя это вопрос. water неисчисляемое, поэтому a few и many невозможны.",
+      "tr": "Можно мне воды, пожалуйста?"
+    },
+    {
+      "id": "b1-quantifiers-p09",
+      "type": "gap",
+      "q": "There weren't ___ people at the conference because of the train strike.",
+      "correct": "many",
+      "wrong": [
+        "much",
+        "a lot"
+      ],
+      "hint": "people — исчисляемое или неисчисляемое?",
+      "explain": "people — исчисляемое во множественном числе → many. much — с неисчисляемыми, а a lot без of перед существительным не ставится.",
+      "tr": "Из-за забастовки на железной дороге на конференции было немного людей."
+    },
+    {
+      "id": "b1-quantifiers-p10",
+      "type": "gap",
+      "q": "How ___ homework does your son usually get from his maths teacher?",
+      "correct": "much",
+      "wrong": [
+        "many"
+      ],
+      "hint": "Можно ли сказать «две homework»?",
+      "explain": "homework — неисчисляемое, без -s → how much. many — только с исчисляемыми во множественном числе.",
+      "tr": "Сколько обычно задаёт на дом вашему сыну учитель математики?"
+    },
+    {
+      "id": "b1-quantifiers-p11",
+      "type": "gap",
+      "q": "Don't worry, we still have ___ time before the train leaves, so let's have a coffee.",
+      "correct": "a little",
+      "wrong": [
+        "little",
+        "a few"
+      ],
+      "hint": "Времени почти нет или его хватает на кофе?",
+      "explain": "a little + неисчисляемое = немного, и этого хватает. little без a = почти нет, что противоречит don't worry; a few — для исчисляемых.",
+      "tr": "Не волнуйся, у нас ещё есть немного времени до отхода поезда, так что давай выпьем кофе."
+    },
+    {
+      "id": "b1-quantifiers-p12",
+      "type": "gap",
+      "q": "Unfortunately, ___ people understand the new tax rules — even accountants find them confusing.",
+      "correct": "few",
+      "wrong": [
+        "a few",
+        "little",
+        "a little"
+      ],
+      "hint": "Unfortunately подсказывает: понимающих достаточно или почти нет?",
+      "explain": "few без a = мало, почти никто — и это плохо. a few = несколько, это нейтрально или хорошо. little и a little — для неисчисляемых.",
+      "tr": "К сожалению, мало кто понимает новые налоговые правила — даже бухгалтеры считают их запутанными."
+    },
+    {
+      "id": "b1-quantifiers-p13",
+      "type": "gap",
+      "q": "There's ___ traffic in the city centre — it took me an hour to drive three kilometres.",
+      "correct": "too much",
+      "wrong": [
+        "too many",
+        "too"
+      ],
+      "hint": "Можно ли посчитать traffic?",
+      "explain": "traffic — неисчисляемое → too much. too many — с исчисляемыми (too many cars), а too без much ставится перед прилагательным.",
+      "tr": "В центре города слишком плотное движение — я целый час ехал три километра."
+    },
+    {
+      "id": "b1-quantifiers-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "We haven't got enough chairs, and the room isn't big enough.",
+      "wrong": [
+        "We haven't got enough chairs, and the room isn't enough big.",
+        "We haven't got enough of chairs, and the room isn't big enough.",
+        "We haven't got enough chairs, and the room isn't too big enough."
+      ],
+      "hint": "Перед существительным и рядом с прилагательным enough стоит по-разному.",
+      "explain": "enough + существительное без of: enough chairs; прилагательное + enough: big enough. too и enough вместе не употребляются.",
+      "tr": "У нас не хватает стульев, и комната недостаточно большая."
+    },
+    {
+      "id": "b1-quantifiers-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Very few students passed the exam.",
+      "correct": "Hardly any students passed the exam.",
+      "wrong": [
+        "A fair number of students passed the exam.",
+        "Nobody passed the exam."
+      ],
+      "hint": "few без a — это «несколько» или «почти никто»?",
+      "explain": "very few = очень мало, почти никто — то же, что hardly any. A fair number — довольно много, а nobody — совсем никто.",
+      "tr": "Экзамен почти никто из студентов не сдал."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-quantifiers-e01",
+      "type": "gap",
+      "q": "The website gives very ___ information about the side effects of this medicine, which worries me.",
+      "correct": "little",
+      "wrong": [
+        "few",
+        "a little"
+      ],
+      "hint": "Можно ли посчитать information? И автора это радует или тревожит?",
+      "explain": "information — неисчисляемое, поэтому не few. very little = очень мало, отсюда и тревога; после very артикль a не ставится.",
+      "tr": "На сайте очень мало информации о побочных эффектах этого лекарства, и это меня беспокоит."
+    },
+    {
+      "id": "b1-quantifiers-e02",
+      "type": "gap",
+      "q": "There were too ___ people and too ___ noise at the party, so we left early.",
+      "correct": "many / much",
+      "wrong": [
+        "much / many",
+        "much / much",
+        "many / many"
+      ],
+      "hint": "Какое из двух существительных можно посчитать?",
+      "explain": "people — исчисляемое → too many; noise в значении «шум» неисчисляемое → too much.",
+      "tr": "На вечеринке было слишком много людей и слишком шумно, поэтому мы ушли рано."
+    },
+    {
+      "id": "b1-quantifiers-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I need some advice about which equipment to buy for my home office.",
+      "wrong": [
+        "I need an advice about which equipments to buy for my home office.",
+        "I need some advices about which equipment to buy for my home office.",
+        "I need an advice about which equipment to buy for my home office."
+      ],
+      "hint": "Оба существительных в английском неисчисляемые.",
+      "explain": "advice и equipment неисчисляемые: без a/an и без -s. Поэтому some advice и which equipment.",
+      "tr": "Мне нужен совет, какое оборудование купить для домашнего кабинета."
+    },
+    {
+      "id": "b1-quantifiers-e04",
+      "type": "gap",
+      "q": "This coat is ___ expensive for me — I really can't afford it at the moment.",
+      "correct": "too",
+      "wrong": [
+        "too much",
+        "enough"
+      ],
+      "hint": "Перед прилагательным. Цена выше, чем нужно.",
+      "explain": "too + прилагательное = слишком: too expensive. too much ставится перед неисчисляемым существительным, а enough — после прилагательного и значит «достаточно».",
+      "tr": "Это пальто для меня слишком дорогое — сейчас я никак не могу себе его позволить."
+    },
+    {
+      "id": "b1-quantifiers-e05",
+      "type": "gap",
+      "q": "I've already read ___ articles on the topic, so I know the basics.",
+      "correct": "a few",
+      "wrong": [
+        "few"
+      ],
+      "hint": "Прочитанного хватило, чтобы разобраться в основах?",
+      "explain": "a few = несколько, и этого достаточно — отсюда so I know the basics. few без a значило бы «почти ничего не прочитал».",
+      "tr": "Я уже прочитал несколько статей на эту тему, так что основы знаю."
+    }
+  ],
+  "glossary": {
+    "accountants": "бухгалтеры",
+    "afford": "позволить себе (по деньгам)",
+    "air": "воздух",
+    "airline": "авиакомпания",
+    "allows": "разрешает",
+    "articles": "статьи",
+    "basics": "основы",
+    "buses": "автобусы",
+    "carefully": "внимательно, тщательно",
+    "centre": "центр",
+    "cities": "города",
+    "closure": "закрытие",
+    "coat": "пальто",
+    "coffee": "кофе",
+    "conference": "конференция",
+    "confusing": "запутанный",
+    "contract": "договор, контракт",
+    "effects": "эффекты, действие (side effects — побочные эффекты)",
+    "exam": "экзамен",
+    "factory": "завод, фабрика",
+    "homework": "домашнее задание",
+    "information": "информация, сведения",
+    "kilometres": "километры",
+    "leaves": "отправляется, уходит",
+    "maths": "математика",
+    "medicine": "лекарство",
+    "midnight": "полночь",
+    "milk": "молоко",
+    "news": "новости, новость",
+    "noise": "шум",
+    "party": "вечеринка",
+    "passed": "сдали (экзамен)",
+    "PhD": "докторская (кандидатская) диссертация",
+    "pollution": "загрязнение",
+    "rules": "правила",
+    "sandwiches": "бутерброды, сэндвичи",
+    "shock": "шок",
+    "shop": "магазин",
+    "side": "побочный (side effects)",
+    "sign": "подписать",
+    "snacks": "закуски",
+    "stop": "заехать, зайти (stop at)",
+    "strike": "забастовка",
+    "students": "студенты",
+    "suitcase": "чемодан",
+    "tax": "налоговый; налог",
+    "taxi": "такси",
+    "teacher": "учитель",
+    "topic": "тема",
+    "traffic": "дорожное движение",
+    "trip": "поездка",
+    "unfortunately": "к сожалению",
+    "website": "сайт",
+    "worries": "беспокоит",
+    "worry": "волноваться"
+  }
+}

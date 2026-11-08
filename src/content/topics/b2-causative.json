@@ -1,0 +1,461 @@
+{
+  "id": "b2-causative",
+  "level": "B2",
+  "order": 7,
+  "title": "Causative: have/get something done",
+  "titleRu": "Каузатив: have/get something done",
+  "summary": "have/get something done, make и let: кто на самом деле действует",
+  "source": "Murphy EGIU units 46, 57; British Council: Causative verbs",
+  "rules": [
+    {
+      "title": "have something done — делают для нас",
+      "body": "**have + предмет + V3** — действие выполняет кто-то другой (мастер, сервис), обычно по нашей просьбе.\n\n- возможны все времена: I'm having / I had / I'll have / I've had my car repaired\n- порядок важен: **I had my car repaired** — мастер; **I had repaired my car** — Past Perfect, сам\n- исполнителя можно назвать через **by**: by a mechanic",
+      "examples": [
+        {
+          "en": "I had my hair cut yesterday.",
+          "ru": "Вчера я подстригся (в парикмахерской)."
+        },
+        {
+          "en": "We're having the windows replaced next week.",
+          "ru": "На следующей неделе нам меняют окна."
+        },
+        {
+          "en": "I repaired my bike myself, but I had my car repaired at a garage.",
+          "ru": "Велосипед я починил сам, а машину мне починили в автосервисе."
+        }
+      ]
+    },
+    {
+      "title": "have something done — неприятное событие",
+      "body": "Та же конструкция описывает то, что **случилось с человеком** против его воли: кражу, повреждение, отмену.\n\n**I had my phone stolen.** = У меня украли телефон.",
+      "examples": [
+        {
+          "en": "She had her bag stolen on holiday.",
+          "ru": "В отпуске у неё украли сумку."
+        },
+        {
+          "en": "We had our flight cancelled at the last minute.",
+          "ru": "Нам в последний момент отменили рейс."
+        }
+      ]
+    },
+    {
+      "title": "get something done",
+      "body": "**get + предмет + V3** — то же, что have something done, но разговорнее. Часто о том, что нужно сделать: get your eyes tested, get the car serviced.",
+      "examples": [
+        {
+          "en": "You should get your car serviced before the trip.",
+          "ru": "Тебе стоит отдать машину на техобслуживание перед поездкой."
+        },
+        {
+          "en": "I need to get my eyes tested.",
+          "ru": "Мне нужно проверить зрение."
+        }
+      ]
+    },
+    {
+      "title": "have someone do / get someone to do",
+      "body": "- **have + человек + V** (без to) — поручить: так говорит начальник или клиент\n- **get + человек + to + V** — уговорить, добиться, чтобы кто-то сделал",
+      "examples": [
+        {
+          "en": "I'll have my assistant call you.",
+          "ru": "Я попрошу помощника вам позвонить."
+        },
+        {
+          "en": "I got my brother to help me move.",
+          "ru": "Я уговорил брата помочь мне с переездом."
+        }
+      ]
+    },
+    {
+      "title": "make и let",
+      "body": "- **make + человек + V** (без to) — заставить; в пассиве — **be made to + V**\n- **let + человек + V** (без to) — разрешить; синоним — **allow + человек + to + V**\n\nlet в значении «разрешать» не употребляется в пассиве: нужно **be allowed to**.",
+      "examples": [
+        {
+          "en": "The teacher made us rewrite the essay.",
+          "ru": "Преподаватель заставил нас переписать эссе."
+        },
+        {
+          "en": "We were made to rewrite the essay.",
+          "ru": "Нас заставили переписать эссе."
+        },
+        {
+          "en": "My parents let me stay out late.",
+          "ru": "Родители разрешали мне гулять допоздна."
+        },
+        {
+          "en": "Visitors aren't allowed to take photos.",
+          "ru": "Посетителям не разрешается фотографировать."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "have / get + предмет + V3 → делают для меня (сервис)",
+    "I repaired my car = сам; I had my car repaired = мастер",
+    "I had my phone stolen → со мной случилось неприятное",
+    "have someone do (поручить); get someone to do (уговорить)",
+    "make someone do → в пассиве be made to do",
+    "let someone do = allow someone to do; пассив — be allowed to"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I cut my hair yesterday. (в парикмахерской)",
+      "right": "I had my hair cut yesterday.",
+      "note": "если работу сделал мастер — have + предмет + V3"
+    },
+    {
+      "wrong": "I had repaired my car at the garage.",
+      "right": "I had my car repaired at the garage.",
+      "note": "порядок: have + предмет + V3"
+    },
+    {
+      "wrong": "He made me to apologise.",
+      "right": "He made me apologise.",
+      "note": "после make + человек — инфинитив без to (to нужен только в пассиве)"
+    },
+    {
+      "wrong": "My boss let me to leave early.",
+      "right": "My boss let me leave early.",
+      "note": "let + человек + V без to; to нужен после allow"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Я подстригся» (в парикмахерской)?",
+      "back": "**have + предмет + V3**.\nI had my hair cut."
+    },
+    {
+      "front": "Чем отличаются «I repaired my car» и «I had my car repaired»?",
+      "back": "**I repaired** — сам.\n**I had my car repaired** — починил мастер."
+    },
+    {
+      "front": "Как сказать «У меня украли телефон» через have?",
+      "back": "**have + предмет + V3** — неприятное событие.\nI had my phone stolen."
+    },
+    {
+      "front": "have someone do или get someone to do — в чём разница?",
+      "back": "**have someone do** — поручить: I'll have my assistant call you.\n**get someone to do** — уговорить: I got Tom to help me."
+    },
+    {
+      "front": "Как сказать в пассиве «Нас заставили ждать»?",
+      "back": "**be made to + V**.\nWe were made to wait."
+    },
+    {
+      "front": "let или allow: какая конструкция у каждого?",
+      "back": "**let + человек + V**: They let me go.\n**allow + человек + to + V**: They allowed me to go."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-causative-p01",
+      "type": "gap",
+      "q": "My laptop keeps crashing, so I'm ___ by a technician tomorrow.",
+      "correct": "having it checked",
+      "wrong": [
+        "having checked it",
+        "checking it"
+      ],
+      "hint": "Проверять будет мастер, а не говорящий. Обратите внимание на порядок слов.",
+      "explain": "have + предмет + V3 — действие выполняет кто-то другой: having it checked. having checked it — неверный порядок слов, а checking it by a technician смешивает актив и пассив.",
+      "tr": "Мой ноутбук постоянно зависает, поэтому завтра его проверит мастер."
+    },
+    {
+      "id": "b2-causative-p02",
+      "type": "gap",
+      "q": "We ___ by a professional decorator last month, and it looks like a different room now.",
+      "correct": "had the kitchen painted",
+      "wrong": [
+        "had painted the kitchen"
+      ],
+      "hint": "Красил мастер. Где стоит предмет в этой конструкции?",
+      "explain": "have + предмет + V3: had the kitchen painted. had painted the kitchen — Past Perfect, «мы сами покрасили», и by a professional decorator тогда не подходит.",
+      "tr": "В прошлом месяце нам покрасил кухню профессиональный маляр, и теперь она выглядит как совсем другая комната."
+    },
+    {
+      "id": "b2-causative-p03",
+      "type": "gap",
+      "q": "Lisa ___ on the metro yesterday, so she has to cancel all her bank cards.",
+      "correct": "had her wallet stolen",
+      "wrong": [
+        "stole her wallet",
+        "had stolen her wallet",
+        "was stolen her wallet"
+      ],
+      "hint": "С Лизой случилось неприятное, а действие совершил кто-то другой.",
+      "explain": "have + предмет + V3 описывает и неприятное событие, которое случилось с человеком: had her wallet stolen. had stolen her wallet — «она сама украла», was stolen her wallet — калька с русского.",
+      "tr": "Вчера у Лизы украли кошелёк в метро, так что ей придётся заблокировать все банковские карты."
+    },
+    {
+      "id": "b2-causative-p04",
+      "type": "gap",
+      "q": "Mr Brown is in a meeting right now, but I'll ___ you back as soon as he's free.",
+      "correct": "have him call",
+      "wrong": [
+        "have him to call",
+        "have him called"
+      ],
+      "hint": "Говорящий поручит это другому человеку. Какая форма глагола после have + человек?",
+      "explain": "have + человек + инфинитив без to — поручить кому-то: have him call. После have частица to не ставится, а have him called означало бы, что кто-то позовёт его самого.",
+      "tr": "Мистер Браун сейчас на совещании, но я попрошу его перезвонить вам, как только он освободится."
+    },
+    {
+      "id": "b2-causative-p05",
+      "type": "gap",
+      "q": "It took a lot of persuading, but I finally got my brother ___ me move the sofa.",
+      "correct": "to help",
+      "wrong": [
+        "help"
+      ],
+      "hint": "После get + человек форма глагола не такая, как после have + человек.",
+      "explain": "get + человек + to + V — уговорить кого-то что-то сделать: got my brother to help. Без to — только после have, make и let.",
+      "tr": "Пришлось долго уговаривать, но в итоге брат согласился помочь мне передвинуть диван."
+    },
+    {
+      "id": "b2-causative-p06",
+      "type": "gap",
+      "q": "The instructor made us ___ the whole exercise again because we'd made too many mistakes.",
+      "correct": "repeat",
+      "wrong": [
+        "to repeat",
+        "repeating",
+        "repeated"
+      ],
+      "hint": "Какая форма глагола после make + человек в активе?",
+      "explain": "make + человек + инфинитив без to — заставить: made us repeat. to после make в активе — частая ошибка; -ing и V3 здесь невозможны.",
+      "tr": "Инструктор заставил нас выполнить всё упражнение заново, потому что мы сделали слишком много ошибок."
+    },
+    {
+      "id": "b2-causative-p07",
+      "type": "gap",
+      "q": "At my first job, I was made ___ late almost every evening without extra pay.",
+      "correct": "to stay",
+      "wrong": [
+        "stay"
+      ],
+      "hint": "Конструкция с make в пассиве. Что меняется после be made?",
+      "explain": "В пассиве после be made появляется to: was made to stay. В активе — без to: they made me stay.",
+      "tr": "На моей первой работе меня заставляли задерживаться почти каждый вечер без доплаты."
+    },
+    {
+      "id": "b2-causative-p08",
+      "type": "gap",
+      "q": "My landlord doesn't ___ me keep pets in the flat.",
+      "correct": "let",
+      "wrong": [
+        "allow"
+      ],
+      "hint": "После пропуска стоит человек и инфинитив без to.",
+      "explain": "let + человек + инфинитив без to: let me keep. allow требует to: allow me to keep.",
+      "tr": "Арендодатель не разрешает мне держать домашних животных в квартире."
+    },
+    {
+      "id": "b2-causative-p09",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I need to get my eyes tested before I renew my driving licence.",
+      "wrong": [
+        "I need to get tested my eyes before I renew my driving licence.",
+        "I need to get my eyes test before I renew my driving licence.",
+        "I need to get my eyes to test before I renew my driving licence."
+      ],
+      "hint": "get + предмет + … — какая форма глагола и на каком месте?",
+      "explain": "get + предмет + V3: get my eyes tested. Предмет стоит перед V3, а инфинитив на месте V3 невозможен.",
+      "tr": "Мне нужно проверить зрение, прежде чем продлевать водительские права."
+    },
+    {
+      "id": "b2-causative-p10",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "You should get your car serviced before the winter.",
+      "wrong": [
+        "You should get serviced your car before the winter.",
+        "You should get your car to service before the winter."
+      ],
+      "hint": "Обслуживать машину будет мастер. Проверьте порядок слов и форму глагола.",
+      "explain": "get + предмет + V3 — разговорный вариант have something done: get your car serviced. V3 стоит после предмета, а to service означало бы, что машина сама что-то обслуживает.",
+      "tr": "Тебе стоит отдать машину на техобслуживание до зимы."
+    },
+    {
+      "id": "b2-causative-p11",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I had my bike stolen outside the station.",
+      "correct": "Someone stole my bike outside the station.",
+      "wrong": [
+        "I stole a bike outside the station.",
+        "Someone stole my bike, and I later found it outside the station."
+      ],
+      "hint": "Кто совершил действие и с кем оно случилось?",
+      "explain": "have + предмет + V3 здесь описывает неприятное событие: кто-то украл велосипед говорящего, и произошло это у вокзала.",
+      "tr": "Кто-то украл мой велосипед у вокзала."
+    },
+    {
+      "id": "b2-causative-p12",
+      "type": "gap",
+      "q": "Our boiler broke down last week, and we still ___ by an engineer.",
+      "correct": "haven't had it repaired",
+      "wrong": [
+        "haven't repaired it",
+        "haven't had repaired it",
+        "didn't have it repair"
+      ],
+      "hint": "Чинить будет мастер, а не хозяева. Порядок: have + что + какая форма глагола?",
+      "explain": "Present Perfect + have + предмет + V3: haven't had it repaired. haven't repaired it by an engineer смешивает актив и пассив, а had repaired it — неверный порядок слов.",
+      "tr": "На прошлой неделе у нас сломался котёл, а мастер его до сих пор так и не починил."
+    },
+    {
+      "id": "b2-causative-p13",
+      "type": "gap",
+      "q": "Visitors ___ to take photos inside the museum.",
+      "correct": "aren't allowed",
+      "wrong": [
+        "aren't let",
+        "don't let"
+      ],
+      "hint": "Нужен пассив со значением «не разрешается». У одного из глаголов такого пассива нет.",
+      "explain": "let в значении «разрешать» не употребляется в пассиве → aren't allowed to. don't let — актив: «посетители не разрешают».",
+      "tr": "Посетителям не разрешается фотографировать внутри музея."
+    },
+    {
+      "id": "b2-causative-p14",
+      "type": "gap",
+      "q": "I can't fix the roof myself, so I'm going to ___ next month.",
+      "correct": "have it replaced",
+      "wrong": [
+        "have replaced it",
+        "have it replace"
+      ],
+      "hint": "Работу сделает кто-то другой. Порядок: have + что + какая форма?",
+      "explain": "have + предмет + V3: have it replaced. have replaced it — перфектная форма, а не каузатив; инфинитив (replace) после предмета здесь невозможен.",
+      "tr": "Сам я крышу не починю, поэтому в следующем месяце её заменят мастера."
+    },
+    {
+      "id": "b2-causative-p15",
+      "type": "gap",
+      "q": "Our manager ___ us work late every day last month, and nobody was happy about it.",
+      "correct": "made",
+      "wrong": [
+        "let"
+      ],
+      "hint": "Сотрудники были недовольны. Им разрешили или их заставили?",
+      "explain": "make + человек + V — заставить: made us work. let — разрешить, что не вяжется с недовольством сотрудников.",
+      "tr": "В прошлом месяце начальница каждый день заставляла нас задерживаться на работе, и никто не был этому рад."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-causative-e01",
+      "type": "gap",
+      "q": "If you can't afford a new phone, why don't you ___ instead?",
+      "correct": "have the screen replaced",
+      "wrong": [
+        "have replaced the screen",
+        "replace the screen by a technician",
+        "have the screen replace"
+      ],
+      "hint": "Экран заменит мастер. Проверьте порядок слов и форму глагола.",
+      "explain": "have + предмет + V3: have the screen replaced. have replaced the screen — перфектная форма, а by a technician не сочетается с активом replace.",
+      "tr": "Если не можешь позволить себе новый телефон, почему бы просто не заменить экран в мастерской?"
+    },
+    {
+      "id": "b2-causative-e02",
+      "type": "gap",
+      "q": "I couldn't open the file, so I ___ it to me again in a different format.",
+      "correct": "got Mike to send",
+      "wrong": [
+        "got Mike send",
+        "had Mike to send"
+      ],
+      "hint": "Какая форма глагола после get + человек, а какая — после have + человек?",
+      "explain": "get + человек + to + V: got Mike to send. После have + человек — инфинитив без to (had Mike send), поэтому had Mike to send — ошибка.",
+      "tr": "Я не смог открыть файл, поэтому попросил Майка прислать его ещё раз в другом формате."
+    },
+    {
+      "id": "b2-causative-e03",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "We were made to sign a confidentiality agreement before the meeting.",
+      "correct": "Someone forced us to sign a confidentiality agreement before the meeting.",
+      "wrong": [
+        "We chose to sign a confidentiality agreement before the meeting.",
+        "We were allowed to sign a confidentiality agreement before the meeting."
+      ],
+      "hint": "be made to do — это добровольно?",
+      "explain": "be made to do — пассив от make: нас заставили. Разрешение выражает be allowed to, а добровольный выбор — chose to.",
+      "tr": "Нас заставили подписать соглашение о неразглашении перед встречей."
+    },
+    {
+      "id": "b2-causative-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The customs officers made him open his suitcase.",
+      "wrong": [
+        "The customs officers made him to open his suitcase.",
+        "He was made open his suitcase by the customs officers.",
+        "The customs officers made him opening his suitcase."
+      ],
+      "hint": "Сравните форму глагола после make в активе и в пассиве.",
+      "explain": "Актив: make + человек + V без to (made him open). В пассиве нужно to: He was made to open… Форма -ing после make не ставится.",
+      "tr": "Таможенники заставили его открыть чемодан."
+    },
+    {
+      "id": "b2-causative-e05",
+      "type": "gap",
+      "q": "She ___ twice in the same month, so now she always parks in a garage.",
+      "correct": "had her car broken into",
+      "wrong": [
+        "broke into her car"
+      ],
+      "hint": "Она пострадала, а не совершила взлом.",
+      "explain": "have + предмет + V3 — неприятное событие, которое случилось с человеком: had her car broken into. broke into her car — она сама взломала машину.",
+      "tr": "За один месяц её машину взламывали дважды, поэтому теперь она всегда паркуется в гараже."
+    }
+  ],
+  "glossary": {
+    "afford": "позволить себе (по деньгам)",
+    "agreement": "соглашение",
+    "bank": "банковский",
+    "bike": "велосипед",
+    "boiler": "котёл (отопления)",
+    "Brown": "Браун (фамилия)",
+    "cancel": "заблокировать, аннулировать",
+    "cards": "карты",
+    "confidentiality": "конфиденциальность; (confidentiality agreement) соглашение о неразглашении",
+    "crashing": "зависает, вылетает (-ing от crash)",
+    "decorator": "маляр, отделочник",
+    "engineer": "мастер, инженер",
+    "exercise": "упражнение",
+    "extra": "дополнительный",
+    "file": "файл",
+    "fix": "починить",
+    "flat": "квартира",
+    "format": "формат",
+    "garage": "гараж",
+    "instructor": "инструктор",
+    "keeps": "(keeps + -ing) постоянно, всё время (от keep)",
+    "landlord": "арендодатель",
+    "laptop": "ноутбук",
+    "looks": "выглядит (от look)",
+    "lot": "(a lot of) много",
+    "manager": "начальник, руководитель",
+    "metro": "метро",
+    "mistakes": "ошибки",
+    "museum": "музей",
+    "parks": "паркуется (от park)",
+    "persuading": "уговоры (-ing от persuade)",
+    "pets": "домашние животные",
+    "photos": "фотографии",
+    "professional": "профессиональный",
+    "roof": "крыша",
+    "sign": "подписать",
+    "sofa": "диван",
+    "station": "вокзал, станция",
+    "stolen": "украден (3-я форма от steal)",
+    "technician": "мастер, техник",
+    "visitors": "посетители"
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "id": "b1-relative-defining",
+  "level": "B1",
+  "order": 13,
+  "title": "Defining relative clauses",
+  "titleRu": "Определительные придаточные: who, which, that, whose, where",
+  "summary": "the man who…, the book (that) I read, the town where…",
+  "source": "Murphy EGIU units 92–94; British Council: Relative clauses",
+  "rules": [
+    {
+      "title": "who, which, that",
+      "body": "Определительное придаточное уточняет, **о ком или о чём** речь; запятые не ставятся.\n\n- **who** или **that** — о людях: the woman **who / that** lives next door\n- **which** или **that** — о предметах и животных: the app **which / that** I use\n\nВ определительных придаточных who и that, which и that взаимозаменяемы. **which** о людях не говорят.",
+      "examples": [
+        {
+          "en": "The man who called you is my boss.",
+          "ru": "Человек, который тебе звонил, — мой начальник."
+        },
+        {
+          "en": "Is this the train that goes to Oxford?",
+          "ru": "Это поезд, который идёт в Оксфорд?"
+        },
+        {
+          "en": "The laptop which I bought last year is already slow.",
+          "ru": "Ноутбук, который я купил в прошлом году, уже тормозит."
+        }
+      ]
+    },
+    {
+      "title": "Когда местоимение можно опустить",
+      "body": "Если who / which / that — **дополнение** (после него идёт своё подлежащее), его можно опустить:\n- the book **(that) I bought** — I bought the book\n- the people **(who) we met** — we met the people\n\nЕсли это **подлежащее** придаточного (после него сразу глагол), опускать нельзя:\n- the man **who lives** next door, не «the man lives next door»",
+      "examples": [
+        {
+          "en": "The film we watched last night was brilliant.",
+          "ru": "Фильм, который мы смотрели вчера вечером, был великолепен."
+        },
+        {
+          "en": "The woman who sold me the car was very helpful.",
+          "ru": "Женщина, которая продала мне машину, очень помогла."
+        }
+      ]
+    },
+    {
+      "title": "whose, where, when",
+      "body": "- **whose** = чей: the man **whose** car was stolen; a company **whose** products sell well (о предметах тоже)\n- **where** = в котором (о месте): the town **where** I grew up\n- **when** = когда (о времени): the day **when** we met\n\nwhere заменяет предлог + which: the hotel **where** we stayed = the hotel (which) we stayed **at**.",
+      "examples": [
+        {
+          "en": "That's the girl whose brother works with me.",
+          "ru": "Это та девушка, чей брат работает со мной."
+        },
+        {
+          "en": "This is the café where we first met.",
+          "ru": "Это кафе, где мы впервые встретились."
+        },
+        {
+          "en": "I remember the year when we moved to London.",
+          "ru": "Я помню год, когда мы переехали в Лондон."
+        }
+      ]
+    },
+    {
+      "title": "Без повтора; предлог в конце",
+      "body": "who / which / that **заменяет** существительное — второй раз его не называют:\n- the laptop I bought, не «the laptop I bought **it**»\n- the man who called, не «the man who **he** called»\n\nПредлог обычно ставится **в конце** придаточного: the flat I live **in**, the people I work **with**, the job I applied **for**.\nПосле where предлог не нужен: the town where I live, не «where I live in».",
+      "examples": [
+        {
+          "en": "This is the flat we live in.",
+          "ru": "Вот квартира, в которой мы живём."
+        },
+        {
+          "en": "Who's the colleague you were talking to?",
+          "ru": "Кто тот коллега, с которым ты разговаривал?"
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "люди → who / that; предметы → which / that",
+    "местоимение — дополнение → можно опустить: the book (that) I read",
+    "местоимение — подлежащее → не опускается: the man who called",
+    "whose + сущ. = чей: the man whose car…",
+    "where = место, when = время; where = which … in / at",
+    "без повтора: the film I saw (не …saw it); предлог в конце: the flat I live in"
+  ],
+  "mistakes": [
+    {
+      "wrong": "The man which lives next door is a doctor.",
+      "right": "The man who lives next door is a doctor.",
+      "note": "о людях — who / that, не which"
+    },
+    {
+      "wrong": "This is the book I told you about it.",
+      "right": "This is the book I told you about.",
+      "note": "придаточное уже относится к book, it лишнее"
+    },
+    {
+      "wrong": "The woman lives next door is a nurse.",
+      "right": "The woman who lives next door is a nurse.",
+      "note": "местоимение-подлежащее не опускается"
+    },
+    {
+      "wrong": "This is the man who his car was stolen.",
+      "right": "This is the man whose car was stolen.",
+      "note": "«чей» — whose, а не who his"
+    }
+  ],
+  "cards": [
+    {
+      "front": "who, which или that — о людях?",
+      "back": "**who** или **that**: the man who / that called.\n**which** — только о предметах и животных."
+    },
+    {
+      "front": "Когда можно опустить who / which / that?",
+      "back": "Когда это **дополнение**: the film (that) we watched.\nНельзя, если это подлежащее: the film that won the prize."
+    },
+    {
+      "front": "Как сказать «женщина, чья дочь учится с моим сыном»?",
+      "back": "**whose**: the woman whose daughter studies with my son."
+    },
+    {
+      "front": "where или which: «the hotel ___ we stayed»?",
+      "back": "**where**: the hotel where we stayed.\nИли с предлогом в конце: the hotel (which) we stayed at."
+    },
+    {
+      "front": "Где ставится предлог: «квартира, в которой я живу»?",
+      "back": "**В конце** придаточного: the flat I live in."
+    },
+    {
+      "front": "Почему неверно «the car that I bought it»?",
+      "back": "that уже заменяет it.\n**the car (that) I bought**."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-relative-defining-p01",
+      "type": "gap",
+      "q": "The woman ___ lives next door works as a nurse at the local hospital.",
+      "correct": "who",
+      "wrong": [
+        "which",
+        "whose"
+      ],
+      "hint": "Речь о человеке, и после пропуска сразу идёт глагол.",
+      "explain": "О людях — who (или that). which — о предметах, а whose = «чей» и требует существительного после себя.",
+      "tr": "Женщина, которая живёт по соседству, работает медсестрой в местной больнице."
+    },
+    {
+      "id": "b1-relative-defining-p02",
+      "type": "gap",
+      "q": "The app ___ I use to learn new words is completely free.",
+      "correct": "that",
+      "wrong": [
+        "who"
+      ],
+      "hint": "Речь о человеке или о предмете?",
+      "explain": "О предметах — that или which; who — только о людях. Местоимение здесь — дополнение, поэтому его можно и опустить: the app I use.",
+      "tr": "Приложение, с помощью которого я учу новые слова, совершенно бесплатное."
+    },
+    {
+      "id": "b1-relative-defining-p03",
+      "type": "gap",
+      "q": "I met a man ___ brother works at the same company as you.",
+      "correct": "whose",
+      "wrong": [
+        "who",
+        "who's",
+        "which"
+      ],
+      "hint": "Брат — чей?",
+      "explain": "whose = «чей», стоит перед существительным: a man whose brother. who's = who is, а who без his не передаёт принадлежность.",
+      "tr": "Я познакомился с человеком, чей брат работает в той же компании, что и ты."
+    },
+    {
+      "id": "b1-relative-defining-p04",
+      "type": "gap",
+      "q": "This is the restaurant ___ we celebrated our wedding anniversary.",
+      "correct": "where",
+      "wrong": [
+        "which"
+      ],
+      "hint": "В конце предложения нет предлога. Какое слово само означает «в котором (месте)»?",
+      "explain": "where = в котором (о месте): the restaurant where we celebrated. С which понадобился бы предлог в конце (…celebrated our anniversary in).",
+      "tr": "Это ресторан, в котором мы отмечали годовщину свадьбы."
+    },
+    {
+      "id": "b1-relative-defining-p05",
+      "type": "gap",
+      "q": "I'll never forget the day ___ I started my first job.",
+      "correct": "when",
+      "wrong": [
+        "where",
+        "which"
+      ],
+      "hint": "day — это место или время?",
+      "explain": "О времени — when: the day when I started. where — о месте, а which без предлога здесь невозможно (the day on which…).",
+      "tr": "Я никогда не забуду день, когда вышел на свою первую работу."
+    },
+    {
+      "id": "b1-relative-defining-p06",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The laptop I bought last month has already stopped working.",
+      "wrong": [
+        "The laptop I bought it last month has already stopped working.",
+        "The laptop which I bought it last month has already stopped working."
+      ],
+      "hint": "Нужно ли в придаточном ещё одно слово, обозначающее ноутбук?",
+      "explain": "Придаточное (that) I bought уже относится к laptop; it назвало бы его второй раз. Местоимение-дополнение можно опустить.",
+      "tr": "Ноутбук, который я купил в прошлом месяце, уже перестал работать."
+    },
+    {
+      "id": "b1-relative-defining-p07",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The man who repaired our roof did an excellent job.",
+      "wrong": [
+        "The man repaired our roof did an excellent job.",
+        "The man who he repaired our roof did an excellent job.",
+        "The man which repaired our roof did an excellent job."
+      ],
+      "hint": "Кто чинил крышу? Это слово — подлежащее придаточного.",
+      "explain": "who — подлежащее придаточного (who repaired), опускать его нельзя. he повторяет who, а which о людях не употребляется.",
+      "tr": "Мужчина, который чинил нам крышу, отлично справился с работой."
+    },
+    {
+      "id": "b1-relative-defining-p08",
+      "type": "gap",
+      "q": "The flat ___ is much bigger than our old one.",
+      "correct": "we live in now",
+      "wrong": [
+        "we live now",
+        "in we live now",
+        "where we live in now"
+      ],
+      "hint": "Где в определительном придаточном обычно стоит предлог?",
+      "explain": "Предлог ставится в конце придаточного: the flat we live in. Без in фраза неполная, а where уже включает предлог, поэтому where … in — ошибка.",
+      "tr": "Квартира, в которой мы сейчас живём, гораздо больше нашей старой."
+    },
+    {
+      "id": "b1-relative-defining-p09",
+      "type": "gap",
+      "q": "The candidate ___ on Monday has accepted our job offer.",
+      "correct": "we interviewed",
+      "wrong": [
+        "we interviewed her",
+        "which we interviewed"
+      ],
+      "hint": "Кандидат в придаточном — дополнение. Сколько раз его нужно назвать?",
+      "explain": "Местоимение-дополнение можно опустить: the candidate we interviewed. her повторяет candidate, а which о людях не употребляется.",
+      "tr": "Кандидат, с которым мы проводили собеседование в понедельник, принял наше предложение о работе."
+    },
+    {
+      "id": "b1-relative-defining-p10",
+      "type": "gap",
+      "q": "My sister works for a company ___ products are sold all over Europe.",
+      "correct": "whose",
+      "wrong": [
+        "which",
+        "that its"
+      ],
+      "hint": "Продукция — чья?",
+      "explain": "whose = «чей», в том числе о предметах и организациях: a company whose products. which и that its принадлежность не передают.",
+      "tr": "Моя сестра работает в компании, продукция которой продаётся по всей Европе."
+    },
+    {
+      "id": "b1-relative-defining-p11",
+      "type": "gap",
+      "q": "Do you know anyone ___ could help me move this sofa on Saturday?",
+      "correct": "who",
+      "wrong": [
+        "which"
+      ],
+      "hint": "anyone — человек или предмет?",
+      "explain": "anyone — о человеке, поэтому who (или that). which — только о предметах.",
+      "tr": "Ты знаешь кого-нибудь, кто мог бы помочь мне перенести этот диван в субботу?"
+    },
+    {
+      "id": "b1-relative-defining-p12",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The report Mark wrote was excellent.",
+      "correct": "Mark wrote a report, and it was excellent.",
+      "wrong": [
+        "The report about Mark was excellent.",
+        "Mark said that the report was excellent."
+      ],
+      "hint": "Между report и Mark опущено местоимение. Какое?",
+      "explain": "The report (that) Mark wrote = отчёт, который написал Марк. Местоимение-дополнение опущено, но автор отчёта — Марк.",
+      "tr": "Марк написал отчёт, и он был отличным."
+    },
+    {
+      "id": "b1-relative-defining-p13",
+      "type": "gap",
+      "q": "The bus ___ to the airport leaves every twenty minutes.",
+      "correct": "that goes",
+      "wrong": [
+        "goes",
+        "it goes"
+      ],
+      "hint": "Местоимение в придаточном — подлежащее или дополнение?",
+      "explain": "that — подлежащее придаточного (that goes), его нельзя опустить. it лишнее: местоимение уже заменило bus.",
+      "tr": "Автобус, который идёт в аэропорт, ходит каждые двадцать минут."
+    },
+    {
+      "id": "b1-relative-defining-p14",
+      "type": "gap",
+      "q": "The town ___ I grew up has changed a lot, and the shop ___ my parents owned is now a café.",
+      "correct": "where / which",
+      "wrong": [
+        "which / where",
+        "where / where",
+        "which / which"
+      ],
+      "hint": "В первой части в конце нет предлога. Во второй: чем владели родители?",
+      "explain": "where = в котором (о месте, без предлога): the town where I grew up. Во второй части местоимение — дополнение к owned (владели магазином), поэтому which.",
+      "tr": "Город, в котором я вырос, сильно изменился, а магазин, которым владели мои родители, теперь стал кафе."
+    },
+    {
+      "id": "b1-relative-defining-p15",
+      "type": "gap",
+      "q": "Is this the jacket ___? It was on a chair in the meeting room.",
+      "correct": "you were looking for",
+      "wrong": [
+        "you were looking for it"
+      ],
+      "hint": "Сколько раз нужно назвать куртку?",
+      "explain": "Куртка уже названа (the jacket), в придаточном её не повторяют: the jacket you were looking for. Предлог for остаётся в конце.",
+      "tr": "Это та куртка, которую ты искал? Она лежала на стуле в переговорной."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-relative-defining-e01",
+      "type": "gap",
+      "q": "The scientist ___ research changed our understanding of sleep has won an international prize.",
+      "correct": "whose",
+      "wrong": [
+        "who's"
+      ],
+      "hint": "Исследование — чьё?",
+      "explain": "whose = «чей»: the scientist whose research. who's = who is — здесь это бессмысленно.",
+      "tr": "Учёный, чьё исследование изменило наше понимание сна, получил международную премию."
+    },
+    {
+      "id": "b1-relative-defining-e02",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The colleague I was telling you about has just been promoted.",
+      "wrong": [
+        "The colleague I was telling you about him has just been promoted.",
+        "The colleague about I was telling you has just been promoted.",
+        "The colleague which I was telling you about has just been promoted."
+      ],
+      "hint": "Проверьте место предлога, лишние слова и местоимение для человека.",
+      "explain": "Предлог ставится в конце: the colleague I was telling you about; him лишнее. Предлог в начале возможен только с whom (about whom), а which о людях не употребляется.",
+      "tr": "Коллегу, о котором я тебе рассказывал, только что повысили."
+    },
+    {
+      "id": "b1-relative-defining-e03",
+      "type": "gap",
+      "q": "Is there a shop near here ___ sells phone chargers?",
+      "correct": "that",
+      "wrong": [
+        "where",
+        "what"
+      ],
+      "hint": "После пропуска сразу глагол: кто продаёт?",
+      "explain": "Продаёт сам магазин, местоимение — подлежащее → that (или which). После where нужно своё подлежащее (where I can buy), а what не вводит определительное придаточное.",
+      "tr": "Есть ли поблизости магазин, где продаются зарядки для телефонов?"
+    },
+    {
+      "id": "b1-relative-defining-e04",
+      "type": "gap",
+      "q": "Friday is the only day ___ I don't have any meetings, so I can finally get some work done.",
+      "correct": "when",
+      "wrong": [
+        "where"
+      ],
+      "hint": "День — это место или время?",
+      "explain": "О времени — when: the only day when… where употребляется только с местами.",
+      "tr": "Пятница — единственный день, когда у меня нет совещаний, поэтому я наконец могу спокойно поработать."
+    },
+    {
+      "id": "b1-relative-defining-e05",
+      "type": "gap",
+      "q": "The company ___ for has just opened an office in Tokyo.",
+      "correct": "my brother works",
+      "wrong": [
+        "where my brother works"
+      ],
+      "hint": "В конце придаточного уже есть предлог.",
+      "explain": "Предлог for стоит в конце, поэтому where не нужен: the company my brother works for. where уже включает предлог (= in which), поэтому where … for — ошибка.",
+      "tr": "Компания, в которой работает мой брат, только что открыла офис в Токио."
+    }
+  ],
+  "glossary": {
+    "accepted": "принял (3-я форма от accept)",
+    "airport": "аэропорт",
+    "anniversary": "годовщина",
+    "app": "приложение",
+    "bigger": "больше (сравн. от big)",
+    "café": "кафе",
+    "candidate": "кандидат",
+    "celebrated": "отмечали (прош. от celebrate)",
+    "chair": "стул",
+    "chargers": "зарядные устройства",
+    "completely": "совершенно, полностью",
+    "door": "дверь (next door — по соседству)",
+    "Europe": "Европа",
+    "excellent": "отличный",
+    "flat": "квартира",
+    "hospital": "больница",
+    "international": "международный",
+    "jacket": "куртка",
+    "leaves": "отправляется, ходит",
+    "local": "местный",
+    "lot": "много (a lot — сильно)",
+    "meetings": "совещания",
+    "nurse": "медсестра",
+    "offer": "предложение",
+    "opened": "открыла (3-я форма от open)",
+    "owned": "владели (прош. от own)",
+    "prize": "премия, приз",
+    "products": "продукция, товары",
+    "report": "отчёт",
+    "research": "исследование",
+    "restaurant": "ресторан",
+    "scientist": "учёный",
+    "sells": "продаёт",
+    "shop": "магазин",
+    "sofa": "диван",
+    "understanding": "понимание",
+    "wedding": "свадьба; свадебный",
+    "words": "слова"
+  }
+}

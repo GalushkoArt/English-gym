@@ -1,0 +1,477 @@
+{
+  "id": "b2-passive-advanced",
+  "level": "B2",
+  "order": 6,
+  "title": "Passive: all tenses and modals",
+  "titleRu": "Пассив во всех временах и с модальными",
+  "summary": "Пассив во всех временах, с модальными, -ing и инфинитивом",
+  "source": "Murphy EGIU units 42–44; British Council: Passive voice",
+  "rules": [
+    {
+      "title": "Пассив во временах: меняется только be",
+      "body": "**be + V3**, где be стоит в нужном времени:\n- Present Continuous: **is / are being + V3**\n- Past Continuous: **was / were being + V3**\n- Present Perfect: **has / have been + V3**\n- Past Perfect: **had been + V3**\n- Future Perfect: **will have been + V3**",
+      "examples": [
+        {
+          "en": "The road is being repaired this week.",
+          "ru": "На этой неделе дорогу ремонтируют."
+        },
+        {
+          "en": "I felt I was being watched.",
+          "ru": "Мне казалось, что за мной наблюдают."
+        },
+        {
+          "en": "The tickets had been sold before we got there.",
+          "ru": "Билеты распродали ещё до того, как мы пришли."
+        },
+        {
+          "en": "By 2030 the tunnel will have been completed.",
+          "ru": "К 2030 году туннель будет достроен."
+        }
+      ]
+    },
+    {
+      "title": "Модальные глаголы в пассиве",
+      "body": "- настоящее и будущее: **modal + be + V3** — must be done, can be done, should be done\n- прошлое: **modal + have been + V3**\n\n**should have been done** — упрёк: нужно было сделать. **must have been done** — уверенный вывод. **can't have been done** — не может быть, чтобы это сделали.",
+      "examples": [
+        {
+          "en": "The form must be signed by both of you.",
+          "ru": "Анкету должны подписать вы оба."
+        },
+        {
+          "en": "The letter should have been sent last week.",
+          "ru": "Письмо нужно было отправить на прошлой неделе."
+        },
+        {
+          "en": "The window can't have been opened from outside.",
+          "ru": "Не может быть, чтобы окно открыли снаружи."
+        }
+      ]
+    },
+    {
+      "title": "Пассивные -ing и инфинитив",
+      "body": "Где нужна -ing-форма (после **hate, avoid, enjoy, like**, после предлогов), пассив — **being + V3**.\n\nГде нужен инфинитив (после **expect, want, hope, need**), пассив — **to be + V3**.",
+      "examples": [
+        {
+          "en": "I hate being interrupted.",
+          "ru": "Терпеть не могу, когда меня перебивают."
+        },
+        {
+          "en": "She expects to be promoted soon.",
+          "ru": "Она рассчитывает, что её скоро повысят."
+        },
+        {
+          "en": "He left the party without being noticed.",
+          "ru": "Он ушёл с вечеринки незамеченным."
+        }
+      ]
+    },
+    {
+      "title": "Глаголы с двумя дополнениями",
+      "body": "**give, offer, send, show, tell, promise, pay, lend** + кому + что. В пассиве подлежащим обычно становится **человек**:\n- They offered her a job → **She was offered** a job.\n- Возможно и с вещью: A job was offered to her.\n- Нельзя: It was offered to her a job; To her was offered a job.",
+      "examples": [
+        {
+          "en": "I was given a new laptop.",
+          "ru": "Мне выдали новый ноутбук."
+        },
+        {
+          "en": "We were told to wait outside.",
+          "ru": "Нам сказали подождать снаружи."
+        }
+      ]
+    },
+    {
+      "title": "get + V3 — разговорный пассив",
+      "body": "**get + V3** вместо be в разговорной речи — чаще о неожиданном, нередко неприятном событии: **get damaged, get stolen, get broken, get hurt**; а также **get paid, get invited, get promoted**.\n\nВ официальном тексте — be + V3.",
+      "examples": [
+        {
+          "en": "My phone got stolen on the train.",
+          "ru": "У меня в поезде украли телефон."
+        },
+        {
+          "en": "We get paid at the end of the month.",
+          "ru": "Зарплату нам платят в конце месяца."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "сейчас в процессе → is/are being + V3",
+    "уже сделано → has/have been + V3; раньше другого → had been + V3",
+    "к сроку в будущем → will have been + V3",
+    "modal + be + V3; о прошлом → modal + have been + V3",
+    "hate, avoid, предлог + being + V3; expect, want + to be + V3",
+    "They offered her a job → She was offered a job",
+    "разговорно: got damaged / got stolen = was damaged / was stolen"
+  ],
+  "mistakes": [
+    {
+      "wrong": "The bridge is building now.",
+      "right": "The bridge is being built now.",
+      "note": "процесс в пассиве → is being + V3; без being выходит «мост строит»"
+    },
+    {
+      "wrong": "I was gave a new laptop.",
+      "right": "I was given a new laptop.",
+      "note": "в пассиве — V3 (given), а не Past Simple"
+    },
+    {
+      "wrong": "She expects to promote next year.",
+      "right": "She expects to be promoted next year.",
+      "note": "повысят её → пассивный инфинитив to be + V3"
+    },
+    {
+      "wrong": "It was offered to me a job in Berlin.",
+      "right": "I was offered a job in Berlin.",
+      "note": "калька с «мне было предложено»: подлежащее — человек"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Дорогу сейчас ремонтируют»?",
+      "back": "**is being + V3**.\nThe road is being repaired at the moment."
+    },
+    {
+      "front": "Как сказать «Письмо нужно было отправить вчера» (но не отправили)?",
+      "back": "**should have been + V3**.\nThe letter should have been sent yesterday."
+    },
+    {
+      "front": "«Терпеть не могу, когда меня перебивают» — какая форма после hate?",
+      "back": "**being + V3**.\nI hate being interrupted."
+    },
+    {
+      "front": "Как перевести в пассив «They offered her a job»?",
+      "back": "Подлежащее — человек: **She was offered a job.**"
+    },
+    {
+      "front": "Когда используют пассив с get?",
+      "back": "В разговорной речи, чаще о неожиданном или неприятном: **got damaged, got stolen**.\nMy bike got stolen last week."
+    },
+    {
+      "front": "Как сказать «К 2030 году мост будет построен» (уже завершён к сроку)?",
+      "back": "**will have been + V3**.\nThe bridge will have been built by 2030."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-passive-advanced-p01",
+      "type": "gap",
+      "q": "Sorry, you can't use the main entrance at the moment — it ___.",
+      "correct": "is being painted",
+      "wrong": [
+        "is painting",
+        "is painted",
+        "has been painting"
+      ],
+      "hint": "Работа идёт прямо сейчас, а вход сам ничего не делает.",
+      "explain": "Процесс в пассиве сейчас → is being + V3: is being painted. is painting — актив («вход красит»), is painted — состояние или регулярное действие.",
+      "tr": "Извините, главным входом сейчас пользоваться нельзя — его красят."
+    },
+    {
+      "id": "b2-passive-advanced-p02",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "When I arrived at the garage, my car was still being repaired.",
+      "wrong": [
+        "When I arrived at the garage, my car was still repairing.",
+        "When I arrived at the garage, my car was still being repair."
+      ],
+      "hint": "Машина не ремонтирует себя сама, а процесс шёл в прошлом.",
+      "explain": "Процесс в прошлом в пассиве → was being + V3: was being repaired. was repairing — актив (машина сама что-то ремонтировала), а после being нужна форма V3.",
+      "tr": "Когда я приехал в автосервис, мою машину всё ещё ремонтировали."
+    },
+    {
+      "id": "b2-passive-advanced-p03",
+      "type": "gap",
+      "q": "Don't worry about the invitations — they ___ to all the guests already.",
+      "correct": "have been sent",
+      "wrong": [
+        "have sent"
+      ],
+      "hint": "Приглашения не отправляют себя сами. Результат к настоящему моменту.",
+      "explain": "Результат сейчас, действие совершают над подлежащим → Present Perfect Passive: have been sent. have sent — актив: «они отправили».",
+      "tr": "Не волнуйся насчёт приглашений — их уже разослали всем гостям."
+    },
+    {
+      "id": "b2-passive-advanced-p04",
+      "type": "gap",
+      "q": "By the time the firefighters arrived, most of the building ___.",
+      "correct": "had been destroyed",
+      "wrong": [
+        "had destroyed",
+        "was destroying"
+      ],
+      "hint": "Разрушение произошло раньше другого прошлого события, и здание само ничего не делало.",
+      "explain": "Раньше другого прошлого действия, пассив → Past Perfect Passive: had been destroyed. had destroyed — актив: здание само что-то разрушило.",
+      "tr": "К тому времени, как приехали пожарные, большая часть здания была уничтожена."
+    },
+    {
+      "id": "b2-passive-advanced-p05",
+      "type": "gap",
+      "q": "By the end of next year, the new hospital ___, and the first patients will be admitted.",
+      "correct": "will have been built",
+      "wrong": [
+        "will have built",
+        "will be building",
+        "has been built"
+      ],
+      "hint": "Результат к моменту в будущем, а больница — объект действия.",
+      "explain": "К сроку в будущем, пассив → Future Perfect Passive: will have been built. will have built — актив («больница построит»), has been built относится к настоящему.",
+      "tr": "К концу следующего года новая больница будет построена, и в неё примут первых пациентов."
+    },
+    {
+      "id": "b2-passive-advanced-p06",
+      "type": "gap",
+      "q": "This form ___ in black ink and returned by Friday.",
+      "correct": "must be completed",
+      "wrong": [
+        "must complete"
+      ],
+      "hint": "Анкету заполняют люди — сама она ничего не делает.",
+      "explain": "Модальный глагол в пассиве: modal + be + V3 → must be completed. must complete — актив: «анкета должна заполнить».",
+      "tr": "Эту анкету нужно заполнить чёрными чернилами и вернуть до пятницы."
+    },
+    {
+      "id": "b2-passive-advanced-p07",
+      "type": "gap",
+      "q": "The report contains several serious errors — it ___ more carefully before it was published.",
+      "correct": "should have been checked",
+      "wrong": [
+        "should be checked"
+      ],
+      "hint": "Отчёт уже опубликован — критика касается прошлого.",
+      "explain": "Упрёк о прошлом в пассиве → should have been + V3: should have been checked. should be checked относится к настоящему или будущему.",
+      "tr": "В отчёте несколько серьёзных ошибок — его нужно было проверить внимательнее перед публикацией."
+    },
+    {
+      "id": "b2-passive-advanced-p08",
+      "type": "gap",
+      "q": "Kate's laptop ___ from the office overnight — the building was locked and the alarm was on.",
+      "correct": "can't have been stolen",
+      "wrong": [
+        "can't have stolen",
+        "can't be stolen"
+      ],
+      "hint": "Говорящий уверен, что в прошлом этого не было. Ноутбук — объект действия.",
+      "explain": "Уверенность, что чего-то не было в прошлом, в пассиве → can't have been + V3. can't have stolen — актив («ноутбук не мог украсть»), can't be stolen относится к настоящему.",
+      "tr": "Ноутбук Кейт не могли украсть из офиса ночью — здание было заперто, а сигнализация включена."
+    },
+    {
+      "id": "b2-passive-advanced-p09",
+      "type": "gap",
+      "q": "I hate ___ what to do by people who know less than I do.",
+      "correct": "being told",
+      "wrong": [
+        "telling"
+      ],
+      "hint": "Говорящий сам не указывает — указывают ему. Какая форма после hate?",
+      "explain": "После hate — -ing; пассивное значение → being + V3: being told. telling — актив: «ненавижу указывать».",
+      "tr": "Терпеть не могу, когда мне указывают, что делать, люди, которые знают меньше меня."
+    },
+    {
+      "id": "b2-passive-advanced-p10",
+      "type": "gap",
+      "q": "Sarah has worked hard all year, and she expects ___ to senior manager in the spring.",
+      "correct": "to be promoted",
+      "wrong": [
+        "to promote"
+      ],
+      "hint": "Сара никого не повышает — повысить должны её.",
+      "explain": "После expect — инфинитив; пассивное значение → to be + V3: to be promoted. to promote — актив: она сама кого-то повысит.",
+      "tr": "Сара весь год усердно работала и рассчитывает, что весной её повысят до старшего менеджера."
+    },
+    {
+      "id": "b2-passive-advanced-p11",
+      "type": "gap",
+      "q": "All new employees ___ a laptop and a phone on their first day.",
+      "correct": "are given",
+      "wrong": [
+        "give",
+        "are gave",
+        "are giving"
+      ],
+      "hint": "Сотрудники получают, а не дают. Действие регулярное.",
+      "explain": "Пассив с двумя дополнениями: подлежащим становится человек → are given + предмет. В пассиве нужна форма V3 (given), а give и are giving — актив.",
+      "tr": "Всем новым сотрудникам в первый день выдают ноутбук и телефон."
+    },
+    {
+      "id": "b2-passive-advanced-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Lucy was offered a place at three different universities.",
+      "wrong": [
+        "Lucy was offer a place at three different universities.",
+        "It was offered to Lucy a place at three different universities.",
+        "To Lucy was offered a place at three different universities."
+      ],
+      "hint": "С глаголами вроде offer и give подлежащим пассива обычно становится человек.",
+      "explain": "offer + человек + предмет → в пассиве подлежащее — человек: Lucy was offered a place. Конструкции с It или To Lucy в начале — кальки с русского.",
+      "tr": "Люси предложили место в трёх разных университетах."
+    },
+    {
+      "id": "b2-passive-advanced-p13",
+      "type": "gap",
+      "q": "Our suitcase ___ on the flight, so the airline paid for a new one.",
+      "correct": "got damaged",
+      "wrong": [
+        "damaged",
+        "got damage"
+      ],
+      "hint": "Чемодан не повреждал себя сам. Это разговорный пассив.",
+      "explain": "get + V3 — разговорный пассив для неожиданных, обычно неприятных событий: got damaged. damaged без вспомогательного глагола — актив: чемодан сам что-то повредил.",
+      "tr": "Наш чемодан повредили во время перелёта, поэтому авиакомпания оплатила новый."
+    },
+    {
+      "id": "b2-passive-advanced-p14",
+      "type": "gap",
+      "q": "I felt as if I ___ — the same car had been behind me for twenty minutes.",
+      "correct": "was being followed",
+      "wrong": [
+        "was following"
+      ],
+      "hint": "Кто кого преследовал? И действие длилось в тот момент.",
+      "explain": "Процесс в прошлом, говорящий — объект действия → was being + V3: was being followed. was following — актив: «я кого-то преследовал».",
+      "tr": "Мне казалось, что за мной следят — одна и та же машина ехала позади меня двадцать минут."
+    },
+    {
+      "id": "b2-passive-advanced-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The documents must have been signed by the director.",
+      "correct": "I'm sure the director signed the documents.",
+      "wrong": [
+        "The director has to sign the documents.",
+        "The director should have signed the documents, but he didn't."
+      ],
+      "hint": "must have been + V3 — это обязанность или вывод о прошлом?",
+      "explain": "must have been + V3 — уверенный вывод о прошлом: документы, несомненно, подписал директор. Обязанность выражало бы has to sign, а упрёк — should have signed.",
+      "tr": "Я уверен, что директор подписал документы."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-passive-advanced-e01",
+      "type": "gap",
+      "q": "Three new species of frog ___ in the rainforest since the start of the project.",
+      "correct": "have been discovered",
+      "wrong": [
+        "were discovered",
+        "have discovered",
+        "had been discovered"
+      ],
+      "hint": "Обратите внимание на since и на то, кто совершает действие.",
+      "explain": "since + период до настоящего → Present Perfect; лягушек обнаруживают учёные → пассив: have been discovered. were discovered не сочетается с since, have discovered — актив.",
+      "tr": "С начала проекта в тропическом лесу обнаружили три новых вида лягушек."
+    },
+    {
+      "id": "b2-passive-advanced-e02",
+      "type": "gap",
+      "q": "The passengers were angry because they ___ about the delay until they reached the gate.",
+      "correct": "hadn't been told",
+      "wrong": [
+        "hadn't told",
+        "weren't telling",
+        "haven't been told"
+      ],
+      "hint": "Пассажирам не сообщили — и это было раньше, чем они разозлились.",
+      "explain": "Действие раньше другого прошлого, пассажиры — объект → Past Perfect Passive: hadn't been told. hadn't told и weren't telling — актив, а haven't been told не сочетается с прошедшим контекстом.",
+      "tr": "Пассажиры были злы, потому что им ничего не сообщили о задержке, пока они не дошли до выхода на посадку."
+    },
+    {
+      "id": "b2-passive-advanced-e03",
+      "type": "gap",
+      "q": "The accident ___ if the warning signs had been placed more clearly.",
+      "correct": "could have been avoided",
+      "wrong": [
+        "could have avoided"
+      ],
+      "hint": "Авария сама ничего не избегает. И речь о прошлом.",
+      "explain": "Нереальная возможность в прошлом, пассив → could have been + V3: could have been avoided. could have avoided — актив: «авария могла бы избежать».",
+      "tr": "Аварии можно было бы избежать, если бы предупреждающие знаки поставили заметнее."
+    },
+    {
+      "id": "b2-passive-advanced-e04",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I was given the wrong information by the receptionist.",
+      "correct": "The receptionist gave me the wrong information.",
+      "wrong": [
+        "I gave the receptionist the wrong information.",
+        "The receptionist was given the wrong information."
+      ],
+      "hint": "Кто дал информацию и кто её получил?",
+      "explain": "I was given … by the receptionist — информацию получил я, а дал её администратор: The receptionist gave me…",
+      "tr": "Администратор дал мне неверную информацию."
+    },
+    {
+      "id": "b2-passive-advanced-e05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "She was upset about being removed from the project without any explanation.",
+      "wrong": [
+        "She was upset about removing from the project without any explanation.",
+        "She was upset about be removed from the project without any explanation."
+      ],
+      "hint": "После предлога about нужна -ing-форма. Её убрали или она кого-то убрала?",
+      "explain": "После предлога — -ing; пассивное значение → being + V3: being removed. removing без дополнения — актив, а be после предлога не ставится.",
+      "tr": "Она была расстроена тем, что её без всяких объяснений отстранили от проекта."
+    }
+  ],
+  "glossary": {
+    "accident": "авария, несчастный случай",
+    "admitted": "приняты (в больницу) (3-я форма от admit)",
+    "airline": "авиакомпания",
+    "alarm": "сигнализация",
+    "angry": "злой, сердитый",
+    "black": "чёрный",
+    "building": "здание",
+    "carefully": "внимательно, тщательно",
+    "clearly": "чётко, заметно",
+    "contains": "содержит (от contain)",
+    "delay": "задержка",
+    "director": "директор",
+    "documents": "документы",
+    "employees": "сотрудники",
+    "end": "конец",
+    "entrance": "вход",
+    "errors": "ошибки",
+    "expects": "рассчитывает, ожидает (от expect)",
+    "firefighters": "пожарные",
+    "flight": "перелёт, рейс",
+    "form": "анкета, бланк",
+    "frog": "лягушка",
+    "gate": "выход на посадку",
+    "guests": "гости",
+    "hate": "ненавидеть, терпеть не могу",
+    "hospital": "больница",
+    "information": "информация",
+    "ink": "чернила",
+    "invitations": "приглашения",
+    "laptop": "ноутбук",
+    "locked": "заперт (от lock)",
+    "main": "главный",
+    "manager": "менеджер, руководитель",
+    "overnight": "ночью, за ночь",
+    "passengers": "пассажиры",
+    "patients": "пациенты",
+    "placed": "размещены, поставлены (3-я форма от place)",
+    "project": "проект",
+    "published": "опубликован (3-я форма от publish)",
+    "rainforest": "тропический лес",
+    "reached": "дошли до, добрались (прош. от reach)",
+    "receptionist": "администратор (на ресепшене)",
+    "report": "отчёт",
+    "returned": "возвращена (3-я форма от return)",
+    "senior": "старший (по должности)",
+    "serious": "серьёзный",
+    "signed": "подписаны (3-я форма от sign)",
+    "signs": "знаки",
+    "sorry": "извините",
+    "species": "вид (биол.), виды",
+    "suitcase": "чемодан",
+    "warning": "предупреждающий",
+    "worry": "волноваться"
+  }
+}

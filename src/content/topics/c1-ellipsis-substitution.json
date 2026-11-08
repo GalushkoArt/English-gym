@@ -1,0 +1,476 @@
+{
+  "id": "c1-ellipsis-substitution",
+  "level": "C1",
+  "order": 10,
+  "title": "Ellipsis and substitution",
+  "titleRu": "Эллипсис и замещение",
+  "summary": "Как не повторять слова: so, not, So do I, do so, one, that of",
+  "source": "Murphy AGIU units 92–96; British Council: Ellipsis and substitution",
+  "rules": [
+    {
+      "title": "so и not вместо придаточного",
+      "body": "После **think, believe, expect, suppose, imagine, hope, guess, be afraid** слово **so** заменяет целое придаточное, а **not** — отрицательное.\n\n- I think so. I expect so. I'm afraid so. I hope so.\n- отрицание с think, believe, expect, suppose: обычно **I don't think so** (формально — I think not)\n- с **hope** и **be afraid** — только **I hope not, I'm afraid not** (НЕ I don't hope so)\n\nНе говорят I think it, I think yes. После know и be sure so не ставится: I know. I'm sure.",
+      "examples": [
+        {
+          "en": "A: Is the bank open today? B: I think so.",
+          "ru": "— Банк сегодня работает? — Думаю, да."
+        },
+        {
+          "en": "A: Will it rain tomorrow? B: I hope not.",
+          "ru": "— Завтра будет дождь? — Надеюсь, нет."
+        },
+        {
+          "en": "A: Did we lose the contract? B: I'm afraid so.",
+          "ru": "— Мы потеряли контракт? — Боюсь, что да."
+        }
+      ]
+    },
+    {
+      "title": "So / Neither / Nor + вспомогательный + подлежащее",
+      "body": "«Я тоже» — **So + aux + подлежащее**; «я тоже не» — **Neither / Nor + aux + подлежащее**. Порядок слов обратный.\n\nВспомогательный глагол повторяет время первой фразы:\n- Present Simple → do / does; Past Simple → did\n- have, be и модальные глаголы повторяются: I've finished. — So have I. She can't drive. — Neither can I.\n\nВ разговорной речи также: Me too / Me neither.",
+      "examples": [
+        {
+          "en": "Anna works from home, and so does her husband.",
+          "ru": "Анна работает из дома, и её муж тоже."
+        },
+        {
+          "en": "I didn't enjoy the film. — Neither did I.",
+          "ru": "Мне не понравился фильм. — Мне тоже."
+        }
+      ]
+    },
+    {
+      "title": "Эллипсис: вспомогательный глагол и to",
+      "body": "Чтобы не повторять глагол, оставляем только **вспомогательный** или **модальный** глагол:\n- He said he'd call, but he didn't.\n- I haven't finished yet, but I will.\n\nПосле want, like, love, hope, try, have и т. п. оставляем **to**: I'd love to. I didn't want to, but I had to.\n\nГлагол **be** не опускается: She isn't ready yet, but she will be. He isn't a manager, but he'd like to be.",
+      "examples": [
+        {
+          "en": "I meant to call her, but I didn't.",
+          "ru": "Я собирался ей позвонить, но не позвонил."
+        },
+        {
+          "en": "A: Can you come tomorrow? B: I'll try to.",
+          "ru": "— Сможешь прийти завтра? — Постараюсь."
+        },
+        {
+          "en": "He isn't very confident yet, but he will be.",
+          "ru": "Пока он не очень уверен в себе, но это придёт."
+        }
+      ]
+    },
+    {
+      "title": "do so / did so",
+      "body": "**do so / did so** — формальная замена глагола вместе с дополнением, когда речь о действии.\n\n- The minister promised to resign, and did so the next day.\n- Applicants who wish to do so may submit documents online.\n\nВ разговорной речи чаще do it / do that. С глаголами состояния (know, like, own) do so не употребляют.",
+      "examples": [
+        {
+          "en": "The bank said it would lower its rates, and it did so in May.",
+          "ru": "Банк обещал снизить ставки и сделал это в мае."
+        },
+        {
+          "en": "Anyone who wants to leave early may do so.",
+          "ru": "Все, кто хочет уйти пораньше, могут это сделать."
+        }
+      ]
+    },
+    {
+      "title": "one / ones, that / those",
+      "body": "- **one / ones** заменяют **исчисляемое** существительное: a cheaper one, the one on the left, the old ones.\n- с **неисчисляемыми** (advice, information, furniture, news) one не используется: I need some advice — can you give me some? (НЕ a good one)\n- в формальных сравнениях вместо повторения существительного перед of / in: **that** (ед. ч. и неисчисл.), **those** (мн. ч.).\n- The climate here is milder than that of the north. Salaries here are higher than those in the regions.",
+      "examples": [
+        {
+          "en": "This laptop is too slow. I need a faster one.",
+          "ru": "Этот ноутбук слишком медленный. Мне нужен побыстрее."
+        },
+        {
+          "en": "The results of this study differ from those of earlier research.",
+          "ru": "Результаты этого исследования отличаются от результатов предыдущих работ."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "I think so / I don't think so; I hope not; I'm afraid not (НЕ I don't hope so)",
+    "«тоже» → So + aux + S; «тоже не» → Neither / Nor + aux + S",
+    "aux повторяет время: works → does, worked → did, has done → has",
+    "but he didn't / but I will; I'd love to; she will be (be не опускаем)",
+    "do so / did so — формальная замена действия",
+    "one / ones — только исчисл.; that of / those of — в сравнениях"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I don't hope so.",
+      "right": "I hope not.",
+      "note": "с hope и be afraid отрицание выражают через not"
+    },
+    {
+      "wrong": "I think yes.",
+      "right": "I think so.",
+      "note": "калька «думаю, да»; после think — so"
+    },
+    {
+      "wrong": "I don't like coffee. — So do I.",
+      "right": "I don't like coffee. — Neither do I.",
+      "note": "согласие с отрицательной фразой → Neither / Nor"
+    },
+    {
+      "wrong": "I need advice — can you give me a good one?",
+      "right": "I need advice — can you give me some?",
+      "note": "advice неисчисляемое, one его не заменяет"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как ответить «Надеюсь, что нет»?",
+      "back": "**I hope not.**\nНЕ I don't hope so."
+    },
+    {
+      "front": "Как согласиться с «I've never been to Scotland» — «я тоже»?",
+      "back": "**Neither have I. / Nor have I.**\nВспомогательный — как в первой фразе (have)."
+    },
+    {
+      "front": "Как закончить «He said he'd call, but he …», не повторяя глагол?",
+      "back": "Только вспомогательный: **but he didn't**."
+    },
+    {
+      "front": "Почему «She isn't ready, but she will soon» — ошибка?",
+      "back": "**be** не опускается.\nShe isn't ready, but she will be soon."
+    },
+    {
+      "front": "Как избежать повтора в «The climate here is milder than the climate of the north»?",
+      "back": "**that of**: …milder than that of the north.\nДля мн. ч. — those of / those in."
+    },
+    {
+      "front": "Что заменяет «did so» в «He promised to resign and did so»?",
+      "back": "**did so** = resigned — формальная замена глагола с дополнением."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-ellipsis-substitution-p01",
+      "type": "gap",
+      "q": "A: Is the museum open on Mondays?\nB: I ___, but let me check the website to be sure.",
+      "correct": "think so",
+      "wrong": [
+        "think it",
+        "think yes"
+      ],
+      "hint": "Какое слово после think заменяет целое придаточное «что музей открыт»?",
+      "explain": "После think придаточное заменяется словом so: I think so. I think it и I think yes — кальки с русского «думаю, да».",
+      "tr": "— Музей открыт по понедельникам? — Думаю, да, но давай я проверю на сайте, чтобы знать точно."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p02",
+      "type": "gap",
+      "q": "A: Is the bridge still closed?\nB: I'm afraid ___. They say the repairs will take another month.",
+      "correct": "so",
+      "wrong": [
+        "not"
+      ],
+      "hint": "Мост всё ещё закрыт или уже открыт? Посмотрите на вторую фразу B.",
+      "explain": "Ремонт продлится ещё месяц, значит, мост по-прежнему закрыт: I'm afraid so = боюсь, что да. I'm afraid not означало бы, что он уже открыт.",
+      "tr": "— Мост всё ещё закрыт? — Боюсь, что да. Говорят, ремонт продлится ещё месяц."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p03",
+      "type": "gap",
+      "q": "A: Do you think the flight will be delayed again?\nB: I ___ — I've got an important meeting at ten.",
+      "correct": "hope not",
+      "wrong": [
+        "don't hope so"
+      ],
+      "hint": "Как с глаголом hope выражается отрицательный ответ?",
+      "explain": "С hope отрицание выражают через not: I hope not. Форма I don't hope so неверна, в отличие от I don't think so.",
+      "tr": "— Как думаешь, рейс снова задержат? — Надеюсь, нет: у меня в десять важная встреча."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p04",
+      "type": "gap",
+      "q": "A: I've never been to Scotland.\nB: ___ — we should go together some time.",
+      "correct": "Neither have I",
+      "wrong": [
+        "Neither I have",
+        "So have I",
+        "Neither do I"
+      ],
+      "hint": "Фраза A отрицательная и построена с have. Нужен обратный порядок слов.",
+      "explain": "Согласие с отрицанием → Neither + тот же вспомогательный (have) + подлежащее. So — для утвердительных фраз, do не совпадает с have, а Neither I have нарушает порядок слов.",
+      "tr": "— Я никогда не был в Шотландии. — Я тоже — надо бы как-нибудь съездить вместе."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p05",
+      "type": "gap",
+      "q": "My brother works in finance, and ___ his wife.",
+      "correct": "so does",
+      "wrong": [
+        "so is",
+        "so do",
+        "so works"
+      ],
+      "hint": "works — Present Simple. Какой вспомогательный глагол ему соответствует?",
+      "explain": "Present Simple, 3-е лицо ед. ч. → so does his wife. is не соответствует works, do не согласуется с his wife, а смысловой глагол после so не ставится.",
+      "tr": "Мой брат работает в финансовой сфере, и его жена тоже."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p06",
+      "type": "gap",
+      "q": "Sam passed the final exam last week, and so ___ Lucy.",
+      "correct": "did",
+      "wrong": [
+        "has",
+        "was"
+      ],
+      "hint": "В первой части — Past Simple с last week.",
+      "explain": "Вспомогательный повторяет время первой части: passed → did. has (Present Perfect) не сочетается с last week, а was не подходит к смысловому глаголу.",
+      "tr": "Сэм сдал выпускной экзамен на прошлой неделе, и Люси тоже."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p07",
+      "type": "gap",
+      "q": "The plumber said he would repair the boiler on Monday, but he ___.",
+      "correct": "didn't",
+      "wrong": [
+        "didn't repair",
+        "wasn't",
+        "don't"
+      ],
+      "hint": "Чтобы не повторять «repair the boiler», оставьте только вспомогательный глагол нужного времени.",
+      "explain": "Эллипсис: от сказуемого остаётся только вспомогательный — but he didn't (repair it). didn't repair без дополнения неполно, wasn't и don't не соответствуют времени и глаголу.",
+      "tr": "Сантехник сказал, что починит котёл в понедельник, но так и не починил."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p08",
+      "type": "gap",
+      "q": "I haven't read the report yet, but I ___ before the meeting.",
+      "correct": "will",
+      "wrong": [
+        "do"
+      ],
+      "hint": "Действие произойдёт в будущем. Какой вспомогательный глагол останется от сказуемого?",
+      "explain": "Эллипсис с будущим временем: but I will (read it). Present Simple do не выражает будущее действие.",
+      "tr": "Я ещё не читал отчёт, но прочитаю его до совещания."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p09",
+      "type": "gap",
+      "q": "A: Would you like to join us for dinner on Friday?\nB: I'd ___, but I'm working late that evening.",
+      "correct": "love to",
+      "wrong": [
+        "love"
+      ],
+      "hint": "Глагол «join us» не повторяется. Что от него остаётся?",
+      "explain": "Сокращённый инфинитив: I'd love to (join you). Частица to сохраняется, поэтому одно love неграмматично.",
+      "tr": "— Не хочешь поужинать с нами в пятницу? — С удовольствием бы, но в тот вечер я допоздна работаю."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p10",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "She isn't ready to lead the team yet, but she will be soon.",
+      "wrong": [
+        "She isn't ready to lead the team yet, but she will soon."
+      ],
+      "hint": "В первой части сказуемое строится с be. Можно ли его опустить после will?",
+      "explain": "be при эллипсисе не опускается: she will be (ready). Без be после will нет глагола, к которому можно отнести ready.",
+      "tr": "Она пока не готова руководить командой, но скоро будет готова."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p11",
+      "type": "gap",
+      "q": "The government promised to cut income tax, and it ___ in the spring budget.",
+      "correct": "did so",
+      "wrong": [
+        "so did",
+        "made so"
+      ],
+      "hint": "Нужна формальная замена «cut income tax». Обратите внимание на порядок слов.",
+      "explain": "did so — формальная замена глагола с дополнением: it did so = it cut income tax. so did означает «тоже» и требует другой структуры, а make so не существует.",
+      "tr": "Правительство обещало снизить подоходный налог и сделало это в весеннем бюджете."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p12",
+      "type": "gap",
+      "q": "If you need advice about mortgages, my sister can give you ___.",
+      "correct": "some",
+      "wrong": [
+        "one"
+      ],
+      "hint": "advice — исчисляемое или неисчисляемое?",
+      "explain": "advice неисчисляемое, поэтому его заменяет some, а не one. one заменяет только исчисляемые существительные в ед. ч.",
+      "tr": "Если тебе нужен совет по ипотеке, моя сестра может тебя проконсультировать."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p13",
+      "type": "gap",
+      "q": "These headphones are too heavy for daily use. Have you got any lighter ___?",
+      "correct": "ones",
+      "wrong": [
+        "one",
+        "it",
+        "them"
+      ],
+      "hint": "headphones — множественное число, а после any и прилагательного нужно слово-заменитель.",
+      "explain": "Исчисляемое во мн. ч. заменяется словом ones: any lighter ones. one — для ед. ч., а it и them не ставятся после прилагательного.",
+      "tr": "Эти наушники слишком тяжёлые для ежедневного использования. У вас есть полегче?"
+    },
+    {
+      "id": "c1-ellipsis-substitution-p14",
+      "type": "gap",
+      "q": "Salaries in the private sector are much higher than ___ in the public sector.",
+      "correct": "those",
+      "wrong": [
+        "that",
+        "them"
+      ],
+      "hint": "Пропуск заменяет слово salaries. Оно в единственном или множественном числе?",
+      "explain": "Формальная замена существительного во мн. ч. в сравнении → those (= salaries). that заменяет ед. ч. или неисчисляемое, а them не может иметь определения in….",
+      "tr": "Зарплаты в частном секторе намного выше, чем в государственном."
+    },
+    {
+      "id": "c1-ellipsis-substitution-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The climate in the south is much milder than that of the north.",
+      "correct": "The south has a much milder climate than the north.",
+      "wrong": [
+        "The climate in the south is much milder than it used to be.",
+        "The north has a much milder climate than the south."
+      ],
+      "hint": "Что заменяет слово that в этом сравнении?",
+      "explain": "that of the north = the climate of the north. Сравнивается климат юга и севера, и на юге он мягче.",
+      "tr": "На юге климат гораздо мягче, чем на севере."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-ellipsis-substitution-e01",
+      "type": "pick",
+      "task": "Выберите грамматически верный ответ",
+      "q": "A: Why did you go to the conference if you hate public speaking?",
+      "correct": "I didn't want to, but my manager said I had to.",
+      "wrong": [
+        "I didn't want, but my manager said I had to.",
+        "I didn't want it, but my manager said I had."
+      ],
+      "hint": "Глагол «go to the conference» не повторяется дважды. Что остаётся после want и после had?",
+      "explain": "Сокращённый инфинитив: didn't want to, had to — частица to сохраняется в обоих местах. it не заменяет действие, а want и had без to неграмматичны.",
+      "tr": "— Зачем ты поехал на конференцию, если терпеть не можешь выступать публично? — Я не хотел, но начальник сказал, что я должен."
+    },
+    {
+      "id": "c1-ellipsis-substitution-e02",
+      "type": "gap",
+      "q": "Kate had already left when we arrived, and so ___ most of the other guests.",
+      "correct": "had",
+      "wrong": [
+        "did",
+        "were",
+        "have"
+      ],
+      "hint": "Определите время первой части: какой вспомогательный глагол в ней уже есть?",
+      "explain": "В первой части Past Perfect (had left), поэтому повторяется had: so had most of the other guests. did, were и have не соответствуют этому времени.",
+      "tr": "Когда мы пришли, Кейт уже ушла, как и большинство остальных гостей."
+    },
+    {
+      "id": "c1-ellipsis-substitution-e03",
+      "type": "pick",
+      "task": "Выберите грамматически верный ответ",
+      "q": "A: Is there any chance of getting a refund on this ticket?",
+      "correct": "I'm afraid not — it's a non-refundable fare.",
+      "wrong": [
+        "I'm afraid no — it's a non-refundable fare.",
+        "I'm not afraid so — it's a non-refundable fare."
+      ],
+      "hint": "Как с be afraid выражается вежливый отрицательный ответ?",
+      "explain": "После be afraid отрицательное придаточное заменяет not: I'm afraid not. no в этой позиции не ставится, а I'm not afraid so значит совсем другое и неграмматично.",
+      "tr": "— Есть ли шанс вернуть деньги за этот билет? — Боюсь, что нет: это невозвратный тариф."
+    },
+    {
+      "id": "c1-ellipsis-substitution-e04",
+      "type": "gap",
+      "q": "The population of the capital is now larger than ___ of the rest of the country combined.",
+      "correct": "that",
+      "wrong": [
+        "those",
+        "it",
+        "this"
+      ],
+      "hint": "Пропуск заменяет существительное population. Какое у него число и какое слово используется в формальных сравнениях?",
+      "explain": "Формальная замена существительного в ед. ч. перед of → that (= the population). those — для мн. ч., а it и this не употребляются с of в этой функции.",
+      "tr": "Население столицы теперь больше, чем население всей остальной страны, вместе взятой."
+    },
+    {
+      "id": "c1-ellipsis-substitution-e05",
+      "type": "gap",
+      "q": "A: Will the new rules apply to part-time staff as well?\nB: I ___ — the document only mentions full-time employees.",
+      "correct": "suppose not",
+      "wrong": [
+        "don't suppose",
+        "suppose no"
+      ],
+      "hint": "Ответ отрицательный, а придаточное «что правила касаются их» нужно заменить одним словом.",
+      "explain": "Отрицательное придаточное после suppose заменяется словом not: I suppose not (или I don't suppose so). don't suppose без so неполно, а no в этой позиции не ставится.",
+      "tr": "— Новые правила будут касаться и сотрудников на неполной ставке? — Полагаю, что нет: в документе упоминаются только штатные сотрудники на полной ставке."
+    }
+  ],
+  "glossary": {
+    "advice": "совет, советы (неисчисл.)",
+    "afraid": "(I'm afraid) боюсь, к сожалению",
+    "apply": "распространяться на, касаться",
+    "boiler": "котёл, бойлер",
+    "bridge": "мост",
+    "budget": "бюджет",
+    "capital": "столица",
+    "chance": "шанс, возможность",
+    "check": "проверить",
+    "climate": "климат",
+    "closed": "закрыт",
+    "combined": "вместе взятый",
+    "conference": "конференция",
+    "daily": "ежедневный",
+    "delayed": "задержан (3-я форма от delay)",
+    "dinner": "ужин",
+    "document": "документ",
+    "employees": "сотрудники",
+    "exam": "экзамен",
+    "final": "выпускной, итоговый",
+    "finance": "финансы, финансовая сфера",
+    "flight": "рейс",
+    "full-time": "на полную ставку",
+    "government": "правительство",
+    "guests": "гости",
+    "hate": "ненавидеть, терпеть не могу",
+    "headphones": "наушники",
+    "heavy": "тяжёлый",
+    "higher": "выше",
+    "income": "доход; income tax — подоходный налог",
+    "join": "присоединиться к",
+    "larger": "больше",
+    "lighter": "легче, полегче",
+    "mentions": "упоминает (3-е л. от mention)",
+    "milder": "мягче",
+    "Mondays": "понедельники; on Mondays — по понедельникам",
+    "mortgages": "ипотека, ипотечные кредиты",
+    "museum": "музей",
+    "north": "север",
+    "part-time": "на неполную ставку",
+    "passed": "сдал (прош. от pass)",
+    "plumber": "сантехник",
+    "population": "население",
+    "private": "частный",
+    "promised": "обещало (прош. от promise)",
+    "public": "государственный; публичный",
+    "refund": "возврат денег",
+    "repair": "починить",
+    "repairs": "ремонт (мн. ч.)",
+    "report": "отчёт",
+    "rest": "остальная часть",
+    "rules": "правила",
+    "salaries": "зарплаты",
+    "Scotland": "Шотландия",
+    "sector": "сектор",
+    "south": "юг",
+    "speaking": "выступление (public speaking — публичные выступления)",
+    "staff": "персонал, сотрудники",
+    "tax": "налог",
+    "ticket": "билет",
+    "website": "сайт"
+  }
+}

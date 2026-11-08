@@ -1,0 +1,460 @@
+{
+  "id": "b2-third-mixed-conditionals",
+  "level": "B2",
+  "order": 4,
+  "title": "Third and mixed conditionals",
+  "titleRu": "Третий и смешанный тип условных",
+  "summary": "Нереальное прошлое и его связь с настоящим",
+  "source": "Murphy EGIU unit 40; British Council: Conditionals: third and mixed",
+  "rules": [
+    {
+      "title": "Третий тип: нереальное прошлое",
+      "body": "**if + had + V3, would have + V3**.\n\nВоображаем другое прошлое — то, чего не было. Изменить уже ничего нельзя: часто это сожаление или критика.\n\n- отрицание: **hadn't + V3, wouldn't have + V3**\n- вопрос: **What would you have done if…?**",
+      "examples": [
+        {
+          "en": "If I had known, I would have told you.",
+          "ru": "Если бы я знал, я бы тебе сказал."
+        },
+        {
+          "en": "If we hadn't missed the train, we wouldn't have been late.",
+          "ru": "Если бы мы не опоздали на поезд, мы бы не опоздали на встречу."
+        },
+        {
+          "en": "What would you have done if you'd lost your passport?",
+          "ru": "Что бы ты сделал, если бы потерял паспорт?"
+        }
+      ]
+    },
+    {
+      "title": "could have и might have",
+      "body": "Вместо would have в главной части:\n- **could have + V3** — смог бы (была возможность)\n- **might have + V3** — возможно, бы (говорящий не уверен)",
+      "examples": [
+        {
+          "en": "If we'd left earlier, we could have caught the train.",
+          "ru": "Если бы мы вышли раньше, мы бы успели на поезд."
+        },
+        {
+          "en": "If you'd asked her, she might have said yes.",
+          "ru": "Если бы ты её спросил, она, может быть, согласилась бы."
+        }
+      ]
+    },
+    {
+      "title": "Без would после if; 'd = had или would",
+      "body": "В if-части **would** не ставится: If I had known — не If I would have known.\n\nСокращение **'d** читается по-разному:\n- в if-части перед V3 → **had**: If I'd known…\n- в главной части перед have → **would**: …I'd have called.",
+      "examples": [
+        {
+          "en": "If I'd known you were ill, I'd have visited you.",
+          "ru": "Если бы я знал, что ты болеешь, я бы тебя навестил."
+        },
+        {
+          "en": "If she'd asked me, I'd have helped.",
+          "ru": "Если бы она меня попросила, я бы помог."
+        }
+      ]
+    },
+    {
+      "title": "Смешанный тип: прошлое → настоящее",
+      "body": "**if + had + V3, would + V** — условие в прошлом, результат сейчас.\n\n- маркеры результата: **now, today, still**\n- would have + V3 здесь не подходит: результат не в прошлом",
+      "examples": [
+        {
+          "en": "If I had taken the job, I would be living in Berlin now.",
+          "ru": "Если бы я согласился на ту работу, я бы сейчас жил в Берлине."
+        },
+        {
+          "en": "If she hadn't moved to London, she wouldn't know Tom.",
+          "ru": "Если бы она не переехала в Лондон, она бы не знала Тома."
+        }
+      ]
+    },
+    {
+      "title": "Смешанный тип: настоящее → прошлое",
+      "body": "**if + Past Simple, would have + V3** — условие описывает постоянную черту или факт, верный и сейчас; результат — в прошлом.\n\nIf I **were** more organised — я вообще неорганизованный человек, поэтому тогда пропустил срок.",
+      "examples": [
+        {
+          "en": "If I were more organised, I wouldn't have missed the deadline.",
+          "ru": "Будь я организованнее, я бы не пропустил срок."
+        },
+        {
+          "en": "If he spoke French, he would have understood the guide.",
+          "ru": "Если бы он говорил по-французски, он бы понял экскурсовода."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "if + had + V3 → would have + V3",
+    "could have / might have + V3 → смог бы / возможно, бы (в прошлом)",
+    "If I'd known… → 'd = had; I'd have… → 'd = would",
+    "прошлое условие → результат now: if + had + V3, would + V",
+    "постоянная черта → результат в прошлом: if + Past Simple, would have + V3",
+    "would не ставится после if"
+  ],
+  "mistakes": [
+    {
+      "wrong": "If I would have known, I would have helped.",
+      "right": "If I had known, I would have helped.",
+      "note": "калька с «если бы»: после if — had + V3, без would"
+    },
+    {
+      "wrong": "If I had known, I would help you yesterday.",
+      "right": "If I had known, I would have helped you yesterday.",
+      "note": "результат в прошлом → would have + V3"
+    },
+    {
+      "wrong": "If she didn't miss the bus, she wouldn't have been late.",
+      "right": "If she hadn't missed the bus, she wouldn't have been late.",
+      "note": "условие о прошлом событии → had + V3"
+    },
+    {
+      "wrong": "If I had taken that job, I would have lived in Berlin now.",
+      "right": "If I had taken that job, I would be living in Berlin now.",
+      "note": "результат сейчас (now) → would + V"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать о прошлом: «Если бы я знал, я бы тебе сказал»?",
+      "back": "**if + had + V3, would have + V3**.\nIf I had known, I would have told you."
+    },
+    {
+      "front": "Что означает каждое 'd в «If I'd known, I'd have called»?",
+      "back": "Первое **'d = had** (if-часть), второе **'d = would** (перед have).\nIf I had known, I would have called."
+    },
+    {
+      "front": "Чем отличаются would have, could have и might have?",
+      "back": "**would have** — сделал бы; **could have** — смог бы; **might have** — возможно, сделал бы.\nIf we'd left earlier, we could have caught the train."
+    },
+    {
+      "front": "Решение в прошлом → результат сейчас. Какая схема?",
+      "back": "**if + had + V3, would + V**.\nIf I had studied medicine, I would be a doctor now."
+    },
+    {
+      "front": "Постоянная черта характера → событие в прошлом. Какая схема?",
+      "back": "**if + Past Simple, would have + V3**.\nIf he were more careful, he wouldn't have crashed the car."
+    },
+    {
+      "front": "Почему нельзя сказать «If I would have known…»?",
+      "back": "**would** не ставится в if-части.\nIf I had known, I would have come."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-third-mixed-conditionals-p01",
+      "type": "gap",
+      "q": "If we ___ the map before we set off, we wouldn't have got lost in the mountains.",
+      "correct": "had checked",
+      "wrong": [
+        "checked",
+        "would have checked",
+        "have checked"
+      ],
+      "hint": "Речь о прошлом, которое уже не изменить. Какая форма нужна в if-части?",
+      "explain": "Third conditional: if + had + V3 → would have + V3. checked (Past Simple) — форма второго типа, а would в if-части не ставится.",
+      "tr": "Если бы мы проверили карту перед выходом, мы бы не заблудились в горах."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p02",
+      "type": "gap",
+      "q": "I'm sorry I missed your party. If I'd known about it, I ___.",
+      "correct": "would have come",
+      "wrong": [
+        "would come"
+      ],
+      "hint": "Вечеринка уже прошла. Какая форма в главной части для нереального прошлого?",
+      "explain": "Нереальное прошлое → would have + V3: would have come. would come относится к настоящему или будущему.",
+      "tr": "Извини, что пропустил твою вечеринку. Если бы я о ней знал, я бы пришёл."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p03",
+      "type": "gap",
+      "q": "We missed the last bus by two minutes. If we had left the restaurant a bit earlier, we ___ it.",
+      "correct": "could have caught",
+      "wrong": [
+        "could catch"
+      ],
+      "hint": "Автобус уже ушёл. Речь о возможности в прошлом.",
+      "explain": "could have + V3 — «смогли бы» в прошлом: could have caught. could catch относится к настоящему или будущему.",
+      "tr": "Мы опоздали на последний автобус на две минуты. Если бы мы ушли из ресторана чуть раньше, мы бы на него успели."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p04",
+      "type": "gap",
+      "q": "If Anna had accepted the job in Berlin, she ___ in Germany now.",
+      "correct": "would be living",
+      "wrong": [
+        "would have lived",
+        "will be living"
+      ],
+      "hint": "Условие в прошлом, но результат — «now».",
+      "explain": "Смешанный тип: прошлое условие (had accepted) → результат сейчас: would + V (would be living). would have lived описывало бы прошлое, а now указывает на настоящее.",
+      "tr": "Если бы Анна согласилась на работу в Берлине, она бы сейчас жила в Германии."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p05",
+      "type": "gap",
+      "q": "If Mark were more organised, he ___ the deadline for the grant application last week.",
+      "correct": "wouldn't have missed",
+      "wrong": [
+        "wouldn't miss",
+        "hadn't missed"
+      ],
+      "hint": "Условие — постоянная черта Марка, а результат относится к прошлой неделе.",
+      "explain": "Смешанный тип: постоянное свойство (if + were) → результат в прошлом (last week): wouldn't have missed. wouldn't miss относится к настоящему, а hadn't missed — форма if-части.",
+      "tr": "Если бы Марк был организованнее, он бы не пропустил срок подачи заявки на грант на прошлой неделе."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p06",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If I'd seen the email in time, I'd have replied.",
+      "wrong": [
+        "If I'd have seen the email in time, I'd have replied.",
+        "If I'd seen the email in time, I'd replied."
+      ],
+      "hint": "Расшифруйте каждое 'd: где had, а где would?",
+      "explain": "В if-части 'd = had (I'd seen), в главной 'd = would (I'd have replied). I'd have seen после if — ошибка, а I'd replied без have не образует would have + V3.",
+      "tr": "Если бы я увидел письмо вовремя, я бы ответил."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p07",
+      "type": "gap",
+      "q": "The open-air concert was cancelled. If it ___ so heavily, the band would have played.",
+      "correct": "hadn't rained",
+      "wrong": [
+        "didn't rain",
+        "wouldn't rain",
+        "hasn't rained"
+      ],
+      "hint": "Дождь был в прошлом. Какое отрицание нужно в if-части?",
+      "explain": "Нереальное прошлое → if + hadn't + V3: hadn't rained. didn't rain — форма второго типа, а would в if-части не ставится.",
+      "tr": "Концерт под открытым небом отменили. Если бы не было такого сильного дождя, группа бы выступила."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p08",
+      "type": "gap",
+      "q": "I'm not sure, but if you had applied earlier, they ___ you a place on the course.",
+      "correct": "might have offered",
+      "wrong": [
+        "might offer",
+        "will have offered"
+      ],
+      "hint": "Говорящий не уверен, и речь о прошлом.",
+      "explain": "might have + V3 — «возможно, бы» в прошлом: might have offered. might offer относится к будущему, will have offered — Future Perfect.",
+      "tr": "Не уверен, но если бы ты подал заявку раньше, тебе, возможно, предложили бы место на курсе."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p09",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "If the doctor hadn't acted so quickly, the patient would have died.",
+      "correct": "The doctor acted quickly, so the patient survived.",
+      "wrong": [
+        "The doctor didn't act quickly, so the patient died.",
+        "The doctor acted quickly, but the patient died."
+      ],
+      "hint": "Третий тип описывает противоположное тому, что было на самом деле.",
+      "explain": "hadn't acted → на самом деле врач действовал быстро; would have died → на самом деле пациент выжил.",
+      "tr": "Врач действовал быстро, поэтому пациент выжил."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p10",
+      "type": "gap",
+      "q": "If I hadn't spent all my savings on that course, I ___ able to afford a holiday now.",
+      "correct": "would be",
+      "wrong": [
+        "would have been",
+        "will be",
+        "had been"
+      ],
+      "hint": "Условие в прошлом, а результат — сейчас.",
+      "explain": "Смешанный тип: прошлое условие (hadn't spent) → результат сейчас (now): would be. would have been относится к прошлому.",
+      "tr": "Если бы я не потратил все сбережения на тот курс, я мог бы сейчас позволить себе отпуск."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p11",
+      "type": "gap",
+      "q": "If the manager ___ the risks, she would never have approved the project.",
+      "correct": "had understood",
+      "wrong": [
+        "would have understood"
+      ],
+      "hint": "would have уже есть в главной части. Что ставится после if?",
+      "explain": "В if-части третьего типа — had + V3: had understood. would have после if — частая ошибка, калька с «если бы».",
+      "tr": "Если бы руководитель понимала риски, она никогда бы не одобрила проект."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If he had taken his medicine, he wouldn't be in hospital now.",
+      "wrong": [
+        "If he would have taken his medicine, he wouldn't be in hospital now.",
+        "If he had taken his medicine, he wouldn't have been in hospital now.",
+        "If he had taken his medicine, he won't be in hospital now."
+      ],
+      "hint": "Условие в прошлом, результат — сейчас. Проверьте обе части.",
+      "explain": "Смешанный тип: if + had + V3 → would + V (now): wouldn't be. would не ставится после if, а wouldn't have been противоречит слову now.",
+      "tr": "Если бы он принимал лекарство, он бы сейчас не лежал в больнице."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p13",
+      "type": "gap",
+      "q": "I didn't know you were in town last week. If you ___ me, we could have met for coffee.",
+      "correct": "had told",
+      "wrong": [
+        "told"
+      ],
+      "hint": "Речь о прошлой неделе — ситуацию уже не изменить.",
+      "explain": "Нереальное прошлое → if + had + V3: had told. told (Past Simple) — форма второго типа, она описывает настоящее.",
+      "tr": "Я не знал, что ты был в городе на прошлой неделе. Если бы ты мне сказал, мы могли бы встретиться за кофе."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p14",
+      "type": "gap",
+      "q": "If I'd known the shop was closed, I ___ all that way.",
+      "correct": "wouldn't have driven",
+      "wrong": [
+        "hadn't driven"
+      ],
+      "hint": "Что означает 'd в if-части? И какая форма нужна в главной?",
+      "explain": "I'd known = I had known (if-часть). В главной части — would have + V3: wouldn't have driven. hadn't driven — форма if-части.",
+      "tr": "Если бы я знал, что магазин закрыт, я бы не ехал в такую даль."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-p15",
+      "type": "gap",
+      "q": "What ___ if the bank had refused to give you the loan?",
+      "correct": "would you have done",
+      "wrong": [
+        "will you do",
+        "had you done"
+      ],
+      "hint": "Ситуация воображаемая и относится к прошлому.",
+      "explain": "Вопрос в третьем типе: What would you have done if + had + V3? will you do — реальное будущее, had you done — форма if-части.",
+      "tr": "Что бы ты сделал, если бы банк отказал тебе в кредите?"
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-third-mixed-conditionals-e01",
+      "type": "gap",
+      "q": "If the engineers ___ the bridge properly during last year's check, they ___ the crack months ago.",
+      "correct": "had inspected / would have found",
+      "wrong": [
+        "inspected / would find",
+        "would have inspected / would have found",
+        "had inspected / would find"
+      ],
+      "hint": "Обе части относятся к прошлому.",
+      "explain": "Нереальное прошлое: if + had + V3 (had inspected), would have + V3 (would have found). would have после if не ставится, а would find не сочетается с months ago.",
+      "tr": "Если бы инженеры как следует осмотрели мост во время прошлогодней проверки, они бы обнаружили трещину ещё несколько месяцев назад."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-e02",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "If I hadn't moved to London, I wouldn't know Maria.",
+      "correct": "I know Maria because I moved to London.",
+      "wrong": [
+        "I didn't move to London, so I don't know Maria.",
+        "I moved to London, but I don't know Maria."
+      ],
+      "hint": "Прошлое условие, результат в настоящем. Что было на самом деле?",
+      "explain": "hadn't moved → на самом деле переезд был; wouldn't know → на самом деле я знаю Марию. Переезд в прошлом влияет на настоящее.",
+      "tr": "Я знаю Марию, потому что переехал в Лондон."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-e03",
+      "type": "gap",
+      "q": "Ivan isn't a confident person. If he weren't so shy, he ___ to Laura at the party last night.",
+      "correct": "would have spoken",
+      "wrong": [
+        "would speak"
+      ],
+      "hint": "Условие — постоянная черта, а событие — вчерашний вечер.",
+      "explain": "Смешанный тип: постоянное свойство (weren't so shy) → результат в прошлом (last night): would have spoken. would speak относится к настоящему.",
+      "tr": "Иван — неуверенный в себе человек. Если бы он не был таким застенчивым, он бы заговорил с Лорой на вечеринке вчера вечером."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If I hadn't stayed up so late, I wouldn't feel so tired now.",
+      "wrong": [
+        "If I hadn't stayed up so late, I wouldn't have felt so tired now.",
+        "If I wouldn't have stayed up so late, I wouldn't feel so tired now."
+      ],
+      "hint": "Причина в прошлом, следствие — сейчас.",
+      "explain": "Смешанный тип: if + hadn't + V3 → would + V (now): wouldn't feel. wouldn't have felt противоречит now, а would после if не ставится.",
+      "tr": "Если бы я не засиделся так поздно, я бы сейчас не чувствовал себя таким уставшим."
+    },
+    {
+      "id": "b2-third-mixed-conditionals-e05",
+      "type": "gap",
+      "q": "The fire spread very quickly. If the alarm ___ working, more people might have been hurt.",
+      "correct": "hadn't been",
+      "wrong": [
+        "wasn't"
+      ],
+      "hint": "Пожар уже произошёл. Какая форма нужна в if-части?",
+      "explain": "Нереальное прошлое → if + had + V3: hadn't been working. wasn't working — форма второго типа, она описывает настоящее.",
+      "tr": "Пожар распространился очень быстро. Если бы сигнализация не работала, пострадало бы, возможно, больше людей."
+    }
+  ],
+  "glossary": {
+    "accepted": "согласилась на, приняла (3-я форма от accept)",
+    "acted": "действовал (3-я форма от act)",
+    "afford": "позволить себе (по деньгам)",
+    "alarm": "сигнализация",
+    "application": "заявка",
+    "applied": "подал заявку (3-я форма от apply)",
+    "approved": "одобрила (3-я форма от approve)",
+    "band": "группа (музыкальная)",
+    "bank": "банк",
+    "bit": "(a bit) немного, чуть",
+    "bridge": "мост",
+    "cancelled": "отменили (3-я форма от cancel)",
+    "check": "проверка",
+    "closed": "закрыт",
+    "coffee": "кофе",
+    "concert": "концерт",
+    "confident": "уверенный в себе",
+    "course": "курс (обучения)",
+    "crack": "трещина",
+    "deadline": "крайний срок",
+    "died": "умер (3-я форма от die)",
+    "doctor": "врач",
+    "earlier": "раньше",
+    "engineers": "инженеры",
+    "fire": "пожар",
+    "grant": "грант",
+    "heavily": "сильно (о дожде)",
+    "holiday": "отпуск",
+    "loan": "кредит, заём",
+    "manager": "руководитель, менеджер",
+    "map": "карта",
+    "missed": "опоздали на; пропустил (прош. от miss)",
+    "mountains": "горы",
+    "open-air": "под открытым небом",
+    "organised": "организованный",
+    "party": "вечеринка",
+    "patient": "пациент",
+    "place": "место",
+    "played": "сыграла, выступила (3-я форма от play)",
+    "project": "проект",
+    "properly": "как следует, должным образом",
+    "quickly": "быстро",
+    "refused": "отказал (3-я форма от refuse)",
+    "restaurant": "ресторан",
+    "risks": "риски",
+    "savings": "сбережения",
+    "shop": "магазин",
+    "shy": "застенчивый",
+    "sorry": "(I'm sorry) извини, мне жаль",
+    "spread": "распространился (прош. от spread)"
+  }
+}

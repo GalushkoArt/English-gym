@@ -16,7 +16,6 @@ export interface TopicProgress {
   last: number;
   lastAt: number;
   completedAt?: number;
-  rulesOpenedAt?: number;
 }
 
 export interface ReviewItem {
