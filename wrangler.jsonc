@@ -1,0 +1,11 @@
+// Cloudflare Workers static assets config. `npm run deploy` builds and uploads ./dist.
+// For Cloudflare Pages instead: build command `npm run build`, output directory `dist`.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "english-gym",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "single-page-application"
+  }
+}

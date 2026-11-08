@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="Тренажёр английской грамматики B1–C1 для русскоязычных: правила по Мерфи, карточки с вариантами, повторение ошибок, флеш-карты и сертификация уровня." />
+    <meta name="theme-color" content="#f5f6f8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#101217" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>English Gym — тренажёр грамматики</title>
+    <script>
+      // Apply the saved theme before first paint to avoid a flash.
+      try {
+        var s = JSON.parse(localStorage.getItem('english-gym:v1') || '{}');
+        var t = s && s.settings && s.settings.theme;
+        if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

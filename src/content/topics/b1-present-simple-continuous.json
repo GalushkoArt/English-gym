@@ -1,0 +1,444 @@
+{
+  "id": "b1-present-simple-continuous",
+  "level": "B1",
+  "order": 1,
+  "title": "Present Simple vs Present Continuous",
+  "titleRu": "Настоящее простое и длительное",
+  "summary": "Привычки и факты против того, что происходит сейчас",
+  "source": "Murphy EGIU units 1–4; British Council: Present simple and present continuous",
+  "rules": [
+    {
+      "title": "Present Continuous — то, что происходит сейчас",
+      "body": "Форма: **am / is / are + V-ing**.\n\nИспользуем, когда действие идёт в момент речи или в текущий период, который ещё не закончился.\n\n- маркеры: **now, right now, at the moment, Look!, Listen!**\n- текущий период: **this week, this month, these days, currently**",
+      "examples": [
+        {
+          "en": "Can you call back later? I'm driving.",
+          "ru": "Можешь перезвонить позже? Я за рулём."
+        },
+        {
+          "en": "She's preparing for her exams this month.",
+          "ru": "В этом месяце она готовится к экзаменам."
+        }
+      ]
+    },
+    {
+      "title": "Present Simple — привычки, факты, постоянное",
+      "body": "Форма: **V** или **V-s** для he/she/it. Вопрос и отрицание — через **do / does**.\n\n- регулярные действия: **always, usually, often, every day, twice a week, never**\n- общие факты и то, что верно всегда\n- постоянные ситуации: где человек живёт, кем работает",
+      "examples": [
+        {
+          "en": "I usually walk to work.",
+          "ru": "Обычно я хожу на работу пешком."
+        },
+        {
+          "en": "How often does she travel abroad?",
+          "ru": "Как часто она ездит за границу?"
+        }
+      ]
+    },
+    {
+      "title": "Постоянное или временное",
+      "body": "Одно и то же действие может быть постоянным (**Simple**) или временным (**Continuous**).\n\nТакже Continuous описывает **меняющиеся ситуации**: тенденции, рост, снижение.",
+      "examples": [
+        {
+          "en": "I live in Moscow, but I'm staying in Kazan for a few weeks.",
+          "ru": "Я живу в Москве, но несколько недель нахожусь в Казани."
+        },
+        {
+          "en": "The climate is getting warmer.",
+          "ru": "Климат становится теплее."
+        }
+      ]
+    },
+    {
+      "title": "Глаголы состояния",
+      "body": "Глаголы, которые описывают состояние, а не действие, обычно **не употребляются в Continuous**: know, understand, believe, want, need, like, prefer, mean, belong, contain, seem, own.\n\nНекоторые глаголы меняют значение:\n- **think** = считать (Simple) / обдумывать (Continuous)\n- **have** = иметь (Simple) / have dinner, have a shower (Continuous возможен)\n- **taste, smell** = иметь вкус/запах (Simple) / пробовать, нюхать (Continuous)",
+      "examples": [
+        {
+          "en": "I think it's a good idea.",
+          "ru": "Я считаю, это хорошая идея."
+        },
+        {
+          "en": "I'm thinking about changing jobs.",
+          "ru": "Я подумываю о смене работы."
+        }
+      ]
+    },
+    {
+      "title": "always + Continuous",
+      "body": "**always + am/is/are + V-ing** — частая привычка, которая раздражает говорящего.",
+      "examples": [
+        {
+          "en": "He's always losing his keys.",
+          "ru": "Он вечно теряет ключи."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "now / at the moment / Look! / this week → am/is/are + V-ing",
+    "always / usually / every … / never → V / V-s",
+    "постоянно → Simple; временно → Continuous",
+    "know, want, need, like, mean, belong, contain → без -ing",
+    "think = считать → Simple; think = обдумывать → Continuous",
+    "always + V-ing → раздражающая привычка"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I am agree with you.",
+      "right": "I agree with you.",
+      "note": "agree — глагол; am перед ним лишний"
+    },
+    {
+      "wrong": "I'm knowing the answer.",
+      "right": "I know the answer.",
+      "note": "know — глагол состояния, без -ing"
+    },
+    {
+      "wrong": "Where you work?",
+      "right": "Where do you work?",
+      "note": "вопрос в Present Simple строится через do/does"
+    },
+    {
+      "wrong": "She work in a bank.",
+      "right": "She works in a bank.",
+      "note": "he/she/it → окончание -s"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Какое время, если действие идёт прямо в момент речи?",
+      "back": "**Present Continuous**: am/is/are + V-ing.\nShe's talking on the phone right now."
+    },
+    {
+      "front": "Какое время для привычек и регулярных действий?",
+      "back": "**Present Simple**.\nI usually walk to work."
+    },
+    {
+      "front": "Почему не говорят «I'm wanting a coffee»?",
+      "back": "want — **глагол состояния**, обычно без -ing.\nI want a coffee."
+    },
+    {
+      "front": "«I think he's right» или «I'm thinking he's right»?",
+      "back": "**I think** — think в значении «считать» не ставится в Continuous.\n«I'm thinking about…» = обдумываю."
+    },
+    {
+      "front": "Как сказать о временной ситуации: «Пока я живу у друзей»?",
+      "back": "**Present Continuous**.\nI'm staying with friends until I find a flat."
+    },
+    {
+      "front": "Что выражает «He's always interrupting me»?",
+      "back": "**always + Continuous** — частая привычка, которая раздражает.\nОн вечно меня перебивает."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-present-simple-continuous-p01",
+      "type": "gap",
+      "q": "Can you call back later? I ___ a report for tomorrow's meeting right now.",
+      "correct": "am writing",
+      "wrong": [
+        "write",
+        "writes"
+      ],
+      "hint": "Обратите внимание на «right now».",
+      "explain": "right now — действие идёт в момент речи → Present Continuous. Present Simple описывал бы привычку, а не процесс.",
+      "tr": "Можешь перезвонить позже? Я сейчас пишу отчёт к завтрашнему совещанию."
+    },
+    {
+      "id": "b1-present-simple-continuous-p02",
+      "type": "gap",
+      "q": "Most nurses in this hospital ___ twelve-hour shifts three or four times a week.",
+      "correct": "work",
+      "wrong": [
+        "are working"
+      ],
+      "hint": "«three or four times a week» — это процесс или регулярность?",
+      "explain": "Регулярное действие (three or four times a week) → Present Simple. Continuous означал бы, что они работают прямо сейчас.",
+      "tr": "Большинство медсестёр в этой больнице работают двенадцатичасовыми сменами три-четыре раза в неделю."
+    },
+    {
+      "id": "b1-present-simple-continuous-p03",
+      "type": "gap",
+      "q": "Look! Someone ___ to park in our space again.",
+      "correct": "is trying",
+      "wrong": [
+        "tries",
+        "try",
+        "trying"
+      ],
+      "hint": "«Look!» указывает на то, что происходит перед глазами.",
+      "explain": "Look! — действие идёт сейчас → is trying. Без is форма trying не может быть сказуемым.",
+      "tr": "Смотри! Кто-то опять пытается припарковаться на нашем месте."
+    },
+    {
+      "id": "b1-present-simple-continuous-p04",
+      "type": "gap",
+      "q": "I ___ what you mean, but I don't think it's a good idea.",
+      "correct": "understand",
+      "wrong": [
+        "am understanding",
+        "understanding"
+      ],
+      "hint": "Понимание — это действие или состояние?",
+      "explain": "understand — глагол состояния, в Continuous обычно не употребляется: I understand.",
+      "tr": "Я понимаю, что ты имеешь в виду, но не думаю, что это хорошая идея."
+    },
+    {
+      "id": "b1-present-simple-continuous-p05",
+      "type": "gap",
+      "q": "This box ___ old letters and photos from my grandparents' house.",
+      "correct": "contains",
+      "wrong": [
+        "is containing"
+      ],
+      "hint": "Подумайте, к какой группе глаголов относится contain.",
+      "explain": "contain (содержать) — глагол состояния → Present Simple: contains.",
+      "tr": "В этой коробке старые письма и фотографии из дома моих бабушки и дедушки."
+    },
+    {
+      "id": "b1-present-simple-continuous-p06",
+      "type": "gap",
+      "q": "Sarah normally lives in Manchester, but this month she ___ with her aunt in London.",
+      "correct": "is staying",
+      "wrong": [
+        "stays",
+        "stay"
+      ],
+      "hint": "Сравните «normally» и «this month»: что постоянно, а что временно?",
+      "explain": "this month — временная ситуация → Present Continuous: is staying. Постоянное место жительства — lives (Simple).",
+      "tr": "Обычно Сара живёт в Манчестере, но в этом месяце она гостит у тёти в Лондоне."
+    },
+    {
+      "id": "b1-present-simple-continuous-p07",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Do you know where the nearest pharmacy is?",
+      "wrong": [
+        "Are you knowing where the nearest pharmacy is?",
+        "Does you know where the nearest pharmacy is?"
+      ],
+      "hint": "know — глагол состояния. И проверьте вспомогательный глагол для you.",
+      "explain": "know не ставится в Continuous, а вопрос с you строится через do: Do you know…?",
+      "tr": "Вы не знаете, где ближайшая аптека?"
+    },
+    {
+      "id": "b1-present-simple-continuous-p08",
+      "type": "gap",
+      "q": "A: You look worried. What's wrong?\nB: Nothing serious. I ___ about whether to accept the job offer.",
+      "correct": "am thinking",
+      "wrong": [
+        "think"
+      ],
+      "hint": "Здесь think значит «считать» или «обдумывать»?",
+      "explain": "think about = обдумывать, процесс идёт сейчас → am thinking. В значении «считать» было бы I think.",
+      "tr": "— Ты выглядишь озабоченным. Что случилось? — Ничего серьёзного. Я думаю, принять ли предложение о работе."
+    },
+    {
+      "id": "b1-present-simple-continuous-p09",
+      "type": "gap",
+      "q": "I ___ the new tax rules will help small businesses very much.",
+      "correct": "don't think",
+      "wrong": [
+        "am not thinking",
+        "not think"
+      ],
+      "hint": "Здесь говорящий высказывает мнение.",
+      "explain": "think в значении «считать» — глагол состояния → Present Simple: I don't think. Отрицание строится через don't.",
+      "tr": "Я не думаю, что новые налоговые правила сильно помогут малому бизнесу."
+    },
+    {
+      "id": "b1-present-simple-continuous-p10",
+      "type": "gap",
+      "q": "These days rents in the city centre ___ so fast that many young people can't afford a flat there.",
+      "correct": "are rising",
+      "wrong": [
+        "rise",
+        "rises",
+        "rising"
+      ],
+      "hint": "«These days» и описание тенденции — какая форма для меняющейся ситуации?",
+      "explain": "Меняющаяся ситуация (тенденция) в текущий период → Present Continuous: are rising.",
+      "tr": "В последнее время аренда в центре растёт так быстро, что многие молодые люди не могут позволить себе там квартиру."
+    },
+    {
+      "id": "b1-present-simple-continuous-p11",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Tom is always interrupting people in meetings.",
+      "correct": "Tom often interrupts people in meetings, and it's annoying.",
+      "wrong": [
+        "Tom is interrupting someone in a meeting at the moment.",
+        "Tom interrupted people in a meeting once."
+      ],
+      "hint": "always + Continuous выражает не процесс, а отношение говорящего.",
+      "explain": "always + Present Continuous — частая привычка, которая раздражает. Это не действие в момент речи.",
+      "tr": "Том часто перебивает людей на совещаниях, и это раздражает."
+    },
+    {
+      "id": "b1-present-simple-continuous-p12",
+      "type": "gap",
+      "q": "Sorry, Mark can't come to the phone — he ___ dinner with a client.",
+      "correct": "is having",
+      "wrong": [
+        "has",
+        "have"
+      ],
+      "hint": "have dinner — это обладание или действие?",
+      "explain": "have dinner — действие, а не обладание, поэтому Continuous возможен; сейчас → is having.",
+      "tr": "Извините, Марк не может подойти к телефону — он ужинает с клиентом."
+    },
+    {
+      "id": "b1-present-simple-continuous-p13",
+      "type": "gap",
+      "q": "How often ___ your parents?",
+      "correct": "do you visit",
+      "wrong": [
+        "are you visiting",
+        "you visit",
+        "visit you"
+      ],
+      "hint": "Вопрос о частоте. И нужен вспомогательный глагол.",
+      "explain": "How often — регулярность → Present Simple; вопрос строится через do: do you visit.",
+      "tr": "Как часто ты навещаешь родителей?"
+    },
+    {
+      "id": "b1-present-simple-continuous-p14",
+      "type": "gap",
+      "q": "This soup ___ delicious. What's in it?",
+      "correct": "tastes",
+      "wrong": [
+        "is tasting"
+      ],
+      "hint": "Здесь taste значит «пробовать» или «иметь вкус»?",
+      "explain": "taste = иметь вкус — глагол состояния → Present Simple: tastes.",
+      "tr": "Этот суп очень вкусный. Что в нём?"
+    },
+    {
+      "id": "b1-present-simple-continuous-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I usually take the bus, but this week I'm cycling to work.",
+      "wrong": [
+        "I'm usually taking the bus, but this week I cycle to work.",
+        "I usually take the bus, but this week I cycle to work.",
+        "I usually am taking the bus, but this week I'm cycling to work."
+      ],
+      "hint": "Одна часть — привычка, другая — временная ситуация.",
+      "explain": "usually → привычка → Present Simple (take); this week → временно → Present Continuous (I'm cycling).",
+      "tr": "Обычно я езжу на автобусе, но на этой неделе езжу на работу на велосипеде."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-present-simple-continuous-e01",
+      "type": "gap",
+      "q": "Please keep your voice down — the baby ___, and I don't want her to wake up.",
+      "correct": "is sleeping",
+      "wrong": [
+        "sleeps",
+        "sleep",
+        "slept"
+      ],
+      "hint": "Что происходит в момент речи?",
+      "explain": "Действие идёт прямо сейчас → Present Continuous: is sleeping.",
+      "tr": "Пожалуйста, говори тише — ребёнок спит, и я не хочу, чтобы она проснулась."
+    },
+    {
+      "id": "b1-present-simple-continuous-e02",
+      "type": "gap",
+      "q": "This laptop ___ to my sister, so please don't install anything on it.",
+      "correct": "belongs",
+      "wrong": [
+        "is belonging",
+        "belong"
+      ],
+      "hint": "belong — действие или состояние?",
+      "explain": "belong — глагол состояния → Present Simple, для it — с окончанием -s: belongs.",
+      "tr": "Этот ноутбук принадлежит моей сестре, так что, пожалуйста, ничего на него не устанавливай."
+    },
+    {
+      "id": "b1-present-simple-continuous-e03",
+      "type": "gap",
+      "q": "Our team ___ on a new mobile app at the moment, so nobody has much free time.",
+      "correct": "is working",
+      "wrong": [
+        "works"
+      ],
+      "hint": "Обратите внимание на «at the moment».",
+      "explain": "at the moment — текущий период, работа ещё идёт → Present Continuous: is working.",
+      "tr": "Сейчас наша команда работает над новым мобильным приложением, поэтому ни у кого нет свободного времени."
+    },
+    {
+      "id": "b1-present-simple-continuous-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верный диалог",
+      "q": "",
+      "correct": "What do you do? — I'm an engineer, but at the moment I'm looking for a new job.",
+      "wrong": [
+        "What are you doing? — I'm an engineer, but at the moment I look for a new job.",
+        "What do you do? — I'm an engineer, but at the moment I look for a new job."
+      ],
+      "hint": "Вопрос о профессии — это постоянное. Поиск работы — временное.",
+      "explain": "What do you do? — вопрос о профессии (Simple). at the moment → временная ситуация → I'm looking.",
+      "tr": "— Кем вы работаете? — Я инженер, но сейчас ищу новую работу."
+    },
+    {
+      "id": "b1-present-simple-continuous-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I'm living with my parents until I find a flat of my own.",
+      "correct": "Living with my parents is a temporary situation for me.",
+      "wrong": [
+        "I have always lived with my parents and plan to stay.",
+        "I lived with my parents before I found a flat."
+      ],
+      "hint": "Что подчёркивает Continuous в этом предложении?",
+      "explain": "Present Continuous с live подчёркивает временную ситуацию: «пока не найду квартиру».",
+      "tr": "Жить с родителями — для меня временная ситуация."
+    }
+  ],
+  "glossary": {
+    "accept": "принять",
+    "afford": "позволить себе (по деньгам)",
+    "app": "приложение",
+    "aunt": "тётя",
+    "baby": "младенец, малыш",
+    "box": "коробка",
+    "businesses": "компании, предприятия",
+    "centre": "центр",
+    "client": "клиент",
+    "delicious": "очень вкусный",
+    "dinner": "ужин",
+    "flat": "квартира",
+    "grandparents": "бабушка и дедушка",
+    "hospital": "больница",
+    "install": "устанавливать (программу)",
+    "interrupting": "перебивая (-ing от interrupt)",
+    "keep": "держать; (keep your voice down) говорить тише",
+    "laptop": "ноутбук",
+    "letters": "письма",
+    "Manchester": "Манчестер",
+    "meetings": "совещания",
+    "mobile": "мобильный",
+    "normally": "обычно",
+    "nurses": "медсёстры",
+    "offer": "предложение",
+    "park": "парковаться",
+    "photos": "фотографии",
+    "rents": "арендная плата (мн. ч.)",
+    "report": "отчёт",
+    "rules": "правила",
+    "serious": "серьёзный",
+    "shifts": "смены (рабочие)",
+    "sorry": "извините",
+    "soup": "суп",
+    "space": "место (парковочное)",
+    "tax": "налог; налоговый",
+    "team": "команда",
+    "twelve-hour": "двенадцатичасовой",
+    "voice": "голос",
+    "wake": "просыпаться (wake up)"
+  }
+}
