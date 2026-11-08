@@ -345,11 +345,11 @@
       "q": "Peter ___ the truth about Friday. He says he was ill at home, but I saw him in town that evening.",
       "correct": "can't be telling",
       "wrong": [
-        "mustn't be telling",
+        "can't telling",
         "must be telling"
       ],
       "hint": "Факты противоречат его словам. Какой вывод можно сделать?",
-      "explain": "Уверенность, что этого не происходит → can't + be + V-ing. mustn't означает запрет, а must be telling противоречит фактам.",
+      "explain": "Уверенность, что этого не происходит → can't + be + V-ing. must be telling противоречит фактам, а без be форма процесса после модального глагола не строится.",
       "tr": "Питер не может говорить правду о пятнице. Он говорит, что болел дома, но я видел его в городе в тот вечер."
     },
     {
@@ -387,11 +387,11 @@
       "q": "",
       "correct": "Olga hasn't replied to any of my messages. She may not have my new number.",
       "wrong": [
-        "Olga hasn't replied to any of my messages. She mustn't have my new number.",
+        "Olga hasn't replied to any of my messages. She may doesn't have my new number.",
         "Olga hasn't replied to any of my messages. She may not to have my new number."
       ],
-      "hint": "Это лишь одно из возможных объяснений. Проверьте также форму глагола после модального.",
-      "explain": "«Возможно, не…» → may not + V без to. mustn't означает запрет и для предположений не используется.",
+      "hint": "Это лишь одно из возможных объяснений. Проверьте, как строится отрицание с модальным глаголом и какая форма глагола идёт после него.",
+      "explain": "«Возможно, не…» → may not + V без to. Модальный глагол сам образует отрицание (may not), поэтому does / doesn't после него не ставят, а частица to после may не нужна.",
       "tr": "Ольга не ответила ни на одно моё сообщение. Возможно, у неё нет моего нового номера."
     },
     {
@@ -400,10 +400,10 @@
       "q": "A: I think the museum is closed today.\nB: It ___ be. I saw a group of tourists going in ten minutes ago.",
       "correct": "can't",
       "wrong": [
-        "mustn't"
+        "must"
       ],
       "hint": "B уверен, что A ошибается. Каким глаголом выражают уверенность в невозможности?",
-      "explain": "Уверенность, что это невозможно → can't. mustn't выражает запрет и для логического вывода не используется.",
+      "explain": "Уверенность, что это невозможно → can't (be closed). It must be значило бы, что B согласен с A, но туристы только что заходили внутрь, значит, музей открыт.",
       "tr": "— По-моему, музей сегодня закрыт. — Не может быть. Я видел, как туда десять минут назад заходила группа туристов."
     }
   ],
