@@ -232,7 +232,7 @@
     {
       "id": "b1-past-simple-continuous-p08",
       "type": "gap",
-      "q": "___ the report before the meeting yesterday?",
+      "q": "___ the report for the client before the meeting yesterday?",
       "correct": "Did you finish",
       "wrong": [
         "Did you finished",
@@ -240,7 +240,7 @@
       ],
       "hint": "Обратите внимание на yesterday и на форму глагола после вспомогательного.",
       "explain": "yesterday — законченное время → Past Simple: Did you finish. После did глагол стоит в начальной форме, без -ed; Present Perfect с yesterday не сочетается.",
-      "tr": "Ты закончил отчёт вчера до совещания?"
+      "tr": "Ты закончил отчёт для клиента вчера до совещания?"
     },
     {
       "id": "b1-past-simple-continuous-p09",
@@ -412,6 +412,7 @@
     "bell": "дверной звонок",
     "birthday": "день рождения",
     "board": "совет директоров",
+    "client": "клиент",
     "cold": "простуда",
     "conference": "конференция",
     "cooked": "готовил (прош. от cook)",

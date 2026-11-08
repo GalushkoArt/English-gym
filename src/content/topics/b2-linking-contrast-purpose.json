@@ -182,12 +182,12 @@
       "q": "Anna went to the office ___ feeling ill, because she had an important presentation.",
       "correct": "despite",
       "wrong": [
-        "although",
         "despite of",
-        "in spite"
+        "in spite",
+        "however"
       ],
       "hint": "После пропуска — форма -ing. И проверьте, нужен ли предлог.",
-      "explain": "Перед -ing → despite (или in spite of). despite of и in spite без of не существуют, а although требует придаточного.",
+      "explain": "Перед -ing → despite (или in spite of). despite of и in spite без of не существуют, а however — наречие, которое связывает отдельные предложения.",
       "tr": "Анна пошла в офис, несмотря на плохое самочувствие, потому что у неё была важная презентация."
     },
     {
@@ -323,28 +323,28 @@
     {
       "id": "b2-linking-contrast-purpose-p14",
       "type": "gap",
-      "q": "___ she had a high temperature, Maria insisted on going to the office.",
+      "q": "___ I had all the necessary qualifications and experience, I didn't get the job.",
       "correct": "Even though",
       "wrong": [
         "Even if"
       ],
-      "hint": "Высокая температура — реальный факт или воображаемая ситуация?",
-      "explain": "Реальный факт + контраст → even though (усиленное although). even if вводит предположение: «даже если бы».",
-      "tr": "Хотя у Марии была высокая температура, она настояла на том, чтобы пойти в офис."
+      "hint": "Говорящий точно знает свою квалификацию: это факт или предположение?",
+      "explain": "Реальный факт + неожиданный результат → even though (усиленное although). even if вводит предположение: «даже если (бы)».",
+      "tr": "Хотя у меня была вся необходимая квалификация и опыт, эту работу я не получил."
     },
     {
       "id": "b2-linking-contrast-purpose-p15",
       "type": "gap",
-      "q": "___ you offered me twice the salary, I wouldn't move to that city.",
-      "correct": "Even if",
+      "q": "The football match will go ahead on Saturday ___ it rains, so bring a raincoat.",
+      "correct": "even if",
       "wrong": [
-        "Even though",
-        "Although",
-        "Despite"
+        "even though",
+        "although",
+        "despite"
       ],
-      "hint": "Это реальный факт или воображаемое условие? Обратите внимание на wouldn't.",
-      "explain": "Гипотетическое условие (offered … wouldn't) → even if: «даже если бы». even though и although вводят реальные факты, а despite не ставится перед придаточным.",
-      "tr": "Даже если бы вы предложили мне вдвое большую зарплату, я бы не переехал в этот город."
+      "hint": "Дождь в субботу — известный факт или лишь возможность?",
+      "explain": "Возможная ситуация в будущем → even if: «даже если». even though и although вводят реальные факты, а despite не ставится перед придаточным.",
+      "tr": "Футбольный матч в субботу состоится, даже если пойдёт дождь, так что возьмите дождевик."
     }
   ],
   "exam": [
@@ -418,8 +418,10 @@
     }
   ],
   "glossary": {
+    "ahead": "(go ahead) состояться",
     "airport": "аэропорт",
     "approved": "одобрен (3-я форма от approve)",
+    "bring": "возьмите с собой",
     "budget": "бюджет",
     "cities": "города",
     "clearly": "чётко, ясно",
@@ -429,26 +431,28 @@
     "deal": "(deal with) заниматься, решать",
     "earned": "заработала (прош. от earn)",
     "education": "образование",
+    "experience": "опыт",
     "extremely": "чрезвычайно",
     "feeling": "(feeling ill) плохое самочувствие (-ing от feel)",
     "flat": "квартира",
     "follow": "понимать, следить за (речью)",
+    "football": "футбольный",
     "guests": "гости",
     "heavy": "плотный (о движении)",
     "helpful": "услужливый, готовый помочь",
     "holiday": "(on holiday) в отпуск",
     "hotel": "отель",
     "ill": "больной, плохо",
-    "insisted": "настояла (прош. от insist)",
     "international": "иностранный, международный",
     "laptop": "ноутбук",
     "lecturer": "преподаватель (вуза)",
     "love": "обожать, очень любить",
     "loves": "обожает, очень любит",
+    "match": "матч",
     "miss": "пропустить",
+    "necessary": "необходимый",
     "noisy": "шумный",
     "number": "номер",
-    "offered": "предложили (прош. от offer)",
     "order": "заказать",
     "peace": "покой, спокойствие",
     "penny": "пенни (монета)",
@@ -456,14 +460,15 @@
     "prefer": "предпочитаю",
     "presentation": "презентация",
     "project": "проект",
+    "qualifications": "квалификация (мн. ч.)",
+    "raincoat": "дождевик",
+    "rains": "идёт дождь (it rains)",
     "river": "река",
-    "salary": "зарплата",
     "saved": "откладывала (прош. от save)",
     "saving": "коплю (-ing от save)",
     "slowly": "медленно",
     "staff": "персонал",
     "students": "студенты",
-    "temperature": "температура",
     "tickets": "билеты",
     "traffic": "дорожное движение",
     "urgent": "срочный",

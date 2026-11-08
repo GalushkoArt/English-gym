@@ -152,14 +152,14 @@
     {
       "id": "b1-future-forms-p02",
       "type": "gap",
-      "q": "Look at those dark clouds! It ___.",
+      "q": "Look at those dark clouds over the hills! It ___.",
       "correct": "is going to rain",
       "wrong": [
         "will rain"
       ],
       "hint": "Прогноз строится на том, что видно прямо сейчас.",
       "explain": "Прогноз по признакам, которые видны сейчас (dark clouds), → be going to: is going to rain. will — для прогнозов-мнений: I think it will rain tomorrow.",
-      "tr": "Посмотри на эти тёмные тучи! Сейчас пойдёт дождь."
+      "tr": "Посмотри на эти тёмные тучи над холмами! Сейчас пойдёт дождь."
     },
     {
       "id": "b1-future-forms-p03",
@@ -424,6 +424,7 @@
     "flying": "летит (-ing от fly)",
     "gym": "спортзал",
     "heavy": "тяжёлый",
+    "hills": "холмы",
     "interview": "собеседование",
     "invitations": "приглашения",
     "laptop": "ноутбук",

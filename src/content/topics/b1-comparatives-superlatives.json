@@ -1,0 +1,452 @@
+{
+  "id": "b1-comparatives-superlatives",
+  "level": "B1",
+  "order": 8,
+  "title": "Comparatives and superlatives",
+  "titleRu": "Сравнительная и превосходная степень",
+  "summary": "Сравнение: -er / more, the -est / the most, as … as, the … the",
+  "source": "Murphy EGIU units 105–108; British Council: Comparative and superlative adjectives",
+  "rules": [
+    {
+      "title": "Форма: -er / -est или more / most",
+      "body": "- **1 слог**: cheap → cheap**er** → the cheap**est**; big → bi**gg**er (удвоение после краткой гласной); nice → nice**r**\n- **2 слога на -y**: easy → eas**ier** → the eas**iest**; busy → bus**ier**\n- **2 слога и больше**: **more / the most** + прилагательное: more modern, the most expensive\n\nСпособы не смешиваем: не *more cheaper*. После сравнительной степени — **than**.",
+      "examples": [
+        {
+          "en": "This phone is cheaper and lighter than mine.",
+          "ru": "Этот телефон дешевле и легче моего."
+        },
+        {
+          "en": "Online courses are often more flexible than evening classes.",
+          "ru": "Онлайн-курсы часто удобнее по графику, чем вечерние занятия."
+        }
+      ]
+    },
+    {
+      "title": "Неправильные формы и less / least",
+      "body": "- **good** → better → the best\n- **bad** → worse → the worst\n- **far** → further → the furthest\n- **much / many** → more → the most; **little** → less → the least\n\n**less / the least** + прилагательное — «менее / наименее»: less expensive, the least popular.",
+      "examples": [
+        {
+          "en": "Her English is better than mine.",
+          "ru": "Её английский лучше моего."
+        },
+        {
+          "en": "This is the least popular dish on the menu.",
+          "ru": "Это наименее популярное блюдо в меню."
+        }
+      ]
+    },
+    {
+      "title": "Усиление и «чем …, тем …»",
+      "body": "Перед сравнительной степенью: **much, far, a lot** (намного), **a bit, slightly** (немного). **very** со сравнительной степенью не сочетается: не *very cheaper*.\n\n**the + сравнительная …, the + сравнительная …** — «чем …, тем …»: The sooner, the better.",
+      "examples": [
+        {
+          "en": "The new model is far more reliable.",
+          "ru": "Новая модель гораздо надёжнее."
+        },
+        {
+          "en": "The more I read about it, the less I understand.",
+          "ru": "Чем больше я об этом читаю, тем меньше понимаю."
+        }
+      ]
+    },
+    {
+      "title": "as … as",
+      "body": "- **as + прилагательное + as** — такой же, как\n- **not as / not so … as** — не такой, как\n- **twice / three times as … as** — в два / три раза больше, дороже…\n- **the same as** — такой же, как (без прилагательного)",
+      "examples": [
+        {
+          "en": "My son is almost as tall as me now.",
+          "ru": "Мой сын теперь почти с меня ростом."
+        },
+        {
+          "en": "This suitcase is twice as heavy as mine.",
+          "ru": "Этот чемодан в два раза тяжелее моего."
+        }
+      ]
+    },
+    {
+      "title": "Превосходная степень: in, of, ever",
+      "body": "**the + -est / the most + прилагательное**.\n\n- **in** + место или группа: the oldest café **in** town, the best player **in** the team\n- **of** + период или число: the best day **of** my life, the oldest **of** the three\n- **the … I've ever + V3** — самый … из всех, что я когда-либо…",
+      "examples": [
+        {
+          "en": "Sarah is the most experienced person in our team.",
+          "ru": "Сара — самый опытный человек в нашей команде."
+        },
+        {
+          "en": "June is the busiest month of the year for us.",
+          "ru": "Июнь — самый загруженный месяц в году для нас."
+        },
+        {
+          "en": "This is the best coffee I've ever tasted.",
+          "ru": "Это лучший кофе, который я когда-либо пробовал."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "1 слог: -er / the -est; 2 слога на -y: -ier / the -iest",
+    "2+ слога: more / the most + прилагательное",
+    "good–better–best; bad–worse–worst; far–further–furthest",
+    "much / far / a bit + -er (не very); the more…, the better",
+    "as … as; not as … as; twice as … as",
+    "the -est + in (место, группа) / of (период) / I've ever + V3"
+  ],
+  "mistakes": [
+    {
+      "wrong": "This phone is more cheaper.",
+      "right": "This phone is cheaper.",
+      "note": "либо -er, либо more — не вместе"
+    },
+    {
+      "wrong": "My English is very better now.",
+      "right": "My English is much better now.",
+      "note": "перед сравнительной степенью — much / far / a bit, не very"
+    },
+    {
+      "wrong": "It's the biggest city of Russia.",
+      "right": "It's the biggest city in Russia.",
+      "note": "место → in; of — для периода или группы: of the year, of the three"
+    },
+    {
+      "wrong": "He is the same tall as his brother.",
+      "right": "He is as tall as his brother.",
+      "note": "«такой же …, как» → as + прилагательное + as"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как образовать сравнительную степень от expensive и от cheap?",
+      "back": "**more expensive** (длинное слово), **cheaper** (один слог).\nНе more cheaper."
+    },
+    {
+      "front": "Сравнительная и превосходная степень от good, bad, far?",
+      "back": "good – **better** – **the best**\nbad – **worse** – **the worst**\nfar – **further** – **the furthest**"
+    },
+    {
+      "front": "Как сказать «намного дешевле» и «немного старше»?",
+      "back": "**much / far cheaper**, **a bit older**.\nНе very cheaper."
+    },
+    {
+      "front": "Как сказать «Чем раньше, тем лучше»?",
+      "back": "**The sooner, the better.**\nthe + сравнительная, the + сравнительная."
+    },
+    {
+      "front": "in или of: самый большой парк … городе / самый длинный день … году?",
+      "back": "the biggest park **in** the city (место)\nthe longest day **of** the year (период)"
+    },
+    {
+      "front": "Как сказать «в два раза дороже»?",
+      "back": "**twice as expensive as**.\nThe new model is twice as expensive as the old one."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-comparatives-superlatives-p01",
+      "type": "gap",
+      "q": "Flats in the city centre are much ___ than in the suburbs.",
+      "correct": "more expensive",
+      "wrong": [
+        "expensiver",
+        "more expensiver",
+        "most expensive"
+      ],
+      "hint": "Сколько слогов в прилагательном? И что стоит после пропуска?",
+      "explain": "expensive — длинное прилагательное → more expensive; после него than. Окончание -er с длинными словами не используется, а most — превосходная степень.",
+      "tr": "Квартиры в центре города намного дороже, чем в пригородах."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p02",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Train tickets are usually cheaper if you book them a few weeks in advance.",
+      "wrong": [
+        "Train tickets are usually more cheaper if you book them a few weeks in advance."
+      ],
+      "hint": "cheap — один слог. Можно ли сочетать два способа сравнения?",
+      "explain": "cheap — один слог → cheaper. more и -er вместе не используются.",
+      "tr": "Билеты на поезд обычно дешевле, если покупать их за несколько недель."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p03",
+      "type": "gap",
+      "q": "The traffic is even ___ today than it was yesterday.",
+      "correct": "worse",
+      "wrong": [
+        "badder",
+        "more bad",
+        "worst"
+      ],
+      "hint": "bad — прилагательное с неправильными формами. Здесь сравнение двух дней.",
+      "explain": "bad → worse → the worst. Сравниваем два дня (than) → сравнительная степень worse; worst — превосходная.",
+      "tr": "Сегодня пробки ещё хуже, чем вчера."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p04",
+      "type": "gap",
+      "q": "Of all the candidates, Laura has ___ experience in international marketing.",
+      "correct": "the most",
+      "wrong": [
+        "the more"
+      ],
+      "hint": "«Of all the candidates» — сравнивают двух человек или всех?",
+      "explain": "Выбираем одного из всех кандидатов → превосходная степень: the most experience. the more используется только в конструкции «чем …, тем …».",
+      "tr": "Из всех кандидатов у Лоры самый большой опыт в международном маркетинге."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p05",
+      "type": "gap",
+      "q": "It's the tallest building ___ the city, with more than seventy floors.",
+      "correct": "in",
+      "wrong": [
+        "of"
+      ],
+      "hint": "После пропуска — место.",
+      "explain": "Превосходная степень + место → in: the tallest building in the city. of используется с периодом или группой: of the year, of the three.",
+      "tr": "Это самое высокое здание в городе — в нём больше семидесяти этажей."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p06",
+      "type": "gap",
+      "q": "Mike is the youngest ___ the three brothers, but he's the tallest.",
+      "correct": "of",
+      "wrong": [
+        "in"
+      ],
+      "hint": "После пропуска — место или группа с числом?",
+      "explain": "Превосходная степень + группа с числом (the three brothers) → of. in используется с местом или организацией: in the city, in the team.",
+      "tr": "Майк — самый младший из трёх братьев, но самый высокий."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p07",
+      "type": "gap",
+      "q": "This is the most beautiful beach I ___.",
+      "correct": "have ever seen",
+      "wrong": [
+        "have never seen",
+        "ever seen",
+        "had ever seen"
+      ],
+      "hint": "Превосходная степень + опыт за всю жизнь до сих пор.",
+      "explain": "the most … + I have ever + V3 — «самый … из всех, что я когда-либо видел». never дало бы противоположный смысл, без have форма неполная, а had не сочетается с настоящим This is.",
+      "tr": "Это самый красивый пляж, который я когда-либо видел."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p08",
+      "type": "gap",
+      "q": "My new laptop is twice ___ my old one and much lighter too.",
+      "correct": "as fast as",
+      "wrong": [
+        "as fast like",
+        "as faster as"
+      ],
+      "hint": "После twice — конструкция с двумя одинаковыми словами.",
+      "explain": "«В два раза быстрее» → twice as + прилагательное + as: twice as fast as. Внутри as … as прилагательное стоит в исходной форме, а вместо второго as нельзя ставить like.",
+      "tr": "Мой новый ноутбук в два раза быстрее старого и к тому же намного легче."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p09",
+      "type": "gap",
+      "q": "In my opinion, the second film in the series isn't ___ the first one.",
+      "correct": "as good as",
+      "wrong": [
+        "as good than"
+      ],
+      "hint": "Конструкция «не такой …, как» строится из двух одинаковых слов.",
+      "explain": "not as + прилагательное + as: isn't as good as. than используется только после сравнительной степени (better than).",
+      "tr": "По-моему, второй фильм серии не такой хороший, как первый."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p10",
+      "type": "gap",
+      "q": "The new version of the app is ___ faster than the old one.",
+      "correct": "much",
+      "wrong": [
+        "very",
+        "more",
+        "too"
+      ],
+      "hint": "Какие слова усиливают сравнительную степень?",
+      "explain": "Сравнительную степень усиливают much, far, a lot: much faster. very и too со сравнительной степенью не сочетаются, а more faster — двойное сравнение.",
+      "tr": "Новая версия приложения намного быстрее старой."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p11",
+      "type": "gap",
+      "q": "The more you practise, ___ you'll feel when you speak English.",
+      "correct": "the more confident",
+      "wrong": [
+        "more confident",
+        "the most confident"
+      ],
+      "hint": "Конструкция «чем …, тем …». Посмотрите на первую часть.",
+      "explain": "the + сравнительная …, the + сравнительная …: The more you practise, the more confident you'll feel. Артикль the нужен в обеих частях, а превосходная степень здесь не используется.",
+      "tr": "Чем больше практикуешься, тем увереннее себя чувствуешь, когда говоришь по-английски."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "It's the busiest station in the country.",
+      "wrong": [
+        "It's the most busy station in the country.",
+        "It's the busiest station of the country."
+      ],
+      "hint": "busy заканчивается на -y. И после превосходной степени — место.",
+      "explain": "busy — два слога на -y → the busiest. С местом (the country) используется in, а не of.",
+      "tr": "Это самый загруженный вокзал в стране."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Tom isn't as tall as his brother.",
+      "correct": "Tom's brother is taller than him.",
+      "wrong": [
+        "Tom is taller than his brother.",
+        "Tom and his brother are the same height."
+      ],
+      "hint": "not as … as — кто из братьев выше?",
+      "explain": "not as tall as = ниже, чем: брат выше Тома. as tall as (без not) означало бы одинаковый рост.",
+      "tr": "Брат Тома выше него."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p14",
+      "type": "gap",
+      "q": "The exam was ___ than I expected, so I finished half an hour early.",
+      "correct": "easier",
+      "wrong": [
+        "more easy"
+      ],
+      "hint": "easy — два слога и заканчивается на -y.",
+      "explain": "Прилагательные из двух слогов на -y → -ier: easy → easier. more с ними не используется.",
+      "tr": "Экзамен оказался легче, чем я ожидал, поэтому я закончил на полчаса раньше."
+    },
+    {
+      "id": "b1-comparatives-superlatives-p15",
+      "type": "gap",
+      "q": "This is ___ expensive hotel in the area, but it's still clean and comfortable.",
+      "correct": "the least",
+      "wrong": [
+        "the less",
+        "less",
+        "the lowest"
+      ],
+      "hint": "Нужна превосходная степень со значением «наименее».",
+      "explain": "Превосходная степень «наименее …» → the least + прилагательное: the least expensive. the less — сравнительная степень, без the превосходная степень невозможна, а lowest с expensive не сочетается.",
+      "tr": "Это самая недорогая гостиница в районе, но в ней всё равно чисто и удобно."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-comparatives-superlatives-e01",
+      "type": "gap",
+      "q": "Of all the cities I visited last year, Lisbon was ___ one.",
+      "correct": "the most interesting",
+      "wrong": [
+        "the interestingest",
+        "the more interesting",
+        "most interesting"
+      ],
+      "hint": "Выбираем один город из всех. Сколько слогов в прилагательном?",
+      "explain": "Один из всех → превосходная степень; interesting — длинное слово → the most interesting. Без the превосходная степень с one невозможна, а the more — сравнительная.",
+      "tr": "Из всех городов, где я побывал в прошлом году, Лиссабон был самым интересным."
+    },
+    {
+      "id": "b1-comparatives-superlatives-e02",
+      "type": "gap",
+      "q": "___ we leave, the sooner we'll get there, so let's go now.",
+      "correct": "The earlier",
+      "wrong": [
+        "Earlier",
+        "The earliest"
+      ],
+      "hint": "Посмотрите на вторую часть предложения: она подсказывает форму первой.",
+      "explain": "«Чем …, тем …» → the + сравнительная в обеих частях: The earlier…, the sooner… Без the и с превосходной степенью конструкция не работает.",
+      "tr": "Чем раньше выедем, тем раньше доберёмся, так что поехали сейчас."
+    },
+    {
+      "id": "b1-comparatives-superlatives-e03",
+      "type": "gap",
+      "q": "Renting a flat in the capital is about three times ___ renting one in my home town.",
+      "correct": "as expensive as",
+      "wrong": [
+        "more expensive as",
+        "as more expensive as"
+      ],
+      "hint": "«В три раза дороже»: three times + конструкция с двумя одинаковыми словами.",
+      "explain": "three times as + прилагательное + as: three times as expensive as. Внутри as … as прилагательное в исходной форме, а после more нужен than, не as.",
+      "tr": "Снимать квартиру в столице примерно в три раза дороже, чем в моём родном городе."
+    },
+    {
+      "id": "b1-comparatives-superlatives-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The further you walk from the centre, the cheaper the cafés become.",
+      "wrong": [
+        "The further you walk from the centre, the cheapest the cafés become.",
+        "Further you walk from the centre, cheaper the cafés become."
+      ],
+      "hint": "Конструкция «чем …, тем …». Проверьте артикли и степень сравнения.",
+      "explain": "the + сравнительная …, the + сравнительная …: The further…, the cheaper… Превосходная степень здесь невозможна, а без the конструкция не работает.",
+      "tr": "Чем дальше уходишь от центра, тем дешевле становятся кафе."
+    },
+    {
+      "id": "b1-comparatives-superlatives-e05",
+      "type": "gap",
+      "q": "Could you speak ___ more slowly, please? I can't quite follow you.",
+      "correct": "a bit",
+      "wrong": [
+        "very"
+      ],
+      "hint": "Какие слова могут стоять перед сравнительной степенью со значением «немного»?",
+      "explain": "Перед сравнительной степенью «немного» → a bit (a little, slightly): a bit more slowly. very со сравнительной степенью не сочетается.",
+      "tr": "Не могли бы вы говорить чуть медленнее? Я не совсем успеваю за вами."
+    }
+  ],
+  "glossary": {
+    "app": "приложение",
+    "area": "район",
+    "beach": "пляж",
+    "beautiful": "красивый",
+    "brothers": "братья",
+    "building": "здание",
+    "candidates": "кандидаты",
+    "capital": "столица",
+    "centre": "центр",
+    "cities": "города",
+    "clean": "чистый",
+    "comfortable": "удобный, комфортный",
+    "exam": "экзамен",
+    "expected": "ожидал (прош. от expect)",
+    "experience": "опыт",
+    "faster": "быстрее",
+    "film": "фильм",
+    "finished": "закончил (прош. от finish)",
+    "flat": "квартира",
+    "flats": "квартиры",
+    "floors": "этажи",
+    "follow": "понимать, следить за (речью)",
+    "hotel": "гостиница, отель",
+    "international": "международный",
+    "laptop": "ноутбук",
+    "lighter": "легче (по весу)",
+    "Lisbon": "Лиссабон",
+    "marketing": "маркетинг",
+    "opinion": "мнение; (in my opinion) по-моему",
+    "practise": "практиковаться (брит. написание)",
+    "renting": "аренда, снимать (жильё)",
+    "series": "серия (фильмов), сериал",
+    "seventy": "семьдесят",
+    "slowly": "медленно",
+    "sooner": "скорее, раньше",
+    "suburbs": "пригороды",
+    "tall": "высокий",
+    "tallest": "самый высокий",
+    "traffic": "движение, пробки",
+    "version": "версия",
+    "visited": "посетил (прош. от visit)",
+    "youngest": "самый младший"
+  }
+}

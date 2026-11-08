@@ -1,0 +1,442 @@
+{
+  "id": "b2-narrative-tenses",
+  "level": "B2",
+  "order": 1,
+  "title": "Narrative tenses: Past Perfect",
+  "titleRu": "Повествовательные времена и Past Perfect",
+  "summary": "Что было раньше в рассказе: Past Perfect и Past Perfect Continuous",
+  "source": "Murphy EGIU units 6, 15–16; British Council: Narrative tenses",
+  "rules": [
+    {
+      "title": "Past Perfect: had + V3",
+      "body": "**had + V3** — действие произошло **раньше** другого действия или момента в прошлом. Это «шаг назад» в рассказе.\n\nСравните:\n- When we arrived, the film **started**. — сначала мы пришли, потом начался фильм\n- When we arrived, the film **had started**. — фильм уже шёл, когда мы пришли\n\nВопрос и отрицание: **Had** you **met** her before? I **hadn't seen** it.",
+      "examples": [
+        {
+          "en": "When I got to the station, the train had already left.",
+          "ru": "Когда я добрался до вокзала, поезд уже ушёл."
+        },
+        {
+          "en": "She didn't come to the cinema because she had seen the film.",
+          "ru": "Она не пошла в кино, потому что уже видела этот фильм."
+        }
+      ]
+    },
+    {
+      "title": "Маркеры Past Perfect",
+      "body": "Past Perfect часто встречается с:\n- **already, just, never / ever … before**: I had never flown before that trip.\n- **by the time** + Past Simple: By the time we got there, everyone **had left**.\n- **when, because, before** — если нужно показать, что одно случилось раньше другого\n\nPast Perfect всегда нужна **точка отсчёта в прошлом**; без неё говорят Present Perfect или Past Simple.",
+      "examples": [
+        {
+          "en": "By the time the police arrived, the thieves had escaped.",
+          "ru": "К тому времени, как приехала полиция, воры уже скрылись."
+        },
+        {
+          "en": "I had just fallen asleep when the phone rang.",
+          "ru": "Я только что уснул, когда зазвонил телефон."
+        }
+      ]
+    },
+    {
+      "title": "Past Perfect Continuous: had been + V-ing",
+      "body": "**had been + V-ing** — действие **длилось** до момента в прошлом:\n- с **for, since, how long**: We **had been waiting** for an hour when the bus came.\n- **видимый результат** в прошлом: Her eyes were red — she **had been crying**.\n\nГлаголы состояния (know, be, have = иметь, believe) в Continuous не ставят: I **had known** him for years, не «had been knowing».",
+      "examples": [
+        {
+          "en": "She was exhausted because she had been working since six.",
+          "ru": "Она была без сил, потому что работала с шести утра."
+        },
+        {
+          "en": "They had been living in Rome for ten years when their son was born.",
+          "ru": "Они прожили в Риме десять лет, когда у них родился сын."
+        }
+      ]
+    },
+    {
+      "title": "Времена в рассказе",
+      "body": "- **Past Simple** — основные события по порядку: I opened the door, switched on the light and saw…\n- **Past Continuous** (was / were + V-ing) — фон, процесс в момент другого действия: I **was walking** home when it started to rain.\n- **Past Perfect** — то, что произошло ещё раньше: …and realised I **had lost** my keys.\n- **Past Perfect Continuous** — то, что длилось до этого момента: …because I **had been walking** for hours.",
+      "examples": [
+        {
+          "en": "It was raining when I left the house, and I realised I had forgotten my umbrella.",
+          "ru": "Когда я вышел из дома, шёл дождь, и я понял, что забыл зонт."
+        },
+        {
+          "en": "We were having dinner when the lights went out.",
+          "ru": "Мы ужинали, когда погас свет."
+        }
+      ]
+    },
+    {
+      "title": "Когда Past Perfect не нужен",
+      "body": "- События идут **по порядку** — достаточно Past Simple: I got home, had a shower and went to bed. Не «had got home, had had…».\n- После **after / before** порядок уже ясен, Past Perfect не обязателен: After she **left** (had left), I went to bed.\n- Past Perfect не означает «давно»: одно действие в прошлом — Past Simple: I **met** her in 2010.",
+      "examples": [
+        {
+          "en": "She opened the letter, read it and called her lawyer.",
+          "ru": "Она вскрыла письмо, прочитала его и позвонила адвокату."
+        },
+        {
+          "en": "Yesterday I met an old school friend.",
+          "ru": "Вчера я встретил старого школьного друга."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "раньше другого прошлого действия → had + V3",
+    "by the time / already / just / never … before → had + V3",
+    "длилось до момента в прошлом (for, since, how long) → had been + V-ing",
+    "видимый результат в прошлом: was tired because she had been working",
+    "фон → was / were + V-ing; события по порядку → Past Simple",
+    "When I arrived, she left (потом) / she had left (уже ушла)"
+  ],
+  "mistakes": [
+    {
+      "wrong": "When I came, the lesson already started.",
+      "right": "When I came, the lesson had already started.",
+      "note": "урок начался раньше, чем я пришёл → Past Perfect"
+    },
+    {
+      "wrong": "Yesterday I had met an old friend.",
+      "right": "Yesterday I met an old friend.",
+      "note": "одно действие в прошлом — Past Simple; Past Perfect не значит «давно»"
+    },
+    {
+      "wrong": "She was tired because she was working since six.",
+      "right": "She was tired because she had been working since six.",
+      "note": "since + длительность до момента в прошлом → had been + V-ing"
+    },
+    {
+      "wrong": "I had been knowing him for ten years.",
+      "right": "I had known him for ten years.",
+      "note": "know — глагол состояния, без Continuous"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Чем отличается «When we arrived, the film started» от «…had started»?",
+      "back": "**started** — начался после нашего прихода.\n**had started** — уже шёл, когда мы пришли."
+    },
+    {
+      "front": "Как образуется Past Perfect?",
+      "back": "**had + V3**: She had already left."
+    },
+    {
+      "front": "Когда нужен Past Perfect Continuous?",
+      "back": "Действие длилось до момента в прошлом:\nWe **had been waiting** for an hour when the bus came."
+    },
+    {
+      "front": "Нужен ли Past Perfect, если события идут по порядку?",
+      "back": "**Нет**, достаточно Past Simple:\nI opened the door, turned on the light and sat down."
+    },
+    {
+      "front": "By the time we got there, the shop … (close)",
+      "back": "**had closed**: by the time + Past Simple → в главной части Past Perfect."
+    },
+    {
+      "front": "Почему «I had been knowing him» — ошибка?",
+      "back": "know — **глагол состояния**, без Continuous:\nI had known him for years."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-narrative-tenses-p01",
+      "type": "gap",
+      "q": "When we got to the cinema, the film ___, so we missed the first ten minutes.",
+      "correct": "had started",
+      "wrong": [
+        "started",
+        "was starting",
+        "has started"
+      ],
+      "hint": "Фильм начался до или после того, как мы пришли?",
+      "explain": "Фильм начался раньше нашего прихода → had started. started значило бы, что он начался в момент прихода, и тогда мы ничего бы не пропустили.",
+      "tr": "Когда мы добрались до кинотеатра, фильм уже начался, так что мы пропустили первые десять минут."
+    },
+    {
+      "id": "b2-narrative-tenses-p02",
+      "type": "gap",
+      "q": "By the time I got to the station, the last train ___, so I had to take a taxi.",
+      "correct": "had left",
+      "wrong": [
+        "left"
+      ],
+      "hint": "by the time — «к тому моменту, как». Что произошло раньше?",
+      "explain": "by the time + Past Simple → в главной части Past Perfect: поезд ушёл раньше, чем я пришёл. left нарушает порядок событий.",
+      "tr": "К тому времени, как я добрался до вокзала, последний поезд уже ушёл, так что пришлось взять такси."
+    },
+    {
+      "id": "b2-narrative-tenses-p03",
+      "type": "gap",
+      "q": "Mark's hands were covered in paint because he ___ the kitchen since early morning.",
+      "correct": "had been painting",
+      "wrong": [
+        "was painting",
+        "has been painting",
+        "painted"
+      ],
+      "hint": "since — длительность до момента в прошлом, и виден результат.",
+      "explain": "Действие длилось до момента в прошлом (since early morning), и результат виден — руки в краске → had been painting. Past Continuous и Past Simple со since не сочетаются.",
+      "tr": "Руки у Марка были в краске, потому что он с раннего утра красил кухню."
+    },
+    {
+      "id": "b2-narrative-tenses-p04",
+      "type": "gap",
+      "q": "I ___ along the river when I suddenly heard someone calling my name.",
+      "correct": "was walking",
+      "wrong": [
+        "had walked",
+        "walked"
+      ],
+      "hint": "Что было фоном, а что — внезапным событием?",
+      "explain": "Фон, процесс в момент другого действия → Past Continuous: was walking. Короткое событие, которое его прервало, — heard (Past Simple).",
+      "tr": "Я шёл вдоль реки, как вдруг услышал, что кто-то зовёт меня по имени."
+    },
+    {
+      "id": "b2-narrative-tenses-p05",
+      "type": "gap",
+      "q": "Before that trip, Ivan ___ on a plane, so he was quite nervous at the airport.",
+      "correct": "had never been",
+      "wrong": [
+        "has never been"
+      ],
+      "hint": "Точка отсчёта — поездка в прошлом.",
+      "explain": "Опыт до момента в прошлом (before that trip) → Past Perfect: had never been. Present Perfect связан с настоящим и с прошлой точкой отсчёта не сочетается.",
+      "tr": "До той поездки Иван ни разу не летал на самолёте, поэтому в аэропорту он сильно нервничал."
+    },
+    {
+      "id": "b2-narrative-tenses-p06",
+      "type": "gap",
+      "q": "We ___ for over an hour when the waiter finally brought our food.",
+      "correct": "had been waiting",
+      "wrong": [
+        "were waiting",
+        "have been waiting",
+        "waited"
+      ],
+      "hint": "Как долго длилось ожидание к моменту, когда принесли еду?",
+      "explain": "Длительность (for over an hour) до момента в прошлом (when the waiter brought) → Past Perfect Continuous: had been waiting.",
+      "tr": "Мы прождали больше часа, прежде чем официант наконец принёс нам еду."
+    },
+    {
+      "id": "b2-narrative-tenses-p07",
+      "type": "gap",
+      "q": "Last night I got home, ___ a quick shower and went straight to bed.",
+      "correct": "had",
+      "wrong": [
+        "had had",
+        "was having"
+      ],
+      "hint": "События идут одно за другим, по порядку.",
+      "explain": "Последовательные события в рассказе → Past Simple: got, had, went. Past Perfect здесь не нужен — порядок и так ясен.",
+      "tr": "Вчера вечером я пришёл домой, быстро принял душ и сразу лёг спать."
+    },
+    {
+      "id": "b2-narrative-tenses-p08",
+      "type": "pick",
+      "task": "Выберите предложение, где времена употреблены верно",
+      "q": "",
+      "correct": "When I opened the fridge, I saw that someone had eaten my sandwich.",
+      "wrong": [
+        "When I had opened the fridge, I saw that someone has eaten my sandwich.",
+        "When I was opening the fridge, I had seen that someone ate my sandwich."
+      ],
+      "hint": "Что произошло раньше: я открыл холодильник или кто-то съел бутерброд?",
+      "explain": "Сначала кто-то съел бутерброд, потом я это увидел → had eaten. Открыл и увидел — последовательные действия → Past Simple.",
+      "tr": "Когда я открыл холодильник, то увидел, что кто-то съел мой бутерброд."
+    },
+    {
+      "id": "b2-narrative-tenses-p09",
+      "type": "gap",
+      "q": "I recognised the woman at once, because we ___ before at a conference in Berlin.",
+      "correct": "had met",
+      "wrong": [
+        "have met",
+        "were meeting"
+      ],
+      "hint": "Встреча на конференции была раньше, чем я её узнал.",
+      "explain": "Действие раньше другого прошлого действия (recognised) → had met. Present Perfect не сочетается с точкой отсчёта в прошлом, а Past Continuous описывает процесс, а не предшествование.",
+      "tr": "Я сразу узнал эту женщину, потому что мы встречались раньше на конференции в Берлине."
+    },
+    {
+      "id": "b2-narrative-tenses-p10",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "When I arrived at the party, Kate had gone home.",
+      "correct": "Kate left the party before I arrived.",
+      "wrong": [
+        "Kate left the party after I arrived.",
+        "Kate and I arrived at the party at the same time."
+      ],
+      "hint": "Past Perfect показывает, какое действие было раньше.",
+      "explain": "had gone — Кейт ушла раньше, чем я пришёл, поэтому мы не встретились.",
+      "tr": "Кейт ушла с вечеринки до того, как я пришёл."
+    },
+    {
+      "id": "b2-narrative-tenses-p11",
+      "type": "gap",
+      "q": "I didn't go to the cinema with my friends because I ___ the film.",
+      "correct": "had already seen",
+      "wrong": [
+        "have already seen",
+        "was already seeing"
+      ],
+      "hint": "Фильм был просмотрен ещё до того, как друзья позвали в кино.",
+      "explain": "Действие раньше другого прошлого (didn't go) → had already seen. Present Perfect не сочетается с прошлым контекстом, а Past Continuous описывал бы процесс, а не результат.",
+      "tr": "Я не пошёл в кино с друзьями, потому что уже видел этот фильм."
+    },
+    {
+      "id": "b2-narrative-tenses-p12",
+      "type": "gap",
+      "q": "While we ___ dinner, the lights suddenly went out.",
+      "correct": "were having",
+      "wrong": [
+        "had had"
+      ],
+      "hint": "while — что происходило в тот момент, когда погас свет?",
+      "explain": "while + процесс в момент другого действия → Past Continuous: were having. had had значило бы, что ужин уже закончился, и тогда while неуместно.",
+      "tr": "Пока мы ужинали, внезапно погас свет."
+    },
+    {
+      "id": "b2-narrative-tenses-p13",
+      "type": "gap",
+      "q": "Olga and I ___ each other for years before we started working together.",
+      "correct": "had known",
+      "wrong": [
+        "had been knowing"
+      ],
+      "hint": "know — глагол действия или состояния?",
+      "explain": "know — глагол состояния, в Continuous не употребляется: had known, а не had been knowing.",
+      "tr": "Мы с Ольгой были знакомы много лет, прежде чем начали работать вместе."
+    },
+    {
+      "id": "b2-narrative-tenses-p14",
+      "type": "pick",
+      "task": "Выберите предложение, где времена употреблены верно",
+      "q": "",
+      "correct": "She opened the letter, read it twice and then called her lawyer.",
+      "wrong": [
+        "She had opened the letter, had read it twice and then called her lawyer.",
+        "She was opening the letter, was reading it twice and then called her lawyer.",
+        "She opened the letter, had read it twice and then was calling her lawyer."
+      ],
+      "hint": "События идут одно за другим, по порядку.",
+      "explain": "Последовательные действия в рассказе → Past Simple: opened, read, called. Past Perfect и Past Continuous здесь нарушают порядок событий.",
+      "tr": "Она вскрыла письмо, дважды его прочитала, а потом позвонила своему адвокату."
+    },
+    {
+      "id": "b2-narrative-tenses-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "I'd been working at the bank for two years when I met my wife.",
+      "correct": "I met my wife after two years of working at the bank.",
+      "wrong": [
+        "I met my wife, and two years later I started working at the bank.",
+        "I worked at the bank for two years after I met my wife."
+      ],
+      "hint": "Что было раньше: работа в банке или знакомство?",
+      "explain": "had been working … when I met — к моменту знакомства я уже два года работал в банке, то есть работа началась раньше.",
+      "tr": "Я познакомился с женой, проработав в банке два года."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-narrative-tenses-e01",
+      "type": "gap",
+      "q": "Lucy ___ for the company for ten years when she ___ to start her own business.",
+      "correct": "had been working / decided",
+      "wrong": [
+        "was working / had decided",
+        "has been working / decided",
+        "had been working / had decided"
+      ],
+      "hint": "Одно действие длилось до момента в прошлом, другое — сам этот момент.",
+      "explain": "Работа длилась десять лет до момента решения → had been working; само решение — событие в прошлом → decided (Past Simple).",
+      "tr": "Люси проработала в компании десять лет, когда решила открыть собственное дело."
+    },
+    {
+      "id": "b2-narrative-tenses-e02",
+      "type": "gap",
+      "q": "When I switched on my phone after the flight, I saw that my boss ___ me five times.",
+      "correct": "had called",
+      "wrong": [
+        "has called"
+      ],
+      "hint": "Звонки были до того, как я включил телефон.",
+      "explain": "Звонки произошли раньше другого прошлого действия (saw) → had called. Present Perfect не сочетается с прошлой точкой отсчёта.",
+      "tr": "Когда я включил телефон после перелёта, то увидел, что начальник звонил мне пять раз."
+    },
+    {
+      "id": "b2-narrative-tenses-e03",
+      "type": "pick",
+      "task": "Выберите предложение, где времена употреблены верно",
+      "q": "",
+      "correct": "By the time we found a hotel, we had been driving for nine hours and were exhausted.",
+      "wrong": [
+        "By the time we found a hotel, we were driving for nine hours and were exhausted.",
+        "By the time we found a hotel, we have been driving for nine hours and were exhausted.",
+        "By the time we had found a hotel, we drove for nine hours and were exhausted."
+      ],
+      "hint": "Сколько длилась поездка к моменту, когда нашли гостиницу?",
+      "explain": "by the time + Past Simple (found); длительность до этого момента → had been driving. Past Continuous и Present Perfect Continuous не передают «длилось до момента в прошлом».",
+      "tr": "К тому времени, как мы нашли гостиницу, мы ехали уже девять часов и совершенно вымотались."
+    },
+    {
+      "id": "b2-narrative-tenses-e04",
+      "type": "gap",
+      "q": "I couldn't get into my flat because I ___ my keys at work.",
+      "correct": "had left",
+      "wrong": [
+        "had been leaving"
+      ],
+      "hint": "Ключи оставлены один раз или это длительный процесс?",
+      "explain": "Однократное законченное действие раньше другого прошлого → had left. Past Perfect Continuous нужен для действий, которые длились.",
+      "tr": "Я не мог попасть в квартиру, потому что оставил ключи на работе."
+    },
+    {
+      "id": "b2-narrative-tenses-e05",
+      "type": "gap",
+      "q": "The concert ___ when we found our seats, so we didn't miss anything.",
+      "correct": "was just starting",
+      "wrong": [
+        "had already finished",
+        "had already started"
+      ],
+      "hint": "Мы ничего не пропустили. На каком этапе был концерт?",
+      "explain": "was just starting — концерт как раз начинался, поэтому мы ничего не пропустили. had already started и had already finished противоречат didn't miss anything.",
+      "tr": "Когда мы нашли свои места, концерт как раз начинался, так что мы ничего не пропустили."
+    }
+  ],
+  "glossary": {
+    "airport": "аэропорт",
+    "bank": "банк",
+    "bed": "кровать (go to bed — лечь спать)",
+    "business": "бизнес, дело",
+    "calling": "зовущий (-ing от call)",
+    "cinema": "кинотеатр",
+    "concert": "концерт",
+    "conference": "конференция",
+    "covered": "покрытый (covered in — весь в)",
+    "dinner": "ужин",
+    "film": "фильм",
+    "flat": "квартира",
+    "flight": "перелёт, рейс",
+    "hands": "руки (кисти)",
+    "keys": "ключи",
+    "kitchen": "кухня",
+    "lights": "свет, лампы",
+    "miss": "пропустить",
+    "missed": "пропустили (прош. от miss)",
+    "name": "имя",
+    "nervous": "взволнованный, нервничающий",
+    "paint": "краска",
+    "party": "вечеринка",
+    "quick": "быстрый",
+    "recognised": "узнал (прош. от recognise)",
+    "river": "река",
+    "seats": "места (сиденья)",
+    "shower": "душ",
+    "station": "вокзал, станция",
+    "straight": "сразу, прямо",
+    "switched": "включил (switch on, прош.)",
+    "taxi": "такси",
+    "trip": "поездка",
+    "waiter": "официант"
+  }
+}

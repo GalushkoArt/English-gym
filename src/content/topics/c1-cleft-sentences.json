@@ -321,15 +321,15 @@
       "id": "c1-cleft-sentences-p14",
       "type": "same",
       "task": "Выберите вариант с тем же смыслом",
-      "q": "Tom broke the printer, not Kate.",
-      "correct": "It was Tom who broke the printer, not Kate.",
+      "q": "Tom broke the office printer this morning, not Kate.",
+      "correct": "It was Tom who broke the office printer this morning, not Kate.",
       "wrong": [
-        "It was Kate who broke the printer, not Tom.",
-        "What Tom broke was Kate's printer."
+        "It was Kate who broke the office printer this morning, not Tom.",
+        "What Tom broke this morning was Kate's printer."
       ],
       "hint": "Кто сломал принтер? Какой элемент нужно выделить?",
       "explain": "It was Tom who … выделяет Тома как того, кто сломал принтер. Во втором варианте люди поменялись ролями, в третьем принтер стал принадлежать Кейт.",
-      "tr": "Принтер сломал именно Том, а не Кейт."
+      "tr": "Офисный принтер сегодня утром сломал именно Том, а не Кейт."
     },
     {
       "id": "c1-cleft-sentences-p15",

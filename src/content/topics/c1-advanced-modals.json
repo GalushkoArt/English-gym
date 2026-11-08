@@ -1,0 +1,470 @@
+{
+  "id": "c1-advanced-modals",
+  "level": "C1",
+  "order": 7,
+  "title": "Advanced modals",
+  "titleRu": "Продвинутые модальные конструкции",
+  "summary": "needn't have, might as well, be bound to, be supposed to и другие",
+  "source": "Murphy AGIU units 23–31; Cambridge Dictionary Grammar: Modal verbs",
+  "rules": [
+    {
+      "title": "Needn't have V3 и didn't need to",
+      "body": "**needn't have + V3** — действие **было сделано**, но оказалось ненужным: We needn't have cooked so much. (приготовили, а зря)\n\n**didn't need to + V** — делать было не нужно; обычно это значит, что действие **и не совершалось**: I didn't need to take a taxi. (и не брал)\n\nЕсли действие не совершалось, needn't have невозможно.",
+      "examples": [
+        {
+          "en": "We needn't have booked a table — the restaurant was empty.",
+          "ru": "Зря мы бронировали столик — ресторан был пуст."
+        },
+        {
+          "en": "I didn't need to go to the office, so I worked from home.",
+          "ru": "Мне не нужно было ехать в офис, поэтому я работал из дома."
+        }
+      ]
+    },
+    {
+      "title": "May well, might as well, be bound to",
+      "body": "- **may / might / could well + V** — «вполне вероятно»: It may well rain later.\n- **might / may as well + V** — «можно и…, раз нет ничего лучше»: The bus has gone, so we might as well walk.\n- **be bound to + V** — «наверняка, обязательно» (уверенность говорящего): Prices are bound to rise.\n\nНе путайте may well (вероятность) и might as well (выбор за неимением лучшего).",
+      "examples": [
+        {
+          "en": "The decision may well be challenged in court.",
+          "ru": "Вполне вероятно, это решение оспорят в суде."
+        },
+        {
+          "en": "There's nothing on TV, so we might as well go to bed.",
+          "ru": "По телевизору ничего нет, так что можно и спать лечь."
+        },
+        {
+          "en": "If you leave your bike unlocked, it's bound to be stolen.",
+          "ru": "Если оставить велосипед незапертым, его наверняка украдут."
+        }
+      ]
+    },
+    {
+      "title": "Be supposed to",
+      "body": "**be supposed to + V** — то, что ожидается по плану, правилу или договорённости; часто подразумевается, что на деле этого не происходит.\n\n- The train **is supposed to** arrive at six. (по расписанию, но…)\n- I **was supposed to** call her yesterday. (собирался, но не позвонил)\n- **not supposed to** = не разрешено: You're not supposed to park here.\n\nФорма всегда **supposed** (с -d) и всегда с be: не You don't suppose to…",
+      "examples": [
+        {
+          "en": "The meeting was supposed to start at ten, but nobody came.",
+          "ru": "Встреча должна была начаться в десять, но никто не пришёл."
+        },
+        {
+          "en": "You're not supposed to eat in the library.",
+          "ru": "В библиотеке есть нельзя."
+        }
+      ]
+    },
+    {
+      "title": "Wouldn't — отказ; should после It's odd that",
+      "body": "**wouldn't + V** — отказ в прошлом: кто-то или что-то **не желало** действовать.\n- He **wouldn't** listen. The car **wouldn't** start. The door **wouldn't** open.\n\n**It's odd / strange / surprising / a pity that + S + should + V** — подчёркивает удивление или оценку (британский стиль):\n- It's odd that he **should** say that.\n- о прошлом: It's surprising that nobody **should have** noticed.",
+      "examples": [
+        {
+          "en": "I asked him to help, but he wouldn't.",
+          "ru": "Я попросил его помочь, но он ни в какую."
+        },
+        {
+          "en": "My laptop wouldn't turn on this morning.",
+          "ru": "Утром мой ноутбук никак не хотел включаться."
+        },
+        {
+          "en": "It's strange that she should feel that way.",
+          "ru": "Странно, что она так к этому относится."
+        }
+      ]
+    },
+    {
+      "title": "Can't help -ing; could have V3 и was able to",
+      "body": "**can't / couldn't help + V-ing** — «не могу не…», «не удержался»: I couldn't help laughing.\n\n**could have + V3** — возможность в прошлом, которой **не воспользовались**: We could have won. (но проиграли)\n\n**was / were able to + V** (= managed to) — **удалось** в конкретной ситуации. Утвердительное could здесь не используют: Everyone was able to escape. В отрицании возможны оба варианта: couldn't / wasn't able to.",
+      "examples": [
+        {
+          "en": "I couldn't help noticing that you looked worried.",
+          "ru": "Я не мог не заметить, что ты выглядишь обеспокоенным."
+        },
+        {
+          "en": "You could have told me earlier.",
+          "ru": "Ты мог бы сказать мне раньше."
+        },
+        {
+          "en": "After hours of talks, they were able to reach an agreement.",
+          "ru": "После многочасовых переговоров им удалось прийти к соглашению."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "needn't have + V3 → сделал, а зря; didn't need to + V → не нужно было (и не делал)",
+    "may / might well + V → вполне вероятно",
+    "might as well + V → можно и…, раз нет лучшего варианта",
+    "be bound to + V → наверняка; be supposed to → по плану (а на деле…)",
+    "wouldn't + V → отказ в прошлом; It's odd that + S + should + V",
+    "can't help + V-ing; could have V3 → мог, но не сделал; was able to → удалось"
+  ],
+  "mistakes": [
+    {
+      "wrong": "You're not suppose to smoke here.",
+      "right": "You're not supposed to smoke here.",
+      "note": "supposed — с окончанием -d, хотя в речи его почти не слышно"
+    },
+    {
+      "wrong": "I couldn't help to laugh.",
+      "right": "I couldn't help laughing.",
+      "note": "can't / couldn't help + V-ing"
+    },
+    {
+      "wrong": "The fire spread quickly, but everyone could escape.",
+      "right": "The fire spread quickly, but everyone was able to escape.",
+      "note": "удалось в конкретной ситуации → was able to / managed to, а не could"
+    },
+    {
+      "wrong": "We needn't have taken a taxi, so we walked.",
+      "right": "We didn't need to take a taxi, so we walked.",
+      "note": "такси не брали → didn't need to; needn't have — сделали, а зря"
+    }
+  ],
+  "cards": [
+    {
+      "front": "«Зря мы приготовили так много» — как сказать с need?",
+      "back": "**needn't have + V3**.\nWe needn't have cooked so much food."
+    },
+    {
+      "front": "Чем «It may well rain» отличается от «We might as well go»?",
+      "back": "**may well** — вполне вероятно.\n**might as well** — можно и…, раз нет лучшего варианта."
+    },
+    {
+      "front": "«Поезд должен был прийти в шесть» (но опаздывает) — как сказать?",
+      "back": "**be supposed to**.\nThe train was supposed to arrive at six."
+    },
+    {
+      "front": "«Машина никак не заводилась» — какой модальный глагол?",
+      "back": "**wouldn't** — отказ в прошлом.\nThe car wouldn't start."
+    },
+    {
+      "front": "«Я не мог не рассмеяться» — какая форма после help?",
+      "back": "**couldn't help + V-ing**.\nI couldn't help laughing."
+    },
+    {
+      "front": "«Нам удалось выбраться» — could или was able to?",
+      "back": "Удалось в конкретной ситуации → **were able to**.\nWe were able to get out in time."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-advanced-modals-p01",
+      "type": "gap",
+      "q": "We ___ so much food — only half the guests turned up, and most of it went to waste.",
+      "correct": "needn't have cooked",
+      "wrong": [
+        "needn't cook",
+        "mustn't have cooked",
+        "couldn't have cooked"
+      ],
+      "hint": "Еду приготовили, но это оказалось лишним. Какая форма передаёт «сделали, а зря»?",
+      "explain": "needn't have + V3 — действие совершилось, но было ненужным. mustn't have не выражает ненужность, couldn't have — невозможность, а needn't cook относится к настоящему.",
+      "tr": "Зря мы приготовили столько еды — пришла только половина гостей, и большая часть пропала."
+    },
+    {
+      "id": "c1-advanced-modals-p02",
+      "type": "gap",
+      "q": "My sister gave me a lift to the airport, so I ___ a taxi.",
+      "correct": "didn't need to take",
+      "wrong": [
+        "needn't have taken"
+      ],
+      "hint": "Брал ли говорящий такси на самом деле?",
+      "explain": "Такси не понадобилось, и его не брали → didn't need to take. needn't have taken означало бы, что такси взяли, а оно оказалось лишним.",
+      "tr": "Сестра подвезла меня до аэропорта, так что мне не нужно было брать такси."
+    },
+    {
+      "id": "c1-advanced-modals-p03",
+      "type": "gap",
+      "q": "Take an umbrella — according to the forecast, it ___ rain later this afternoon.",
+      "correct": "may well",
+      "wrong": [
+        "might as well"
+      ],
+      "hint": "Прогноз говорит о вероятности. Какое выражение значит «вполне вероятно»?",
+      "explain": "may well + V — «вполне вероятно»: it may well rain. might as well значит «можно и…, раз нет лучшего варианта» и к прогнозу не подходит.",
+      "tr": "Возьми зонт — по прогнозу, во второй половине дня вполне может пойти дождь."
+    },
+    {
+      "id": "c1-advanced-modals-p04",
+      "type": "gap",
+      "q": "A: The last bus has gone. What shall we do?\nB: It's only twenty minutes on foot, so we ___ walk.",
+      "correct": "might as well",
+      "wrong": [
+        "may well",
+        "are bound to"
+      ],
+      "hint": "B предлагает решение, потому что лучшего варианта нет.",
+      "explain": "might as well + V — «можно и…, раз нет ничего лучше»: we might as well walk. may well и are bound to выражают вероятность и уверенность, а не предложение.",
+      "tr": "— Последний автобус ушёл. Что будем делать? — Пешком всего двадцать минут, так что можно и прогуляться."
+    },
+    {
+      "id": "c1-advanced-modals-p05",
+      "type": "gap",
+      "q": "Leave early — the roads ___ be busy on a bank holiday weekend.",
+      "correct": "are bound to",
+      "wrong": [
+        "might as well"
+      ],
+      "hint": "Говорящий уверен в том, что произойдёт.",
+      "explain": "be bound to + V — «наверняка, обязательно»: the roads are bound to be busy. might as well выражает выбор за неимением лучшего, а не уверенность.",
+      "tr": "Выезжай пораньше — в праздничные выходные на дорогах наверняка будут пробки."
+    },
+    {
+      "id": "c1-advanced-modals-p06",
+      "type": "gap",
+      "q": "The meeting ___ start at ten, but the director still hasn't arrived.",
+      "correct": "was supposed to",
+      "wrong": [
+        "was bound to",
+        "should have to",
+        "was needed to"
+      ],
+      "hint": "По плану было одно, а на деле — другое.",
+      "explain": "be supposed to — то, что ожидается по плану, но не происходит: was supposed to start. was bound to значит «наверняка», а should have to и was needed to невозможны.",
+      "tr": "Совещание должно было начаться в десять, но директор до сих пор не пришёл."
+    },
+    {
+      "id": "c1-advanced-modals-p07",
+      "type": "gap",
+      "q": "I asked my neighbour three times to turn the music down, but he ___.",
+      "correct": "wouldn't",
+      "wrong": [
+        "mustn't",
+        "didn't want"
+      ],
+      "hint": "Сосед отказывался это сделать. Какой модальный глагол выражает отказ в прошлом?",
+      "explain": "wouldn't — отказ в прошлом: he wouldn't (= he refused). mustn't выражает запрет, а после didn't want нужно to.",
+      "tr": "Я трижды просил соседа сделать музыку потише, но он ни в какую."
+    },
+    {
+      "id": "c1-advanced-modals-p08",
+      "type": "gap",
+      "q": "It's strange that she ___ leave without saying goodbye to anyone.",
+      "correct": "should",
+      "wrong": [
+        "must"
+      ],
+      "hint": "После It's strange that говорящий выражает удивление. Какой модальный глагол здесь используется?",
+      "explain": "It's strange / odd / surprising that + S + should + V — should подчёркивает удивление. must выражает обязанность или уверенный вывод и здесь не подходит.",
+      "tr": "Странно, что она ушла, ни с кем не попрощавшись."
+    },
+    {
+      "id": "c1-advanced-modals-p09",
+      "type": "gap",
+      "q": "I couldn't help ___ when the presenter's microphone suddenly started playing music.",
+      "correct": "laughing",
+      "wrong": [
+        "to laugh"
+      ],
+      "hint": "Какая форма глагола идёт после can't / couldn't help?",
+      "explain": "can't / couldn't help + V-ing — «не мог не…»: couldn't help laughing. To-инфинитив после help в этом значении невозможен.",
+      "tr": "Я не мог не рассмеяться, когда из микрофона ведущего вдруг заиграла музыка."
+    },
+    {
+      "id": "c1-advanced-modals-p10",
+      "type": "gap",
+      "q": "The ferry sank within minutes, but all the passengers ___ reach the lifeboats.",
+      "correct": "were able to",
+      "wrong": [
+        "could"
+      ],
+      "hint": "Речь о конкретном случае, когда что-то удалось сделать.",
+      "explain": "Удалось в конкретной ситуации → were able to (= managed to). Утвердительное could описывает общую способность, а не однократный успех.",
+      "tr": "Паром затонул за несколько минут, но всем пассажирам удалось добраться до спасательных шлюпок."
+    },
+    {
+      "id": "c1-advanced-modals-p11",
+      "type": "gap",
+      "q": "We ___ the final if our best player hadn't been injured in the first half.",
+      "correct": "could have won",
+      "wrong": [
+        "were able to win",
+        "could win"
+      ],
+      "hint": "Победа была возможна, но не случилась.",
+      "explain": "could have + V3 — возможность в прошлом, которая не реализовалась: could have won. were able to win значит «удалось победить», а could win относится к настоящему или будущему.",
+      "tr": "Мы могли бы выиграть финал, если бы наш лучший игрок не получил травму в первом тайме."
+    },
+    {
+      "id": "c1-advanced-modals-p12",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "You're not supposed to use your phone during the exam.",
+      "wrong": [
+        "You're not suppose to use your phone during the exam.",
+        "You don't suppose to use your phone during the exam.",
+        "You're not supposed using your phone during the exam."
+      ],
+      "hint": "Проверьте форму supposed, вспомогательный глагол и то, что идёт после.",
+      "explain": "be (not) supposed to + V: You're not supposed to use. Без -d, с do или с -ing эта конструкция не строится.",
+      "tr": "Во время экзамена пользоваться телефоном нельзя."
+    },
+    {
+      "id": "c1-advanced-modals-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "The new tax is bound to make petrol more expensive.",
+      "correct": "The new tax will certainly make petrol more expensive.",
+      "wrong": [
+        "The new tax will probably not make petrol more expensive.",
+        "The new tax is meant to make petrol more expensive, but it won't.",
+        "The new tax might make petrol slightly more expensive."
+      ],
+      "hint": "Насколько уверен говорящий?",
+      "explain": "be bound to = «наверняка, обязательно» — полная уверенность. Остальные варианты выражают сомнение, отрицание или лишь возможность.",
+      "tr": "Новый налог наверняка сделает бензин дороже."
+    },
+    {
+      "id": "c1-advanced-modals-p14",
+      "type": "gap",
+      "q": "It's surprising that nobody ___ the mistake before the report was published.",
+      "correct": "should have noticed",
+      "wrong": [
+        "should notice",
+        "must have noticed"
+      ],
+      "hint": "Удивление по поводу прошлого события. Какая форма нужна после It's surprising that?",
+      "explain": "It's surprising that + S + should have + V3 — удивление по поводу прошлого. should notice относится к настоящему, а must have noticed — уверенный вывод, который здесь не к месту.",
+      "tr": "Удивительно, что никто не заметил ошибку до публикации отчёта."
+    },
+    {
+      "id": "c1-advanced-modals-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The printer wouldn't work, so I had to send the documents by email.",
+      "wrong": [
+        "The printer wouldn't to work, so I had to send the documents by email.",
+        "The printer mustn't work, so I had to send the documents by email.",
+        "The printer won't work, so I had to send the documents by email."
+      ],
+      "hint": "Принтер «отказывался» работать в прошлом. Проверьте время и форму глагола после модального.",
+      "explain": "wouldn't + V без to — отказ в прошлом, в том числе у техники. won't не сочетается с прошедшим had to, а mustn't выражает запрет.",
+      "tr": "Принтер никак не хотел работать, так что пришлось отправить документы по электронной почте."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-advanced-modals-e01",
+      "type": "gap",
+      "q": "We ___ the tickets in advance — the theatre was half empty when we arrived.",
+      "correct": "needn't have booked",
+      "wrong": [
+        "didn't need booking",
+        "needn't to book",
+        "mustn't have booked"
+      ],
+      "hint": "Билеты купили заранее, а это оказалось лишним.",
+      "explain": "needn't have + V3 — сделали, но зря: needn't have booked. После needn't не ставится to, didn't need booking — неверная форма, а mustn't have не выражает ненужность.",
+      "tr": "Зря мы бронировали билеты заранее — когда мы пришли, театр был полупустым."
+    },
+    {
+      "id": "c1-advanced-modals-e02",
+      "type": "gap",
+      "q": "Keep the receipt — you ___ need it if the jacket doesn't fit.",
+      "correct": "may well",
+      "wrong": [
+        "might as well",
+        "needn't"
+      ],
+      "hint": "Говорящий оценивает, насколько вероятно, что чек понадобится.",
+      "explain": "may well + V — «вполне вероятно»: you may well need it. might as well выражает выбор за неимением лучшего, а needn't — отсутствие необходимости.",
+      "tr": "Сохрани чек — он вполне может понадобиться, если куртка не подойдёт."
+    },
+    {
+      "id": "c1-advanced-modals-e03",
+      "type": "gap",
+      "q": "I know it's irrational, but I can't help ___ nervous whenever I have to speak in public.",
+      "correct": "feeling",
+      "wrong": [
+        "to feel"
+      ],
+      "hint": "Какая форма глагола идёт после can't help?",
+      "explain": "can't help + V-ing — «ничего не могу с собой поделать»: can't help feeling. To-инфинитив после help в этом значении невозможен.",
+      "tr": "Знаю, что это нерационально, но я ничего не могу с собой поделать — нервничаю каждый раз, когда нужно выступать публично."
+    },
+    {
+      "id": "c1-advanced-modals-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I didn't need to buy a new laptop, so I saved the money for a holiday.",
+      "wrong": [
+        "I needn't have bought a new laptop, so I saved the money for a holiday.",
+        "I didn't need buying a new laptop, so I saved the money for a holiday.",
+        "I needn't to buy a new laptop, so I saved the money for a holiday."
+      ],
+      "hint": "Купил ли говорящий ноутбук? Посмотрите на вторую часть предложения.",
+      "explain": "Ноутбук не покупали и сэкономили деньги → didn't need to buy. needn't have bought значило бы, что его купили; формы didn't need buying и needn't to невозможны.",
+      "tr": "Мне не нужно было покупать новый ноутбук, так что я отложил деньги на отпуск."
+    },
+    {
+      "id": "c1-advanced-modals-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Ivan could have taken the job in Berlin, but he decided to stay in Moscow.",
+      "correct": "Ivan had the chance to take the job in Berlin, but he didn't take it.",
+      "wrong": [
+        "Ivan took the job in Berlin and then moved back to Moscow.",
+        "Ivan was able to take the job in Berlin, so he left Moscow."
+      ],
+      "hint": "could have + V3 — возможность в прошлом. Воспользовался ли ею Иван?",
+      "explain": "could have + V3 — возможность, которой не воспользовались: Иван мог взять работу, но остался в Москве. was able to означало бы, что он действительно её взял.",
+      "tr": "У Ивана была возможность получить работу в Берлине, но он ею не воспользовался."
+    }
+  ],
+  "glossary": {
+    "according": "согласно (according to — по данным)",
+    "advance": "заранее (in advance)",
+    "airport": "аэропорт",
+    "bank": "банковский (bank holiday — официальный выходной)",
+    "bound": "обязательно, наверняка (be bound to)",
+    "director": "директор",
+    "empty": "пустой (half empty — полупустой)",
+    "ferry": "паром",
+    "final": "финал",
+    "fit": "подходить по размеру",
+    "foot": "нога (on foot — пешком)",
+    "forecast": "прогноз",
+    "goodbye": "до свидания (saying goodbye — прощаясь)",
+    "guests": "гости",
+    "holiday": "праздник; отпуск",
+    "injured": "травмирован (3-я форма от injure)",
+    "irrational": "иррациональный, нерациональный",
+    "jacket": "куртка",
+    "lifeboats": "спасательные шлюпки",
+    "lift": "поездка (gave me a lift — подвезла)",
+    "microphone": "микрофон",
+    "mistake": "ошибка",
+    "music": "музыка",
+    "neighbour": "сосед",
+    "nervous": "нервный (feel nervous — нервничать)",
+    "passengers": "пассажиры",
+    "petrol": "бензин",
+    "player": "игрок",
+    "playing": "играть (-ing от play)",
+    "presenter": "ведущий",
+    "public": "публика (in public — публично)",
+    "published": "опубликован (3-я форма от publish)",
+    "rain": "идти (о дожде)",
+    "reach": "добраться до",
+    "receipt": "чек",
+    "report": "отчёт",
+    "roads": "дороги",
+    "sank": "затонул (прош. от sink)",
+    "saying": "говоря (saying goodbye — прощаясь)",
+    "strange": "странный",
+    "surprising": "удивительный",
+    "tax": "налог",
+    "taxi": "такси",
+    "theatre": "театр",
+    "tickets": "билеты",
+    "turn": "повернуть (turn down — сделать тише)",
+    "turned": "пришли, появились (turned up)",
+    "umbrella": "зонт",
+    "walk": "идти пешком",
+    "waste": "отходы (went to waste — пропала зря)"
+  }
+}
