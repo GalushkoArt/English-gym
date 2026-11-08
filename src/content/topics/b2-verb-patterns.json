@@ -308,7 +308,7 @@
       "id": "b2-verb-patterns-p13",
       "type": "same",
       "task": "Выберите вариант с тем же смыслом",
-      "q": "I saw Tom crossing the road.",
+      "q": "I saw Tom crossing the road outside the station this morning.",
       "correct": "Tom was in the middle of crossing the road when I saw him.",
       "wrong": [
         "I watched Tom cross the whole road from start to finish.",
@@ -453,6 +453,7 @@
     "sales": "продажи",
     "single": "один-единственный",
     "sorry": "извини",
+    "station": "вокзал, станция",
     "stopped": "перестал; остановились (прош. от stop)",
     "street": "улица",
     "strength": "сила",

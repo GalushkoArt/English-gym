@@ -7,7 +7,18 @@ export default defineConfig({
   build: {
     target: 'es2020',
     sourcemap: false,
-    chunkSizeWarningLimit: 1200,
+    chunkSizeWarningLimit: 1400,
+    rolldownOptions: {
+      output: {
+        // Separate chunks so an app update doesn't invalidate cached content and vice versa.
+        codeSplitting: {
+          groups: [
+            { name: 'react', test: /node_modules[\\/](react|react-dom|scheduler)[\\/]/ },
+            { name: 'content', test: /src[\\/]content[\\/]/ },
+          ],
+        },
+      },
+    },
   },
   test: {
     environment: 'node',

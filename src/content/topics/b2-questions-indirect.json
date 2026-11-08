@@ -277,7 +277,7 @@
       "id": "b2-questions-indirect-p10",
       "type": "same",
       "task": "Выберите вариант с тем же смыслом",
-      "q": "Who did Emma call last night?",
+      "q": "Who did Emma call so late last night?",
       "correct": "Emma called someone last night. Who was it?",
       "wrong": [
         "Someone called Emma last night. Who was it?"
