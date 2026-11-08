@@ -69,7 +69,7 @@
     },
     {
       "title": "Глаголы состояния и русское «делал»",
-      "body": "Глаголы состояния (**know, want, need, like, believe, understand, realise, belong, seem**) не ставятся в Continuous и в прошлом: **I didn't know**, а не *I wasn't knowing*.\n\nРусское несовершенное «делал» не всегда = Past Continuous. Законченные действия, подсчёт и привычки в прошлом — **Past Simple**.",
+      "body": "Глаголы состояния (**know, want, need, like, believe, understand, realise, belong, seem**) обычно не ставятся в Continuous, в том числе в прошлом: **I didn't know**, а не *I wasn't knowing*.\n\nРусское несовершенное «делал» не всегда = Past Continuous. Законченные действия, подсчёт и привычки в прошлом — **Past Simple**.",
       "examples": [
         {
           "en": "At that moment I didn't know what to say.",
@@ -340,14 +340,14 @@
     {
       "id": "b1-past-simple-continuous-e01",
       "type": "gap",
-      "q": "A: Why didn't you open the door? I rang three times.\nB: Sorry, I didn't hear the bell. I ___ a shower at the time.",
+      "q": "A: Why didn't you open the door? I rang three times.\nB: Sorry, I didn't hear the bell. I ___ a shower when you rang.",
       "correct": "was having",
       "wrong": [
         "had"
       ],
       "hint": "Что происходило в тот момент, когда звонили в дверь?",
-      "explain": "В момент звонка действие было в процессе → Past Continuous: was having. had a shower — законченное событие, оно не объясняет, почему звонок не был слышен.",
-      "tr": "— Почему ты не открыл дверь? Я звонил три раза. — Извини, я не слышал звонка. Я был в это время в душе."
+      "explain": "В момент звонка действие было в процессе → Past Continuous: was having. С when два Past Simple означают последовательность: had a shower when you rang — пошёл в душ уже после звонка, и это не объясняет, почему звонок не был слышен.",
+      "tr": "— Почему ты не открыл дверь? Я звонил три раза. — Извини, я не слышал звонка. Когда ты звонил, я был в душе."
     },
     {
       "id": "b1-past-simple-continuous-e02",

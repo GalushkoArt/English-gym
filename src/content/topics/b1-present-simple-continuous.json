@@ -147,14 +147,14 @@
     {
       "id": "b1-present-simple-continuous-p02",
       "type": "gap",
-      "q": "Most nurses in this hospital ___ twelve-hour shifts three or four times a week.",
+      "q": "Nurses in this hospital usually ___ twelve-hour shifts three or four times a week.",
       "correct": "work",
       "wrong": [
         "are working"
       ],
-      "hint": "«three or four times a week» — это процесс или регулярность?",
-      "explain": "Регулярное действие (three or four times a week) → Present Simple. Continuous означал бы, что они работают прямо сейчас.",
-      "tr": "Большинство медсестёр в этой больнице работают двенадцатичасовыми сменами три-четыре раза в неделю."
+      "hint": "«usually» и «three or four times a week» — это процесс или регулярность?",
+      "explain": "Регулярное действие (usually, three or four times a week) → Present Simple. Continuous описывал бы процесс в момент речи или временную ситуацию, а здесь постоянный график.",
+      "tr": "Медсёстры в этой больнице обычно работают двенадцатичасовыми сменами три-четыре раза в неделю."
     },
     {
       "id": "b1-present-simple-continuous-p03",
@@ -250,16 +250,16 @@
     {
       "id": "b1-present-simple-continuous-p10",
       "type": "gap",
-      "q": "These days rents in the city centre ___ so fast that many young people can't afford a flat there.",
+      "q": "At the moment rents in the city centre ___ so fast that many young people can't afford a flat there.",
       "correct": "are rising",
       "wrong": [
         "rise",
         "rises",
         "rising"
       ],
-      "hint": "«These days» и описание тенденции — какая форма для меняющейся ситуации?",
+      "hint": "«At the moment» и описание тенденции — какая форма для меняющейся ситуации?",
       "explain": "Меняющаяся ситуация (тенденция) в текущий период → Present Continuous: are rising.",
-      "tr": "В последнее время аренда в центре растёт так быстро, что многие молодые люди не могут позволить себе там квартиру."
+      "tr": "Сейчас аренда в центре растёт так быстро, что многие молодые люди не могут позволить себе там квартиру."
     },
     {
       "id": "b1-present-simple-continuous-p11",

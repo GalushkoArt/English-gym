@@ -384,11 +384,11 @@
       "q": "",
       "correct": "Where's Jack? — He's gone home. He left about ten minutes ago.",
       "wrong": [
-        "Where's Jack? — He's been home. He left about ten minutes ago.",
+        "Where's Jack? — He has went home. He left about ten minutes ago.",
         "Where's Jack? — He's gone home. He has left about ten minutes ago."
       ],
-      "hint": "Джек сейчас дома? И посмотрите, какое время названо во второй фразе ответа.",
-      "explain": "Джек ушёл и сейчас дома → has gone. Подробность с ago → Past Simple: left; Present Perfect с ago не сочетается.",
+      "hint": "Проверьте форму глагола после has и посмотрите, какое время названо во второй фразе ответа.",
+      "explain": "Новость (ушёл и сейчас дома) → Present Perfect: has gone; после has нужна третья форма, а не went. Подробность с ago → Past Simple: left; Present Perfect с ago не сочетается.",
       "tr": "— Где Джек? — Он ушёл домой. Ушёл минут десять назад."
     },
     {
