@@ -1,0 +1,474 @@
+{
+  "id": "b2-reported-speech",
+  "level": "B2",
+  "order": 8,
+  "title": "Reported speech",
+  "titleRu": "Косвенная речь",
+  "summary": "Сдвиг времён, косвенные вопросы, просьбы и глаголы сообщения",
+  "source": "Murphy EGIU units 47–50; British Council: Reported speech",
+  "rules": [
+    {
+      "title": "Сдвиг времён и слов времени",
+      "body": "После глагола сообщения в прошедшем (**said, told, asked**) время обычно сдвигается назад:\n- am/is → **was**; do/does → **did**; am doing → **was doing**\n- will → **would**; can → **could**; must → **had to**\n- did / have done → **had done**\n\nМеняются слова времени и места: today → **that day**, tomorrow → **the next day**, yesterday → **the day before**, ago → **before**, here → **there**.\n\nЕсли сказанное по-прежнему верно, сдвиг не обязателен.",
+      "examples": [
+        {
+          "en": "'I'm tired.' → She said she was tired.",
+          "ru": "«Я устала». → Она сказала, что устала."
+        },
+        {
+          "en": "'I'll call you tomorrow.' → He said he would call me the next day.",
+          "ru": "«Я позвоню тебе завтра». → Он сказал, что позвонит мне на следующий день."
+        },
+        {
+          "en": "'We've been here for an hour.' → They said they had been there for an hour.",
+          "ru": "«Мы здесь уже час». → Они сказали, что пробыли там уже час."
+        }
+      ]
+    },
+    {
+      "title": "say и tell",
+      "body": "- **say (that) …**; если нужен адресат — **say to someone**\n- **tell + человек (that) …** — человек обязателен: told me, told her\n- устойчивые сочетания: tell the truth, tell a lie, tell a story\n\nНельзя: said me; told that… без адресата.",
+      "examples": [
+        {
+          "en": "She said (that) she was busy.",
+          "ru": "Она сказала, что занята."
+        },
+        {
+          "en": "She told me (that) she was busy.",
+          "ru": "Она сказала мне, что занята."
+        }
+      ]
+    },
+    {
+      "title": "Косвенные вопросы",
+      "body": "- общий вопрос: **asked (me) if / whether** + прямой порядок слов\n- специальный: **asked (me) where / why / what…** + прямой порядок слов\n- без do / does / did и без вопросительного знака\n- также: **wanted to know, wondered**",
+      "examples": [
+        {
+          "en": "'Do you like it?' → She asked if I liked it.",
+          "ru": "«Тебе нравится?» → Она спросила, нравится ли мне."
+        },
+        {
+          "en": "'Where do you live?' → He asked where I lived.",
+          "ru": "«Где ты живёшь?» → Он спросил, где я живу."
+        },
+        {
+          "en": "'Why did you leave?' → They wanted to know why I had left.",
+          "ru": "«Почему вы ушли?» → Они хотели знать, почему я ушёл."
+        }
+      ]
+    },
+    {
+      "title": "Приказы и просьбы",
+      "body": "**tell / ask + человек + (not) to + V**.\n\nПовелительное наклонение (Wait! Don't…) в косвенной речи не сохраняется.",
+      "examples": [
+        {
+          "en": "'Wait here.' → He told me to wait there.",
+          "ru": "«Подожди здесь». → Он сказал мне подождать там."
+        },
+        {
+          "en": "'Please don't be late.' → She asked us not to be late.",
+          "ru": "«Пожалуйста, не опаздывайте». → Она попросила нас не опаздывать."
+        }
+      ]
+    },
+    {
+      "title": "Глаголы сообщения и их модели",
+      "body": "- **suggest + -ing** или **suggest that …** (не suggest someone to)\n- **advise / warn / remind + человек + to + V**\n- **offer / refuse / promise + to + V**\n- **deny / admit + -ing** (или + that …)\n- **apologise for + -ing**",
+      "examples": [
+        {
+          "en": "He suggested taking a taxi.",
+          "ru": "Он предложил взять такси."
+        },
+        {
+          "en": "She reminded me to buy milk.",
+          "ru": "Она напомнила мне купить молоко."
+        },
+        {
+          "en": "He refused to answer.",
+          "ru": "Он отказался отвечать."
+        },
+        {
+          "en": "They apologised for keeping us waiting.",
+          "ru": "Они извинились, что заставили нас ждать."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "am/is → was; will → would; can → could; did / have done → had done",
+    "tomorrow → the next day; yesterday → the day before; ago → before; here → there",
+    "say (that) …; tell + человек: told me (that) …",
+    "asked if / whether / where + прямой порядок, без do/did",
+    "told / asked me (not) to + V",
+    "suggest + -ing; advise / warn / remind + человек + to",
+    "offer / refuse / promise + to; deny / admit + -ing; apologise for + -ing"
+  ],
+  "mistakes": [
+    {
+      "wrong": "He said me that he was tired.",
+      "right": "He told me that he was tired.",
+      "note": "с адресатом — tell + человек; say требует to: said to me"
+    },
+    {
+      "wrong": "She asked me where did I live.",
+      "right": "She asked me where I lived.",
+      "note": "в косвенном вопросе — прямой порядок слов, без did"
+    },
+    {
+      "wrong": "He suggested me to take a taxi.",
+      "right": "He suggested taking a taxi.",
+      "note": "калька с «предложил мне»: suggest + -ing или suggest that…"
+    },
+    {
+      "wrong": "She told me don't be late.",
+      "right": "She told me not to be late.",
+      "note": "запрет в косвенной речи → not to + V"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как передать «I'm tired» после said?",
+      "back": "Сдвиг времени: am → **was**.\nHe said (that) he was tired."
+    },
+    {
+      "front": "say или tell: «Он сказал мне, что…»?",
+      "back": "**told me** (that) … или **said to me** (that) …\nНельзя: said me."
+    },
+    {
+      "front": "Как передать вопрос «Where do you live?»?",
+      "back": "Прямой порядок слов, без do: **asked where I lived**."
+    },
+    {
+      "front": "Как передать «Don't be late!» в косвенной речи?",
+      "back": "**told / asked + человек + not to + V**.\nShe told me not to be late."
+    },
+    {
+      "front": "Во что превращаются tomorrow, ago и here в косвенной речи?",
+      "back": "**the next day, before, there**.\nHe said he would come the next day."
+    },
+    {
+      "front": "Какая конструкция после suggest?",
+      "back": "**suggest + -ing** или **suggest that …**\nShe suggested going home. Нельзя: suggested me to go."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-reported-speech-p01",
+      "type": "gap",
+      "q": "When I met Tom last year, he told me he ___ for a bank in Rome, but now he's back in London.",
+      "correct": "was working",
+      "wrong": [
+        "is working",
+        "works"
+      ],
+      "hint": "Глагол сообщения в прошедшем времени, и ситуация уже изменилась.",
+      "explain": "После told время сдвигается назад: am working → was working. is working и works противоречат тому, что Том уже вернулся в Лондон.",
+      "tr": "Когда я встретил Тома в прошлом году, он сказал, что работает в банке в Риме, но теперь он вернулся в Лондон."
+    },
+    {
+      "id": "b2-reported-speech-p02",
+      "type": "gap",
+      "q": "Anna ___ me she had already booked the tickets.",
+      "correct": "told",
+      "wrong": [
+        "said"
+      ],
+      "hint": "Сразу после пропуска стоит человек (me).",
+      "explain": "tell + человек: told me. say не употребляется с адресатом без предлога: said (to me) that…",
+      "tr": "Анна сказала мне, что уже забронировала билеты."
+    },
+    {
+      "id": "b2-reported-speech-p03",
+      "type": "gap",
+      "q": "At passport control, the officer asked me where ___ during my visit.",
+      "correct": "I was staying",
+      "wrong": [
+        "was I staying",
+        "did I stay",
+        "had I stayed"
+      ],
+      "hint": "Это уже не прямой вопрос. Какой порядок слов в косвенном вопросе?",
+      "explain": "В косвенном вопросе — прямой порядок слов (подлежащее + сказуемое) и сдвиг времени: where I was staying. Инверсия и did здесь не нужны.",
+      "tr": "На паспортном контроле сотрудник спросил, где я буду жить во время поездки."
+    },
+    {
+      "id": "b2-reported-speech-p04",
+      "type": "gap",
+      "q": "When I applied for the loan, the bank manager asked ___ a regular income.",
+      "correct": "whether I had",
+      "wrong": [
+        "did I have"
+      ],
+      "hint": "Общий вопрос в косвенной речи вводится особым словом, а порядок слов — как в утверждении.",
+      "explain": "Общий вопрос → asked + if/whether + прямой порядок: whether I had. did I have — порядок прямого вопроса, в косвенной речи он невозможен.",
+      "tr": "Когда я подавал заявку на кредит, менеджер банка спросил, есть ли у меня постоянный доход."
+    },
+    {
+      "id": "b2-reported-speech-p05",
+      "type": "gap",
+      "q": "The doctor told me ___ any heavy lifting for at least a month.",
+      "correct": "not to do",
+      "wrong": [
+        "don't do",
+        "not do"
+      ],
+      "hint": "Как передать запрет после told me?",
+      "explain": "Косвенный запрет: tell + человек + not to + V: told me not to do. Повелительное don't do в косвенной речи не сохраняется.",
+      "tr": "Врач сказал мне не поднимать ничего тяжёлого хотя бы месяц."
+    },
+    {
+      "id": "b2-reported-speech-p06",
+      "type": "gap",
+      "q": "When we got lost, Maria suggested ___ a taxi back to the hotel.",
+      "correct": "taking",
+      "wrong": [
+        "to take",
+        "us to take",
+        "take"
+      ],
+      "hint": "Какая форма после suggest? Конструкция «suggest + человек + to» — калька.",
+      "explain": "suggest + -ing (или suggest that we…): suggested taking. suggest to take и suggest us to take — частые ошибки под влиянием русского «предложила нам взять».",
+      "tr": "Когда мы заблудились, Мария предложила вернуться в отель на такси."
+    },
+    {
+      "id": "b2-reported-speech-p07",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Last Friday Kate said she would send the contract the next day, but it still hasn't arrived.",
+      "wrong": [
+        "Last Friday Kate said she would send the contract tomorrow, but it still hasn't arrived.",
+        "Last Friday Kate said me she would send the contract the next day, but it still hasn't arrived."
+      ],
+      "hint": "Проверьте слово времени и глагол сообщения.",
+      "explain": "Разговор был в прошлую пятницу, поэтому tomorrow → the next day. say не употребляется с me без to: said to me или told me.",
+      "tr": "В прошлую пятницу Кейт сказала, что отправит договор на следующий день, но он до сих пор не пришёл."
+    },
+    {
+      "id": "b2-reported-speech-p08",
+      "type": "gap",
+      "q": "When I phoned the hotel in June, the receptionist said the room had been booked two weeks ___.",
+      "correct": "before",
+      "wrong": [
+        "ago"
+      ],
+      "hint": "Отсчёт идёт не от сегодняшнего дня, а от момента разговора в июне.",
+      "explain": "В косвенной речи ago → before (earlier): отсчёт ведётся от прошлого момента. ago отсчитывает время от настоящего.",
+      "tr": "Когда я позвонил в отель в июне, администратор сказала, что номер забронировали за две недели до этого."
+    },
+    {
+      "id": "b2-reported-speech-p09",
+      "type": "gap",
+      "q": "The minister denied ___ the documents to the press.",
+      "correct": "leaking",
+      "wrong": [
+        "to leak",
+        "leak",
+        "to have leaked"
+      ],
+      "hint": "Какая форма глагола после deny?",
+      "explain": "deny + -ing (или deny that…): denied leaking. Инфинитив после deny не употребляется.",
+      "tr": "Министр отрицал, что слил документы прессе."
+    },
+    {
+      "id": "b2-reported-speech-p10",
+      "type": "gap",
+      "q": "My lawyer advised me ___ anything until I had read the contract carefully.",
+      "correct": "not to sign",
+      "wrong": [
+        "not signing"
+      ],
+      "hint": "advise + человек + … — какая форма глагола дальше?",
+      "explain": "advise + человек + (not) to + V: advised me not to sign. -ing после advise + человек невозможна.",
+      "tr": "Мой юрист посоветовал мне ничего не подписывать, пока я внимательно не прочитаю договор."
+    },
+    {
+      "id": "b2-reported-speech-p11",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "'I'll definitely be on time tomorrow,' said Jack.",
+      "correct": "Jack promised to be on time the next day.",
+      "wrong": [
+        "Jack refused to be on time the next day.",
+        "Jack apologised for being late the next day."
+      ],
+      "hint": "Что делает Джек: обещает, отказывается или извиняется?",
+      "explain": "I'll definitely… — обещание → promise + to + V: promised to be on time. tomorrow в косвенной речи → the next day.",
+      "tr": "Джек пообещал прийти вовремя на следующий день."
+    },
+    {
+      "id": "b2-reported-speech-p12",
+      "type": "gap",
+      "q": "The airline apologised ___ the flight without any warning.",
+      "correct": "for cancelling",
+      "wrong": [
+        "to cancel",
+        "for cancel"
+      ],
+      "hint": "apologise требует предлога, а после предлога — особая форма глагола.",
+      "explain": "apologise for + -ing: apologised for cancelling. После предлога нужна -ing-форма, инфинитив невозможен.",
+      "tr": "Авиакомпания извинилась за то, что без всякого предупреждения отменила рейс."
+    },
+    {
+      "id": "b2-reported-speech-p13",
+      "type": "gap",
+      "q": "In January the builders said they ___ the work by March, but it's June and they're still here.",
+      "correct": "would finish",
+      "wrong": [
+        "will finish",
+        "finish",
+        "have finished"
+      ],
+      "hint": "Март уже прошёл, а глагол сообщения стоит в прошедшем времени.",
+      "explain": "Сдвиг времени: will → would. will finish не подходит: срок (март) уже в прошлом, обещание не выполнено.",
+      "tr": "В январе строители сказали, что закончат работу к марту, но сейчас июнь, а они всё ещё здесь."
+    },
+    {
+      "id": "b2-reported-speech-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "She wanted to know why I had left my previous job.",
+      "wrong": [
+        "She wanted to know why had I left my previous job.",
+        "She wanted to know why did I leave my previous job.",
+        "She wanted to know why I had left my previous job?"
+      ],
+      "hint": "Косвенный вопрос — это утверждение. Проверьте порядок слов и знак в конце.",
+      "explain": "Косвенный вопрос: прямой порядок слов (I had left), без did и без вопросительного знака. Past Simple (left) сдвигается в Past Perfect (had left).",
+      "tr": "Она хотела знать, почему я ушёл с предыдущей работы."
+    },
+    {
+      "id": "b2-reported-speech-p15",
+      "type": "gap",
+      "q": "The neighbours asked us ___ the music down after eleven.",
+      "correct": "to turn",
+      "wrong": [
+        "turning"
+      ],
+      "hint": "ask + человек + … — как передаётся просьба?",
+      "explain": "Косвенная просьба: ask + человек + to + V: asked us to turn down. -ing после ask + человек не употребляется.",
+      "tr": "Соседи попросили нас делать музыку потише после одиннадцати."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-reported-speech-e01",
+      "type": "gap",
+      "q": "At the meeting, the manager admitted ___ the risks of the project.",
+      "correct": "underestimating",
+      "wrong": [
+        "to underestimate",
+        "underestimate",
+        "that she underestimate"
+      ],
+      "hint": "Какая форма после admit, если не используется придаточное?",
+      "explain": "admit + -ing (или admit that…): admitted underestimating. Инфинитив после admit не употребляется, а в придаточном нужно полное сказуемое: that she had underestimated.",
+      "tr": "На совещании руководитель признала, что недооценила риски проекта."
+    },
+    {
+      "id": "b2-reported-speech-e02",
+      "type": "gap",
+      "q": "The guide warned us ___ the path after dark because it was dangerous.",
+      "correct": "not to use",
+      "wrong": [
+        "not using",
+        "don't use"
+      ],
+      "hint": "warn + человек + … — как передаётся предостережение?",
+      "explain": "warn + человек + (not) to + V: warned us not to use. Повелительное don't use в косвенной речи не сохраняется, а -ing после warn + человек невозможна.",
+      "tr": "Гид предупредил нас, чтобы мы не ходили по этой тропе после наступления темноты, потому что это опасно."
+    },
+    {
+      "id": "b2-reported-speech-e03",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "'Why don't we have the party at my place?' said Lucy.",
+      "correct": "Lucy suggested having the party at her place.",
+      "wrong": [
+        "Lucy asked why they had had the party at her place.",
+        "Lucy refused to have the party at her place."
+      ],
+      "hint": "Why don't we…? — это настоящий вопрос или предложение?",
+      "explain": "Why don't we…? — не вопрос, а предложение → suggest + -ing: suggested having. my place → her place.",
+      "tr": "Люси предложила устроить вечеринку у неё дома."
+    },
+    {
+      "id": "b2-reported-speech-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "He asked me if I could lend him some money until the following week.",
+      "wrong": [
+        "He asked me if could I lend him some money until the following week.",
+        "He said me if I could lend him some money until the following week."
+      ],
+      "hint": "Проверьте глагол сообщения и порядок слов после if.",
+      "explain": "Косвенный вопрос: ask + человек + if + прямой порядок (I could). say не вводит вопросы и не употребляется с me без to.",
+      "tr": "Он спросил, не могу ли я одолжить ему денег до следующей недели."
+    },
+    {
+      "id": "b2-reported-speech-e05",
+      "type": "gap",
+      "q": "When I couldn't carry my suitcase up the stairs, a young man offered ___ it for me.",
+      "correct": "to carry",
+      "wrong": [
+        "carrying"
+      ],
+      "hint": "Какая форма после offer?",
+      "explain": "offer + to + V: offered to carry. -ing после offer не употребляется — как и после refuse и promise.",
+      "tr": "Когда я не смог поднять чемодан по лестнице, молодой человек предложил донести его за меня."
+    }
+  ],
+  "glossary": {
+    "admitted": "признала (прош. от admit)",
+    "advised": "посоветовал (прош. от advise)",
+    "airline": "авиакомпания",
+    "apologised": "извинилась (прош. от apologise)",
+    "applied": "подавал заявку (прош. от apply)",
+    "bank": "банк; банковский",
+    "booked": "забронировала (3-я форма от book)",
+    "builders": "строители",
+    "carefully": "внимательно",
+    "carry": "нести, донести",
+    "contract": "договор, контракт",
+    "control": "(passport control) паспортный контроль",
+    "dangerous": "опасный",
+    "dark": "(after dark) после наступления темноты",
+    "denied": "отрицал (прош. от deny)",
+    "doctor": "врач",
+    "documents": "документы",
+    "flight": "рейс",
+    "guide": "гид, экскурсовод",
+    "heavy": "тяжёлый",
+    "hotel": "отель, гостиница",
+    "income": "доход",
+    "lawyer": "юрист",
+    "lifting": "поднятие тяжестей (-ing от lift)",
+    "loan": "кредит, заём",
+    "manager": "менеджер, руководитель",
+    "minister": "министр",
+    "music": "музыка",
+    "neighbours": "соседи",
+    "offered": "предложил (прош. от offer)",
+    "officer": "сотрудник (пограничной службы)",
+    "party": "вечеринка",
+    "passport": "паспортный",
+    "path": "тропа, дорожка",
+    "phoned": "позвонил (прош. от phone)",
+    "place": "(at my place) у меня дома",
+    "press": "пресса",
+    "project": "проект",
+    "receptionist": "администратор (на ресепшене)",
+    "regular": "постоянный, регулярный",
+    "risks": "риски",
+    "stairs": "лестница",
+    "suggested": "предложила (прош. от suggest)",
+    "suitcase": "чемодан",
+    "taxi": "такси",
+    "tickets": "билеты",
+    "visit": "поездка, визит",
+    "warned": "предупредил (прош. от warn)",
+    "warning": "предупреждение"
+  }
+}

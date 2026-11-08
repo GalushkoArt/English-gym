@@ -1,0 +1,475 @@
+{
+  "id": "c1-impersonal-passive",
+  "level": "C1",
+  "order": 6,
+  "title": "Impersonal passive: it is said that…",
+  "titleRu": "Безличный пассив: it is said, he is believed to",
+  "summary": "Мнение без источника: It is said that…, he is believed to…",
+  "source": "Murphy AGIU units 48–49; Murphy EGIU unit 45",
+  "rules": [
+    {
+      "title": "It is said that + придаточное",
+      "body": "Безличный пассив передаёт мнение или новость, не называя источник: **It + is / was + V3 + that + придаточное**. Глаголы: **said, thought, believed, reported, expected, known, claimed, estimated, understood**.\n\n- It **is said that** the castle is haunted. (= People say…)\n- It **is expected that** prices will rise.\n- It **has been claimed that** the data was false.\n\nСтиль — новости, отчёты, академические тексты. Активное It says that… в значении «говорят» невозможно.",
+      "examples": [
+        {
+          "en": "It is believed that the fire started in the kitchen.",
+          "ru": "Считается, что пожар начался на кухне."
+        },
+        {
+          "en": "It is expected that the new law will come into force in May.",
+          "ru": "Ожидается, что новый закон вступит в силу в мае."
+        },
+        {
+          "en": "It has been reported that two people were injured.",
+          "ru": "Сообщается, что пострадали два человека."
+        }
+      ]
+    },
+    {
+      "title": "Подлежащее + is said + to-инфинитив",
+      "body": "Тот же смысл можно передать, начав с подлежащего: **S + is / are + V3 + to-инфинитив**.\n\n- It is said that he is very rich. → He **is said to be** very rich.\n- It is expected that the company will announce… → The company **is expected to announce**…\n\nМодели не смешиваются: не He is said that he is…, не It is said him to be…",
+      "examples": [
+        {
+          "en": "The minister is said to be considering early retirement.",
+          "ru": "Говорят, министр подумывает о досрочной отставке."
+        },
+        {
+          "en": "The company is expected to announce record profits.",
+          "ru": "Ожидается, что компания объявит о рекордной прибыли."
+        }
+      ]
+    },
+    {
+      "title": "Какой инфинитив выбрать",
+      "body": "Форма инфинитива показывает, когда происходит действие **относительно момента сообщения**:\n\n- одновременно или позже: **to + V** — He is said **to live** in Paris.\n- в процессе сейчас: **to be + V-ing** — He is said **to be writing** a book.\n- раньше: **to have + V3** — He is said **to have lived** in Paris as a child.\n- раньше, пассив: **to have been + V3** — The painting is thought **to have been stolen**.\n- сейчас, пассив: **to be + V3** — The house is believed **to be owned** by a bank.",
+      "examples": [
+        {
+          "en": "The suspect is believed to have left the country.",
+          "ru": "Считается, что подозреваемый уже покинул страну."
+        },
+        {
+          "en": "The paintings are thought to have been sold years ago.",
+          "ru": "Предполагается, что картины были проданы много лет назад."
+        },
+        {
+          "en": "The talks are reported to be making progress.",
+          "ru": "Сообщается, что переговоры продвигаются."
+        }
+      ]
+    },
+    {
+      "title": "Мнение в прошлом",
+      "body": "Если так считали **в прошлом**, глагол сообщения ставится в прошедшем времени:\n\n- It **was believed** that the Earth was flat.\n- Smoking **was thought to be** harmless.\n- He **was believed to have left** the city the night before. (действие ещё раньше)\n\nПервая часть показывает, когда так считали, а форма инфинитива — как действие соотносится с этим моментом.",
+      "examples": [
+        {
+          "en": "At the time, it was thought that the virus was harmless.",
+          "ru": "Тогда считалось, что вирус безопасен."
+        },
+        {
+          "en": "In the 1950s, smoking was considered to be relatively safe.",
+          "ru": "В 1950-е годы курение считалось относительно безопасным."
+        }
+      ]
+    },
+    {
+      "title": "There is said to be …",
+      "body": "С **there** модель та же: **There + is / are + V3 + to be / to have been**.\n\n- There **is said to be** a secret tunnel under the castle.\n- There **are thought to have been** over 200 people on board.\n\nГлагол согласуется с существительным после to be: There **are** said to be many… / There **is** said to be a…",
+      "examples": [
+        {
+          "en": "There are believed to be about fifty species of bird on the island.",
+          "ru": "Считается, что на острове обитает около пятидесяти видов птиц."
+        },
+        {
+          "en": "There is thought to have been a mistake in the calculations.",
+          "ru": "Предполагается, что в расчётах была ошибка."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "It is said / believed / reported that + придаточное",
+    "S + is said / believed / expected + to V",
+    "to V (сейчас или позже) · to be V-ing (в процессе) · to have V3 (раньше)",
+    "to be V3 / to have been V3 → пассив: is thought to have been stolen",
+    "мнение в прошлом → was believed / was thought",
+    "There is / are said to be …; There are thought to have been …"
+  ],
+  "mistakes": [
+    {
+      "wrong": "He is said that he is very rich.",
+      "right": "He is said to be very rich.",
+      "note": "после S + is said — инфинитив, а не that-придаточное"
+    },
+    {
+      "wrong": "It is said him to be very rich.",
+      "right": "It is said that he is very rich.",
+      "note": "после It is said — that + полное придаточное"
+    },
+    {
+      "wrong": "The fire is believed to start in the kitchen yesterday.",
+      "right": "The fire is believed to have started in the kitchen yesterday.",
+      "note": "действие раньше момента сообщения → to have + V3"
+    },
+    {
+      "wrong": "It says that the castle is haunted.",
+      "right": "It is said that the castle is haunted.",
+      "note": "«говорят, что» → пассив It is said; It says значит «там написано»"
+    }
+  ],
+  "cards": [
+    {
+      "front": "«Говорят, что он очень богат» — двумя способами.",
+      "back": "**It is said that** he is very rich.\nHe **is said to be** very rich."
+    },
+    {
+      "front": "«Считается, что пожар начался ночью» — с подлежащим the fire.",
+      "back": "Действие раньше → **to have + V3**.\nThe fire is believed to have started at night."
+    },
+    {
+      "front": "«Предполагается, что картину украли» — с подлежащим the painting.",
+      "back": "Пассив + раньше → **to have been + V3**.\nThe painting is thought to have been stolen."
+    },
+    {
+      "front": "«Сообщается, что переговоры идут успешно» — с подлежащим the talks.",
+      "back": "Процесс сейчас → **to be + V-ing**.\nThe talks are reported to be going well."
+    },
+    {
+      "front": "Как сказать «Говорят, под замком есть тоннель»?",
+      "back": "**There is said to be** …\nThere is said to be a tunnel under the castle."
+    },
+    {
+      "front": "«Тогда считалось, что…» — какое время у глагола сообщения?",
+      "back": "**Прошедшее**: It was thought that… / He was thought to…\nIt was thought that the virus was harmless."
+    }
+  ],
+  "questions": [
+    {
+      "id": "c1-impersonal-passive-p01",
+      "type": "gap",
+      "q": "It is expected ___ more than twice the original estimate.",
+      "correct": "that the new stadium will cost",
+      "wrong": [
+        "the new stadium to cost",
+        "that the new stadium to cost"
+      ],
+      "hint": "После It is expected нужно полное придаточное или инфинитив?",
+      "explain": "It is expected + that + полное придаточное: that the new stadium will cost. Инфинитив возможен только в модели с подлежащим: The new stadium is expected to cost…",
+      "tr": "Ожидается, что новый стадион обойдётся более чем вдвое дороже первоначальной сметы."
+    },
+    {
+      "id": "c1-impersonal-passive-p02",
+      "type": "gap",
+      "q": "The minister is said ___ early retirement, although his office has denied this.",
+      "correct": "to be considering",
+      "wrong": [
+        "that he is considering"
+      ],
+      "hint": "Предложение начинается с подлежащего (The minister), а не с It.",
+      "explain": "S + is said + to-инфинитив; процесс сейчас → to be + V-ing: to be considering. That-придаточное возможно только после It is said.",
+      "tr": "Говорят, министр подумывает о досрочной отставке, хотя его аппарат это отрицает."
+    },
+    {
+      "id": "c1-impersonal-passive-p03",
+      "type": "gap",
+      "q": "The fire is believed ___ in the kitchen of a nearby restaurant late last night.",
+      "correct": "to have started",
+      "wrong": [
+        "to start",
+        "to be started",
+        "that it started"
+      ],
+      "hint": "Пожар начался вчера, а так считают сейчас. Какой инфинитив показывает предшествование?",
+      "explain": "Действие раньше момента сообщения → to have + V3: to have started. to start относился бы к настоящему или будущему, to be started — пассив, а that-придаточное после S + is believed невозможно.",
+      "tr": "Считается, что пожар начался вчера поздно вечером на кухне соседнего ресторана."
+    },
+    {
+      "id": "c1-impersonal-passive-p04",
+      "type": "gap",
+      "q": "The missing paintings are thought ___ to a private collector several years ago.",
+      "correct": "to have been sold",
+      "wrong": [
+        "to have sold"
+      ],
+      "hint": "Картины продали или они сами что-то продали? И когда?",
+      "explain": "Картины подверглись действию, и оно было раньше → to have been + V3: to have been sold. to have sold означало бы, что картины сами что-то продали.",
+      "tr": "Предполагается, что пропавшие картины были проданы частному коллекционеру несколько лет назад."
+    },
+    {
+      "id": "c1-impersonal-passive-p05",
+      "type": "gap",
+      "q": "There ___ more than two thousand people at the protest last Saturday.",
+      "correct": "are said to have been",
+      "wrong": [
+        "are said to be",
+        "is said to have been"
+      ],
+      "hint": "Акция была в прошлую субботу, а people — множественное число.",
+      "explain": "There + are said + to have been — сообщение сейчас о прошлом событии; people → are. to be относилось бы к настоящему, is не согласуется с people.",
+      "tr": "Говорят, на акции протеста в прошлую субботу было более двух тысяч человек."
+    },
+    {
+      "id": "c1-impersonal-passive-p06",
+      "type": "gap",
+      "q": "At the time, it ___ that the castle had been built in the twelfth century.",
+      "correct": "was believed",
+      "wrong": [
+        "believed",
+        "was believing"
+      ],
+      "hint": "Мнение существовало в прошлом, источник не назван. Какой залог нужен?",
+      "explain": "Безличный пассив в прошедшем времени: it was believed that… Активные формы с безличным it невозможны.",
+      "tr": "В то время считалось, что замок был построен в двенадцатом веке."
+    },
+    {
+      "id": "c1-impersonal-passive-p07",
+      "type": "gap",
+      "q": "The suspect ___ to have left the country using a false passport.",
+      "correct": "is believed",
+      "wrong": [
+        "believes",
+        "is believing",
+        "it is believed"
+      ],
+      "hint": "Подозреваемый сам так считает или так считают о нём?",
+      "explain": "S + is believed + to have V3: The suspect is believed to have left. Активные формы меняют смысл (он сам считает), а it после подлежащего лишнее.",
+      "tr": "Считается, что подозреваемый покинул страну по поддельному паспорту."
+    },
+    {
+      "id": "c1-impersonal-passive-p08",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Both companies are reported to be in talks about a possible merger.",
+      "wrong": [
+        "Both companies are reported that they are in talks about a possible merger.",
+        "It is reported both companies to be in talks about a possible merger."
+      ],
+      "hint": "Не смешивайте две модели: It is reported that… и S + is reported to…",
+      "explain": "S + are reported + to be — правильная модель с подлежащим. После S + are reported не ставится that-придаточное, а после It is reported нужно that + полное придаточное.",
+      "tr": "Сообщается, что обе компании ведут переговоры о возможном слиянии."
+    },
+    {
+      "id": "c1-impersonal-passive-p09",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "People say that the new manager is very strict.",
+      "correct": "The new manager is said to be very strict.",
+      "wrong": [
+        "The new manager is said to have been very strict.",
+        "The new manager says that people are very strict."
+      ],
+      "hint": "Строгость — сейчас или в прошлом? И кто что говорит?",
+      "explain": "People say that … is → S + is said + to be (одновременно). to have been относит строгость к прошлому, а третий вариант меняет смысл.",
+      "tr": "Говорят, новый руководитель очень строгий."
+    },
+    {
+      "id": "c1-impersonal-passive-p10",
+      "type": "gap",
+      "q": "Nearly half of all employees in the sector are thought ___ from home at least twice a week.",
+      "correct": "to work",
+      "wrong": [
+        "to be worked",
+        "that work"
+      ],
+      "hint": "Регулярное действие самих сотрудников. Нужна активная форма инфинитива.",
+      "explain": "S + are thought + to V — регулярное действие в настоящем: to work. to be worked — бессмысленный пассив, а that-придаточное после S + are thought невозможно.",
+      "tr": "Считается, что почти половина сотрудников этой отрасли работает из дома как минимум два раза в неделю."
+    },
+    {
+      "id": "c1-impersonal-passive-p11",
+      "type": "gap",
+      "q": "In the 1950s, smoking ___ to be relatively harmless by many doctors.",
+      "correct": "was thought",
+      "wrong": [
+        "is thought"
+      ],
+      "hint": "Когда врачи так считали?",
+      "explain": "Мнение относится к 1950-м годам → глагол сообщения в прошедшем: was thought. Is thought означало бы, что так считают сейчас.",
+      "tr": "В 1950-е годы многие врачи считали курение относительно безвредным."
+    },
+    {
+      "id": "c1-impersonal-passive-p12",
+      "type": "gap",
+      "q": "The company is expected ___ its annual results next Tuesday.",
+      "correct": "to announce",
+      "wrong": [
+        "to have announced"
+      ],
+      "hint": "Объявление будет в будущем. Какой инфинитив нужен для действия после момента сообщения?",
+      "explain": "Действие в будущем → простой инфинитив: to announce. to have announced показывает действие, которое уже произошло.",
+      "tr": "Ожидается, что компания объявит годовые результаты в следующий вторник."
+    },
+    {
+      "id": "c1-impersonal-passive-p13",
+      "type": "gap",
+      "q": "The driver of the van is reported ___ by police at the scene of the accident.",
+      "correct": "to have been questioned",
+      "wrong": [
+        "to have questioned",
+        "to be questioning",
+        "that he was questioned"
+      ],
+      "hint": "Водитель допрашивал или его допрашивали? И когда?",
+      "explain": "Водителя допросили до сообщения → пассивный перфектный инфинитив: to have been questioned. Активные формы означали бы, что допрашивал он сам, а that-придаточное после S + is reported невозможно.",
+      "tr": "Сообщается, что водителя фургона допросила полиция на месте аварии."
+    },
+    {
+      "id": "c1-impersonal-passive-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "It is said that the old mill is haunted, but nobody has ever seen anything.",
+      "wrong": [
+        "It is said the old mill to be haunted, but nobody has ever seen anything.",
+        "The old mill is said that it is haunted, but nobody has ever seen anything.",
+        "It is saying that the old mill is haunted, but nobody has ever seen anything."
+      ],
+      "hint": "Какая модель строится с It, а какая — с подлежащим?",
+      "explain": "It is said + that + полное придаточное. Инфинитив возможен только в модели The old mill is said to be…, а It is saying — активная форма, которая здесь невозможна.",
+      "tr": "Говорят, в старой мельнице водятся привидения, но никто никогда ничего не видел."
+    },
+    {
+      "id": "c1-impersonal-passive-p15",
+      "type": "gap",
+      "q": "It ___ by several former employees that the director knew about the problem.",
+      "correct": "has been claimed",
+      "wrong": [
+        "has claimed"
+      ],
+      "hint": "Кто утверждает? Посмотрите на by several former employees.",
+      "explain": "by + исполнитель указывает на пассив: It has been claimed that… Активное has claimed с безличным it и by невозможно.",
+      "tr": "Несколько бывших сотрудников заявили, что директор знал о проблеме."
+    }
+  ],
+  "exam": [
+    {
+      "id": "c1-impersonal-passive-e01",
+      "type": "gap",
+      "q": "The missing climber is thought ___ shelter in a cave before the storm hit.",
+      "correct": "to have found",
+      "wrong": [
+        "to find",
+        "to have been found",
+        "to be found"
+      ],
+      "hint": "Альпинист сам нашёл укрытие, и это было до бури.",
+      "explain": "Действие раньше момента сообщения, активное → to have + V3: to have found. Пассивные формы не сочетаются с дополнением shelter, а to find относится к настоящему или будущему.",
+      "tr": "Предполагается, что пропавший альпинист нашёл укрытие в пещере до начала бури."
+    },
+    {
+      "id": "c1-impersonal-passive-e02",
+      "type": "gap",
+      "q": "At the time, the bank ___ to be in serious financial difficulty, although this later proved false.",
+      "correct": "was rumoured",
+      "wrong": [
+        "rumoured",
+        "was rumouring"
+      ],
+      "hint": "Об этом ходили слухи, а кто их распускал — не важно. Какой залог нужен?",
+      "explain": "S + was rumoured + to be — «ходили слухи, что…»; в этом значении глагол rumour употребляется только в пассиве. Активные формы здесь невозможны.",
+      "tr": "В то время ходили слухи, что банк испытывает серьёзные финансовые трудности, хотя позже это оказалось неправдой."
+    },
+    {
+      "id": "c1-impersonal-passive-e03",
+      "type": "gap",
+      "q": "Negotiations ___ to be making good progress, according to sources close to the government.",
+      "correct": "are reported",
+      "wrong": [
+        "are reporting"
+      ],
+      "hint": "Переговоры сами сообщают или о них сообщают?",
+      "explain": "S + are reported + to be V-ing — о переговорах сообщают: are reported. Are reporting означало бы, что переговоры сами что-то сообщают.",
+      "tr": "По сообщениям источников, близких к правительству, переговоры продвигаются успешно."
+    },
+    {
+      "id": "c1-impersonal-passive-e04",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "It is thought that the thieves entered the building through the roof.",
+      "correct": "The thieves are thought to have entered the building through the roof.",
+      "wrong": [
+        "The thieves are thought to enter the building through the roof.",
+        "The thieves thought that they had entered the building through the roof."
+      ],
+      "hint": "Воры проникли в здание раньше, чем об этом стали так думать.",
+      "explain": "Действие раньше момента сообщения → to have + V3: are thought to have entered. to enter относил бы действие к настоящему, а третий вариант меняет смысл: так думали сами воры.",
+      "tr": "Считается, что воры проникли в здание через крышу."
+    },
+    {
+      "id": "c1-impersonal-passive-e05",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "There are said to be over a hundred species of bird on the island.",
+      "wrong": [
+        "It is said to be over a hundred species of bird on the island.",
+        "There are said that there are over a hundred species of bird on the island.",
+        "There say to be over a hundred species of bird on the island."
+      ],
+      "hint": "Конструкция с there. Что идёт после are said?",
+      "explain": "There + are said + to be: There are said to be over a hundred species. It здесь не заменяет there, после are said не ставится that, а say без пассива невозможно.",
+      "tr": "Говорят, на острове обитает более ста видов птиц."
+    }
+  ],
+  "glossary": {
+    "accident": "авария",
+    "according": "согласно (according to — по словам, по данным)",
+    "annual": "годовой",
+    "bank": "банк",
+    "believed": "считается (3-я форма от believe)",
+    "building": "здание",
+    "castle": "замок",
+    "cave": "пещера",
+    "century": "век",
+    "climber": "альпинист",
+    "collector": "коллекционер",
+    "denied": "отрицал (3-я форма от deny)",
+    "difficulty": "трудности",
+    "director": "директор",
+    "doctors": "врачи",
+    "driver": "водитель",
+    "employees": "сотрудники",
+    "entered": "проникли, вошли (прош. от enter)",
+    "estimate": "смета, оценка",
+    "expected": "ожидается (3-я форма от expect)",
+    "false": "ложный, поддельный",
+    "financial": "финансовый",
+    "fire": "пожар",
+    "former": "бывший",
+    "government": "правительство",
+    "harmless": "безвредный",
+    "kitchen": "кухня",
+    "manager": "руководитель",
+    "minister": "министр",
+    "missing": "пропавший",
+    "nearby": "соседний, ближайший",
+    "negotiations": "переговоры",
+    "original": "первоначальный",
+    "paintings": "картины",
+    "passport": "паспорт",
+    "police": "полиция",
+    "private": "частный",
+    "progress": "прогресс, продвижение",
+    "protest": "акция протеста",
+    "proved": "оказалось (прош. от prove)",
+    "relatively": "относительно",
+    "reported": "сообщается (3-я форма от report)",
+    "restaurant": "ресторан",
+    "results": "результаты",
+    "retirement": "уход на пенсию, отставка",
+    "roof": "крыша",
+    "scene": "место (происшествия)",
+    "sector": "отрасль, сектор",
+    "serious": "серьёзный",
+    "shelter": "укрытие",
+    "smoking": "курение",
+    "sources": "источники",
+    "storm": "буря",
+    "strict": "строгий",
+    "suspect": "подозреваемый",
+    "thieves": "воры",
+    "twelfth": "двенадцатый",
+    "using": "используя",
+    "van": "фургон"
+  }
+}

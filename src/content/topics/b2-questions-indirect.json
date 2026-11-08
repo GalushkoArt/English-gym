@@ -1,0 +1,451 @@
+{
+  "id": "b2-questions-indirect",
+  "level": "B2",
+  "order": 14,
+  "title": "Question tags and indirect questions",
+  "titleRu": "Разделительные и косвенные вопросы",
+  "summary": "Хвостики, косвенные вопросы и вопросы к подлежащему",
+  "source": "Murphy EGIU units 49–52; British Council: Question tags; Indirect questions",
+  "rules": [
+    {
+      "title": "Разделительные вопросы: основное правило",
+      "body": "Хвостик (question tag) строится из **вспомогательного глагола** основной части + местоимение.\n\n- утверждение → отрицательный хвостик: You work here, **don't you**?\n- отрицание → положительный хвостик: She hasn't called, **has she**?\n- нет вспомогательного глагола → do / does / did: He left early, **didn't he**?\n- 'd = had или would — смотрите на следующий глагол: You'd been there, hadn't you?",
+      "examples": [
+        {
+          "en": "You've met Anna, haven't you?",
+          "ru": "Ты ведь знаком с Анной?"
+        },
+        {
+          "en": "It wasn't expensive, was it?",
+          "ru": "Это ведь было недорого?"
+        },
+        {
+          "en": "They live near you, don't they?",
+          "ru": "Они ведь живут недалеко от тебя?"
+        }
+      ]
+    },
+    {
+      "title": "Особые случаи",
+      "body": "- **I'm …, aren't I?**\n- **Let's …, shall we?**\n- повелительное наклонение: **Open the door, will you?** / Don't be late, will you?\n- **nobody, no one, nothing, never, hardly** — смысл отрицательный → **положительный** хвостик: Nobody called, did they?\n- nobody / everyone → **they**; nothing → **it**\n- **There is …, isn't there?**",
+      "examples": [
+        {
+          "en": "I'm late, aren't I?",
+          "ru": "Я ведь опоздал?"
+        },
+        {
+          "en": "Let's go, shall we?",
+          "ru": "Пойдём?"
+        },
+        {
+          "en": "Nothing happened, did it?",
+          "ru": "Ничего ведь не случилось?"
+        },
+        {
+          "en": "There's a bank near here, isn't there?",
+          "ru": "Здесь ведь где-то рядом есть банк?"
+        }
+      ]
+    },
+    {
+      "title": "Косвенные вопросы",
+      "body": "После **Could you tell me / Do you know / I wonder / I'd like to know / I'm not sure** — **прямой порядок слов**, как в утверждении.\n\n- **без do / does / did**: Do you know where she lives? (не: where does she live)\n- после I wonder / I'd like to know в конце ставится точка\n- вопросительное слово сохраняется: where, when, how much, why",
+      "examples": [
+        {
+          "en": "Could you tell me where the station is?",
+          "ru": "Не подскажете, где вокзал?"
+        },
+        {
+          "en": "I wonder why he left so early.",
+          "ru": "Интересно, почему он ушёл так рано."
+        },
+        {
+          "en": "Do you know what time the shop closes?",
+          "ru": "Вы не знаете, во сколько закрывается магазин?"
+        }
+      ]
+    },
+    {
+      "title": "if / whether в косвенных вопросах",
+      "body": "Если в прямом вопросе нет вопросительного слова (ответ «да» или «нет»), в косвенном нужен **if** или **whether**.\n\n- Is the shop open? → Do you know **if** the shop is open?\n- Has he called? → I wonder **whether** he has called.\n- порядок слов — прямой, как в утверждении",
+      "examples": [
+        {
+          "en": "Do you know if the bank is open today?",
+          "ru": "Вы не знаете, работает ли сегодня банк?"
+        },
+        {
+          "en": "I'd like to know whether the price includes breakfast.",
+          "ru": "Я хотел бы узнать, входит ли завтрак в стоимость."
+        }
+      ]
+    },
+    {
+      "title": "Вопросы к подлежащему и предлог в конце",
+      "body": "Если **who / what** — подлежащее, вспомогательный do / does / did **не нужен**:\n\n- Who **called** you? — кто-то позвонил тебе\n- Who **did you call**? — ты позвонил кому-то\n- What **happened**? (не: What did happen? / What was happened?)\n\nПредлог в вопросе обычно ставится **в конце**: Who are you waiting **for**? What is this **about**?",
+      "examples": [
+        {
+          "en": "Who told you about it?",
+          "ru": "Кто тебе об этом рассказал?"
+        },
+        {
+          "en": "Who did you tell about it?",
+          "ru": "Кому ты об этом рассказал?"
+        },
+        {
+          "en": "What are you talking about?",
+          "ru": "О чём ты говоришь?"
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "утверждение → отриц. хвостик; отрицание → полож. хвостик",
+    "I'm … aren't I? · Let's … shall we? · Do it, will you?",
+    "nobody / nothing / never / hardly → положительный хвостик",
+    "Could you tell me / Do you know + прямой порядок, без do / does / did",
+    "вопрос «да/нет» → if / whether + прямой порядок",
+    "who / what = подлежащее → без did: Who called? · предлог в конце: Who … for?"
+  ],
+  "mistakes": [
+    {
+      "wrong": "Could you tell me where is the station?",
+      "right": "Could you tell me where the station is?",
+      "note": "в косвенном вопросе прямой порядок слов"
+    },
+    {
+      "wrong": "Do you know what time does the shop close?",
+      "right": "Do you know what time the shop closes?",
+      "note": "в косвенном вопросе нет do / does / did"
+    },
+    {
+      "wrong": "What was happened?",
+      "right": "What happened?",
+      "note": "happen не бывает в пассиве; what — подлежащее → без did"
+    },
+    {
+      "wrong": "You are coming tomorrow, isn't it?",
+      "right": "You are coming tomorrow, aren't you?",
+      "note": "калька «не так ли»: хвостик повторяет вспомогательный глагол и подлежащее"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Какой хвостик у «You've seen this film, …?»",
+      "back": "Вспомогательный глагол have → **haven't you?**\nYou've seen this film, haven't you?"
+    },
+    {
+      "front": "Какой хвостик после «I'm» и «Let's»?",
+      "back": "I'm right, **aren't I?**\nLet's start, **shall we?**"
+    },
+    {
+      "front": "Почему «Nobody came, did they?», а не «didn't they»?",
+      "back": "nobody — отрицательный смысл → **положительный** хвостик, местоимение **they**."
+    },
+    {
+      "front": "Как вежливо спросить, где вокзал?",
+      "back": "**Could you tell me where the station is?**\nПрямой порядок слов, без does."
+    },
+    {
+      "front": "Как превратить «Is the museum open?» в косвенный вопрос?",
+      "back": "**if / whether** + прямой порядок:\nDo you know if the museum is open?"
+    },
+    {
+      "front": "Чем «Who called you?» отличается от «Who did you call?»",
+      "back": "**Who called you?** — кто позвонил тебе (who — подлежащее, без did).\n**Who did you call?** — кому ты позвонил."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b2-questions-indirect-p01",
+      "type": "gap",
+      "q": "You've already sent the invoice to the client, ___?",
+      "correct": "haven't you",
+      "wrong": [
+        "didn't you",
+        "don't you",
+        "aren't you"
+      ],
+      "hint": "Посмотрите на вспомогательный глагол в основной части (You've = You have).",
+      "explain": "В основной части have (You've sent) → хвостик с тем же вспомогательным глаголом. did и do используются, только когда вспомогательного глагола нет.",
+      "tr": "Вы ведь уже отправили счёт клиенту?"
+    },
+    {
+      "id": "b2-questions-indirect-p02",
+      "type": "gap",
+      "q": "Mark didn't come to the meeting yesterday, ___?",
+      "correct": "did he",
+      "wrong": [
+        "didn't he"
+      ],
+      "hint": "Основная часть отрицательная. Каким должен быть хвостик?",
+      "explain": "Отрицание в основной части (didn't come) → положительный хвостик: did he.",
+      "tr": "Марк ведь не пришёл вчера на совещание?"
+    },
+    {
+      "id": "b2-questions-indirect-p03",
+      "type": "gap",
+      "q": "I'm next on the list for an interview, ___?",
+      "correct": "aren't I",
+      "wrong": [
+        "am not I",
+        "isn't it",
+        "don't I"
+      ],
+      "hint": "Особый случай: хвостик после I'm.",
+      "explain": "После I'm в хвостике используется aren't I. В am not I неверный порядок слов, а isn't it и don't I не соответствуют подлежащему и глаголу.",
+      "tr": "Я ведь следующий в списке на собеседование?"
+    },
+    {
+      "id": "b2-questions-indirect-p04",
+      "type": "gap",
+      "q": "Let's take a short break and finish the report after lunch, ___?",
+      "correct": "shall we",
+      "wrong": [
+        "don't we",
+        "do we",
+        "aren't we"
+      ],
+      "hint": "Предложение начинается с Let's. Какой хвостик для него принят?",
+      "explain": "После Let's … хвостик всегда shall we. Вспомогательных do или be в таком предложении нет.",
+      "tr": "Давай сделаем небольшой перерыв и закончим отчёт после обеда, хорошо?"
+    },
+    {
+      "id": "b2-questions-indirect-p05",
+      "type": "gap",
+      "q": "Close the window when you leave, ___? It's going to rain this afternoon.",
+      "correct": "will you",
+      "wrong": [
+        "do you",
+        "don't you"
+      ],
+      "hint": "Это просьба в повелительном наклонении.",
+      "explain": "После повелительного наклонения хвостик — will you (также can you, could you). do you и don't you здесь не употребляются.",
+      "tr": "Закрой окно, когда будешь уходить, ладно? Днём будет дождь."
+    },
+    {
+      "id": "b2-questions-indirect-p06",
+      "type": "gap",
+      "q": "Nobody phoned while I was out, ___?",
+      "correct": "did they",
+      "wrong": [
+        "didn't they"
+      ],
+      "hint": "Слово nobody делает предложение отрицательным по смыслу.",
+      "explain": "nobody — отрицательный смысл → положительный хвостик; nobody в хвостике заменяется на they: did they.",
+      "tr": "Никто ведь не звонил, пока меня не было?"
+    },
+    {
+      "id": "b2-questions-indirect-p07",
+      "type": "gap",
+      "q": "There's a pharmacy somewhere near the station, ___?",
+      "correct": "isn't there",
+      "wrong": [
+        "isn't it"
+      ],
+      "hint": "В хвостике повторяется не только глагол, но и подлежащее. Что здесь в роли подлежащего?",
+      "explain": "В конструкции there is хвостик повторяет there: isn't there. it здесь не подлежащее.",
+      "tr": "Где-то возле вокзала ведь есть аптека?"
+    },
+    {
+      "id": "b2-questions-indirect-p08",
+      "type": "gap",
+      "q": "Could you tell me where ___ from?",
+      "correct": "the airport bus leaves",
+      "wrong": [
+        "does the airport bus leave",
+        "leaves the airport bus"
+      ],
+      "hint": "После Could you tell me вопрос становится частью утверждения.",
+      "explain": "В косвенном вопросе — прямой порядок слов без does: where the airport bus leaves from. Порядок слов прямого вопроса здесь не используется.",
+      "tr": "Не подскажете, откуда отправляется автобус в аэропорт?"
+    },
+    {
+      "id": "b2-questions-indirect-p09",
+      "type": "gap",
+      "q": "Do you know what time ___ on Sundays?",
+      "correct": "the museum opens",
+      "wrong": [
+        "does the museum open",
+        "opens the museum",
+        "the museum does open"
+      ],
+      "hint": "Do you know уже задаёт вопрос. Каким должен быть порядок слов дальше?",
+      "explain": "Косвенный вопрос: подлежащее + сказуемое: what time the museum opens. Вспомогательный do уже есть в Do you know, во второй части он не нужен.",
+      "tr": "Вы не знаете, во сколько открывается музей по воскресеньям?"
+    },
+    {
+      "id": "b2-questions-indirect-p10",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Who did Emma call last night?",
+      "correct": "Emma called someone last night. Who was it?",
+      "wrong": [
+        "Someone called Emma last night. Who was it?"
+      ],
+      "hint": "В вопросе есть did. Кто совершил действие?",
+      "explain": "Who did Emma call? — Эмма позвонила кому-то, who — дополнение. Who called Emma? — кто-то позвонил Эмме, who — подлежащее.",
+      "tr": "Эмма вчера вечером кому-то звонила. Кому?"
+    },
+    {
+      "id": "b2-questions-indirect-p11",
+      "type": "gap",
+      "q": "Can you tell me ___ breakfast?",
+      "correct": "if the price includes",
+      "wrong": [
+        "does the price include",
+        "if does the price include"
+      ],
+      "hint": "В прямом вопросе нет вопросительного слова. Какое слово свяжет части и какой нужен порядок слов?",
+      "explain": "Вопрос «да/нет» в косвенной форме → if / whether + прямой порядок: if the price includes. does после if не ставится.",
+      "tr": "Вы не подскажете, входит ли завтрак в стоимость?"
+    },
+    {
+      "id": "b2-questions-indirect-p12",
+      "type": "gap",
+      "q": "Who ___ you about the new office rules?",
+      "correct": "told",
+      "wrong": [
+        "did tell"
+      ],
+      "hint": "Who здесь — тот, кто совершил действие, то есть подлежащее.",
+      "explain": "Вопрос к подлежащему → без did: Who told you? did нужен только в вопросе к дополнению: Who did you tell?",
+      "tr": "Кто рассказал тебе о новых правилах в офисе?"
+    },
+    {
+      "id": "b2-questions-indirect-p13",
+      "type": "gap",
+      "q": "A: I phoned someone at the bank this morning about my card.\nB: Oh? Who ___?",
+      "correct": "did you phone",
+      "wrong": [
+        "phoned you",
+        "you phoned"
+      ],
+      "hint": "Звонил A. Who здесь — подлежащее или дополнение?",
+      "explain": "A звонил кому-то → вопрос к дополнению: Who did you phone? Who phoned you? спрашивал бы, кто позвонил A, а без did порядок слов неверен.",
+      "tr": "— Сегодня утром я звонил кое-кому в банк по поводу своей карты. — Да? Кому?"
+    },
+    {
+      "id": "b2-questions-indirect-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верный вопрос",
+      "q": "",
+      "correct": "Who are you waiting for?",
+      "wrong": [
+        "For who are you waiting?",
+        "Who are you waiting?",
+        "Who you are waiting for?"
+      ],
+      "hint": "Глагол wait требует предлога. Где его обычно ставят в вопросе?",
+      "explain": "В разговорной речи предлог ставится в конце: Who are you waiting for? Сразу после for нужно было бы whom, без for вопрос неполный, а в прямом вопросе нужна инверсия.",
+      "tr": "Кого ты ждёшь?"
+    },
+    {
+      "id": "b2-questions-indirect-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Nothing went wrong during the test, did it?",
+      "wrong": [
+        "Nothing went wrong during the test, didn't it?",
+        "Nothing went wrong during the test, did they?"
+      ],
+      "hint": "Какой смысл у nothing и какое местоимение его заменяет?",
+      "explain": "nothing — отрицательный смысл → положительный хвостик; nothing заменяется местоимением it: did it.",
+      "tr": "Во время испытания ведь ничего не пошло не так?"
+    }
+  ],
+  "exam": [
+    {
+      "id": "b2-questions-indirect-e01",
+      "type": "gap",
+      "q": "You'd never been to Japan before this trip, ___?",
+      "correct": "had you",
+      "wrong": [
+        "hadn't you",
+        "would you",
+        "did you"
+      ],
+      "hint": "Что означает 'd в этом предложении? И есть ли в нём отрицание?",
+      "explain": "You'd been = You had been, а never делает смысл отрицательным → положительный хвостик с had: had you.",
+      "tr": "Ты ведь никогда не был в Японии до этой поездки?"
+    },
+    {
+      "id": "b2-questions-indirect-e02",
+      "type": "gap",
+      "q": "Helen hardly ever complains about her workload, ___?",
+      "correct": "does she",
+      "wrong": [
+        "doesn't she"
+      ],
+      "hint": "Какой смысл придаёт предложению hardly ever?",
+      "explain": "hardly ever — почти никогда, смысл отрицательный → положительный хвостик: does she.",
+      "tr": "Хелен ведь почти никогда не жалуется на нагрузку?"
+    },
+    {
+      "id": "b2-questions-indirect-e03",
+      "type": "gap",
+      "q": "I wonder ___ so upset after the meeting yesterday.",
+      "correct": "why Lisa was",
+      "wrong": [
+        "why was Lisa"
+      ],
+      "hint": "После I wonder идёт не прямой вопрос, а его косвенная форма.",
+      "explain": "После I wonder — прямой порядок слов: why Lisa was. Инверсия (was Lisa) нужна только в прямом вопросе.",
+      "tr": "Интересно, почему Лиза была так расстроена вчера после совещания."
+    },
+    {
+      "id": "b2-questions-indirect-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "Do you know whether the meeting has been moved to Thursday?",
+      "wrong": [
+        "Do you know has the meeting been moved to Thursday?",
+        "Do you know whether has the meeting been moved to Thursday?"
+      ],
+      "hint": "Прямой вопрос — «да/нет». Чем вводится косвенный вариант и какой в нём порядок слов?",
+      "explain": "Косвенный вопрос «да/нет» → whether / if + прямой порядок слов: whether the meeting has been moved.",
+      "tr": "Вы не знаете, перенесли ли совещание на четверг?"
+    },
+    {
+      "id": "b2-questions-indirect-e05",
+      "type": "gap",
+      "q": "What ___ to the old factory after it closed down?",
+      "correct": "happened",
+      "wrong": [
+        "did happen",
+        "was happened"
+      ],
+      "hint": "What здесь — подлежащее. И может ли этот глагол стоять в пассиве?",
+      "explain": "What — подлежащее → без did: What happened? happen — непереходный глагол и в пассиве не употребляется.",
+      "tr": "Что стало со старой фабрикой после того, как она закрылась?"
+    }
+  ],
+  "glossary": {
+    "bank": "банк",
+    "breakfast": "завтрак",
+    "card": "карта (банковская)",
+    "client": "клиент",
+    "closed": "(closed down) закрылась (прош. от close down)",
+    "complains": "жалуется",
+    "factory": "фабрика, завод",
+    "finish": "закончить",
+    "interview": "собеседование",
+    "invoice": "счёт (на оплату)",
+    "list": "список",
+    "lunch": "обед",
+    "oh": "о, да?",
+    "pharmacy": "аптека",
+    "phoned": "звонил (прош. от phone)",
+    "rain": "идти (о дожде)",
+    "report": "отчёт",
+    "rules": "правила",
+    "station": "вокзал, станция",
+    "Sundays": "(on Sundays) по воскресеньям",
+    "trip": "поездка",
+    "upset": "расстроенный",
+    "window": "окно",
+    "wonder": "(I wonder) интересно, хотел бы я знать",
+    "workload": "рабочая нагрузка"
+  }
+}

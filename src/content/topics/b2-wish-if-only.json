@@ -255,15 +255,15 @@
       "id": "b2-wish-if-only-p09",
       "type": "same",
       "task": "Выберите вариант с тем же смыслом",
-      "q": "If only I hadn't sold my flat.",
-      "correct": "I regret selling my flat.",
+      "q": "If only I hadn't sold my flat when prices were so low.",
+      "correct": "I regret selling my flat when prices were so low.",
       "wrong": [
-        "I'm glad I sold my flat.",
-        "I'd like to sell my flat."
+        "I'm glad I sold my flat when prices were so low.",
+        "I'm planning to sell my flat while prices are low."
       ],
       "hint": "If only + Past Perfect — что это выражает?",
       "explain": "If only + Past Perfect — сожаление о прошлом: квартира продана, и говорящий жалеет об этом.",
-      "tr": "Я жалею, что продал свою квартиру."
+      "tr": "Я жалею, что продал квартиру, когда цены были такими низкими."
     },
     {
       "id": "b2-wish-if-only-p10",
@@ -293,7 +293,7 @@
     {
       "id": "b2-wish-if-only-p12",
       "type": "gap",
-      "q": "I hope your interview ___ well tomorrow.",
+      "q": "Good luck with the new job — I hope your first day ___ well tomorrow.",
       "correct": "goes",
       "wrong": [
         "went",
@@ -301,7 +301,7 @@
       ],
       "hint": "После hope — реальная возможность. Какое время передаёт будущее?",
       "explain": "hope + Present Simple (или will) — реальная надежда на будущее: goes. Past Simple и would употребляются после wish, а не после hope.",
-      "tr": "Надеюсь, завтрашнее собеседование пройдёт хорошо."
+      "tr": "Удачи на новой работе — надеюсь, завтра твой первый день пройдёт хорошо."
     },
     {
       "id": "b2-wish-if-only-p13",
@@ -429,18 +429,19 @@
     "hotel": "отель, гостиница",
     "ideas": "идеи",
     "indoors": "в помещении, дома",
-    "interview": "собеседование",
     "kitchen": "кухня",
     "law": "право, юриспруденция",
     "lawyer": "юрист",
     "listen": "слушать, прислушиваться",
     "loud": "громко",
+    "luck": "(good luck) удачи",
     "manager": "руководитель, менеджер",
     "medicine": "медицина",
     "music": "музыка",
     "neighbours": "соседи",
     "number": "номер",
     "pain": "боль",
+    "prices": "цены",
     "raining": "(идёт) дождь (-ing от rain)",
     "reach": "дотянуться до",
     "refuse": "отказывать",

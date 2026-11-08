@@ -1,0 +1,470 @@
+{
+  "id": "b1-modals-ability-obligation",
+  "level": "B1",
+  "order": 6,
+  "title": "Ability and obligation: can, must, have to",
+  "titleRu": "Модальные: can, could, must, have to, should",
+  "summary": "Умение, обязанность, запрет и совет",
+  "source": "Murphy EGIU units 26–27, 31–34; British Council: Modal verbs",
+  "rules": [
+    {
+      "title": "can, could, be able to",
+      "body": "**can** — умение или возможность сейчас. **could** — общее умение в прошлом: I could swim when I was five.\n\nУ can нет других форм, поэтому в остальных временах — **be able to**: will be able to, have been able to, to be able to.\n\nПосле can / could глагол идёт без to.",
+      "examples": [
+        {
+          "en": "I can't hear you — the music is too loud.",
+          "ru": "Я тебя не слышу — музыка слишком громкая."
+        },
+        {
+          "en": "I haven't been able to sleep well recently.",
+          "ru": "В последнее время я не могу нормально спать."
+        },
+        {
+          "en": "Soon you'll be able to pay with your phone everywhere.",
+          "ru": "Скоро везде можно будет платить телефоном."
+        }
+      ]
+    },
+    {
+      "title": "could или was able to / managed to",
+      "body": "**could** — общая способность в прошлом (умел вообще).\n\nОдин конкретный успешный случай → **was / were able to** или **managed to** (удалось), а не could.\n\nВ отрицании **couldn't** подходит для обоих случаев.",
+      "examples": [
+        {
+          "en": "Daniel could play chess very well when he was ten.",
+          "ru": "В десять лет Дэниел очень хорошо играл в шахматы."
+        },
+        {
+          "en": "The road was blocked, but we managed to get home.",
+          "ru": "Дорога была перекрыта, но нам удалось добраться домой."
+        },
+        {
+          "en": "I tried, but I couldn't open the file.",
+          "ru": "Я пытался, но не смог открыть файл."
+        }
+      ]
+    },
+    {
+      "title": "must или have to",
+      "body": "**must** — говорящий сам считает это необходимым; также письменные правила и инструкции.\n\n**have to** — обязанность извне: правила, работа, обстоятельства.\n\nУ must нет других форм: **had to** (прошлое), **will have to** (будущее), **has had to** (Present Perfect). Вопрос и отрицание с have to — через do: **Do you have to…? I don't have to…**",
+      "examples": [
+        {
+          "en": "I must remember to call my mother — it's her birthday.",
+          "ru": "Надо не забыть позвонить маме — у неё день рождения."
+        },
+        {
+          "en": "In my job I have to wear a uniform.",
+          "ru": "На моей работе я обязан носить форму."
+        },
+        {
+          "en": "We had to wait two hours at the airport.",
+          "ru": "Нам пришлось ждать в аэропорту два часа."
+        }
+      ]
+    },
+    {
+      "title": "mustn't или don't have to",
+      "body": "- **mustn't** — нельзя, запрещено\n- **don't have to / needn't** — не обязательно, нет необходимости (но можно)",
+      "examples": [
+        {
+          "en": "You mustn't park here — it's a fire exit.",
+          "ru": "Здесь нельзя парковаться — это пожарный выход."
+        },
+        {
+          "en": "You don't have to reply to this email.",
+          "ru": "На это письмо можно не отвечать."
+        }
+      ]
+    },
+    {
+      "title": "should / shouldn't — совет",
+      "body": "**should / shouldn't + V** — совет или мнение, как правильно поступить. Мягче, чем must.\n\n- **I think you should…** / **I don't think you should…**\n- вопрос: **Should I…?** — без do",
+      "examples": [
+        {
+          "en": "You should try the fish here — it's excellent.",
+          "ru": "Попробуй здесь рыбу — она отличная."
+        },
+        {
+          "en": "I don't think you should lend him any more money.",
+          "ru": "По-моему, не стоит больше давать ему деньги в долг."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "can (сейчас) / could (умел раньше) / be able to (другие времена)",
+    "один успешный случай в прошлом → was able to / managed to",
+    "must → считаю нужным сам; have to → правило, обстоятельства",
+    "прошлое → had to; будущее → will have to (не will must)",
+    "mustn't = нельзя; don't have to = не обязательно",
+    "should / shouldn't + V → совет; Should I…? — без do"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I must to go now.",
+      "right": "I must go now.",
+      "note": "после must, can, should — глагол без to"
+    },
+    {
+      "wrong": "I will can help you tomorrow.",
+      "right": "I'll be able to help you tomorrow.",
+      "note": "у can нет будущего времени → will be able to"
+    },
+    {
+      "wrong": "Yesterday I must work late.",
+      "right": "Yesterday I had to work late.",
+      "note": "у must нет прошедшего времени → had to"
+    },
+    {
+      "wrong": "You mustn't come if you're busy.",
+      "right": "You don't have to come if you're busy.",
+      "note": "mustn't — запрет; «не обязательно» → don't have to"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Как сказать «Я смогу помочь завтра»?",
+      "back": "**I'll be able to help** tomorrow.\nНе will can."
+    },
+    {
+      "front": "«Мне удалось купить билеты на последний поезд» — could или managed to?",
+      "back": "**I managed to / was able to buy** tickets for the last train.\nОдин успешный случай → не could."
+    },
+    {
+      "front": "Чем отличается «You mustn't» от «You don't have to»?",
+      "back": "**mustn't** — нельзя, запрещено.\n**don't have to** — не обязательно."
+    },
+    {
+      "front": "Как сказать «Мне пришлось уйти пораньше»?",
+      "back": "**I had to leave early.**\nУ must нет прошедшего времени."
+    },
+    {
+      "front": "must или have to: «На работе я должен носить форму» (правило компании)?",
+      "back": "**have to** — обязанность извне.\nI have to wear a uniform at work.\nmust — когда считаю нужным сам."
+    },
+    {
+      "front": "Как дать совет: «Тебе стоит больше отдыхать»?",
+      "back": "**You should rest more.**\nshould + V без to."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-modals-ability-obligation-p01",
+      "type": "gap",
+      "q": "My grandmother ___ speak four languages when she was young.",
+      "correct": "could",
+      "wrong": [
+        "can",
+        "was able",
+        "could to"
+      ],
+      "hint": "Речь об умении в прошлом вообще, а не об одном случае. Проверьте и полноту формы.",
+      "explain": "Общая способность в прошлом → could + V без to. can — настоящее время, а was able требует to: was able to.",
+      "tr": "Моя бабушка в молодости говорила на четырёх языках."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p02",
+      "type": "gap",
+      "q": "The fire spread quickly, but everyone ___ get out of the building safely.",
+      "correct": "was able to",
+      "wrong": [
+        "could"
+      ],
+      "hint": "Это общая способность или одно конкретное достижение в определённой ситуации?",
+      "explain": "Один конкретный успешный случай в прошлом → was able to (или managed to). could в утвердительных предложениях — для общей способности.",
+      "tr": "Огонь быстро распространялся, но всем удалось благополучно выбраться из здания."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p03",
+      "type": "gap",
+      "q": "After this course, you ___ work as a qualified translator.",
+      "correct": "will be able to",
+      "wrong": [
+        "will can",
+        "can to",
+        "will able to"
+      ],
+      "hint": "Нужна форма будущего времени. Есть ли она у can?",
+      "explain": "У can нет формы будущего → will be able to. will can — частая ошибка; без be форма able to неполная.",
+      "tr": "После этого курса вы сможете работать дипломированным переводчиком."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p04",
+      "type": "gap",
+      "q": "The trains weren't running yesterday, so I ___ take a taxi to work.",
+      "correct": "had to",
+      "wrong": [
+        "must"
+      ],
+      "hint": "Обстоятельства вынудили вчера. Есть ли у must прошедшая форма?",
+      "explain": "Вынужденное действие в прошлом → had to. У must нет формы прошедшего времени.",
+      "tr": "Вчера поезда не ходили, поэтому мне пришлось ехать на работу на такси."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p05",
+      "type": "gap",
+      "q": "You ___ use your phone during the exam. If you do, you'll have to leave the room.",
+      "correct": "mustn't",
+      "wrong": [
+        "don't have to",
+        "needn't"
+      ],
+      "hint": "За нарушение выгоняют из аудитории. Это запрет или отсутствие необходимости?",
+      "explain": "Запрет → mustn't. don't have to и needn't значат «не обязательно», а здесь пользоваться телефоном нельзя.",
+      "tr": "Во время экзамена нельзя пользоваться телефоном. Если вы это сделаете, вам придётся покинуть аудиторию."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p06",
+      "type": "gap",
+      "q": "Tomorrow is a public holiday, so we ___ go to work.",
+      "correct": "don't have to",
+      "wrong": [
+        "mustn't",
+        "haven't to"
+      ],
+      "hint": "Идти на работу запрещено или просто не нужно?",
+      "explain": "Нет необходимости → don't have to. mustn't означало бы запрет; haven't to — неверная форма: отрицание с have to строится через don't.",
+      "tr": "Завтра государственный праздник, поэтому нам не нужно идти на работу."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p07",
+      "type": "gap",
+      "q": "The roads are icy tonight. I really think you ___ drive. It's too dangerous.",
+      "correct": "shouldn't",
+      "wrong": [
+        "don't have to"
+      ],
+      "hint": "Говорящий даёт совет и предупреждает об опасности.",
+      "explain": "Совет не делать что-то → shouldn't. don't have to значит «не обязательно» и не передаёт предупреждения об опасности.",
+      "tr": "Сегодня вечером на дорогах гололёд. Я правда считаю, что тебе не стоит садиться за руль. Это слишком опасно."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p08",
+      "type": "gap",
+      "q": "___ wear a suit at your new job, or can you dress casually?",
+      "correct": "Do you have to",
+      "wrong": [
+        "Have you to",
+        "Must you to",
+        "Are you have to"
+      ],
+      "hint": "Как строится вопрос с have to?",
+      "explain": "Вопрос с have to строится через do: Do you have to…? После must частица to не ставится, а are с have to не сочетается.",
+      "tr": "На новой работе тебе нужно носить костюм или можно одеваться неформально?"
+    },
+    {
+      "id": "b1-modals-ability-obligation-p09",
+      "type": "gap",
+      "q": "The interview was really difficult, but in the end she ___ get the job.",
+      "correct": "managed to",
+      "wrong": [
+        "could"
+      ],
+      "hint": "Одна конкретная ситуация, которая закончилась успехом с трудом.",
+      "explain": "Один конкретный успех, достигнутый с трудом, → managed to. could для одного успешного случая в прошлом не используется.",
+      "tr": "Собеседование было очень трудным, но в итоге ей удалось получить эту работу."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p10",
+      "type": "pick",
+      "task": "Выберите предложение, которое подходит по смыслу",
+      "q": "The museum is free on Sundays.",
+      "correct": "You don't have to pay to get in on Sundays.",
+      "wrong": [
+        "You mustn't pay to get in on Sundays.",
+        "You don't must pay to get in on Sundays."
+      ],
+      "hint": "Платить запрещено или просто не нужно?",
+      "explain": "Вход бесплатный → платить не нужно → don't have to. mustn't — запрет («нельзя платить»); don't must — неверная форма.",
+      "tr": "По воскресеньям за вход платить не нужно."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p11",
+      "type": "gap",
+      "q": "From next month, all staff ___ use the new booking system.",
+      "correct": "will have to",
+      "wrong": [
+        "will must"
+      ],
+      "hint": "Обязанность в будущем. Может ли must стоять после will?",
+      "explain": "Обязанность в будущем → will have to. Два модальных глагола подряд (will must) не употребляются.",
+      "tr": "Со следующего месяца всем сотрудникам придётся пользоваться новой системой бронирования."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p12",
+      "type": "gap",
+      "q": "I ___ sleep last night because of the noise from the street.",
+      "correct": "couldn't",
+      "wrong": [
+        "can't"
+      ],
+      "hint": "Обратите внимание на «last night».",
+      "explain": "Неспособность в прошлом → couldn't (в отрицании could подходит и для одного случая). can't — настоящее время.",
+      "tr": "Прошлой ночью я не мог уснуть из-за шума с улицы."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "It isn't necessary to bring your own laptop to the training.",
+      "correct": "You don't have to bring your own laptop to the training.",
+      "wrong": [
+        "You mustn't bring your own laptop to the training.",
+        "You shouldn't bring your own laptop to the training."
+      ],
+      "hint": "isn't necessary — это запрет, совет или отсутствие необходимости?",
+      "explain": "isn't necessary = нет необходимости → don't have to. mustn't — запрет, shouldn't — совет этого не делать.",
+      "tr": "Брать на тренинг свой ноутбук не обязательно."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p14",
+      "type": "gap",
+      "q": "Mark ___ work every weekend since he got his new position.",
+      "correct": "has had to",
+      "wrong": [
+        "has must",
+        "must",
+        "had to"
+      ],
+      "hint": "since — ситуация длится до сих пор. Какое это время и есть ли такая форма у must?",
+      "explain": "since + ситуация до сих пор → Present Perfect от have to: has had to. У must нет перфектной формы, а Past Simple had to с since не сочетается.",
+      "tr": "С тех пор как Марк получил новую должность, ему приходится работать каждые выходные."
+    },
+    {
+      "id": "b1-modals-ability-obligation-p15",
+      "type": "pick",
+      "task": "Выберите подходящий вопрос",
+      "q": "My back has been hurting for a week.",
+      "correct": "Should I see a doctor?",
+      "wrong": [
+        "Do I should see a doctor?",
+        "Should I to see a doctor?"
+      ],
+      "hint": "Человек спрашивает совета. Как строится вопрос с модальным глаголом?",
+      "explain": "Спрашиваем совета → Should I + V? should — модальный глагол: вопрос без do, после него глагол без to.",
+      "tr": "Мне стоит сходить к врачу?"
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-modals-ability-obligation-e01",
+      "type": "gap",
+      "q": "I'm afraid I ___ come to your wedding. I'll be abroad on business that week.",
+      "correct": "won't be able to",
+      "wrong": [
+        "won't can",
+        "can't to",
+        "don't able to"
+      ],
+      "hint": "Речь о будущем. Какую форму берут вместо can?",
+      "explain": "Невозможность в будущем → won't be able to. У can нет формы с will, после can't не ставится to, а able без be не употребляется.",
+      "tr": "Боюсь, я не смогу прийти на твою свадьбу. На той неделе я буду за границей в командировке."
+    },
+    {
+      "id": "b1-modals-ability-obligation-e02",
+      "type": "gap",
+      "q": "Although the sea was rough, the rescue team ___ reach the boat and save everyone on board.",
+      "correct": "managed to",
+      "wrong": [
+        "could"
+      ],
+      "hint": "Речь об одной трудной ситуации, которая закончилась успехом.",
+      "explain": "Конкретный успех в трудной ситуации → managed to. could описывает общую способность и для одного успешного случая не используется.",
+      "tr": "Хотя море было бурным, спасателям удалось добраться до лодки и спасти всех, кто был на борту."
+    },
+    {
+      "id": "b1-modals-ability-obligation-e03",
+      "type": "gap",
+      "q": "You ___ wear a suit in our office, but you ___ wear shorts. That's against the dress code.",
+      "correct": "don't have to / mustn't",
+      "wrong": [
+        "mustn't / don't have to",
+        "mustn't / mustn't"
+      ],
+      "hint": "Костюм — это необходимость? А шорты разрешены?",
+      "explain": "Костюм не обязателен → don't have to; шорты нарушают дресс-код, то есть запрещены → mustn't.",
+      "tr": "В нашем офисе не обязательно носить костюм, но в шортах приходить нельзя. Это против дресс-кода."
+    },
+    {
+      "id": "b1-modals-ability-obligation-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "When I lived in the village, I had to walk two kilometres to the nearest shop.",
+      "wrong": [
+        "When I lived in the village, I must walk two kilometres to the nearest shop.",
+        "When I lived in the village, I have to walk two kilometres to the nearest shop.",
+        "When I lived in the village, I've had to walk two kilometres to the nearest shop."
+      ],
+      "hint": "Обязанность в законченном прошлом.",
+      "explain": "Обязанность в прошлом → had to. У must нет прошедшей формы, have to — настоящее время, а Present Perfect не сочетается с законченным периодом (when I lived…).",
+      "tr": "Когда я жил в деревне, мне приходилось ходить два километра до ближайшего магазина."
+    },
+    {
+      "id": "b1-modals-ability-obligation-e05",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "We managed to finish the project on time.",
+      "correct": "Finishing the project on time was difficult, but we did it.",
+      "wrong": [
+        "We had to finish the project on time.",
+        "We could finish the project on time, but we didn't."
+      ],
+      "hint": "managed to — это обязанность, возможность или достигнутый результат?",
+      "explain": "managed to = удалось, несмотря на трудности: результат достигнут. had to — только обязанность, а could … but we didn't — возможность, которой не воспользовались.",
+      "tr": "Закончить проект вовремя было трудно, но мы справились."
+    }
+  ],
+  "glossary": {
+    "afraid": "(I'm afraid) боюсь, к сожалению",
+    "board": "(on board) на борту",
+    "boat": "лодка",
+    "booking": "бронирование",
+    "building": "здание",
+    "business": "(on business) по делам, в командировке",
+    "casually": "неформально, повседневно",
+    "code": "(dress code) дресс-код",
+    "course": "курс (обучения)",
+    "dangerous": "опасный",
+    "dress": "одеваться; (dress code) дресс-код",
+    "end": "(in the end) в итоге",
+    "exam": "экзамен",
+    "finish": "закончить",
+    "fire": "огонь, пожар",
+    "grandmother": "бабушка",
+    "holiday": "праздник; (public holiday) государственный праздник",
+    "hurting": "болеть (-ing от hurt)",
+    "icy": "обледенелый, скользкий",
+    "interview": "собеседование",
+    "languages": "языки",
+    "laptop": "ноутбук",
+    "managed": "(managed to) удалось (прош. от manage)",
+    "museum": "музей",
+    "necessary": "необходимый",
+    "noise": "шум",
+    "position": "должность",
+    "project": "проект",
+    "public": "общественный, государственный",
+    "qualified": "дипломированный, квалифицированный",
+    "quickly": "быстро",
+    "reach": "добраться до",
+    "rescue": "спасательный",
+    "roads": "дороги",
+    "rough": "бурный (о море)",
+    "safely": "благополучно, безопасно",
+    "save": "спасти",
+    "sea": "море",
+    "shorts": "шорты",
+    "spread": "распространялся (прош. от spread)",
+    "staff": "сотрудники, персонал",
+    "street": "улица",
+    "suit": "костюм",
+    "Sundays": "(on Sundays) по воскресеньям",
+    "system": "система",
+    "taxi": "такси",
+    "team": "команда; (rescue team) спасатели",
+    "training": "тренинг, обучение",
+    "trains": "поезда",
+    "translator": "переводчик",
+    "wedding": "свадьба"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "id": "b1-conditionals-zero-first",
+  "level": "B1",
+  "order": 7,
+  "title": "Zero and first conditional",
+  "titleRu": "Нулевой и первый тип условных",
+  "summary": "Общие истины и реальные условия в будущем: if, when, unless",
+  "source": "Murphy EGIU units 25, 38, 115; British Council: Zero, first and second conditionals",
+  "rules": [
+    {
+      "title": "Zero conditional — то, что верно всегда",
+      "body": "**If / When + Present Simple, Present Simple**.\n\nОбщие истины, законы природы, правила, привычные реакции. if здесь почти равно when (всякий раз, когда).",
+      "examples": [
+        {
+          "en": "If you mix blue and yellow, you get green.",
+          "ru": "Если смешать синий и жёлтый, получится зелёный."
+        },
+        {
+          "en": "When I drink coffee in the evening, I can't sleep.",
+          "ru": "Когда я пью кофе вечером, я не могу уснуть."
+        }
+      ]
+    },
+    {
+      "title": "First conditional — реальное условие в будущем",
+      "body": "**If + Present Simple, will / can / might + V** или повелительное наклонение.\n\nКонкретная ситуация в будущем, которая вполне может произойти.\n\n- **will** — уверенный результат\n- **might** — возможный результат\n- повелительное: **If you need anything, call me.**",
+      "examples": [
+        {
+          "en": "If it's sunny tomorrow, we'll go to the beach.",
+          "ru": "Если завтра будет солнечно, мы поедем на пляж."
+        },
+        {
+          "en": "If we don't hurry, we might miss the train.",
+          "ru": "Если не поторопимся, можем опоздать на поезд."
+        }
+      ]
+    },
+    {
+      "title": "Без will после if, when, until…",
+      "body": "После **if, when, unless, as soon as, until, before, after** о будущем используем **Present Simple**, а не will. will стоит только в главной части.\n\n**until** уже значит «пока не»: until he calls, а не *until he doesn't call*.",
+      "examples": [
+        {
+          "en": "I'll call you when I arrive.",
+          "ru": "Я позвоню тебе, когда приеду."
+        },
+        {
+          "en": "Let's wait here until the rain stops.",
+          "ru": "Давай подождём здесь, пока не кончится дождь."
+        }
+      ]
+    },
+    {
+      "title": "unless = if … not",
+      "body": "**unless** = если не. Отрицание уже внутри слова, поэтому второе not не нужно: **unless you hurry**, а не *unless you don't hurry*.",
+      "examples": [
+        {
+          "en": "Unless you hurry, you'll be late.",
+          "ru": "Если не поторопишься, опоздаешь."
+        },
+        {
+          "en": "I won't go unless you come with me.",
+          "ru": "Я не пойду, если ты не пойдёшь со мной."
+        }
+      ]
+    },
+    {
+      "title": "when или if",
+      "body": "- **when** — говорящий уверен, что это произойдёт\n- **if** — это может произойти, а может и нет",
+      "examples": [
+        {
+          "en": "When the film ends, we'll go for a pizza.",
+          "ru": "Когда фильм закончится, пойдём есть пиццу."
+        },
+        {
+          "en": "If the shop is still open, I'll buy some bread.",
+          "ru": "Если магазин ещё открыт, я куплю хлеба."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "If + Present, Present → верно всегда (zero)",
+    "If + Present, will / can / might / повелит. → реальное будущее (first)",
+    "if / when / as soon as / until / before / after + Present, без will",
+    "unless = if … not, без второго not",
+    "when → точно случится; if → может случиться",
+    "until he calls (не until he doesn't call)"
+  ],
+  "mistakes": [
+    {
+      "wrong": "If it will rain tomorrow, we'll stay at home.",
+      "right": "If it rains tomorrow, we'll stay at home.",
+      "note": "в части с if — Present Simple, даже о будущем"
+    },
+    {
+      "wrong": "I'll call you as soon as I will land.",
+      "right": "I'll call you as soon as I land.",
+      "note": "после when, as soon as, until, before, after — тоже без will"
+    },
+    {
+      "wrong": "Unless you don't book now, there won't be any seats.",
+      "right": "Unless you book now, there won't be any seats.",
+      "note": "unless уже значит if not — второе not не нужно"
+    },
+    {
+      "wrong": "Wait here until I don't come back.",
+      "right": "Wait here until I come back.",
+      "note": "until = «пока не»; отрицание, как в русском, не нужно"
+    }
+  ],
+  "cards": [
+    {
+      "front": "Какое время после if, если речь о будущем?",
+      "back": "**Present Simple**: If it rains, we'll stay in.\nНе If it will rain."
+    },
+    {
+      "front": "Как сказать «Позвоню, как только приеду»?",
+      "back": "**I'll call you as soon as I arrive.**\nПосле as soon as — Present Simple."
+    },
+    {
+      "front": "Что значит unless?",
+      "back": "**unless = if … not**.\nUnless you hurry, you'll miss the bus. = If you don't hurry…"
+    },
+    {
+      "front": "when или if: «… я закончу университет» / «… я найду работу»?",
+      "back": "**when** — точно будет: When I finish university…\n**if** — может быть: If I find a job…"
+    },
+    {
+      "front": "Чем zero conditional отличается от first?",
+      "back": "**Zero**: If + Present, Present — верно всегда: If you heat water, it boils.\n**First**: If + Present, will — конкретная ситуация в будущем."
+    },
+    {
+      "front": "Как сказать «Подожди, пока я не вернусь»?",
+      "back": "**Wait until I come back.**\nuntil уже значит «пока не» — отрицание не нужно."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-conditionals-zero-first-p01",
+      "type": "gap",
+      "q": "If you ___ ice, it turns into water.",
+      "correct": "heat",
+      "wrong": [
+        "will heat",
+        "heated"
+      ],
+      "hint": "Это закон природы, который верен всегда.",
+      "explain": "Zero conditional (общая истина): if + Present Simple → Present Simple. will после if не ставится, а прошедшее время не сочетается с turns.",
+      "tr": "Если нагреть лёд, он превращается в воду."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p02",
+      "type": "gap",
+      "q": "If it ___ tomorrow, we'll have the party indoors.",
+      "correct": "rains",
+      "wrong": [
+        "will rain"
+      ],
+      "hint": "Какое время ставится в части с if, даже если речь о будущем?",
+      "explain": "First conditional: в части с if — Present Simple, даже о будущем: If it rains… will — только в главной части (we'll have).",
+      "tr": "Если завтра будет дождь, мы устроим вечеринку в помещении."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p03",
+      "type": "gap",
+      "q": "If you leave now, you ___ the last train.",
+      "correct": "will catch",
+      "wrong": [
+        "catch"
+      ],
+      "hint": "Это конкретная ситуация в будущем, а не общее правило.",
+      "explain": "Реальное условие в будущем: if + Present → will + V в главной части: you'll catch. Present Simple в главной части описывал бы общую истину.",
+      "tr": "Если выйдешь сейчас, то успеешь на последний поезд."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p04",
+      "type": "gap",
+      "q": "I'll send you the documents as soon as I ___ back to the office.",
+      "correct": "get",
+      "wrong": [
+        "will get",
+        "am getting",
+        "got"
+      ],
+      "hint": "После «as soon as» действуют те же правила, что и после if.",
+      "explain": "После as soon as (как и после when, until, before, after) о будущем — Present Simple без will.",
+      "tr": "Я пришлю тебе документы, как только вернусь в офис."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p05",
+      "type": "gap",
+      "q": "You won't pass the exam ___ you start studying more seriously.",
+      "correct": "unless",
+      "wrong": [
+        "if",
+        "when"
+      ],
+      "hint": "Нужен союз со значением «если не».",
+      "explain": "unless = if … not: не сдашь, если не начнёшь заниматься серьёзнее. С if или when смысл стал бы абсурдным.",
+      "tr": "Ты не сдашь экзамен, если не начнёшь заниматься серьёзнее."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p06",
+      "type": "gap",
+      "q": "Unless you ___ your ticket online, you'll have to pay more at the station.",
+      "correct": "buy",
+      "wrong": [
+        "don't buy"
+      ],
+      "hint": "Подумайте, что уже содержится в слове unless.",
+      "explain": "unless уже содержит отрицание (= if not), второе not не нужно: Unless you buy…",
+      "tr": "Если не купишь билет онлайн, на вокзале придётся заплатить больше."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p07",
+      "type": "gap",
+      "q": "I'm going to the supermarket now. ___ I get back, I'll start cooking dinner.",
+      "correct": "When",
+      "wrong": [
+        "If"
+      ],
+      "hint": "Говорящий уверен, что вернётся?",
+      "explain": "Говорящий уверен, что вернётся, → when. if предполагало бы, что это может и не случиться.",
+      "tr": "Я сейчас иду в супермаркет. Когда вернусь, начну готовить ужин."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p08",
+      "type": "gap",
+      "q": "I'm not sure Anna is coming to the conference, but ___ you see her, could you give her my new number?",
+      "correct": "if",
+      "wrong": [
+        "when",
+        "unless"
+      ],
+      "hint": "Говорящий не знает, придёт ли Анна.",
+      "explain": "Неизвестно, будет ли Анна, → if (возможно). when используется, когда событие точно произойдёт, а unless (если не) не подходит по смыслу.",
+      "tr": "Я не уверен, что Анна приедет на конференцию, но если увидишь её, не мог бы ты передать ей мой новый номер?"
+    },
+    {
+      "id": "b1-conditionals-zero-first-p09",
+      "type": "gap",
+      "q": "If we ___ the early bus tomorrow, we ___ there before the meeting starts.",
+      "correct": "take / will get",
+      "wrong": [
+        "will take / will get",
+        "will take / get",
+        "took / will get"
+      ],
+      "hint": "В какой части предложения может стоять will?",
+      "explain": "First conditional: if + Present Simple (take), главная часть — will + V (will get). will в части с if не ставится, а took не сочетается с tomorrow и will get.",
+      "tr": "Если завтра поедем ранним автобусом, то доберёмся до начала совещания."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p10",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "We'll start the meeting when everyone arrives.",
+      "wrong": [
+        "We'll start the meeting when everyone will arrive.",
+        "We start the meeting when everyone will arrive."
+      ],
+      "hint": "Какое время ставится после when, если речь о будущем?",
+      "explain": "После when о будущем — Present Simple (arrives), will — только в главной части (We'll start).",
+      "tr": "Мы начнём совещание, когда все придут."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p11",
+      "type": "gap",
+      "q": "Please wait here until the doctor ___ you.",
+      "correct": "calls",
+      "wrong": [
+        "will call"
+      ],
+      "hint": "until — такой же союз времени, как when и before.",
+      "explain": "После until о будущем — Present Simple: until the doctor calls.",
+      "tr": "Пожалуйста, подождите здесь, пока врач вас не позовёт."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p12",
+      "type": "gap",
+      "q": "If you ___ any problems with the new software, contact the IT department.",
+      "correct": "have",
+      "wrong": [
+        "will have",
+        "had",
+        "has"
+      ],
+      "hint": "В главной части — повелительное наклонение. Что ставится в части с if?",
+      "explain": "if + Present Simple → повелительное наклонение в главной части. will после if не ставится; для you — have, а не has.",
+      "tr": "Если у вас возникнут проблемы с новой программой, обращайтесь в ИТ-отдел."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p13",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "Unless we leave now, we'll miss the beginning of the film.",
+      "correct": "If we don't leave now, we'll miss the beginning of the film.",
+      "wrong": [
+        "If we leave now, we'll miss the beginning of the film.",
+        "When we leave, we'll miss the beginning of the film."
+      ],
+      "hint": "unless = if + ?",
+      "explain": "unless = if … not: Unless we leave now = If we don't leave now.",
+      "tr": "Если мы не выйдем сейчас, то пропустим начало фильма."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p14",
+      "type": "gap",
+      "q": "Don't forget to switch off the lights before you ___ the office.",
+      "correct": "leave",
+      "wrong": [
+        "will leave"
+      ],
+      "hint": "before — союз времени. Нужен ли после него will?",
+      "explain": "После before о будущем — Present Simple: before you leave. will после союзов времени не ставится.",
+      "tr": "Не забудь выключить свет, прежде чем уйдёшь из офиса."
+    },
+    {
+      "id": "b1-conditionals-zero-first-p15",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If people don't get enough sleep, they find it hard to concentrate.",
+      "wrong": [
+        "If people won't get enough sleep, they find it hard to concentrate.",
+        "If people didn't get enough sleep, they find it hard to concentrate.",
+        "If people doesn't get enough sleep, they find it hard to concentrate."
+      ],
+      "hint": "Это общая закономерность. Какое время в обеих частях?",
+      "explain": "Zero conditional — общая закономерность: if + Present Simple → Present Simple. Для people — don't; will и прошедшее время здесь не подходят.",
+      "tr": "Если люди не высыпаются, им трудно сосредоточиться."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-conditionals-zero-first-e01",
+      "type": "gap",
+      "q": "We can't start the project until the client ___ the contract.",
+      "correct": "signs",
+      "wrong": [
+        "will sign",
+        "signed",
+        "doesn't sign"
+      ],
+      "hint": "Подумайте, что уже значит until. И какое время после него о будущем?",
+      "explain": "После until о будущем — Present Simple без will: until the client signs. until уже значит «пока не», поэтому отрицание, как в русском «пока не подпишет», не нужно.",
+      "tr": "Мы не можем начать проект, пока клиент не подпишет контракт."
+    },
+    {
+      "id": "b1-conditionals-zero-first-e02",
+      "type": "gap",
+      "q": "My flight to Tokyo is tomorrow morning. I'll send you a message ___ I land.",
+      "correct": "when",
+      "wrong": [
+        "if"
+      ],
+      "hint": "Посадка самолёта — ожидаемое событие или только возможное?",
+      "explain": "Посадка — ожидаемое событие → when. if звучало бы так, будто самолёт может и не приземлиться.",
+      "tr": "Мой рейс в Токио завтра утром. Я напишу тебе, когда приземлюсь."
+    },
+    {
+      "id": "b1-conditionals-zero-first-e03",
+      "type": "gap",
+      "q": "The bank won't give you a loan ___ you can prove that you have a regular income.",
+      "correct": "unless",
+      "wrong": [
+        "if",
+        "when"
+      ],
+      "hint": "Кредит дадут только при одном условии. Нужен союз «если не».",
+      "explain": "unless = if … not: банк не даст кредит, если вы не докажете доход. С if или when смысл стал бы обратным.",
+      "tr": "Банк не даст вам кредит, если вы не докажете, что у вас есть постоянный доход."
+    },
+    {
+      "id": "b1-conditionals-zero-first-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "If the weather is good tomorrow, we'll have lunch in the garden.",
+      "wrong": [
+        "If the weather will be good tomorrow, we'll have lunch in the garden.",
+        "If the weather is good tomorrow, we have lunch in the garden.",
+        "If the weather will be good tomorrow, we have lunch in the garden."
+      ],
+      "hint": "Это конкретная ситуация завтра. Где стоит will?",
+      "explain": "First conditional: if + Present Simple (is), главная часть — will + V (we'll have). will в части с if не ставится, а Present Simple в главной части не передаёт будущее.",
+      "tr": "Если завтра будет хорошая погода, мы пообедаем в саду."
+    },
+    {
+      "id": "b1-conditionals-zero-first-e05",
+      "type": "gap",
+      "q": "I ___ you know as soon as I ___ from the hospital.",
+      "correct": "will let / hear",
+      "wrong": [
+        "let / will hear",
+        "will let / will hear"
+      ],
+      "hint": "В какой части может стоять will, а в какой — нет?",
+      "explain": "Главная часть о будущем → will let; после as soon as — Present Simple без will: hear.",
+      "tr": "Я дам тебе знать, как только получу известия из больницы."
+    }
+  ],
+  "glossary": {
+    "bank": "банк",
+    "beginning": "начало",
+    "client": "клиент",
+    "conference": "конференция",
+    "contact": "обращаться, связываться",
+    "contract": "контракт",
+    "cooking": "готовить (-ing от cook)",
+    "department": "отдел",
+    "dinner": "ужин",
+    "doctor": "врач",
+    "documents": "документы",
+    "exam": "экзамен",
+    "film": "фильм",
+    "flight": "рейс, перелёт",
+    "hospital": "больница",
+    "ice": "лёд",
+    "income": "доход",
+    "indoors": "в помещении",
+    "IT": "ИТ (информационные технологии)",
+    "land": "приземлиться",
+    "lights": "свет, лампы",
+    "loan": "кредит, заём",
+    "message": "сообщение",
+    "miss": "пропустить",
+    "number": "номер",
+    "online": "онлайн",
+    "party": "вечеринка",
+    "pass": "сдать (экзамен)",
+    "problems": "проблемы",
+    "project": "проект",
+    "prove": "доказать",
+    "regular": "постоянный, регулярный",
+    "seriously": "серьёзно",
+    "software": "программа, программное обеспечение",
+    "starts": "начинается",
+    "station": "вокзал, станция",
+    "studying": "заниматься, учиться (-ing от study)",
+    "supermarket": "супермаркет",
+    "switch": "(switch off) выключить",
+    "ticket": "билет",
+    "turns": "(turns into) превращается в"
+  }
+}

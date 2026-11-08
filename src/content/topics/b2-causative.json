@@ -309,7 +309,7 @@
     {
       "id": "b2-causative-p13",
       "type": "gap",
-      "q": "Visitors ___ to take photos inside the museum.",
+      "q": "Visitors ___ to take photos inside the museum, so please put your cameras away.",
       "correct": "aren't allowed",
       "wrong": [
         "aren't let",
@@ -317,7 +317,7 @@
       ],
       "hint": "Нужен пассив со значением «не разрешается». У одного из глаголов такого пассива нет.",
       "explain": "let в значении «разрешать» не употребляется в пассиве → aren't allowed to. don't let — актив: «посетители не разрешают».",
-      "tr": "Посетителям не разрешается фотографировать внутри музея."
+      "tr": "Посетителям не разрешается фотографировать внутри музея, поэтому, пожалуйста, уберите фотоаппараты."
     },
     {
       "id": "b2-causative-p14",
@@ -422,6 +422,7 @@
     "bike": "велосипед",
     "boiler": "котёл (отопления)",
     "Brown": "Браун (фамилия)",
+    "cameras": "фотоаппараты",
     "cancel": "заблокировать, аннулировать",
     "cards": "карты",
     "confidentiality": "конфиденциальность; (confidentiality agreement) соглашение о неразглашении",

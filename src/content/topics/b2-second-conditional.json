@@ -250,7 +250,7 @@
     {
       "id": "b2-second-conditional-p09",
       "type": "gap",
-      "q": "What ___ if you lost your job tomorrow?",
+      "q": "What ___ if you lost your job tomorrow and couldn't find another one for a year?",
       "correct": "would you do",
       "wrong": [
         "will you do",
@@ -259,7 +259,7 @@
       ],
       "hint": "Ситуация воображаемая. Как строится вопрос в главной части?",
       "explain": "Вопрос во втором типе: What would you do if + Past Simple? will не сочетается с lost, а would you have done относится к прошлому (третий тип).",
-      "tr": "Что бы ты сделал, если бы завтра потерял работу?"
+      "tr": "Что бы ты сделал, если бы завтра потерял работу и не мог найти другую целый год?"
     },
     {
       "id": "b2-second-conditional-p10",

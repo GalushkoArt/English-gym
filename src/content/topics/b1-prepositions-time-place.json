@@ -1,0 +1,452 @@
+{
+  "id": "b1-prepositions-time-place",
+  "level": "B1",
+  "order": 14,
+  "title": "Prepositions of time and place: in, on, at",
+  "titleRu": "Предлоги времени и места: in, on, at",
+  "summary": "at seven, on Monday, in July; at work, on a bus, in a car",
+  "source": "Murphy EGIU units 119–126; British Council: Prepositions of time and place",
+  "rules": [
+    {
+      "title": "at / on / in — время",
+      "body": "- **at** + точное время и праздники: at 7 o'clock, at noon, **at night**, **at the weekend** (брит.), at Christmas, at the moment, at the end of the month\n- **on** + дни и даты: on Monday, on 5 May, on my birthday, on Christmas Day\n- **in** + более длинные периоды: in July, in 2019, in winter, in the 1990s, in the 21st century, **in the morning / afternoon / evening**\n\nСравните: in the morning, но **on** Monday morning — если назван день, берём on.",
+      "examples": [
+        {
+          "en": "The meeting starts at half past nine.",
+          "ru": "Совещание начинается в половине десятого."
+        },
+        {
+          "en": "I'm flying to Rome on Friday morning.",
+          "ru": "Я лечу в Рим в пятницу утром."
+        },
+        {
+          "en": "She was born in 1998.",
+          "ru": "Она родилась в 1998 году."
+        }
+      ]
+    },
+    {
+      "title": "Без предлога",
+      "body": "Перед **this, next, last, every** предлог не ставится:\n- next week, last Friday, this morning, every summer\n- также today, tomorrow, yesterday, tonight\n\n**in** + период в будущем = «через»: I'll be back **in** ten minutes.",
+      "examples": [
+        {
+          "en": "I'll call you next week.",
+          "ru": "Я позвоню тебе на следующей неделе."
+        },
+        {
+          "en": "We met last summer.",
+          "ru": "Мы познакомились прошлым летом."
+        },
+        {
+          "en": "The train leaves in five minutes.",
+          "ru": "Поезд отправляется через пять минут."
+        }
+      ]
+    },
+    {
+      "title": "on time / in time, by / until, for / during",
+      "body": "- **on time** — точно по расписанию: The train left on time.\n- **in time** (for / to) — вовремя, успев до какого-то момента: We got there in time for the start.\n- **by** — не позже (срок): Send it **by** Friday.\n- **until** (till) — вплоть до, действие или состояние длится: I'll wait **until** six.\n- **for** + сколько длится: for three hours, for a week\n- **during** + когда, во время чего: during the film, during the summer",
+      "examples": [
+        {
+          "en": "Please reply by Thursday.",
+          "ru": "Пожалуйста, ответьте не позднее четверга."
+        },
+        {
+          "en": "The shop is closed until Monday.",
+          "ru": "Магазин закрыт до понедельника."
+        },
+        {
+          "en": "He fell asleep during the lecture.",
+          "ru": "Он уснул во время лекции."
+        }
+      ]
+    },
+    {
+      "title": "at / on / in — место",
+      "body": "- **at** — точка, место события или деятельности: at the station, at the airport, at work, at home, at a party, at a concert, at the top / at the end of\n- **in** — внутри пространства: in a room, in London, in Spain, in the middle, in a photo\n- **on** — поверхность и линия: on the wall, on the floor, on the left, on the second floor, on the page\n- транспорт: **on** a bus / train / plane / bike, но **in** a car / taxi",
+      "examples": [
+        {
+          "en": "There's a lovely picture on the wall.",
+          "ru": "На стене висит красивая картина."
+        },
+        {
+          "en": "Our office is on the third floor.",
+          "ru": "Наш офис на третьем этаже."
+        },
+        {
+          "en": "We met at a party last year.",
+          "ru": "Мы познакомились на вечеринке в прошлом году."
+        }
+      ]
+    }
+  ],
+  "cheat": [
+    "at + время, night, the weekend, Christmas",
+    "on + день, дата: on Monday, on 3 May, on Friday evening",
+    "in + месяц, год, сезон, век, in the morning; next / last / every — без предлога",
+    "on time = по расписанию; in time = успеть к сроку",
+    "by = не позже; until = вплоть до; for + сколько; during + во время чего",
+    "at the station / at work; in a room / in a car; on the wall / on a bus"
+  ],
+  "mistakes": [
+    {
+      "wrong": "I'll see you on next Monday.",
+      "right": "I'll see you next Monday.",
+      "note": "перед next / last / this / every предлог не нужен"
+    },
+    {
+      "wrong": "My birthday is in 5 June.",
+      "right": "My birthday is on 5 June.",
+      "note": "с датами — on"
+    },
+    {
+      "wrong": "I have to finish the report until Friday.",
+      "right": "I have to finish the report by Friday.",
+      "note": "срок «не позже» — by; until — действие длится до момента"
+    },
+    {
+      "wrong": "I slept during eight hours.",
+      "right": "I slept for eight hours.",
+      "note": "сколько длится — for; during отвечает на вопрос «когда?»"
+    }
+  ],
+  "cards": [
+    {
+      "front": "at, on или in: Friday, July, 7 o'clock?",
+      "back": "**on** Friday, **in** July, **at** 7 o'clock."
+    },
+    {
+      "front": "Нужен ли предлог перед next week, last year, every day?",
+      "back": "**Нет**: I'll call you next week."
+    },
+    {
+      "front": "in the morning, но … Friday morning?",
+      "back": "**on** Friday morning: если назван день — on."
+    },
+    {
+      "front": "Чем отличается on time от in time?",
+      "back": "**on time** — точно по расписанию.\n**in time** — успеть до чего-то: We got there in time for the start."
+    },
+    {
+      "front": "by или until: «Пришлите отчёт до пятницы»?",
+      "back": "**by** Friday — не позже пятницы.\n**until** — действие длится до момента: I'll wait until six."
+    },
+    {
+      "front": "in или on: bus, car, train, taxi?",
+      "back": "**on** a bus / train / plane.\n**in** a car / taxi."
+    }
+  ],
+  "questions": [
+    {
+      "id": "b1-prepositions-time-place-p01",
+      "type": "gap",
+      "q": "The meeting starts ___ half past nine, so please don't be late.",
+      "correct": "at",
+      "wrong": [
+        "on",
+        "in"
+      ],
+      "hint": "Точное время по часам.",
+      "explain": "С точным временем — at: at half past nine, at 7 o'clock.",
+      "tr": "Совещание начинается в половине десятого, так что, пожалуйста, не опаздывайте."
+    },
+    {
+      "id": "b1-prepositions-time-place-p02",
+      "type": "gap",
+      "q": "My flight leaves ___ Friday morning, and I'll be back ___ the weekend.",
+      "correct": "on / at",
+      "wrong": [
+        "in / at",
+        "at / in",
+        "in / in"
+      ],
+      "hint": "В первой части назван день. Во второй — британский вариант для выходных.",
+      "explain": "Если назван день, даже вместе с morning, — on: on Friday morning. Выходные в британском английском — at the weekend.",
+      "tr": "Мой рейс в пятницу утром, а вернусь я на выходных."
+    },
+    {
+      "id": "b1-prepositions-time-place-p03",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "The company was founded in 1998, and its first shop opened on 3 May.",
+      "wrong": [
+        "The company was founded on 1998, and its first shop opened in 3 May.",
+        "The company was founded in 1998, and its first shop opened in 3 May.",
+        "The company was founded at 1998, and its first shop opened on 3 May."
+      ],
+      "hint": "Год — длинный период, а дата — конкретный день.",
+      "explain": "С годами — in: in 1998. С датами — on: on 3 May. at с годами не употребляется.",
+      "tr": "Компания была основана в 1998 году, а её первый магазин открылся 3 мая."
+    },
+    {
+      "id": "b1-prepositions-time-place-p04",
+      "type": "gap",
+      "q": "We usually visit my parents ___ Christmas and stay for a few days.",
+      "correct": "at",
+      "wrong": [
+        "in"
+      ],
+      "hint": "Какой предлог употребляется с праздниками, если не сказано слово Day?",
+      "explain": "С праздниками — at: at Christmas, at Easter. Конкретный день — on: on Christmas Day.",
+      "tr": "Обычно мы навещаем родителей на Рождество и остаёмся на несколько дней."
+    },
+    {
+      "id": "b1-prepositions-time-place-p05",
+      "type": "gap",
+      "q": "I'll call you ___ to discuss the details of the contract.",
+      "correct": "next week",
+      "wrong": [
+        "on next week",
+        "in next week",
+        "at next week"
+      ],
+      "hint": "Сравните с русским «на следующей неделе»: всегда ли предлог переводится?",
+      "explain": "Перед next, last, this, every предлог не ставится: next week, last Friday, every day.",
+      "tr": "Я позвоню тебе на следующей неделе, чтобы обсудить детали договора."
+    },
+    {
+      "id": "b1-prepositions-time-place-p06",
+      "type": "gap",
+      "q": "Trains in this country are famous for leaving exactly ___ — never a minute late.",
+      "correct": "on time",
+      "wrong": [
+        "in time"
+      ],
+      "hint": "Речь о точном соблюдении расписания.",
+      "explain": "on time = точно по расписанию, без опоздания. in time = успеть к какому-то моменту: in time for the meeting.",
+      "tr": "Поезда в этой стране славятся тем, что отправляются точно по расписанию — ни минутой позже."
+    },
+    {
+      "id": "b1-prepositions-time-place-p07",
+      "type": "gap",
+      "q": "We got to the cinema just ___ to buy some popcorn before the film started.",
+      "correct": "in time",
+      "wrong": [
+        "on time"
+      ],
+      "hint": "Речь о расписании или о том, чтобы успеть что-то сделать до начала?",
+      "explain": "in time = успеть до какого-то момента (before the film started). on time — точно по расписанию.",
+      "tr": "Мы пришли в кино как раз вовремя, чтобы купить попкорн до начала фильма."
+    },
+    {
+      "id": "b1-prepositions-time-place-p08",
+      "type": "gap",
+      "q": "Please send me the final version of the report ___ Thursday at the latest.",
+      "correct": "by",
+      "wrong": [
+        "until",
+        "till"
+      ],
+      "hint": "at the latest — «самое позднее». Это срок или длительность?",
+      "explain": "by = не позже (срок): by Thursday at the latest. until / till означают, что действие продолжается до этого момента.",
+      "tr": "Пожалуйста, пришлите мне окончательную версию отчёта не позднее четверга."
+    },
+    {
+      "id": "b1-prepositions-time-place-p09",
+      "type": "gap",
+      "q": "The shop will stay closed ___ the end of the month while the builders are working.",
+      "correct": "until",
+      "wrong": [
+        "by"
+      ],
+      "hint": "Магазин закрыт весь этот период или должен что-то сделать не позже даты?",
+      "explain": "until = вплоть до: состояние (stay closed) длится до конца месяца. by — крайний срок для однократного действия.",
+      "tr": "Магазин будет закрыт до конца месяца, пока работают строители."
+    },
+    {
+      "id": "b1-prepositions-time-place-p10",
+      "type": "gap",
+      "q": "Ivan fell asleep ___ the film and missed the ending.",
+      "correct": "during",
+      "wrong": [
+        "for",
+        "while"
+      ],
+      "hint": "Когда он уснул? После пропуска — существительное.",
+      "explain": "during + существительное = во время чего: during the film. for отвечает на вопрос «сколько?», а while ставится перед придаточным с глаголом (while we were watching).",
+      "tr": "Иван уснул во время фильма и пропустил концовку."
+    },
+    {
+      "id": "b1-prepositions-time-place-p11",
+      "type": "gap",
+      "q": "I've been waiting here ___ forty minutes, and the bus still hasn't come.",
+      "correct": "for",
+      "wrong": [
+        "during",
+        "since"
+      ],
+      "hint": "Сколько длится ожидание?",
+      "explain": "Длительность (сколько?) — for: for forty minutes. since — с какого момента (since ten o'clock), during — во время события.",
+      "tr": "Я жду здесь уже сорок минут, а автобуса всё нет."
+    },
+    {
+      "id": "b1-prepositions-time-place-p12",
+      "type": "gap",
+      "q": "Anna and I first met ___ a party three years ago.",
+      "correct": "at",
+      "wrong": [
+        "on",
+        "in"
+      ],
+      "hint": "Какой предлог употребляется с событиями: вечеринка, концерт, конференция?",
+      "explain": "С событиями — at: at a party, at a concert, at a conference. on a party — калька с русского «на вечеринке».",
+      "tr": "Мы с Анной познакомились на вечеринке три года назад."
+    },
+    {
+      "id": "b1-prepositions-time-place-p13",
+      "type": "gap",
+      "q": "Our office is ___ the third floor, opposite the lifts.",
+      "correct": "on",
+      "wrong": [
+        "at"
+      ],
+      "hint": "Этаж воспринимается как поверхность.",
+      "explain": "С этажами — on: on the third floor. at the third floor — ошибка.",
+      "tr": "Наш офис на третьем этаже, напротив лифтов."
+    },
+    {
+      "id": "b1-prepositions-time-place-p14",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I usually go to work on the train, but today I came in a taxi.",
+      "wrong": [
+        "I usually go to work in the train, but today I came on a taxi.",
+        "I usually go to work on the train, but today I came on a taxi.",
+        "I usually go to work in the train, but today I came in a taxi."
+      ],
+      "hint": "Общественный транспорт и небольшая машина, в которой сидишь, требуют разных предлогов.",
+      "explain": "Общественный транспорт — on: on the train, on the bus, on a plane. Машина и такси — in: in a car, in a taxi.",
+      "tr": "Обычно я езжу на работу на поезде, но сегодня приехал на такси."
+    },
+    {
+      "id": "b1-prepositions-time-place-p15",
+      "type": "same",
+      "task": "Выберите вариант с тем же смыслом",
+      "q": "You need to finish the essay by Monday.",
+      "correct": "Monday is the latest day you can finish the essay.",
+      "wrong": [
+        "You need to keep working on the essay until Monday.",
+        "You need to start the essay on Monday."
+      ],
+      "hint": "by — это срок или длительность?",
+      "explain": "by Monday = не позже понедельника: понедельник — крайний срок. until значило бы, что работа над эссе продолжается до понедельника.",
+      "tr": "Понедельник — крайний срок, когда можно закончить эссе."
+    }
+  ],
+  "exam": [
+    {
+      "id": "b1-prepositions-time-place-e01",
+      "type": "gap",
+      "q": "I usually go running ___ the morning, but ___ Sundays I sleep until ten.",
+      "correct": "in / on",
+      "wrong": [
+        "on / in",
+        "at / on",
+        "in / at"
+      ],
+      "hint": "Часть дня без названия дня — и дни недели.",
+      "explain": "Часть дня без указания дня — in: in the morning. Дни недели — on: on Sundays.",
+      "tr": "Обычно я бегаю по утрам, но по воскресеньям сплю до десяти."
+    },
+    {
+      "id": "b1-prepositions-time-place-e02",
+      "type": "gap",
+      "q": "The museum is ___ the end of this street, just past the bank.",
+      "correct": "at",
+      "wrong": [
+        "in",
+        "on"
+      ],
+      "hint": "Конец улицы — точка на линии.",
+      "explain": "at the end of the street — точка в конце улицы. in the end значит «в конце концов», а on the end здесь не употребляется.",
+      "tr": "Музей в конце этой улицы, сразу за банком."
+    },
+    {
+      "id": "b1-prepositions-time-place-e03",
+      "type": "gap",
+      "q": "The castle was built ___ the 13th century by a rich local family.",
+      "correct": "in",
+      "wrong": [
+        "on"
+      ],
+      "hint": "Век — длинный период времени.",
+      "explain": "С веками, годами и десятилетиями — in: in the 13th century, in the 1990s. on — только с днями и датами.",
+      "tr": "Замок был построен в XIII веке богатой местной семьёй."
+    },
+    {
+      "id": "b1-prepositions-time-place-e04",
+      "type": "pick",
+      "task": "Выберите грамматически верное предложение",
+      "q": "",
+      "correct": "I'll be in Berlin for two weeks, and I'll meet the clients during my stay.",
+      "wrong": [
+        "I'll be in Berlin during two weeks, and I'll meet the clients for my stay.",
+        "I'll be in Berlin for two weeks, and I'll meet the clients for my stay.",
+        "I'll be in Berlin during two weeks, and I'll meet the clients during my stay."
+      ],
+      "hint": "Один предлог отвечает на вопрос «как долго?», другой — «когда?».",
+      "explain": "for + длительность: for two weeks. during + период или событие, внутри которого что-то происходит: during my stay.",
+      "tr": "Я пробуду в Берлине две недели и во время поездки встречусь с клиентами."
+    },
+    {
+      "id": "b1-prepositions-time-place-e05",
+      "type": "gap",
+      "q": "There's a huge fountain ___ the middle of the square, opposite the town hall.",
+      "correct": "in",
+      "wrong": [
+        "on",
+        "at"
+      ],
+      "hint": "Середина площади — это точка или пространство?",
+      "explain": "in the middle of — внутри пространства: in the middle of the square, in the middle of the room. on the middle и at the middle не употребляются.",
+      "tr": "Посреди площади, напротив ратуши, стоит огромный фонтан."
+    }
+  ],
+  "glossary": {
+    "asleep": "спящий (fall asleep — уснуть)",
+    "bank": "банк",
+    "builders": "строители",
+    "castle": "замок",
+    "century": "век",
+    "Christmas": "Рождество",
+    "cinema": "кинотеатр",
+    "closed": "закрытый",
+    "contract": "договор",
+    "details": "детали, подробности",
+    "discuss": "обсудить",
+    "end": "конец",
+    "ending": "концовка",
+    "essay": "эссе, сочинение",
+    "exactly": "точно, ровно",
+    "famous": "знаменитый (famous for — славится)",
+    "film": "фильм",
+    "final": "окончательный",
+    "finish": "закончить",
+    "flight": "рейс, перелёт",
+    "floor": "этаж",
+    "fountain": "фонтан",
+    "hall": "зал (town hall — ратуша)",
+    "huge": "огромный",
+    "latest": "самый поздний (at the latest — не позднее)",
+    "leaves": "вылетает, отправляется",
+    "leaving": "отправляться (-ing от leave)",
+    "lifts": "лифты",
+    "local": "местный",
+    "middle": "середина",
+    "missed": "пропустил (прош. от miss)",
+    "museum": "музей",
+    "party": "вечеринка",
+    "popcorn": "попкорн",
+    "report": "отчёт",
+    "rich": "богатый",
+    "shop": "магазин",
+    "square": "площадь",
+    "starts": "начинается",
+    "street": "улица",
+    "Sundays": "воскресенья (по воскресеньям)",
+    "trains": "поезда",
+    "version": "версия"
+  }
+}
